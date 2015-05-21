@@ -42,7 +42,7 @@
           <xsl:otherwise>
             <warning>No information found for
               <xsl:value-of select="$overviewlang"/>. Please report to
-              divvun@samediggi.no.
+              feedback@divvun.no.
             </warning>
           </xsl:otherwise>
         </xsl:choose>

@@ -35,7 +35,7 @@ xmlns:jx="http://apache.org/cocoon/templates/jx/1.0">
             <forrest:properties contract="siteinfo-feedback">
                 <forrest:property name="siteinfo-feedback">
                 <feedback to="feedback"
-                    href="mailto:divvun@samediggi.no?subject=Feedback&#160;" >
+                    href="mailto:feedback@divvun.no?subject=Feedback&#160;" >
                 </feedback>
                 </forrest:property>
             </forrest:properties>

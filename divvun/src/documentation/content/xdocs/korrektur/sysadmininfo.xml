@@ -34,7 +34,7 @@
          <p>Further info can be found in the <a href="http://nsis.sourceforge.net/Docs/Chapter4.html#4.12">NSIS
          documentation</a>, and the source code for building the installer can be found <a
          href="https://victorio.uit.no/langtech/trunk/prooftools/installers/win/MSOffice/nsis/source/">here</a>. If you
-         have patches for bug fixes or feature enhancement, either <a href="mailto:divvun@samediggi.no">send it via
+         have patches for bug fixes or feature enhancement, either <a href="mailto:feedback@divvun.no">send it via
          e-mail</a> or attach it to a <a href="http://giellatekno.uit.no/bugzilla/">Bugzilla bug</a>.</p>
 
          <p>Microsoft has changed several important (to us) aspects of the registry on Windows 7, which has caused
