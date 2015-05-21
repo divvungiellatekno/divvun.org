@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing — qualification criterias</title>
+
+    <subtitle>The requirements for participating in the competition</subtitle>
+
+    <version>0.1</version>
+
+    <type>Internal draft</type>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Introduction</title>
+
+      <p>The qualification criterias set the minimum requirements for any
+      company to participate in the public tender. Failure of meeting these
+      requirements automatically disqualifies any company from the
+      competition.</p>
+
+      <p>The qualification criterias are decided upon by the project
+      board.</p>
+    </section>
+
+    <section>
+      <title>Qualification criterias</title>
+
+      <p>The following criterias will be used in selecting the vendor(s) for
+      contract work:</p>
+
+      <ol>
+        <li>Technical ability to handle the Sámi languages. This boils down to
+        the ability to work with Unicode data (older, 8-bit character sets for
+        Sámi are not supported by this project).</li>
+
+        <li>Technical capability of handling the linguistic phenomenas of the
+        Sámi languages:<ul>
+            <li>«free» compounding</li>
+
+            <li>complex inflectional and derivational morphology</li>
+
+            <li>complex morphophonology involving consonant gradation, vowel
+            simplification and stem alternations as part of inflection,
+            derivation and compounding</li>
+          </ul></li>
+
+        <li>Documented experience with the integration work specfied in the
+        main tender document</li>
+
+        <li>In the case of proofing tools for MS Office: documented existing
+        and forthgoing relationship with Microsoft, proofing tools
+        division.</li>
+      </ol>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

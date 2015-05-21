@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Fellesprosjekt for vedlikehald og sørsamiske verkty</title>
+
+    <subtitle>Eit framhald av Divvun-prosjektet</subtitle>
+
+    <abstract>Det har tidlegare vorte laga separate planar for sørsamiske
+    verkty, og for den vidare drifta og vedlikehaldet av dei eksisterande
+    verktya. Denne planen er ein revisjon av dei to tidlegare, der alt
+    arbeidet blir sett under eitt. Som eit arbeidsnamn på prosjektet kan ein
+    kalla det Divvun 2.</abstract>
+  </header>
+
+  <body>
+    <section>
+      <title>Mål og oppgåver</title>
+
+      <p>Å laga eit sett med sørsamiske stavekontrollar, med same oppsett som
+      for nord- og lulesamisk, og halda dei nord- og lulesamiske verktya ved like.
+      Dette betyr for den sørsamiske delen:</p>
+
+      <ul>
+        <li>stavekontroll for MS Office for Windows og Mac</li>
+        <li>stavekontroll for OpenOffice.org basert på open kjeldekode</li>
+        <li>stavekontroll for InDesign/InCopy</li>
+        <li>orddeling i MS Office, Win og Mac</li>
+        <li>orddeling for InDesign/InCopy</li>
+      </ul>
+
+      <p>Jf elles planane for det noverande Divvun-prosjektet, på <a
+      href="http://www.divvun.no/">www.divvun.no</a>. Når det gjeld å halda
+      ved like dei eksisterande verktya, krev det:</p>
+
+      <ul>
+        <li>språkleg vedlikehald av leksikon (ordlista) og andre lister</li>
+        <li>språklege oppdateringar av dei eksisterande verktya</li>
+        <li>halda kontakt med leverandørar av eksternt utvikla verkty,
+        forhandla fram nye versjonar når det trengst (t.d. på grunn av 
+        nye versjonar av vertsprogramma)</li>
+        <li>kontakt med brukarane</li>
+        <li>ansvar for tekniske problem i verktya som byggjer på open
+        kjeldekode</li>
+        <li>ansvar for å halda ved like og byggja ut det eksisterande
+        korpuset, inkl å samla inn meir tekst, sjå over rutinar for
+        kontinuerleg innsamling (avistekster, tekster frå Sámediggi, osb)</li>
+      </ul>
+
+      <p>Det bør òg høyra til oppgåvene å vurdera, planleggja og starta
+      prosjekt for nye språk, nye verkty og nye målgrupper.</p>
+      
+      <p>Eit slikt prosjektområde er arbeid med terminologi og fleirspråklege
+      leksika. Fleire prosjekt arbeider allereie med dette, og vi er avhengige
+      av å integrera dette i systemet vårt for å dra nytte av desse resultata
+      i praktisk språkarbeid:</p>
+      
+      <ul>
+      <li>maskinomsetjing, både frå nord- til lulesamisk, frå majoritetsspråka
+      til nordsamisk, og mellom andre språkpar</li>
+      <li>terminologisk arbeid, framfor alt innanfor risten.no, men også som
+      forarbeid til risten.no innafor ulike fagområde. Fleire miljø er opptekne av
+      dette (m.a. 
+      det samiske juristmiljøet og dei samiske språkkonsulentane), og for å kunne
+      ta i bruk terminologiane sine i integrerte applikasjonar treng dei støtte
+      av eit fungerande språkteknologisk miljø for nord- og lulesamisk</li>
+      </ul>
+
+      <p>Fungerande to- og fleirspråklege moderne samfunn kviler, og vil i 
+      framtida i langt større grad kvile på avanserte språkteknologiske 
+      løysingar. Skal alle dei ressursane som blir lagt ned i språkleg
+      revitalisering, språkopplæring og -utdanning for det samiske folket bli
+      brukt i praksis, trengst det språkteknologisk kompetanse og eit breitt
+      spekter språkteknologiske løysingar innafor ulike felt.</p>
+
+      <p>Alt dette arbeidet kan og bør integrerast med dei morfologiske automatane
+      våre for å kunne vera tilgjengelege i ulike appliasjonar til nytte for
+      ulike brukargrupper. Det å gjera dette arbeidet vil vera ein del av arbidet
+      til dei lule- og sørsamiske lingvistane.</p>
+
+      <p>
+      Dei lule- og nordsamiske lingvistane vil også ha ei rolle å spela i arbeidet
+      med det sørsamiske retteprogrammet. Det å ha berre ei lingviststilling, 
+      særleg der det inneber så mykje pionerarbeid som med eit sørsamisk
+      retteprogram, er ikkje bra, og det å ha andre lingvistar, med erfaring frå
+      liknande arbeid med nord- og lulesamisk, å stø seg til, vil vera ein stor
+      fordel.
+      </p>
+
+      <p>Ved å slå i hop dei to tidlegare, separate planane for drift av divvun 
+      og for sørsamiske
+      verkty, vil ein spara ein del ved å slå i hop relaterte
+      stillingar til heile, og det vil framleis vera rom for andre oppgåver.
+      Det vil derfor vera mogleg å leggja drifta av risten.no inn som ein
+      del av arbeidsoppgåvene til dette nye Divvun 2-prosjektet, og samtidig
+      koordinera og integrera relevant arbeid som ev. blir gjort ved
+      universitetet i Tromsø (t.d. omkring semiautomatisk bygging av elektroniske
+      ordbøker) med arbeidet med risten.no.</p>
+    </section>
+
+    <section>
+      <title>Planlagt arbeid for sørsamisk</title>
+
+      <section>
+        <title>Lingvistisk arbeid:</title>
+
+        <ul>
+          <li>Verbmorfologi (hovudmønsteret er klårt, og stammeklasse er merka
+          av i ordboka, det kan hende det er variasjon frå verb til verb når
+          det gjeld kor mykje omlyd verba har, dette må i tilfelle sjekkast
+          manuelt)</li>
+
+          <li>Adjektivmorfologi (her trengst det grunnforsking)</li>
+
+          <li>Samansetjing (her treng vi undersøkingar av forma til
+          forleddet)</li>
+
+          <li>Derivasjon (data frå referansegrammatikken må systematiserast og
+          komplementerast)</li>
+          
+          <li>Prinsipp for tilpassing og bøying av framandord til sørsamisk 
+          (dette er eit spørsmål der sørsamiske språknormerarar framleis ikkje
+          har gode svar, her trengst det altså innsats frå normative
+          instansar)</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Datalingvistisk arbeid:</title>
+
+        <ul>
+          <li>morfofonologi for verb (arbeidet er starta, og vi har i
+          prinsippet eit system for å kombinere verb- og omlydsklasse, men til
+          no har det ikkje fungert slik det er tenkt.)</li>
+
+          <li>morfofonologi for adjektiv (her har vi ikkje gjort noko; dette
+          er eit problematisk punkt, i og med at referansegrammatikken har så
+          lite hjelp å gje.)</li>
+
+          <li>morfofonologi for avleiing/samansetjing (tonivåmorfologien for
+          substantiva burde funka, men det er ikkje sjekka)</li>
+
+          <li>utviding av substantivmorfologien til også å gjelde evt.
+          nye bøyingsmønster for framandord, testing av eksisterande modellar</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Sørsamisk ordbok</title>
+
+        <p>Det vil vera ein føresetnad for eit slikt prosjekt å få
+        tilgang til Sydsamisk-norsk ordbok (Bergsland &amp; Mattsson Magga,
+        1993) i elektronisk form. — Det har no kome signal om at boka vil bli
+        tilgjengeleg, ev. etter nokre rettingar. Budsjettet og planane byggjer
+        på denne føresetnaden.</p>
+      </section>
+
+      <section>
+        <title>Korpusinnsamling</title>
+
+        <p>Det må setjast av ein del ressursar på å samla inn så mykje
+        sørsamisk tekst som det berre er mogleg. Det vil vera rimeleg å bruka
+        dei same kjeldene som det noverande Divvun-prosjektet bruker, dvs
+        Sametings-administrasjonen, kommunane, departementa,
+        Bibelforlaget/Kyrkja, forlag og forfattarar, og privatpersonar som
+        sjølve vil gje tekstane sine til prosjektet.</p>
+      </section>
+
+      <section>
+        <title>Stavekontrollspesifikt arbeid</title>
+
+        <p>Sjølv om prosjektet byggjer på arbeid som alt er gjort i
+        Divvun-prosjektet, trengst det tilpassingar til sørsamisk, og ein god
+        del testing og språkspesifikt arbeid. Dette arbeidet vil m.a.
+        omfatta:</p>
+
+        <ul>
+          <li>sjekka forslagsmekanismen og dei forslaga som blir gjeve</li>
+          <li>testa dei ulike stavekontrollane</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Rettskrivingsspørsmål for sørsamisk</title>
+
+        <p>Dette er eit ressurskrevjande punkt, i og med at sørsamisk til no i
+        liten grad har vorte eksplisitt normert. Eit normerande verkty som ein
+        stavekontroll krev at ein bestemmer seg for kva ein vil ha innanfor
+        den offisielle norma, om det no er stor eller liten variasjon. Derfor
+        er det viktig at dei normerande organa for sørsamisk både i Noreg og
+        i Sverige er aktivt med i prosjektet.</p>
+
+        <ul>
+          <li>Kva er rett, kva er gale?</li>
+
+          <li>korleis skal vi stava låneord frå norsk/svensk m.fl. i
+          sørsamisk, og tilsvarande for latinske og greske ("internasjonale")
+          låneord?</li>
+
+          <li>datoformat</li>
+
+          <li>forkortingar</li>
+
+          <li>bøying av framande namn</li>
+        </ul>
+      </section>
+    </section>
+
+    <section>
+      <title>Stillingar</title>
+
+      <p>Ut i frå dei oppgåvene som er nemnde over, får vi desse stillingane:</p>
+
+      <ul>
+        <li>sørsamisk lingvist — 100 %</li>
+        <li>lulesamisk lingvist — 50 %</li>
+        <li>nordsamisk lingvist — 50 %</li>
+        <li>programmerar/datalingvist — 100 %</li>
+        <li>teknisk sekretær — 100 %</li>
+        <li>prosjektleiar — 100 %</li>
+      </ul>
+
+      <p>Det er til dels høgt spesialisert kunnskap som krevst i alle stillingane,
+      og det har tatt (og tek) tid å byggja opp kompetansen og erfaringa som
+      trengst. For å halda på denne kompetansen, bør stillingane helst vera heile,
+      eller slike som kan kombinerast til heile stillingar.</p>
+
+      <p>For alle stillingane gjeld det at dei krev god forståing av
+      formalismane som blir nytta (pr. i dag er dei basert på verkty frå Xerox, 
+      sjølv om dette kan endra seg vil dei datalingvistiske prinsippa forbli
+      dei same), og ei grunnleggjande forståing av språkteknologi
+      og korrekturprogram. Ein del av denne kunnskapen vil det vera rimeleg at
+      ein tileignar seg i stillinga, men det bør krevjast avsluttande
+      høgskuleeksamen i relevante fag for kvar av stillingane, eller praksis
+      som dokumenterer tilsvarande kunnskap.</p>
+
+      <p>Alle stillingane krev òg nært samarbeid med Universitetet i Tromsø og
+      det språkteknologiske miljøet der.</p>
+    </section>
+
+    <section>
+      <title>Timeplan</title>
+
+      <p>Prosjektet bør gå over tre - 3 - år. Det har vist seg at det krevst
+      mykje tid både til å samla inn korpus, og til det reint lingvistiske
+      arbeidet. Og med tanke på at det trengst meir lingvistisk grunnarbeid
+      enn for både nord- og lulesamisk, vil det derfor ikkje vera realistisk
+      med eit prosjekt kortare enn tre år. Prosjektstart er rekna til januar
+      2008.</p>
+
+      <p>Tidsplanen vil vere avhengig av at vi får tak i ein kvalifisert
+      sørsamisk lingvist. Sjølv med ein kvalifisert lingvist trengst det ein
+      god del opplæring. Med ein prosjektperiode på tre år er det rom for slik
+      opplæring.</p>
+
+      <p>Prosjektstart er tenkt rett etter at det noverande Divvun-prosjektet
+      er avslutta, dvs 1. januar 2008, og varer til 31. desember 2010 med den
+      føreslåtte timeplanen.</p>
+    </section>
+
+    <section>
+      <title>Budsjett</title>
+
+      <p>Alle tal er i 1000 NOK</p>
+
+      <source>
+                         2008   2009   2010
+Løn                                   
+  Sørsamisk lingvist      600    600    600
+  Lulesamisk lingvist     300    300    300
+  Nordsamisk lingvist     300    300    300
+  Datalingvist/programm.  600    600    600
+  Teknisk sekretær        600    600    600
+  Prosjektleiar           600    600    600
+Eksterne tenester         100    100    100
+Reiser, utstyr, m.m.      150    150    150
+                                      
+Totalt                   3250   3250   3250
+Total prosjektsum                             9750
+</source>
+
+      <p>Posten "Eksterne tenester" er integrering mot MS Office for Windows og
+      Mac, utført av eit eksternt IT-firma, på same vis som i det noverande
+      Divvun-prosjektet.</p>
+    </section>
+  </body>
+</document>

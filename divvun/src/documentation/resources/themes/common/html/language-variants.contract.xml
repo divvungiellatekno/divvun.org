@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<forrest:contract 
+  xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
+  xmlns:forrest="http://apache.org/forrest/templates/1.0"
+  name="language-variants">
+  
+ 
+  <description>
+    <p>
+    <strong>language-variants</strong> will output a list of available language for a given
+    input document. The presently displayed language will be marked. Styling
+    is done using CSS.
+    </p>
+  </description>
+  <usage><![CDATA[<forrest:contract name="language-variants"
+  dataURI="cocoon://#{$getRequest}.languages.xml"/>]]></usage>
+  <forrest:template xmlns:forrest="http://apache.org/forrest/templates/1.0"
+    name="language-variants" inputFormat="xsl"
+    xmlns:i18n="http://apache.org/cocoon/i18n/2.1">
+    <xsl:stylesheet version="1.1" 
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+      <!--xsl:param name="URL" -->
+      <!--<xsl:param name="defaultVariables" select="'test.html'"/>-->
+      <!--<xsl:variable name="skin-img-dir" select="$defaultVariables/*/*[@name='skin-img-dir']/@value"/>-->
+
+      <xsl:template match="document">
+        <forrest:content>
+      debug string - 
+          <forrest:part>
+            <xsl:comment>+ |start language list +</xsl:comment>
+              <xsl:choose>
+                <xsl:when test="@localecount = 1">
+                  <xsl:comment>+ |no alternative languages +</xsl:comment>
+                </xsl:when>
+                <xsl:otherwise>
+                  <xsl:apply-templates select="locale" />
+                </xsl:otherwise>
+              </xsl:choose>
+            <xsl:comment>+ |end language list +</xsl:comment>
+          </forrest:part>
+        </forrest:content>
+      </xsl:template>
+
+      <xsl:template match="locale">
+        <xsl:choose>
+          <xsl:when test="@selected = 'true'">
+            <span class="selected">
+              <xsl:value-of select="text"/>
+            </span>
+          </xsl:when>
+          <xsl:otherwise>
+            <span>
+              <a>
+              <xsl:attribute name="href">
+                <xsl:value-of select="@url"/>
+              </xsl:attribute>
+              <xsl:attribute name="title">
+                <xsl:value-of select="title"/>
+              </xsl:attribute>
+              <xsl:value-of select="text"/></a>
+            </span>
+          </xsl:otherwise>
+        </xsl:choose>
+      </xsl:template>
+
+    </xsl:stylesheet>
+  </forrest:template>
+</forrest:contract>

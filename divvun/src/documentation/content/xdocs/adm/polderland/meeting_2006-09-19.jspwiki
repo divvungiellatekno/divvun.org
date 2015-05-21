@@ -1,0 +1,96 @@
+!!!Meeting with Polderland 19.9.2006
+
+Participants:
+* Peter Beinema
+* Marijke Koster
+* Jeroen Daanen
+* Thomas Omma
+* Sjur Moshagen
+* Tomi Pieski
+
+
+
+!!Agenda
+
+* status of the speller lexicon
+* speller lexicon continuation
+* hyphenation data
+* questions and answers
+
+
+
+!!Since last time
+
+Divvun has sent more data to PL, essentially the whole lexicon spelled out.
+
+PL has compiled the lexicon data. There now is a first binary lexicon of size 1.05 MB and it seems to work (full tests not completed yet).
+
+This does not mean lexicon work is complete yet:
+
+* __compounding / PLX encoding:__ all words have been translated to the simplest PLX input lines possible: the codes "W" and "I" have been added to signify that each word is of unspecified word class and can occur in isolation.
+For proper handling of compounds we suggest that compounding flags are added: the PLX-codes "L" can be used to signify that a word can be a valid left part of a compound, and "R" that it can be right part of a compound. A word labelled "NLIR" thus would be: a noun that can occur as left part of a compound, as word by itself, and as right part of a compound.
+
+* __spelling correction:__ we have no specific phonetic rules for north Sami yet. Phonetic rules are used in the speller in case of misspellings to determine which correct words are phonetically close to a misspelled word. Having phonetic rules increase the quality of the word suggestions.
+
+* __speller hyphenation:__ the words in the lexicon are not hyphenated. The speller works with unhyphenated words, but when words are hyphenated and the MS Word option for automatic hyphenation is on, words will be hyphenated at a valid hyphenation position; if the Word user enters a soft-hyphen at an invalid word position, the speller will flag the word and will suggest the correctly hyphenated word.
+
+* __locale settings:__ we have compiled the lexicon on a Linux system using the "default" locale settings for Dutch. This seems to work fine, but usually we compile using the locale settings that are applicable for future users. Do you know if there are specific Sami locale settings, or alternatively Norwegian / Swedish / Finnish locale settings?
+
+
+!!Hyphenation
+
+Present hyphenation markup in the Divvun output:
+
+{{{
+# = word boundary
+^ = possible hyphenation point
+- = hard hyphen
+}}}
+
+These are fine for Polderland
+
+!!Locales for Sámi
+
+!Microsoft
+
+See the codes Sjur sent earlier
+
+!Linux/Unix layer on Mac
+
+Anything in UTF-8 should work just fine, e.g. {{no_NO.UTF-8}}.
+
+Sámi-specific alternatives:
+{{{
+se_NO.UTF-8  - North Sámi in Norway
+se_SE.UTF-8  - North Sámi in Sweden
+se_FI.UTF-8  - North Sámi in Finland
+smj_NO.UTF-8  - Lule Sámi in Norway
+}}}
+Debian has support for North Sámi (se), possibly in other distributions as well.
+
+!Mac (non-Unix layer)
+
+Microsoft applications: see MS above
+
+Carbon/Cocoa applications: have full Unicode support by default, and one can specify North Sámi as the preferred language. Don't know whether more support is needed.
+
+!!Compounding
+
+Compounding is principally free for nominal stems. Nouns can compound in Nominative or Genitive singular, using either the full stem, or with a reduced
+final vowel. In addition GenPl is also used for compounding. Verbs do not compound, but can be derived to nominal stems, which then can compound.
+
+Some "stems" require a hyphen(?) when compounding, usually abbreviations (e.g.
+TV-stuolla).
+
+The compounding properties need to be specified in the data sent to Polderland,
+such as wether a given word can occur as left or right part of a compound, or
+only in isolation.
+
+!!!TODO
+* send correction/phonetic rules to Thomas (__Peter__)
+* review the processed data sets (__Thomas__)
+* make speller lexicon data for Polderland, with POS, compounding properties and
+  hyphenation (__Divvun__, mainly __Tomi__)
+* try to send a first binary to Sjur (__Peter__)
+* check whether hyphen is used when compounding abbreviations (TV-stuolla)
+  (__Thomas__)

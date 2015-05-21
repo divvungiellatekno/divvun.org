@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun-ohjelman käyttö MS Office 2011:lla</title>
+   </header>
+   <body>
+      <note>Kun kirjoitat saameksi <strong>Microsoft Office Macille</strong>
+      (kaikki versiot), käytä kieliä <strong>Katalaani</strong> (=pohjoissaame),
+      <strong>Baski</strong> (=julevsaame) tai <strong>Slovakia</strong>
+      (=eteläsaame). Syy on Microsoftin, ei meidän.</note>
+
+      <section>
+         <title>Divvun-ohjelman käyttäminen Macilla</title>
+         <p>Kun olet avannut MS Office-ohjelmiston sinun täytyy määritellä
+         Office-ohjelmistolle millä kielellä kirjoitat.</p>
+
+         <p>1. Valitse saamenkielinen teksti:</p>
+         <p><img alt="Valitse saamenkielinen teksti"
+         src="images/usage-select_text-msoff-2011-sme-nob.png" /></p>
+
+         <p>2. Valitse <strong>Työkalut &gt; Kieli…</strong> :</p>
+         <p><img alt="Valitse &quot;Työkalut &gt; Kieli…&quot;"
+         src="images/usage-tools_menu-msoff-2011-nob.png" /></p>
+
+         <p>3. Valitse kieleksi <strong>Katalaani</strong>
+         (<strong>Catalan</strong>) jos kirjoitat <strong>pohjoissaameksi</strong>,
+         <strong>Baski</strong> (<strong>Basque</strong>) jos kirjoitat
+         <strong>julevsaameksi</strong>, tai <strong>Slovaakki</strong>
+         (<strong>Slovak</strong>) jos kirjoitat
+         <strong>eteläsaameksi</strong> (<a href="#1">1</a>):</p>
+         <p><img alt="Valitse kieli"
+         src="images/usage-select_sme_speller_lang-msoff-2011-sme-nob.png"
+         /></p>
+
+         <p>4. Jos kirjoitat paljon saamen kielellä voit valita sen
+         oletuskieleksi osoittamalla <strong>Oletus</strong>-painiketta ja
+         tämän jälkeen valitse <strong>Kyllä</strong>:</p>
+         <p><img alt="Haluatko käyttää saamea oletuskielenä?"
+         src="images/usage-default_language-msoff-2011-sme-nob.png" /></p>
+
+		 <p>5. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua
+		 apuna oikoluvussa:</p>
+         <p><img alt="Saamenkielinen teksti jossa kirjoitusvirhe"
+         src="images/usage-misspelled_text-msoff-2011-sme-nob.png" /></p>
+
+         <p>6a. Voit korjata kirjoitusvirheen joko käyttämällä hiiren oikeaa
+         nappia:</p>
+
+         <p><img alt="Klikkaa hiiren oikean puoleista nappia"
+         src="images/usage-misspelled_text_corrected-msoff-2011-sme-nob.png"
+         /></p>
+
+         <p>6b. tai voit avata korjausikkunan:</p>
+
+         <p><img alt="Avaa korjausikkuna"
+         src="images/usage-open_speller_dialog-msoff-2011-nob.png" /></p>
+
+         <p><img alt="Kirjoitusvirheen korjausikkuna"
+         src="images/usage-speller_dialog-msoff-2011-nob.png" /></p>
+
+         <p>7. Saadaksesi selville mitä versiot oikolukuohjelmasta käytät,
+         voit kirjoittaa «<em>nuvviDspeller</em>», ja valitse hiiren oikealla
+         napilla:</p>
+
+         <p><img alt="Tarkista Divvun-versio"
+         src="images/usage-check_version-msoff-2011-sme-nob.png" /></p>
+
+         <!--<a name="1" id="1">1.</a>-->
+         <p>1. Microsoft ei vielä tue saamen kieltä Mac MS Office
+         toimisto-ohjelmistossa, vaikka tuki löytyy Windows MS Office
+         versiosta. Toivottavasti tulevat versiot sisältävät tuen saamen
+         kielelle. Siihen asti saamen kieli tulee määritellä toiseksi kieleksi.</p>
+      </section>
+   </body>
+</document>

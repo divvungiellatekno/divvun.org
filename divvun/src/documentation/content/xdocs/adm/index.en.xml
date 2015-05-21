@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Administration</title>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Meetings</title>
+
+      <section>
+        <title>Weekly meetings</title>
+
+        <p>We have a project meeting once a week, normally on Mondays at 10 AM
+        Norwegian time. The meeting includes also members from the Sámi
+        Disambiguation project - at least Trond Trosterud as the project lead
+        - to ease communication and coordination between the two projects.</p>
+
+        <p>The memos from the meetings are available <a
+        href="http://divvun.no/doc/admin/weekly/index.html">in the shared area</a>. The
+        memos are written in a <a class="fork"
+        href="http://forrest.apache.org/docs/wiki-sample.html"
+        title="A page describing the JSPWiki features supported by Forrest">Wiki
+        format</a> supported by <a class="fork"
+        href="http://forrest.apache.org/"
+        title="Forrest home page">Forrest</a>, allowing a near-text memo
+        combined with instant publishing. We also have written an internal
+        <a href="http://divvun.no/doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
+        howto</a>.</p>
+
+
+      <p>The meetings are held as Internet-based video conferences using <a
+      class="fork" href="http://www.apple.com/ichat/"
+      title="Home page for iChat">iChat</a> (included with MacOS X, and allows
+      4-way video-conferencing and 10-way audio chats; most modern
+      Macs have built-in web cameras). Meeting
+      memos are taken collaboratively using <a class="fork"
+      href="http://www.codingmonkeys.de/subethaedit/"
+      title="Home page for SubEthaEdit">SubEthaEdit</a> (version 2.2 is
+      free, but SubEthaEdit is worth paying for). Thus, setting up a meeting is
+      a breeze, and does not need to involve any extra costs beyond the
+      computers.</p>
+
+      </section>
+
+      <section>
+        <title>Other meetings</title>
+
+        <p>There will be gatherings and workshops from time to time. No exact
+        timetable or frequency of such meetings are defined, they will be held
+        according to need.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Reports</title>
+
+      <section>
+        <title>Monthly reports</title>
+
+        <p>The project manager will make a summary report for the head of the
+        language section at the Sámi Parliament each month. The reports are
+        available in a <a href="reports/monthoverview.html">separate
+        section</a> on these pages. The reports are written in Norwegian.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>the 10<sup>th</sup> each month</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Half-yearly reports</title>
+
+        <p>The steering committee is meeting every half a year, and a summary
+        report of the project status will be made by the project manager well
+        in advance of each meeting. The reports will be available here as they
+        are made.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>3 weeks ahead of the meeting</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Yearly reports</title>
+
+        <p>The financing bodies want reports about the progress of the project
+        and its use of the money. The <strong>deadlines</strong> are:</p>
+
+        <dl>
+          <dt>NordPlus Sprog:</dt>
+
+          <dd>February 15.</dd>
+
+          <dt>Norwegian ministeries:</dt>
+
+          <dd>March 15.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Other reports</title>
+
+        <p>The reports made in preparation for this project will be available
+        as links soon. The reports are:</p>
+
+        <ul>
+          <li>The initial report, with a budget of 19,2 mill. NOK</li>
+
+          <li>A revised report with a reduced budget of 11,3 mill. NOK</li>
+        </ul>
+
+        <fixme author="SNM">Add the reports and their links here.</fixme>
+      </section>
+    </section>
+
+    <section>
+      <title>Bugdet</title>
+
+      <p>Some info about the budget here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+    </section>
+
+    <section>
+      <title>Project plan and schedule</title>
+
+      <p>Some info about the plans and schedules here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+
+    </section>
+
+    <section>
+      <title>Outsourcing</title>
+
+      <p>Parts of the project will be outsourced. More specifically, integration
+      with MS Office (Mac/Win) and InDesign will be done by external companies
+      after a public round of tender according to EU/EEC rules. There will be
+      some supporting documents:</p>
+
+      <ul>
+        <li><a href="outsourcing/tech-spec.html">Technical specification</a>
+            for the deliveries</li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Last modified: $Date$,
+       by $Author$</p>
+
+  </body>
+</document>

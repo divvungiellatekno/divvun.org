@@ -1,0 +1,14 @@
+<!-- Typical invocation:
+  <!ENTITY % symbols-project
+      PUBLIC "-//Apache Forrest//ENTITIES Symbols Project v1.0//EN"
+      "symbols-project-v10.ent">
+  %symbols-project;
+-->
+<!-- Default entity for font-config file.
+     The user may specify the absolute path to the pdf config file here
+     (ie in the copy in the project resources folder) if needed. -->
+<!ENTITY pdf-config-file "/Users/sd/trunk/xtdoc/sd/src/documentation/resources/fonts/config.xml">
+
+<!ENTITY myp "My Project Name">
+<!ENTITY myp-s "<strong>My Project Name</strong>">
+<!ENTITY myp-t "My Project Name&trade;">

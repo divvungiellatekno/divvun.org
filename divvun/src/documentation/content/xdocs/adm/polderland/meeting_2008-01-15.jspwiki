@@ -1,0 +1,94 @@
+!!!Meeting with Polderland 15.1.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+!!!Since last time
+
+!!Polderland
+
+* bugs examined, bug 607 fixed, cmd line spellers dropped
+* working on Indesign Speller + custom dictionary
+
+Next drops:
+
+!!Divvun
+
+* installed and tested the InDesign speller
+
+!InDesign Questions
+
+* why is the suggestion list restricted to 8 suggestions? For other languages the list can be much longer (not that it is always the best option, but sometimes it can be useful)
+** PB: default setting: Microsoft maximum. Can be changed. - ok, I think it is worth trying to change it to 20 or so, to see how it influences the speed and the ability to provide relevant suggestions.
+*** PB: will re-drop today with limit set to 20
+* found a case of suggesting and flagging the same string in InDesign as well: "omd." (North Sámi)
+** PB: will check if repro in Word too (should be), then fix
+
+* Follow-up: can the command-line speller be made such that the suggestion limit (ie the limit on how many suggestions are provided) be parametrised? That is, can it be provided as a parameter on the command line? This way we can use the same binary to test both the InDesign and MS behaviour.
+** PB: well.. it is a compile-time constant used in many places, so: no ... BUT: we can set the constant to a high number and only print the first N (N is parameter) suggestions, so: yes. BUT: the higher the number, the slower the speller, though. 20 OK? Yes. And we don't use the command line speller for speed testing anyway:)
+
+!!Bug status
+
+!Solved/cancelled
+||Div ||Pld ||Description
+| 607 | xxx | acro-compounds without hyphen - suggestion rejected
+
+!To be solved by Divvun
+||Div ||Pld ||Description
+| 564 | xxx | Win installer asking for non-existing disk
+
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 614 | xxx | Rinta-aho not accepted but suggested. PB: lexcion contains three hyphens, speller doesn't know how to interpret that
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking. Example:
+
+{{{
+ABCD- is in lexicon
+ABCE- is presented to the speller
+      speller fails to recognise ABCE-
+      speller then tries to recognise ABCE and fails again
+      speller will then generate suggestions for ABCE, not ABCE-
+}}}
+
+It is a problem in the MS interface (API): all suggestions must match same series of characters in the input. It can be solved by removing words ending in hyphen from lexicon, or by flagging them 'X' (do not suggest).
+
+Dutch example:
+{{{
+extra-galactisch:
+extra- BO
+galactisch OEI
+extra BOEI
+}}}
+
+In Sámi, the "extra-" case has a different stem/form than "extra" alone, and this stem can only be used in compounds. It thus requires the hyphen as part of its lexical entry.
+
+The bug won't be fixed now, and needs to be documented in the user documentation.
+
+!!Priority list
+
+# (01-15) re-drop spellers for Word + fix for 607
+# (01-15) re-drop spellers for Indesign + 607 fix + suggestion list length set to 20
+# (01-15) fix cosmetic hyphenation bug in InDesign (Preferences>Dictionary displays "HyphenatorUS" when it should say "Polderland" or something like that
+# (ASAP) indesign speller custom dictionary solution
+# indesign proofing tools for Windows
+# hyphenator bug fixes: known ones fixed, wait for hyphenator test bench results
+
+
+!!!Schedule
+
+See above.
+
+!!!Next meeting
+
+Next week (22.1.) at 09.30 Dutch/Norwegian time.

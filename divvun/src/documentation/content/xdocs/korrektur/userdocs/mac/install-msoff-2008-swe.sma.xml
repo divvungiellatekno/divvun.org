@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Guktie sijjiedehtedh jih utnedh programmem MacOS X:sne</title>
+   </header>
+   <body>
+      <section>
+         <title>Divvunem veedtjedh</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Veedtjh
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> jallh dænghkodh CD Saemiedigkeste, tel: +47 78 48
+         42 22.</p>
+      </section>
+      <section>
+         <title>Sijjiedehtedh</title>
+         <note>Jis edtjh orrestehtedh programmem voestes versjovneste mubpie versjovnese, dellie tjoeverh vaeltedh dam
+         båeries versjovnem destie, aarebi dam orre mubpie versjovnem bïejh.</note>
+         <p>Jis Divvun-programmem edtjh sijjiedehtedh maahta programmem daestie veedtjedh <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jallh
+         maahtah CD:ste sijjiedehtedh.</p>
+      </section>
+      <section>
+         <title>Sijjiedehteme MacOS X:sne</title>
+         <p>1. Gosse veedtjeme, dellie klaase rïhpese tjaelemebuertesne. Seamma klaase rïhpese aaj gosse CD lea
+         gaervies. Daam vïskes borhtjem guektien aejkien diedtieh(sijjiedehtemepaahka):</p>
+         <p><img alt="Dubbelklicka på installationspaketet"
+         src="images/installation-dl_finished-msoff-2008-nob.png" /></p>
+         <p>2. Diedtieh<strong>Fortsätt</strong>guktie dellie dïhte programme aalka sijjiedehtedh</p>
+         <p><img alt="Bild: " src="images/installation-starting-swe.png" /></p>
+         <p>3. Jis ih leah jïjtje dïhte reerijinie, dellie dïhte guhte lea reerije tjoevere sijjiedehtemem
+         dååhkesjehtedh:</p>
+         <p><img alt="Installationen måste godkännas av en administratör"
+         src="images/installation-adminpw-swe.png" /></p>
+         <p>4. Jis leah joe sijjiedahteme, dellie dov daelie Divvun-dïrregh dov daatovrisnie!</p>
+         <p><img alt="Installationen är klar" src="images/installation-done-swe.png" /></p>
+      </section>
+   </body>
+</document>

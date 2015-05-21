@@ -1,0 +1,74 @@
+!!!Meeting with Polderland 5.6.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* currently looking into bug with test system with/without user dictionary
+** still not completed yet
+* Adobe: developing for CS3 - work continues.
+** Both Windows and Mac version compile
+** InDesign CS3 debug installed
+** Solving configuration issues, expect to be able to *really* compile this week
+   (and then encounter the real bugs)
+* testing Divvun installer for Mac: succeeded for Win + Mac OS 10.3/10.4
+* __ŋ__ and __ñ__ exist, but __ń__ must be added - try to complete this week
+* bug 402: tokenization issue, buried deep in code, fix available before final
+  version
+* bug 409: not repro
+
+
+
+Test string is: {{nuvviD}}, even {{nuvviDpeople}}
+
+!Divvun:
+
+* the beta was released - a big success if the feedback so far is any indication
+* some issues discovered after the release, but that was expected. Nothing
+  really serious, but there are installation problems on some configurations; we
+  are still investigating it
+* CS3 seems to be installed, or is on the way to being installed in at least the
+  biggest printing houses, but I still need to check some of the other
+  publishers
+
+
+!!Issue with ń
+
+__ŋ__ vs __ñ__ and __ń__ in {{smj}}. Example: ''maŋŋel'' (correct) vs the common misspellings ''maññel / mańńel''.
+
+* maññel - ok, the whole word is underlined, and corrected to ''maŋŋel''
+* mańńel - ń is not recognised as part of the word, only ''el'' is underlined - ń is Hex 0144, dec. 324.
+
+
+!!Next meeting
+
+Next week (12.6) at the usual time.
+
+!!!TODO:
+* check inconsistent speller behaviour depending on the existence of userdict or
+  not __PLD__
+* __PLD__ continue to create hyphenator for Adobe InDesign CS3
+* __PLD__ try to find proper compiler version for Adobe Indesign CS2. Looks bad.
+** old version does not work, user group + Adobe confirms it no longer sold
+** check with Sámi publishing houses whether support for CS2 is still needed
+   (__Divvun__)
+*** partially done, needs more checking
+* __PLD__ send quotation for linux version mklex / PSC speller / 
+  test program (+ sources) / interface description
+** have reminded mkt+sales, will do again
+* include ń as character in words (__PLD__), send updated binaries

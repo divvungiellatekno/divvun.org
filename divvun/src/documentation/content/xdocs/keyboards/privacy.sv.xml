@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://förrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sv">
+    <header>
+        <title>Divvun - tangentbord</title>
+    </header>
+    <body>
+        <p>Divvuns tangentbord samlar inte in någon text.</p>
+    </body>
+</document>

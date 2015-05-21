@@ -1,0 +1,69 @@
+!!!Meeting with Polderland 26.5.2009
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Bug status
+* Priority list
+* Next meeting
+
+!!!Since last time
+
+!!Polderland
+* windows Office proofing tools ready, except for installer
+* NSIS installer solution alpha sent
+** waiting for comments and installation texts
+* InDesign CS4: have SDKs for MacIntosh and Windows
+** working on both versions
+*** number of API changes from CS3, unfortunately not upwards compatible:
+*** changes in paths+directories, changes in function parameters.
+*** But will be finished fairly soon, I guess.
+
+!!Divvun
+* M&S - waiting for a response from Polderland
+* South Sámi offer: actually found the letters from Polderland regaring how you
+  treat your employees and pay your taxes - last Friday! The papers are ok, I
+  checked with our expert on public tenders today. Will prepare and sign the
+  contract ASAP
+* NSIS installer received, unfortunately no time to look at it yet
+* work is progressing on South Sámi, we're compiled our first speller, not yet
+  tested. The main point is only to motivate our linguists - see the result of
+  the work so far (and also display all errors and all the remaining work;)
+
+!!!Bug status
+
+!!Solved/cancelled
+
+||Div ||Pld ||Description
+| 603 | xxx | suffix is accepted in the middle of a word: as per design
+| 613 | xxx | speller does not accept 'Ga' tagged word as 2nd part
+| 679 | xxx | Discretionary/soft hyphen not respected - repaired, repaired code to be dropped
+
+!!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
+| 670 | xxx | __REGRESSION:__ hard hyphen replaced with soft, see [latest test results|http://www.divvun.no/doc/proof/hyph/testing/regression-pl-forrest-smj-20090105.html] - since this was fixed earlier, and the hyphenation binary has not changed since then, we should investigate this first to see if we produce illegal PLX entries.
+
+!!Under investigation by Polderland
+||Div ||Pld ||Description
+| 581 | xxx | consonant doubling
+| 595 | xxx | problem with prefix containing hyphens
+| 670 | xxx | Hard hyphen replaced by soft hyphen. Regression? Check for v. 1.1
+
+!!!Priority list
+
+# installers for InDesign (CS3 Mac + Win) and scripts to build them, lib files
+# CS4 debug SDK version => CS4 version
+# nullsoft installer
+# South Sami Windows components
+
+!!!Next meeting
+
+Next meeting (Tue 2.6.) at 10.00 Dutch/Norwegian time.

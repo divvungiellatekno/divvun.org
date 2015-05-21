@@ -1,0 +1,85 @@
+!!!Innleiing
+
+Divvun-prosjektet er no inne i sit andre år med sørsamisk. Målet for prosjektet er å laga ein stavekontroll og ein orddelar, dvs eit verkty som automatisk kan oppdaga dei fleste skrivefeila (men ikkje alle), og eit anna verkty som automatisk kan gje korrekt orddeling i dei aller fleste tilfella.
+
+For å få gode verkty som folk opplever at dei har nytte av, er det tre vilkår som må oppfyllast:
+
+* vi må vita kva som skal vera rett og feil i ortografien
+* vi må ha ein korrekt modell av grammatikken i språket
+* vi må ha nok ord, slik at ikkje stavekontrollen gjev raudstrek på riktige ord
+
+Seminaret handlar om dei to fyrste punkta.
+
+!!!Program
+
+||Dag    ||Formiddag ||Lunch ||Ettermiddag
+| Måndag | Reise     | Lunch | Opning, prosjektpresentasjon, presentasjon av problemområdet
+| Tysdag | Ortografi | Lunch |   Morfologi/derivasjon
+| Onsdag | Ortografi | Lunch |   Morfologi/derivasjon
+| Torsdag| Morfologi/samansetjing | Lunch |   Open bolk
+| Fredag | Opne sp.m., oppsummering, framtidig arbeid | Lunch | avreise
+
+!!To grunntema
+
+# ortografi 
+# grammatikk
+
+Temaet __Ortografi__ tek opp ulike ortografiske spørsmål som treng avklaring for stavekontrollen, medan dei __grammatiske__ emna tek opp uklare punkt i grammatikken som treng ei tilsvarande avklaring. Spørsmål som gjeld dei delane av grammatikken som ''ikkje'' er relevante for ein stavekontroll eller ein orddelar, vil vi ''ikkje'' ta opp. Det gjeld t.d. alle syntaktiske emne. Ei meir detaljert liste over ortografiske spørsmål som treng avklaring etter vårt syn finst nedanfor. Lista er ikkje komplett, og vil bli oppdatert i tida fram til seminaret.
+
+!!!Ortografiske spørsmål
+
+Her er ei liste over punkt i ortografien som er relevante for ein stavekontroll, og som det etter det vi veit ikkje finst vedtak eller andre normative kjelder for.
+
+!!Kasusendingar, andre endingar
+
+Her finst det to underkategoriar:
+* bøying av forkoringsord, slik som TV, CD, NRK, SR, NATO
+* bøying av talord når dei er skrivne med med siffer
+
+For begge kategoriane er det to spørsmål som vi ikkje har funne svar på:
+
+* skal ein skriva vokalen føre den fyrste konsonanten i endinga eller ikkje? Eksempel: ''TV-esne'' eller ''TV-sne''
+* kva for teikn skal ein bruka for å binda i hop ordet med endinga? Det finst tre variantar i bruk: kolon, apostrof, bindestrek. Eksempel: ''TV-sne, TV:sne, TV´sne''
+
+!!Samansette ord
+
+Skal dei vanlegvis skrivast med eller utan bindestrek?
+
+!!Mørk i, æ vs ä, ø vs ö
+
+Norma er heilt klar, men praksis varierer svært. Når det gjeld norsk æ, er det eit uheldig teikn fordi det liknar for mykje (i grafisk forstand) på sekvensen ''ae''.
+
+!!Låneord
+
+I 2006 vart det gjort eit vedtak på normeringa av ein del klassar låneord, men det finst fleire klassar som etter det vi veit ikkje har vorte normert. Dette punktet ligg i grenselandet mellom ortografi og grammatikk.
+
+Det finst ei gruppe med låneord som blir spesielt problematiske, og det gjeld ord på stum sluttvokal. Eit eksempel på slike ord er ''Office''.
+
+!!!Grammatiske spørsmål
+
+!!Avleiing (derivasjon)
+
+Sørsamisk er rik på derivasjonsendingar, slik som dei andre samiske språka. Og det er mogleg å leggja til fleire avleiingsendingar etter kvarandre. Men det er ikkje mogleg å leggja til uendeleg mange, og heller ikkje mogleg å kombinera endingane fritt.
+
+I arbeidet med nord- og lulesamisk utvikla vi ein modell for derivasjonssystemet. Vi vil presentera modellen, og diskutera om sørsamisk fylgjer ein liknande modell. Vi vil presentera dei data vi har fått fram til no.
+
+I tillegg treng vi ei betre forståing av korleis omlydsprosessane og vokalreduksjonar fungerer i ei derivasjonsrekke.
+
+!!Possessiv
+
+Possessivendingane blir ikkje mykje brukt, men dei blir brukt. Grammatikken og dei data vi har funne i korpuset vårt peikar på eit system der possessivendingane står etter kasusendingane. Men grammatikken er svært tunn på dette punktet, korpuset er alt for lite. Vi er derfor ikkje i stand til å modellera ein korrekt grammatikk for possessivar for dei orda som kan ta slike. Vi håper å få betre innsikt på seminaret.
+
+!!Samansette ord
+
+Førsteleddet i samansette ord kan i prinsipp opptre i fire ulike former
+
+* nominativ eintal
+* genitiv eintal
+* genitiv fleirtal
+* attributiv
+
+Spørsmål for samansetjingsgrammatikken:
+
+* kva er "standard"? Nominativ kan vera eitt svar, men attributiv er ganske vanleg i korpuset vårt
+* finst det delar av leksikonet som har ein felles grammatikk for samansetjingar?
+* finst det ord som krev at det føregåande ordet står i ei viss form? Vi vil visa eksempel frå nord- og lulesamisk

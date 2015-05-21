@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 13, januar 2006</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I januar har arbeidet med å lysa ut dei delane som skal til
+      underleverandørar gått fleire steg framover, medan det lingvistiske
+      arbeidet har stoppa ein del opp pga sjukdom. Arbeidet har vore fordelt
+      på desse hovudpunkta:</p>
+
+      <ul>
+        <li>tekstinnsamling:<ul>
+            <li>korpuskontrakt: hovudkontrakten (den som gjeld lisensieringa
+            av tekstar) vart godkjent frå Sametinget sin jurist (med nokre
+            gode merknader), og vi er endeleg klare til å byrja å samla inn
+            tekst for alvor.</li>
+
+            <li>innsamling: vi har gått gjennom lista med institusjonar og
+            personar som vi skal kontakta, og Børre har fått opplæring i den
+            relevandte delen av Websak. Elles vart innsamlingsarbeidet hindra
+            av førebuingane til prosjektmøtet i Tromsø.</li>
+          </ul></li>
+
+        <li>korpusorganisering: ein del detaljarbeid vart gjort, og vi heldt
+        ein god gjennomgang av verktya og rutinane for å arbeida med korpuset
+        på prosjektmøtet vårt i Tromsø</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: ingen ting i januar.</li>
+
+            <li>nordsamisk: ein del nye ord har vorte lagt til, elles lite.
+            Thomas har vore sjukmeldt store delar av januar (og er framleis
+            sjukmeldt).</li>
+          </ul></li>
+
+        <li>namneleksikon: arbeidet med å førebu integreringa med risten.no
+        har gått vidare, og tok viktige steg framover på prosjektmøtet.</li>
+
+        <li>Stavekontroll: ingen ting i januar.</li>
+
+        <li>Utlysing av delar av prosjektet: eg fekk endeleg bede eit firma om
+        å hjelpa oss med gjennomføringa av utlysingsprosessen. Etter ein kort
+        og intens tilbodsrunde på dette bistandsarbeidet, gjekk oppdraget til
+        slutt til <a href="http://www.finnut.no/">Finnut Consult AS</a>. Vi
+        heldt eit møte med dei i samband med prosjektmøtet i Tromsø, der vi
+        gjekk gjennom arbeidet fram til utlysing, og slo fast ein timeplan med
+        kontraktsinngåing med underleverandør(ar) i slutten av mai 2005. Det
+        finst ein del slakk i denne planen - det er brukbart med tid frå
+        tilbodsfrist til kontraktsinngåing.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Prosjektmøte</title>
+
+      <p>Divvun-prosjektet heldt prosjektmøte i Tromsø siste veka i januar, i
+      lag med Universitets-prosjektet. Møtet vart litt redusert i høve til
+      planane for Divvun sin del, ettersom både Thomas og Maaren meldte
+      fråfall. Vi fokuserte i staden meir på dei tekniske sidene ved
+      namneleksikonet, og vi heldt samtidig det fyrste møtet med firmaet som
+      skal hjelpa oss med utlysinga av arbeid som skal til
+      underleverandørar.</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har gått framover etter planen, med unnatak av at det har
+      vorte gjort mindre lingvistisk arbeid. Inntil vidare er ikkje bortfallet
+      av dette arbeidet noko som påverkar timeplanen på sikt.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

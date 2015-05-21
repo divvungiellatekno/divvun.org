@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Adnet sáme boallobievdev MacOSX:in 10.8</title>
+   </header>
+   <body>
+      <section>
+         <title>Hiebadusá MacOS X:n vaj máhtá tjállet nuorttasáme bokstávajt</title>
+
+         <p>Tjálátjit nuorttasámesáme bokstávajt hæhttu adnet nuorttasáme
+         boallobievdev.</p>
+
+         <p>1. Rabá <strong>Systemvalg…</strong></p>
+
+         <p><img alt="Åpne &quot;Systemvalg…&quot;"
+         src="images/enable_sme_keyboard-systempref_menu-osx10.8-nob.png" /></p>
+
+         <p>2. Dieddela <strong>Språk og tekst</strong> jali tjálesta 
+         muodugasj bágov åhtsåmvinndegij:</p>
+
+         <p><img alt="Systemvalg…"
+         src="images/enable_sme_keyboard-systemprefs-osx10.8-nob.png" /></p>
+
+         <p>3. Dieddela <strong>Tastaturmeny</strong>  ja mierkkisa
+          <strong>Nordsamisk</strong> sárgijn: </p>
+
+         <p><img alt="Legge til samisk tastatur"
+         src="images/enable_sme_keyboard-select_sme-osx10.8-nob.png" /></p>
+
+         <p>4. Mujttu då sárgastit <strong>Vis tastaturmenyen i
+         menylinjen</strong>, jus sárgge vájllu de sárgasta dáv:</p>
+
+         <p><img alt="Legge til samisk tastatur"
+         src="images/enable_sme_keyboard-enable_keyboard_menu-osx10.8-nob.png" /></p>
+
+         <p>5. Vállji nuorttasáme boallobievdev menyan rievtes bielen
+         gå galga nuorttasáme bokstávajt tjállet:</p>
+
+         <p><img alt="Velg samisk tastatur for skriving"
+
+         src="images/enable_sme_keyboard-select_sme_input-osx10.8-nob.png" /></p>
+      </section>
+   </body>
+</document>

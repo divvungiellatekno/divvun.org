@@ -1,0 +1,70 @@
+!!!Meeting with Polderland 16.6.2009
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Bug status
+* Priority list
+* Next meeting
+
+!!!Since last time
+
+!!Polderland
+* windows Office proofing tools ready, except for installer
+* NSIS installer solution alpha sent
+** waiting for comments and installation texts
+* InDesign CS4: have SDKs for MacIntosh and Windows and debug version CS4
+** working on both versions
+*** speller works on Windows, hyphenator nearly finished
+*** transfer to Mac in progress
+
+!!Divvun
+* M&S - waiting for a response from Polderland
+* South Sámi offer: the contract is finally signed and sent to Polderland
+* infrastructure work lately, preparing for more open-source visibility and
+  user-friendliness - we have made a first-time setup script to ease setup and
+  prepare the working environment
+* repeated words needs to be accepted in some cases
+** PB: existing PLD Repeated Word functionality: there is a compile-time
+   determining whether repeated words are to be flagged or not.
+   There is no functionality to suppress repeated word messages
+   for certain words only.
+
+!!!Bug status
+
+!!Solved/cancelled
+
+||Div ||Pld ||Description
+| 603 | xxx | suffix is accepted in the middle of a word: as per design
+| 613 | xxx | speller does not accept 'Ga' tagged word as 2nd part
+| 679 | xxx | Discretionary/soft hyphen not respected - repaired, repaired code to be dropped
+
+!!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
+| 670 | xxx | __REGRESSION:__ hard hyphen replaced with soft, see [latest test results|http://www.divvun.no/doc/proof/hyph/testing/regression-pl-forrest-smj-20090105.html] - since this was fixed earlier, and the hyphenation binary has not changed since then, we should investigate this first to see if we produce illegal PLX entries.
+
+!!Under investigation by Polderland
+||Div ||Pld ||Description
+| 581 | xxx | consonant doubling
+| 595 | xxx | problem with prefix containing hyphens
+| 670 | xxx | Hard hyphen replaced by soft hyphen. Regression? Check for v. 1.1
+
+!!!Priority list
+
+# discuss repeated word functionality within Polderland
+# installers for InDesign (CS3 Mac + Win) and scripts to build them, lib files
+# CS4 debug SDK version => CS4 version
+# nullsoft installer
+# South Sami Windows components
+
+!!!Next meeting
+
+Next meeting (Tue 23.6.) at 10.00 Dutch/Norwegian time.

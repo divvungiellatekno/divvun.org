@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Divvun-dïrregidie utnedh MS Office 2010:sne</title>
+    </header>
+    <body>
+        <section>
+            <title>Divvunem Windows:sne utnedh</title>
+            <ol>
+                <li>Wordem aelkiehtidh</li>
+
+                <li>Veeljh åarjelsaemiengïelem tjaelemegïeline. Mïnnh dellie gïelemenyesne jïh veeljh åarjelsaemiengïelem, jallh diedtieh
+                    Alt+Shift gosk åarjelsaemiengïele jæjhta. Gosse dam dorjeme, dellie leah åarjelsaemien staeriedimmiedïrregem aelkiehtamme. Dïhte naemhtie:
+                    <p><img src="images/stavekontroll_og_inndatasprak_sma-msoff-2010-win7-nob.png" alt="Stavekontroll- og inndataspråkfelt"/></p>
+                </li>
+
+                <li>Jis edtjh vuartasjidh, mejtie Word rïektes gïeline barka, diedtieh dellie staeriedimmielaevkiem jïh geehth,<strong>Identifiser språk automatisk</strong>
+                    ij leah mïerhkesjamme. Dïhte naemhtie vååjnoe:
+                    <p><img src="images/ikke_automatisk_gjenkjenning_sma-msoff-2010-win7-nob.png" alt="Identifiser språk automatisk avmerket"/></p>
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <title>Åarjelsaemien staeriedimmieprogrammem utnedh</title>
+            <p>Gosse leah tjaeliemienie dellie rööpses sïevh jijhtieh dej baakoej nualan mah leah båajhtode. Maahtah veeljedh åelkies båaloem diedtedh baakoej nelnie mej leah rööpses sïevh. Dïhte naemhtie vååjnoe:</p>
+
+            <p><img src="images/PC_16_Bruke_stavekontrollen.png"
+                alt="Forslag i meny"/></p>
+
+            <p>jallh maahtah staeriedimmiedïrregem aelkiehtidh sjïere klaasesne.Diedtieh dellie <strong>Se gjennom</strong> menyesne.
+                Diedtieh
+                <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.
+               Destie sjædta: <img
+                src="images/PC_13_MSOffice_example_cut.png"
+                alt="Stavekontrollen i bruk"/></p>
+        </section>
+    </body>
+</document>

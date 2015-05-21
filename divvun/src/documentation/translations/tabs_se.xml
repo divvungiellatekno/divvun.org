@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    -->
+<catalogue xml:lang="se">
+  <message key="Ruoktu">Ruoktu</message>
+  <message key="Administrašuvdna">Hálddahus</message>
+  <message key="Oppalaš">Oahpásmahttin</message>
+  <message key="Raporttat">Raporttat</message>
+  <message key="Outsourcing">Olgguldas bargu</message>
+  <message key="Styringsgruppa">Stivrenjoavku</message>
+  <message key="Legal">Juridihkalaš áššit</message>
+  <message key="Proofing">Čállindárkkisteapmi</message>
+  <message key="Future">Boahtte áigi</message>
+  <message key="Polderland">Polderland</message>
+  <message key="Giellatekno">Giellatekno</message>
+  <message key="TechDoc">TechDoc</message>
+  <message key="TTS">TTS</message>
+  <message key="Wiki">Wiki</message>
+
+  <message key="AboutUs">Dieđut min birra</message>
+  <message key="Events">Lágideamit</message>
+  <message key="Korrektur">Čallindárkkisteapmi</message>
+  <message key="MSOffice">MS Officii</message>
+  <message key="AndreProgram">Eará prográmmaide</message>
+  <message key="Beta">Beta-veršuvnnat</message>
+  <message key="Tastatur">Boallobeavddit</message>
+  <message key="Tale">Hállansyntesa</message>
+  <message key="Ordbøker">Sátnegirjjit</message>
+  <message key="Oversettelse">Jorgalus</message>
+  <message key="LangLearn">Giellaoahppan</message>
+</catalogue>

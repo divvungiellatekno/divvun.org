@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun-ohjelman asennus ja käyttö MS Office 2003:lla ja 2007:llä</title>
+   </header>
+   <body>
+     <ol>
+       <li>Asenna Divvun:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li>MS Windows XP</li>
+         </ul>
+       </li>
+       <li>Ota saamenkielinen näppäimistö käyttöön:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li><a href="enable-keyboard-xp.html">MS Windows XP</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2007.html">Divvun-ohjelman käyttö MS Office 2003:lla ja 2007:llä</a></li>
+     </ol>
+   </body>
+</document>

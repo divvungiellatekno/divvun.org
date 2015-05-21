@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installerit Divvunav Office 2011:j</title>
+   </header>
+   <body>
+
+      <section>
+         <title>Viedtjat Divvunav</title>
+         <p><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viedtjala
+          ådåsamos Divvun:av nehtan</a> jali
+          diŋgu CD:av Sámedikkes, tel: +47 78 48 42 22.</p>
+      </section>
+
+      <section>
+         <title>Installasjåvnnå</title>
+
+         <note>Jus dujna la 1.X versjåvnnå åvdutjis, de hæhttu
+         <a href="remove-msoff-2008-nob.html">gádodit</a> dav
+         versjåvnåv åvddål gå installeri ådå 2.2 versjåvnåv. Vájk gåk de la sluogas
+         gádodit oabme versjåvnåv åddál få installeri ådå.</note>
+
+         <p>1. Jus dujna l CD:a, de tsåggåla dáv dáhtáj, joarke boahtte tjuoggáj
+          Jus la viedtjam Divvunav nehtas, de soajttá hæhttu ráhpat
+          Nedlastings-máhpav, ja guokti dieddelit Divvun-fijlav
+         (<em>sami-proofing-tools.dmg</em>):</p>
+
+         <p><img alt="Dobbelklikk på nedlasta dmg-fil"
+         src="images/installation-dl_folder-msoff-2011-nob.png" /></p>
+
+         <p>2. Guokti diette
+         visská lådav (installerimpáhkav) namájn «<em>Divvun for MS Office
+         2011</em>»:</p>
+
+         <p><img alt="Dobbelklikk på installeringspakka"
+         src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
+
+         <p>3. MacOSX 10.8 (Mountain Lion) vaddá várrodusáv (oabme MacOSX versjånå e vatte várrodusáv -
+         joarke njuolgga 7. tjuoggaj):</p>
+
+         <p><img alt="Advarsel om ukjent utvikler"
+         src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
+         /></p>
+
+         <p>4. Dieddela <strong>OK</strong> ja oalgesdieddela (Kontroll-klikk)
+         installerimpáhpev, ja vállji <strong>Åpne</strong> menyan:</p>
+
+         <p><img alt="Åpne med meny for å godkjenne"
+         src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
+
+         <p>5. Oattjo vat gatjálvisáv jus sidá rahpat installerimpáhkev.
+         Dieddela <strong>Åpne</strong>:</p>
+
+         <p><img alt="Bekreft at du vil åpne installeringspakka"
+         src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
+         /></p>
+
+         <p>6. Váj galga bessat joarkket de hæhttu tjállet háldadiddjenamáv ja -bessambágov:</p>
+
+         <p><img alt="Det kreves et administratorpassord"
+         src="images/installation-mtlion_confirm_dmgopen_adminpw-nob.png"
+         /></p>
+
+         <p>7. Installerim álggá, álggosijddo ilmmá:</p>
+
+         <p><img alt="Velkomstsiden i installereren"
+         src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
+
+         <p>8. Dieddela <strong>Fortsett</strong> desik installerimprográmma le gárves installeritjit, dieddela <strong>Installer</strong> :
+         </p>
+
+         <p><img alt="Start sevle installeringen"
+         src="images/installation-starting-msoff-2011-nob.png" /></p>
+
+         <p>9. Installerim hæhttu dåhkkiduvvat háldadiddjes:</p>
+
+         <p><img alt="Installeringen må godkjennes av en administrator"
+         src="images/installation-adminpw-nob.png" /></p>
+
+         <p>10. Ræjddo installeriduvvá, jus buoragit manná de dát hiejttemsijddo ilmmá:</p>
+
+         <p><img alt="Installeringen er ferdig"
+         src="images/installation-done-msoff-2011-nob.png" /></p>
+
+         <p>11. Installerim la gárves Divvun-ræjdo li dal sajenis duv dáhtán! </p>
+
+      </section>
+   </body>
+</document>

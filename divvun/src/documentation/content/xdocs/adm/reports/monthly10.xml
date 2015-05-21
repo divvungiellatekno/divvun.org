@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 10, oktober 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>Oktober var prega av korpusarbeid og lingvistisk arbeid. Det arbeidet
+      som har vorte gjort har vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjon: dette punktet går heretter ut, det er no berre små
+        tekniske endringar og justeringar, dokumentasjonsarbeidet er heretter
+        for det meste rein dokumentasjon, dvs skriving, og er ein del av det
+        daglege arbeidet med dei andre sakene vi gjer. Målet er å heile tida
+        dokumentera det vi gjer, slik at dokumentasjonen er rimeleg i takt med
+        resten av arbeidet. Dette er ein føresetnad for vellukka overføring
+        til ein permanent driftsorganisasjon seinare.</li>
+
+        <li>tekstinnsamling:<ul>
+            <li>korpuskontrakt: ein jurist ved Universitetet i Tromsø har sett
+            på kontraktstekstane og kome med verdifulle merknader. Vi har
+            deretter prøvd å få tak i Kimmo Koskenniemi for å klargjera uklare
+            punkt i originalen, men vi har ikkje fått respons enno.</li>
+
+            <li>innsamling: ein del tekst har vorte samla inn frå Sametinget
+            og Odin (offentlege dokument). Elles har det ikkje hendt så mykje
+            på den fronten i oktober, vi ventar på å få kontrakten
+            ferdig.</li>
+          </ul></li>
+
+        <li>korpusorganisering: infrastrukturen for korpussamlinga har tatt
+        viktige steg framover i oktober. Vi er snart klare til å opna ei eiga
+        side der folk sjølve kan leggja inn tekstdokument i korpussamlinga, i
+        ein halvautomatisk prosess.</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: vi kom litt vidare med eit vesentleg problem som
+            gjeld stadieveksling og diftongforenkling, men det står framleis
+            igjen mykje arbeid. Derimot har vi kome eit godt stykke vidare med
+            samansetjing og derivasjon, slik at desse punkta no må reknast som
+            ferdige inntil vi får eit større leksikon og korpusmateriale å
+            testa modellen vår på.</li>
+
+            <li>nordsamisk: vi hadde lagt fram ganske mange saker for
+            Giellalávdegoddi til møtet deira i oktober, og hadde håpa på
+            klargjerande svar. Diverre kom dei ikkje ein gong så langt som til
+            å utnemna sekretær...</li>
+
+            <li>namneleksikon: Vi har definert den grunnleggjande strukturen i
+            det nye leksikonet, og har byrja arbeidet med å førebu
+            namneleksikonet på konverteringa. Det ser ut som om
+            namneleksikonet kan bli utgangspunktet for eit tettare samarbeid
+            med risten.no, eit kvensk stadnamnprosjekt, og eventuelt med
+            kartverket.</li>
+          </ul></li>
+
+        <li>Termbasen: mot slutten av oktober byrja prosessen med å overføra
+        risten.no til andre. Risten T. Aleksandersen har no redaktøransvaret,
+        og Tomi Pieski vil arbeida deltid med risten.no, ved sidan av arbeidet
+        med Divvun-prosjektet.</li>
+
+        <li>Stavekontroll: vi har ikkje gjort vesentleg arbeid med
+        stavekontrollen i oktober</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Styremøte</title>
+
+      <p>Prosjektet hadde møte med styringsgruppa i byrjinga av oktober. Eit
+      endeleg referat frå møtet vil bli <a
+      href="/adm/board/Meeting_2005-10-04.html">tilgjengeleg på heimesida</a>
+      i nær framtid (det noverande referatet er ikkje heilt ferdig).</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har gått fint framover i oktober òg, og etter at
+      endringane i prosjektplanen som vart lagt fram for styringsgruppa vart
+      godkjende, er det heller ingen atterhald lengre:-)</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

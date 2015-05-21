@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>ILNs avtale med forlag</title>
+
+  </header>
+
+  <body>
+    	<section>
+      		<title>Avtale mellom Universitetet i Oslo og <em>forlag</em> om tekster til
+      		ILNs leksikografiske tekstkorpus</title>
+		<ul>
+			<li>Universitetet i Oslo mottar tekster i elektronisk tilgjengelig form fra
+				forlag.</li>
+			<li>Universitetet i Oslo forplikter seg til å behandle tekstene slik at de
+			ikke kan rekonstrueres og derved utnyttes på en måte som strider mot
+			opphavsmennenes rettigheter.</li>
+			<li>Universitetet i Oslo er ansvarlig for bearbeiding av tekstmaterialet,
+				tekniske løsninger, videreutvikling og vedlikehold i samråd med forlag.</li>
+			<li>Universitetet i Oslo kan ikke gi tekstene videre uten etter avtale med
+				forlag.</li>
+			<li>Forlag får søketilgang til hele ILNs leksikografiske tekstkorpus (bokmål)
+				etter nærmere avtale.</li>
+			<li>Forlag kan kreve at en tekst blir fjernet fra korpuset dersom forfatteren
+				av teksten ønsker det.</li>
+			<li>Forlag har rett til å bli informert om hvem som har levert tekster til
+			korpuset før dette gjøres tilgjengelig for andre enn Universitetet i
+			Oslo. Andre leverandører av tekster til korpuset kan gjøre tilsvarende
+			avtale med Universitetet i Oslo. Forlag har rett til å bli informert om
+			at slik avtale er inngått.</li>
+			<li>Ved brudd på avtalen mellom partene kan forlag kreve at de tekster
+			forlaget har levert, blir trukket ut av korpuset. Universitetet i Oslo
+			kan ved avtalebrudd nekte forlag slik tilgang til korpuset som
+			samarbeidspartnerne får.</li>
+			<li>Etter spesiell avtale får andre brukere tilgang til ILNs leksikografiske
+			tekstkorpus til forskningsformål via et grensesnitt der det kan gjøres
+			avgrensede søk med definert kontekst.</li>
+		</ul>
+		<p>Oslo, XX.XX.200X</p>
+		<p>For forlag: <em>navn</em> <em>tittel</em></p>
+		<p>For Universitetet i Oslo: <em>navn</em> <em>tittel</em></p>
+		<p class="last_modified">Last changed:
+		$Id$</p>
+    	</section>
+ </body>
+</document>

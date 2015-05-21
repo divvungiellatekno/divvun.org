@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no"> 
+    <header> 
+        <title>Hvordan stavekontrollen lages</title>
+
+	<authors>
+	  <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+	</authors>
+
+    </header> 
+    <body> 
+        <section>
+          <title>Hvordan stavekontrollen lages</title>
+
+	      <p>Stavekontrollen lages i nært samarbeid med det <a
+	         href="http://giellatekno.uit.no">samiske språkteknologiprosjektet</a>
+	         ved <a href="http://uit.no/">universitetet i Tromsø</a>. Prosjektet i Tromsø har laget program som
+	         kan bøye samiske ord fra grunnform til de andre formene, og finne hvilken
+	         form bøyde ordene er i. Dette arbeidet brukes som grunnlag for å lage
+	         stavekontrollene.</p> 
+
+          <p>Programmererene legger til rette for at lingvistene skal kunne gå gjennom
+             tekster, for å teste dekning (det at stavekontrollen kan kjenne igjen
+             alle korrekte ord) og at ordbøyingen er rett. Lingvistene legger til
+             ord som ikke finnes i leksikonene, og justerer grammatikken til
+             analysatoren. På denne måten forbedres og utvides hele tiden leksikonene.</p>
+
+          <p>Siden stavekontrollen skal lages for både Windows, Mac OS X og Linux, må
+             man støtte de tilgjengelige teknologiene på disse plattformene. Man kommer
+             til å lage programmer som omformer Tromsø-universitetets format til det
+             formatet som kreves for de ulike plattformene.</p>
+
+          <p>Etterhvert som arbeidet skrider frem, kommer vi til å publisere
+             testversjoner av retteprogrammene. Disse legges ut på prosjektets
+             nettsider slik at interesserte kan laste dem ned og teste dem.</p>
+
+          <p class="last_modified">Sist endret: $Date$, by $Author$</p>
+        </section>
+
+    </body>
+</document>

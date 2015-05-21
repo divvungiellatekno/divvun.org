@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun info for administrators and integrators</title>
+   </header>
+   <body>
+      <section>
+         <title>Windows</title>
+         <p>The Divvun 3.x installer is an MSI package, and can be distributed
+            and installed just like any other MSI package.</p>
+         <p>The Divvun tools do <strong>ONLY</strong> work with 32 bit Office,
+            they do <strong>NOT</strong> work with 64 bit MS Office (but
+            they work on both 32 and 64 bit Windows). If you have issues getting
+            Divvun to work, please check that you have the 32 bit version of
+            MS Office. Check <a
+            href="http://www.addintools.com/documents/word/where-about.html">this
+            page</a> for instructions on identifying the bit-ness of your MS
+            Office package.</p>
+      </section>
+      <section>
+         <title>MacOS X</title>
+         <p>The Mac installer is made using Apple's own installer tools, and should be easily integratable in a larger
+         deployment scheme. See Apple's own documentation for further details.</p>
+      </section>
+
+      <section>
+         <title>Old info relating to the Divvun 2.x installer: Issues with Windows 7</title>
+         <p>The Divvun 2.2 installer is made using NSIS, and is by default enabled for silent installations, and thus
+         easy mass-deployment. You should run the installer using option <code>/S</code> to run it in silent mode:</p>
+         <source>MSOfficeDivvunTools.exe /S</source>
+
+         <p>Further info can be found in the <a href="http://nsis.sourceforge.net/Docs/Chapter4.html#4.12">NSIS
+         documentation</a>, and the source code for building the installer can be found <a
+         href="https://victorio.uit.no/langtech/trunk/prooftools/installers/win/MSOffice/nsis/source/">here</a>. If you
+         have patches for bug fixes or feature enhancement, either <a href="mailto:divvun@samediggi.no">send it via
+         e-mail</a> or attach it to a <a href="http://giellatekno.uit.no/bugzilla/">Bugzilla bug</a>.</p>
+
+         <p>Microsoft has changed several important (to us) aspects of the registry on Windows 7, which has caused
+         (and is still causing) issues for the Divvun installer. For some of the issues there are workarounds, for
+         others we are working on an updated installer. Known issues:</p>
+         <dl>
+            <dt>The Divvun tools are installed by a central administrator, but do not work for the local user:</dt>
+            <dd><ul>
+                  <li><strong>Cause:</strong> Windows7 only allows the registry entries to be set for the installing
+                  user, which in this case is different from the actual end user</li>
+                  <li><strong>Temporary solution:</strong> download and double-click one of the following registry
+                  files, depending on your MS Office version:<ul>
+                        <li><a
+                        href="https://victorio.uit.no/langtech/trunk/prooftools/installers/win/MSOffice/nsis/source/divvun22-W7-O2007.reg">Divvun
+                        2.2 registry file for Office 2007</a></li>
+                        <li><a
+                        href="https://victorio.uit.no/langtech/trunk/prooftools/installers/win/MSOffice/nsis/source/divvun22-W7-O2010.reg">Divvun
+                        2.2 registry file for Office 2010</a></li>
+                     </ul></li>
+                  <li><strong>IMPORTANT:</strong> you need to double click the registry file <em>while you are logged
+                  in as the user who is going to use the Divvun tools</em>. If the computer has more than one user,
+                  you need to double click the registry file <em>once for each user</em>. This is a one time
+                  operation for each user, after which Divvun should work as expected.</li>
+                  <li><strong>WARNING:</strong> registry files can easily be used to compromise your Windows
+                  computer. Make sure that the registry file you download is not tampered with or otherwise changed
+                  by third parties. This can be done using an <strong>MD5</strong> checksum utility (here is <a
+                  href="http://www.winmd5.com">a free MD5 checksum tool for Windows</a>). After you have downloaded
+                  the registry files, drop them on the MD5 checksum tool, and control that you get <em>exactly</em>
+                  the same checksum as given below. The checksums are:<ul>
+                        <li>MD5 checksum for the Divvun 2.2 registry file for <strong>Windows7+Office 2007</strong>:
+                        <code>df5d376b3cf2bf0063a0e0262219d225</code></li>
+                        <li>MD5 checksum for the Divvun 2.2 registry file for <strong>Windows7+Office 2010</strong>:
+                        <code>754bdd1767afde1489e6afc3fac69001</code></li>
+                     </ul></li>
+               </ul></dd>
+            <dt>The Divvun tools are installed by the local user, but they still do not work:</dt>
+            <dd><ul>
+                  <li><strong>Cause:</strong> You have Office 2010 Home OR Student edition. These are not presently
+                  supported.</li>
+                  <li><strong>Temporary solution:</strong> None really. Upgrade to Officd 2010 Professional is a
+                  solution, but will cost you money. A free solution is to use OpenOffice or LibreOffice, and install
+                  our Hunspell speller.</li>
+               </ul></dd>
+         </dl>
+      </section>
+
+   </body>
+</document>

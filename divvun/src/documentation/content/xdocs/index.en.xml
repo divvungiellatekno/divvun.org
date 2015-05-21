@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Divvun - saami language technology</title>
+        <meta name="description">Saami speller, Saami spell checker</meta>
+    </header>
+    <body>
+        <note label="News!">North Sámi text-to-speech is being released
+        6.5.2015! <a href="tale/tale.html">Read more here!</a></note>
+
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            We have <a href="korrektur/korrektur.html">spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/>
+        </li>
+        <li class="col-sm-4">
+            We have <a href="keyboards/index.html">mobile phone keyboards</a>
+            for North, Lule, South, Pite, Inari and Skolt saami on both
+            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+        </li>
+        <li class="col-sm-4">
+            We have North Saami <a href="tale/tale.html">speech synthesis</a> for <img alt="Windows" src="/images/windows_small.png"/> and <img alt="OS X" src="/images/osx.png"/>
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            We have <a href="laring/laring.html">E-learning apps</a> for <img src="/images/android.png" alt="android"/> and <img src="/images/ios.png" alt="iOS"/> as well as a Webapps
+        </li>
+        <li class="col-sm-4">
+            We have <a href="ordboker/ordboker.html">dictionaries</a>, both web based and downloadable ones.
+        </li>
+        <li class="col-sm-4">
+            We have <a href="oversettelse/oversettelse.html">translation memory</a>
+        </li>
+      </ul>
+    </body>
+</document>

@@ -1,0 +1,58 @@
+!!!Meeting with Polderland 10.12.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Bug status
+* Priority list
+* Next meeting
+
+!!!Since last time
+
+!!Polderland
+* Mac installer ready for testing 
+* InDesign Windows: completed except for removing trace code & final drop
+  Work transferred to non-Frank employee (learning curve issues) - 
+  will NOT be finished before friday
+* speech synthesis: we are not going to offer a quote
+* South Sami RFQ: will be dropped today
+
+
+!!Divvun
+* still some linguistic bugs to fix, but diminishing
+* M&S answer received - will reply soon
+* working on a cost estimate for speech synthesis - inquiry sent out
+
+!!!Bug status
+
+!!Solved/cancelled
+
+Nothing new since last time.
+
+!!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
+
+!!Under investigation by Polderland
+||Div ||Pld ||Description
+| 581 | xxx | consonant doubling
+| 595 | xxx | problem with prefix containing hyphens
+| 603 | xxx | suffix is accepted in the middle of a word
+| 613 | xxx | speller does not accept 'Ga' tagged word as 2nd part
+| 679 | xxx | Discretionary/soft hyphen not respected - repaired, repaired code to be dropped
+
+!!!Priority list
+ 
+# to be supplied before 2008-12-12 - Installer for Microsoft Office 2008 / Mac
+# InDesign proofing tools for Windows - almost completed
+
+!!!Next meeting
+
+Next meeting (16.12.) at 10.00 Dutch/Norwegian time.

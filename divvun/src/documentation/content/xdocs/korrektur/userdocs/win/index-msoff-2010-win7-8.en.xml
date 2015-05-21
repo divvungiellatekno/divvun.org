@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installing and using Divvun with MS Office 2010</title>
+   </header>
+   <body>
+     <ol>
+       <li>Installing Divvun on:
+         <ul>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
+           <li><a href="install-msoff-win7.html">MS Windows7</a></li>
+         </ul>
+       </li>
+       <li>Turn on the Sámi input method (keyboard layout) in:
+         <ul>
+           <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
+           <li><a href="enable_sme_input-win7-nob.html">MS Windows7</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2010-win7-sme-nob.html">Using Divvun in MS Office 2010</a></li>
+     </ol>
+   </body>
+</document>

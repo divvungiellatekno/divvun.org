@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Text corpus legalese</title>
+
+    <subtitle>Text licensing, end users, and other contracts</subtitle>
+
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+
+    <abstract>This page contains an overview of the contracts required to
+    build a usable corpus, both seen from the perspective of the collector,
+    the administrator of the collection, and the end user.
+    The contracts are translations of the documents at the <a
+    href="http://www.csc.fi/suomi/info/index.phtml.en">Finnish IT center for
+    science</a> for their <a
+    href="http://www.csc.fi/kielipankki/index.phtml.sv">Text bank</a>.</abstract>
+  </header>
+
+  <body>
+    <section>
+      <title>The Helsinki model, and template contracts</title>
+
+      <p>We have decided to use the contracts from Helsinki university, as
+      they have a reasonable history in active use in a national text bank
+      project, and provides for easy division of labor as well as clear
+      separation of responsibilities between Sámediggi and the University of
+      Tromsø.</p>
+
+      <p>The Helsinki originals and their Norwegian translations are available
+      for free reuse by others that find them useful, but please note that the
+      Norwegian translation is not yet ready. Also, the translation has
+      brought forward a few unclear points in the Finnish originals that
+      should be clarified.</p>
+
+      <p>Finally, we have an example from the University of Oslo as a
+      comparison.</p>
+
+      <section>
+        <title>Background</title>
+
+        <fixme author="SNM">Add a background section (or document) with a
+        short explanation of the model used in Helsinki.</fixme>
+      </section>
+
+      <section>
+        <title>Original contracts</title>
+
+        <p>The Helsinki University license contract from the Linguistic
+        Department consists of four parts:</p>
+
+        <ol>
+          <li>First part original <a href="/static_files/hki-ex-1.tex">LaTeX</a>, <a href="/static_files/hki-ex-1.pdf">pdf</a></li>
+
+          <li>Second part original <a href="/static_files/hki-ex-2.tex">LaTeX</a>, <a href="/static_files/hki-ex-2.pdf">pdf</a></li>
+
+          <li>Third part original <a href="/static_files/hki-ex-3.tex">LaTeX</a>, <a href="/static_files/hki-ex-3.pdf">pdf</a></li>
+
+          <li>The fourth part is not yet available</li>
+        </ol>
+
+        <p>There is also a supporting <a href="/static_files/man.sty">style
+        specification</a> for the LaTeX originals.</p>
+
+        <p>The above version of the 1. Helsinki contract is missing §3.8
+        (present in earlier paper versions), and needs to be reinserted. What
+        looks like §3.8 corresponds to §3.9 in the earlier version.</p>
+      </section>
+
+      <section>
+        <title>Norwegian translations</title>
+
+        <ol>
+          <li><a href="hki-contract-example.html">First part</a></li>
+          <li><a href="hki-contract-example-2.html">Second part</a></li>
+          <li><a href="hki-contract-example-3.html">Third part</a></li>
+
+          <li>The fourth part is not yet available</li>
+        </ol>
+      </section>
+    </section>
+
+    <section>
+      <title>The Sámediggi contracts</title>
+
+      <p>The translations above of the Helsinki contracts will be the basis
+      for our own contracts. They are not yet finished, as the main work now
+      is focusing on getting the translations in shape. The existing drafts
+      are:</p>
+
+      <ol>
+        <li><a href="sd-contract.html">First part</a></li>
+
+        <li><a href="sd-contract-part-2.html">Second part</a></li>
+
+        <li><a href="sd-contract-part-3.html">Third part</a></li>
+
+        <li>Fourth part not yet available</li>
+      </ol>
+
+      <p>These translations will be sent to a lawyer for thorough
+      checking.</p>
+
+      <note>Should we add links to XML versions of our translations?</note>
+    </section>
+
+    <section>
+      <title>The Oslo contracts</title>
+
+      <p>For comparison, the contract from the University of Oslo, Department
+      of Linguistics and Scandinavian Studies, with the corresponding end user
+      license:</p>
+
+      <ol>
+        <li>The <a href="oslo-standard-contract.html">text licensing
+        contract</a> (corresponds to contract 1 and 2 in the Helsinki
+        model)</li>
+
+        <li>The <a href="http://www.hf.uio.no/tekstlab/innsyn/skjema.html">end
+        user contract</a>, corresponding to contract 3 and 4 below</li>
+      </ol>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+	<header>
+		<title>Divvun spelling checkers for LibreOffice 4 on Windows 8</title>
+	</header>
+
+	<body>
+
+			<p>The Divvun group has in cooperation with the <a
+			href="http://voikko.puimula.org">Voikko</a> project and the <a
+			href="http://hfst.sourceforge.net">Hfst</a> team developed a new
+			serie of spelling checkers for LibreOffice. All source code for the
+			spelling checkers is completely open, both the linguistic and the
+			technical. In the long run this spelling checker will be integrated
+			into other systems and applications.</p>
+
+		<section>
+			<title>Install the spellchecker</title>
+			
+			<warning>The spelling checkers for <a
+			href="http://libreoffice.org/">LibreOffice</a> are still
+			<strong>BETA</strong> quality. We appreciate all and any <a
+			href="mailto:feedback@divvun.no">feedback</a>!</warning>
+
+			<note>
+				These installation instructions are written for the Divvun
+				spelling checkers produced with Voikko and Hfst for
+				<em>LibreOffice.org 4.1+</em>. There is a separate <a
+				href="../mac/install-OOo-3.html">installation instruction for
+				Divvun built for Hunspell</a> when used with
+				LibreOffice 3.x and OpenOffice.org 2.x.
+			</note>
+			
+			<p>Sami (and other) spelling checkers for LibreOffice can be
+			downloaded <a href="/libreofficeoxt.html">here</a>. The downloaded
+			spellchecker extension looks like this (the name may vary):<br/>
+			<img src="images/win8-voikkooxt-fi-se-nn.png"
+			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
+
+			<p>Depending on your browser and system, the downloaded file will
+			either be automatically opened by LibreOffice or saved to disk.
+			If it is saved, double click it to install the extension.</p>
+
+            <p>LibreOffice will start and install the spelling checker. You will
+            get a question whether you want to install it. Click «Ok» to
+            install it:<br/>
+            <img src="images/win8-installoxt-ok-nn.png"
+            alt="Dialog for å sjekke om man vil installere tillegget."/></p>
+
+            <p>When it is installed, a window like the one below will show up.
+            In the picture below, the new speller extension is selected and
+            highlighted in blue. You can click on the button "Innstillingar …"
+            to see what languages are available in the speller.
+            Click «Lukk» to end the installation.
+            <br /><img src="images/win8-oxt-installert-nn.png"
+            alt="Resultatet av installasjonen." /></p>
+
+		</section>
+
+		<section>
+            <title>How to use the spelling checker</title>
+            
+            <note label="Windows users">If the input method and language are
+            <a href="enable_sme_input-win8-nob.html">configured as
+            recommended</a> in Windows 8.1, the spell checker language will
+            follow the keyboard (input) language automatically. If so, the
+            instructions below are superfluous. Just switch input method:
+            English keyboard layout when writing in English, North Sámi keyboard
+            when writing in North Sámi, etc. The speller language will switch
+            together with the keyboard layout!</note>
+            
+            <p>To turn on the Divvn spell checker for North Sámi, do as follows:</p>
+            <ul>
+                <li>Click the fourth field from the left in the status bar, and
+                    then click «More …»: <br/>
+    			 <img src="images/win8-LO4-switch-language-nn.png"
+    			      alt="Språkmeny" /></li>
+	       		<li>Choose the <strong>Font</strong> tab in the dialog window
+	       		and choose the language you want (North Sámi in our case) from
+	       		the popup <strong>language menu</strong>: <br/>
+	       		 <img src="images/win8-LO4-select-language-nn.png"
+	       		      alt="Skriftdialog" /></li>
+			    <li>Now you can <strong>right click</strong> the misspelled word
+			    and get correction suggestions (the "word" <em>nuvviDspeller</em>
+			    will generate suggestions telling you what version you have of
+			    the Divvun spell checker):<br />
+			     <img src="images/win8-speller-popup-nn.png"
+			     alt="Velg språk for stavekontroll" /></li>
+            </ul>
+		</section>
+	</body>
+</document>

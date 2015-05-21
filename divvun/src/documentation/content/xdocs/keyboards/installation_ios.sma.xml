@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+    <header>
+        <title>iOS:m aelkiehtidh (iPhone / iPad / iPod)</title>
+    </header>
+    <body>
+        <p>Gosse leah appem App Storeste veedtjeme, dle naemhtie vååjnoe:
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Hjemmeskjerm med Samiske tastaturer"/>
+        </p>
+        <p>Rïhpesth appem:</p>
+        <p>
+            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="App-skjermbilde"/>
+        </p>
+        <p>Diedtieh lïenghkem «Åpne Innstillinger»</p>
+        <p>Mïnnh dahkoe
+<strong>
+«Generelt &gt; Tastatur &gt; Tastaturer &gt; Legg til nytt tastatur..»
+</strong>
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_general.no.png"          alt="Velg Generelt"/>
+            <img width="213" src="images/ios_keyboard.no.png"         alt="Velg Tastatur"/>
+            <img width="213" src="images/ios_keyboards.no.png"        alt="Velg Tastaturer"/>
+            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Velg Legg til nytt tastatur..."/>
+        </p>
+
+        <p>Teksten vuelelen «Tredjepartstastaturer» veeljh «Samiske tastaturer»:</p>
+
+        <p>
+            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Velg Samiske tastaturer"/>
+        </p>
+        <p>Aelkehth dejtie båaloebuertide, mejtie edtjh utnedh:</p>
+        <p>
+            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Slå på ønskede tastaturer"/>
+        </p>
+        <p>Dell amma galhkeme!</p>
+
+        <p>Båaloebuertiem målsoeh gosse tjaeliemienie jïh diedtieminie dam globusbåaloem mij leah gaskoehbåaloen gårroehbielesne:</p>
+        <p>
+            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
+        </p>
+
+        <p>Maahtah aaj måedtien aejkien dam globusbåaloem diedtedh, gosk åadtjoeh dam båaloebuertiem maam sïjhth.</p>
+
+        <p>Vueptesth, ij gåaredh diedtedh-jïh-steeredh gosse akte dejtsie saemien båaloebuertijste lea juhtiemisnie. Daate lea <link
+        href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
+        >Apple mij lea gaertjiedamme</link> («there is no API to obtain a list of
+        enabled keyboards or for picking a particular keyboard to switch to»),
+        gaajhki ammes programmi åvteste.</p>
+
+    </body>
+</document>

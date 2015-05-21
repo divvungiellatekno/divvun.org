@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<catalogue xml:lang="no">
+  <message key="en" >Denne sida på engelsk</message>
+  <message key="es" >Denne sida på spansk</message>
+  <message key="nl" >Denne sida på nederlandsk</message>
+  <message key="de" >Denne sida på tysk</message>
+  <message key="fr" >Denne sida på fransk</message>
+  <message key="se" >Denne sida på nordsamisk</message>
+  <message key="nb" >Denne sida på bokmål</message>
+  <message key="nn" >Denne sida på nynorsk</message>
+  <message key="no" >Denne sida på norsk</message>
+  <message key="sv" >Denne sida på svensk</message>
+  <message key="fi" >Denne sida på finsk</message>
+  <message key="smj">Denne sida på lulesamisk</message>
+  <message key="sma">Denne sida på sørsamisk</message>
+</catalogue>

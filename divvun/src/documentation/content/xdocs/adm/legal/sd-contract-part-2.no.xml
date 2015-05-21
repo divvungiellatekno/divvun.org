@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header>
+    <title>Avtale om produksjon av brukartenester til tekstsamling</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Avtalepartane</title>
+
+      <section>
+        <title>Bruksrettstingar (nedanfor: <code>tingar</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphavsrettsleg stilling</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+
+            <td>Sametinget</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+
+            <td>Ávjovárgeaidnu 50</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+
+            <td>9730 Karasjok</td>
+          </tr>
+        </table>
+      </section>
+
+      <section>
+        <title>Bruksrettsprodusent (nedanfor:
+        <code>produsent</code>)</title>
+
+        <table>
+          <tr>
+            <td>Opphavsrettsleg stilling</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Namn</td>
+
+            <td>Universitetet i Tromsø</td>
+          </tr>
+
+          <tr>
+            <td>Adresse</td>
+
+            <td>&nbsp;</td>
+          </tr>
+
+          <tr>
+            <td>Postnummer og -stad</td>
+
+            <td>9002 Tromsø</td>
+          </tr>
+        </table>
+      </section>
+    </section>
+
+    <section>
+      <title>Formålet med avtalen</title>
+
+      <p>2.1 Dette er ein avtale mellom <code>tingar</code> og
+      <code>produsent</code>. Formålet med avtalen er å regulere kva
+      <code>produsenten</code> skal gjere med tekstsamlinga på vegner av
+      <code>tingar</code>.</p>
+
+      <p>2.2 Etter denne avtalen har <code>produsenten</code> forplikta seg
+      til å plassere <code>tingaren</code> si <code>tekstsamling</code> på ein
+      tenar som han/ho forpliktar seg til å ha ansvaret for.</p>
+
+      <p>2.3 <code>Produsenten</code> forpliktar seg til å lagre
+      <code>tekstsamlinga</code> på ei datamaskin på ein slik måte at ho er
+      tilgjengeleg for dei forskarane som tingaren har gjeve
+      <code>bruksrett</code> til tekstsamlinga til, slik at dei kan bruke
+      <code>tekstsamlinga</code>.</p>
+    </section>
+
+    <section>
+      <title>Tekstane i tekstsamlinga</title>
+
+      <p>3.1 I vedlegg 1 står ei liste over <code>tekstane</code> som høyrer
+      til i <code>tekstsamlinga</code>, kor store dei er, og kva avtale som er
+      gjort om dei.</p>
+    </section>
+
+    <section>
+      <title>Produsentens pliktar og ansvar</title>
+
+      <p>4.1 <code>Produsenten</code> har ansvar for at dei bruksoppgåvene som
+      er definert for han i punkt 2 i denne avtalen blir utført profesjonelt
+      og etter god teknisk yrkesskikk.</p>
+
+      <p>4.2 <code>Produsenten</code> er ansvarleg for å følgje slik god skikk
+      for elektronisk datahandsaming at datatryggleik og datavern blir teke
+      vare på.</p>
+
+      <p>4.3 <code>Produsenten</code> garanterer for at vilkåra i avtalen blir
+      oppfylde innafor normal oppetid.</p>
+
+      <p>4.4 <code>Produsenten</code> garanterer for dei maskinene som er i
+      hans eller hennar eigne lokale, og for at tryggleikskopiar vil bli tekne
+      og oppbevart på ein måte som samsvarar med profesjonell og god teknisk
+      yrkesskikk.</p>
+    </section>
+
+    <section>
+      <title>Rettar</title>
+
+      <p>5.1 Eigedomsrettane og dei immaterielle rettane til tekstane,
+      produkta og dei avleidde programma som <code>tingaren</code> har
+      lisensiert, eig, leiger, har laga, eller dei avleidde programma som
+      <code>tingaren</code> har bruksrett til, blir ikkje overført til
+      <code>produsenten</code> som eit resultat av denne avtalen.</p>
+
+      <p>5.2 <code>Produsenten</code> har bruksrett til programprodukta og
+      skildringane som <code>tingaren</code> har gjeve til
+      <code>produsenten</code>, og det berre for å utføre arbeidsoppgåver for
+      <code>tingaren</code>. <code>Tingaren</code> har ansvaret for å skaffe
+      naudsynte løyve for å utføre desse oppgåvene.</p>
+
+      <p>5.3 <code>Tingaren</code> kan, om han/ho vil, få tilgang til
+      resultatet av utviklingsarbeidet til <code>produsenten</code>, eller til
+      tredjepart. Det skal gjerast separat avtale om overføringa av produkta
+      frå utviklingsarbeidet til <code>tingaren</code>.</p>
+    </section>
+
+    <section>
+      <title>Garanti</title>
+
+      <p>6.1 Viss det er manglar eller feil i databasen som følgje av feil
+      <code>produsenten</code> har gjort, skal <code>produsenten</code> få
+      databasen i normaltilstand utan forseinkingar, og kostnadsfritt for
+      <code>tingaren</code>.</p>
+
+      <p>6.2 Viss det er manglar eller feil i databasen som følgje av feil
+      <code>tingaren</code> har gjort, skal partane i lag bli samde om å få
+      databasen i normaltilstand. <code>Produsenten</code> utfører naudsynt
+      dataarbeid kostnadsfritt så langt det er mogleg. For meir arbeid skal det
+      bli forhandla om pris i kvart enkelt tilfelle.</p>
+
+      <p>6.3 <code>Produsenten</code> har ikkje ansvar for feil eller manglar
+      som kjem av feil eller manglar i data, informasjon eller rettleiing frå
+      <code>tingaren</code>, eller i data eller informasjon formidla av eller
+      vist til av <code>tingaren</code>.</p>
+    </section>
+
+    <section>
+      <title>Usemje</title>
+
+      <p>7.1 Partane skal primært prøve å løyse mogleg usemje via
+      forhandlingar.</p>
+    </section>
+
+    <section>
+      <title>Oppseiing av avtalen</title>
+
+      <p>8.1 Begge partane har rett til å seie opp avtalen med 6 månaders
+      varsel.</p>
+    </section>
+
+    <section>
+      <title>Avtalestart, moglege endringar</title>
+
+      <p>9.1 Denne avtalen tek til å gjelde når begge partane har underteikna
+      han.</p>
+
+      <p>9.2 Det er laga to eksemplar av denne avtalen, ein til kvar
+      avtalepart. Avtalen kan endrast berre med avtalepartanes felles
+      skriftlege avtale.</p>
+    </section>
+
+    <section>
+      <title>Underskrifter</title>
+
+      <table>
+        <tr>
+          <td>Tingar</td>
+
+          <td>Produsent</td>
+        </tr>
+
+        <tr>
+          <td>Tid og stad</td>
+
+          <td>Tid og stad</td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+
+          <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+          <td>Underskrift:</td>
+
+          <td>Underskrift:</td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>Vedlegg</title>
+
+      <p>Vedlegg 1. Skildring av tekstane.</p>
+    </section>
+  </body>
+</document>

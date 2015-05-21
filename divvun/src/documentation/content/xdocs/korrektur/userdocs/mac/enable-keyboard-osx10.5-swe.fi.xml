@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun-ohjelman asennus ja käyttö MacOS X -koneella</title>
+   </header>
+   <body>
+      <section>
+         <title>MacOS X -asetukset kirjoitettaessa saameksi</title>
+         <p>Saamenkielinen näppäimistö tulee ottaa käyttöön.</p>
+         <p>1. Avaa Järjestelmäasetukset</p>
+         <p><img alt="Avaa Järjestelmäasetukset" src="images/keyboard-open-systemprefs-osx10.5-swe.png" /></p>
+         <p>2. Osoita Maakohtaiset:</p>
+         <p><img alt="Järjestelmäasetukset" src="images/keyboard-selectintl-osx10.5-swe.png" /></p>
+         <p>3. Osoita Syöttövalikko ja valitse Pohjoissaamelainen:</p>
+         <p><img alt="Saamenkielinen näppäimistö" src="images/keyboard-select_se_keyboard-osx10.5-swe.png" /></p>
+         <p>4. Tästä lähtien voit valita saamenkielisen näppäimistön oikeassa yläkulmassa olevasta valikosta:</p>
+         <p><img alt="Valitse saamenkielinen näppäimistö"
+         src="images/keyboard-keyboard_menu-osx10.5-swe.png" /></p>
+      </section>
+   </body>
+</document>

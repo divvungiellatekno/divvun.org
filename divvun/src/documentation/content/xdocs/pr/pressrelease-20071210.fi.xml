@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sv">
+  <header>
+    <title>Lehdistötiedote, 10.12.2007</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Lehdistötiedote</title>
+
+      <p>Datum: 10.12.2007<br /> Yhteyshenkilö: Projektipäällikkö Sjur
+      Nørstebø Moshagen, puh. matk. +358 50 56 34 319</p>
+    </section>
+
+    <section>
+      <title>PRM: Saamen oikolukuohjelman versio 1.0 julki</title>
+
+      <p>Norjan Saamelaiskäräjien Divvun-projekti julkaisee ensimmäisen saamen oikolukuohjelmansa. Ohjelma julkaistaan Oslossa keskiviikkona 12. joulukuuta klo 10.00 Tiedeministeriön Y-rakennuksessa, huoneessa Y1000 ("Medierommet"). Julkistamistilaisuuteen tulevat Norjan Saamelaiskäräjien presidentti ja hallitus, tiedeministeriön poliittinen johto sekä projektin työntekijät ja hallinto. Lehdistö on tervetullut tilaisuuteen.</p>
+
+      <p>Saamen oikolukuohjelmien julkaiseminen on tärkeä askel sen varmistamisessa, että saamen kielet pitävät pintansa modernissa IT-yhteiskunnassa. Ohjelmat ovat avuksi monille saamenpuhujille, jotka eivät ole aiemmin voineet tai uskaltaneet kirjoittaa omalla kielellään.</p>
+
+      <p>Saamen kielenkorjausohjelmat sisältävät oikolukuohjelman sekä automaattisen tavutusohjelman pohjois- ja luulajansaamelle. Kaikki työvälineet ovat ilmaisia, ja kaikki Saamelaiskäräjien tekemät lähdetiedostot ovat vapaasti saatavilla.</p>
+
+      <p>Julkaistavat saamen oikolukuohjelmat ovat oikolukuohjelma Windowsin ja Macintoshin MS Officelle, joka sisältää mm. ohjelmat Word, PowerPoint ja Excel. Tavutusohjelma InDesignille sekä ohjelmat Openoffice.org:ille julkaistaan hieman myöhemmin. OpenOffice.org on maksuton vaihtoehto Microsoft Officelle, ja se on saatavilla myös Linuxille. Oikolukuohjelmien päivityksiä julkaistaan tasaisin väliajoin.</p>
+
+      <p>Työkalut löytyvät osoitteesta <a href="http://www.divvun.no/" >www.divvun.no</a>, ja kaikki kiinnostuneet voivat ladata ne itselleen. Ohjelmien kopioita voi hakea myös <a href="http://www.sametinget.no/">Norjan Saamelaiskäräjien kotisivuilta</a>.</p>
+      <ul>
+        <li>MacOS X - <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a></li>
+        <li>Microsoft Windows - <a href="http://www.divvun.no/static_files/DivvunInstaller.exe">http://www.divvun.no/static_files/DivvunInstaller.exe</a></li>
+      </ul>
+
+      <p>Divvun-projekti on Norjan Saamelaiskäräjien vetämä. Sitä rahoittavat
+      Norjan Saamelaiskäräjät, Norjan työ- ja sosiaaliministeriö, 
+      kulttuuri- ja kirkkoministeriö, tiedeministeriö sekä Nordplus Sprog. 
+      Projekti tekee tiivistä yhteistyötä  <a href="http://giellatekno.uit.no/"
+      >Tromssan yliopiston saamen kieliteknologiakeskuksen</a> kanssa.
+      Integroinnin MS Office-ohjelmistoon on tehnyt <a href="http://www.polderland.nl/">Polderland
+      Language &amp; Speech Technology bv</a>.</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Public Tender Main Document</title>
+
+    <version major="0" minor="1">First draft</version>
+
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Introduction</title>
+
+      <p>bla.--bla</p>
+
+      <note>This criterion is motivated by the fact that
+      most of the adult Sámi population has never learned to write their own
+      language, and have great difficulties spelling it correctly. It is an
+      explicit goal of the project to create spellers that will help this
+      group, and if a provider does not have a framework for correcting and
+      making suggestions for such spelling errors, much more work will have
+      to be put into finding and studying these errors, and adding manual
+      entries for correcting such errors.</note>
+
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

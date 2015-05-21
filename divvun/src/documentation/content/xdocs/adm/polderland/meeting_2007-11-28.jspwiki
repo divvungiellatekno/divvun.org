@@ -1,0 +1,120 @@
+!!!Meeting with Polderland 28.11.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+!!!Since last time
+
+!!Polderland
+
+* inDesign spellers work except for custom dictionaries (FN)
+** Interface appears to be quite complex. Drop planned for next week.
+* BOE modifications completed, delivered
+* Win installer/extractor completed, delivered
+* installer bugs analyzed. re-drop planned with 2 changes: unique version ID incremented; dutch texts removed
+
+Planned drops:
+* new version of installer (this week)
+* L+N spellers for indesign CS3 (next week)
+
+Next drops:
+* hyphenator for InDesign
+* speller for InDesign (hopefully this week)
+
+Open issues after these drops:
+* Windows installer issues
+* 576 – ''heajus'' vs ''heajos–'' (hyphens replaced with n-dash to please
+  forrest)
+** heajos– should be accepted (with hyphen only) – it is
+** heajus should be accepted – it is 
+** heajos should NOT be accepted – *** it IS accepted ==> in accordance with lex, not a bug
+** heajos–Oslo should be accepted – *** it is NOT accepted, but the exact same
+   string is suggested, and when inserted (corrected) gets a red underline
+   immediately ==> Bug. repaired, dropped
+*** the bug is still seen in another case, see test results for bug 518
+
+!!Divvun
+
+* new speller with BOE change released and tested - seems to work fine
+* new Windows installation evaluated - seems fine, licenses for PB ordered
+* still more PLX conversion fixes
+
+!!Bug status
+
+!Solved/cancelled
+||Div ||Pld ||Description
+| 522 | xxx | Strange compounding fenomena
+| 524 | xxx | Multi-part compounds not always accepted
+| 557 | xxx | Missing suggestion when multiple errors across compound boundary
+| 473 | 452 | Windows installer does not autostart after download
+| 516 | 4?? | vista installation from zip fails => depends on the autostart download issue
+| 554 | xxx | Uninstallation under Windows Vista fails
+| 561 | xxx | Installer language choice doesn´t work when upgrading
+| 562 | xxx | Win upgrade does not upgrade
+| 563 | xxx | Dutch text in installer upgrade dialog
+| 565 | xxx | Clicking "Back" in installer doesn´t word as expected
+
+!To be solved by Divvun
+||Div ||Pld ||Description
+| 461 | 448 | Spelling errors with editing distance 1 => most phon-rules now removed, now down to 56.
+| 568 | xxx | Speller accepts X-flagged forms without I flag, also hyphenated words not in lexicon
+
+Regarding bug 461:
+
+a -> á - is not given by the default speller. Examples:
+
+From SMJ:
+"bajken" -> "bájken".
+Actual suggestions: bajkken, bajen, bajke, Majken, Majken-, bajkan, bajkek
+
+From SME:
+"gealla" -> "geallá".
+Actual suggestions: geala, geallai, geallan, geallat, geavlla, ealla, gealai, gealan
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 564 | xxx | Win installer asking for non-existing disk
+| 576 | xxx | Speller does not accept the correct string, but do suggest the same as input.
+| 581 | xxx | consonant doubling
+| 585 | xxx | northsami (Sweden and Finland) triggers lulesami
+
+
+!!Priority list
+
+# 576
+# 585
+# hyphenation issues
+# new Windows installer
+# 461
+# 581
+# indesign speller
+
+!!!Schedule
+
+* November 26: Divvun code freeze
+* December 3: other bug fixes
+* December 5: Indesign speller
+* December 12: public release (one of those days)
+
+!!!Next meeting
+
+Next week (4.12.) at 09.30 Dutch/Norwegian time.
+
+!!!TODO:
+* __PLD__ pass information on self-extracting ziptool with autostart option
+          + instructions on how to use it (not in working order yet) - pending
+* __PLD__ provide information on InDesign language grouping
+* __PLD__ preferred order of results: see above
+* __PLD__ bug fixes with deliveries (see above)
+* __Sjur__ send phonetic rules
+* __Sjur__ send hyphenation problem examples

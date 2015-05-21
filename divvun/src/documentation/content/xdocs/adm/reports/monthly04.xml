@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 5, april 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I april har arbeidet vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjonssystemet: alle lenkefeil er løyste, samt alle andre
+        feilmeldingar vi får når vi byggjer dokumentasjonen, slik at vi no,
+        teknisk sett, er heilt klare for å opna ei offentleg heimeside.
+        Diskusjonane med Universitetet omkring dei tekniske detaljane har
+        byrja, og dei offentlege heimesidene bør vera operative ein gong i
+        mai.</li>
+
+        <li>tekstinnsamling: arbeidet med å laga eit utkast til avtaletekst
+        har gått seint framover, og vi vil konsentrera oss meir på dette
+        punktet i mai.</li>
+
+        <li>korpusorganisering: arbeidet med å definera og byggja opp
+        infrastruktur for korpuset tok eit kraftig steg framover i april. Det
+        står att noko arbeid, men det viktigaste grunnarbeidet er gjort, slik
+        at vi i mai vil vera klare for å ta i mot tekstar frå publikum.</li>
+
+        <li>Lingvistisk arbeid: lingvistane arbeider seg vidare gjennom massen
+        med ord og ordklasser. Maaren har fått tid til å gjera ein del
+        arbeid.</li>
+
+        <li>Termbasen: Termbasen har og teke mykje av Sjur si tid i april, men
+        det viktigaste arbeidet med termbasen vart no endeleg sluttført, og
+        Sjur har byrja å redusera tida som blir brukt på termbasen, og brukt
+        meir tid på den eigentlege jobben som prosjekleiar.</li>
+
+        <li>Reiser: heile prosjektgruppa var med på personalseminar i Alta i
+        byrjinga av april. Børre, Maaren og Sjur deltok på eit nordisk seminar
+        i Pargas i sør-Finland om korrekturverkty. Det var eit nyttig seminar,
+        vonleg blir det fleire i framtida.</li>
+      </ul>
+
+      <p>Vi planlegg ei prosjektsamling i slutten av mai (25.-27. mai) i
+      Kautokeino. Der vil vi m.a. oppsummera det fyrste halvåret sidan vi
+      starta prosjektet.</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet er stort sett i rute, men nokre av oppgåvene til
+      prosjektleiaren er framleis forsinka pga arbeidet med å gjera ferdig
+      terminologibasen. Dette gjeld, som tidlegare, prosjektplanen og arbeidet
+      med å skriva ein spesifikasjon for eksterne leverandørar for dei delane
+      som skal leggjast ut. Kommentarane for mars gjeld i hovudsak for april
+      òg.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nn">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 2, januar 2005</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Arbeid</title>
+
+      <p>Prosjektarbeidet har kome godt i gang i januar. Det har vore fordelt
+      på desse hovudpunkta:</p>
+
+      <ul>
+        <li>konvertering til Unicode: konverteringa er i praksis over, men det
+        står att å skriva noko dokumentasjon enno. Nokre småsaker kan enno
+        dukka opp, men dei burde i så fall ikkje ta mykje tid. Tomi har gjort
+        det meste av dette arbeidet, i lag med Trond og Sjur.</li>
+
+        <li>dokumentasjonssystemet: Børre har sett opp og fått i gang
+        dokumentasjonssystemet, og det var ved utgangen av januar langt på veg
+        ferdig. Det stod att ein del dokumentasjon av systemet, men arbeidet
+        no er å ta det i bruk, og gje folk den opplæringa dei treng for å
+        bruka det. I tillegg til Børre, har Sjur og Trond brukt ein del tid på
+        spesifiseringa, og Sjur har brukt noko tid på å hjelpa Børre med visse
+        sider av det dokumentasjonssystemet prosjektet bruker.</li>
+
+        <li>tekstinnsamling: Børre har skrive eit brev til potensielle
+        teksteigarar, og samla inn adresser. Brevet er til omsetjing, og
+        fleire adresser vil bli samla inn etter kvart.</li>
+
+        <li>korpusorganisering: Tomi har fått ansvaret for å byggja opp
+        infrastrukturen for det innsamla tekstmaterialet, i samarbeid med
+        Børre, Sjur og Trond.</li>
+
+        <li>seminar: fire av fem prosjektdeltakarar var samla i Kautokeino i
+        byrjinga av januar for meir opplæring og gruppearbeid. Samlinga
+        fungerte godt, og gjorde at det lingvistiske arbeidet kunne byrja i
+        praksis, samt at viktige delar av dokumentasjonssystemet kom på
+        plass.</li>
+
+        <li>SALETEK: Børre og Sjur var med på SALETEK-seminaret som vart halde
+        i etterkant av prosjektsamlinga. Dei heldt kvar si innleiing, Børre om
+        arbeidet med å laga ein samisk versjon av Skolelinux, og Sjur om
+        Divvun-prosjektet.</li>
+
+        <li>Lingvistisk arbeid: Thomas har kome godt i gang med det
+        lingvistiske arbeidet, og har særleg sett på adjektivbøyinga, samt ord
+        som ikkje blir gjenkjent av den lingvistiske modellen i dag. Maaren
+        har ikkje hatt mykje tid til å delta i prosjektet, men vil arbeida ei
+        veke i Tromsø i lag med Thomas og Trond.</li>
+
+        <li>Termbasen: ein del tid har særleg Sjur, men òg Tomi, brukt på
+        termbasen. Sidan dette arbeidet ikkje høyrer til Divvun-prosjektet,
+        vil det bli rapportert separat.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Tekniske problem</title>
+
+      <p>I januar har prosjektet vore plaga med tekniske problem med
+      nettverket til Sametinget. Problema har vist seg som 1) svært upåliteleg
+      oppkopling mot Internett og mot det sentrale datalageret i Tromsø; 2)
+      ikkje tilgang til diskusjonsgruppa for dei som sit på Sametinget; 3)
+      problematisk tilkopling til delte / felles dokument under prosjektmøte;
+      og 4) manglande oppkopling med video- og talekonferanseprogramvare. Alt
+      dette fungerte under oppstartsseminaret i desember.</p>
+
+      <p>Problema har vorte rapportert til IT-folka ved Sametinget, og delvis
+      til IT-avdelinga ved UiTø. Pr. i dag er situasjonen betre for Thomas for
+      punkt 1) og 3) over, men framleis svært problematisk for Maaren.</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet er stort sett i rute, men nokre av oppgåvene til
+      prosjektleiaren er forsinka pga arbeidet med å gjera ferdig
+      terminologibasen. Dette gjeld prosjektplanen, og arbeidet med å skriva
+      ein spesifikasjon for eksterne leverandørar for dei delane som skal
+      leggjast ut.</p>
+
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

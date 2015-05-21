@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 12, desember 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I desember har arbeidet med det nye namneleksikonet gått fleire steg
+      framover, elles som vanleg. Arbeidet har vore fordelt på desse
+      hovudpunkta:</p>
+
+      <ul>
+        <li>tekstinnsamling:<ul>
+            <li>korpuskontrakt: kontraktane vart ferdige frå vår side, og vi
+            ventar no på dei siste tilbakemeldingane frå juristane. Deretter
+            er vi endeleg klare til å samla inn tekst i stor skala.</li>
+
+            <li>innsamling: vi har hjelpt omsetjarane av det lulesamiske
+            nytestamentet, og på kjøpet fått den fyrste store lulesamiske
+            teksten i korpuset vårt. I tillegg har vi etablert kontakt med
+            Odin-redaksjonen, som er positiv til samarbeid.</li>
+          </ul></li>
+
+        <li>korpusorganisering: arbeidet med infrastrukturen har gått vidare i
+        desember òg medan vi ventar på at arbeidet med kontraktane skal bli
+        ferdig.</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: lite har skjedd med lulesamisk i desember, det
+            meste av det lingvistiske arbeidet vart gjort med nordsamisk.</li>
+
+            <li>nordsamisk: arbeidet med avleiing og samansetjing har avdekka
+            ei ny stor grop i normeringa av nordsamisk: kontraksjon ved
+            samansetjing. Det finst visse retningslinjer i Nickel, men ingen
+            eintydige, normative reglar. Praksis går ofte i mot det som blir
+            oppfatta som norm. Saka er sent over til SGL.</li>
+
+            <li>namneleksikon: vi har arbeidd vidare med det nye
+            namneleksikonet, og har i praksis bestemt oss for å satsa på
+            risten.no. I tillegg hadde vi eit langt møte der vi gjekk grundig
+            gjennom organiseringa av og strukturen til namneleksikonet, og
+            resultatet er at vi vil bruka ein modell som ligg nære den som alt
+            finst for termbasen til SD. Dette har viktige konsekvensar for
+            risten.no:<ul>
+                <li>alle namn (stadnamn, departementsnamn m.m.) vil bli flytta
+                over frå den noverande termbasen til den nye namnebasen når vi
+                er klare</li>
+
+                <li>sjølv om namnebasen og termbasen er ulike basar
+                (termsamlingar), vil mesteparten av arbeidet med den tekniske
+                delen av dei vera lik for dei to basane</li>
+
+                <li>for brukarane vil det ikkje bli annan skilnad enn at dei
+                vil kunna få treff i begge basane. Dette vil i så fall koma
+                tydeleg fram</li>
+
+                <li>krava til risten.no vil bli høgare når det gjeld
+                driftstryggleik, stabilitet og dataintegritet når det blir
+                fleir som arbeidet med han. Dette betyr òg at
+                Divvun-prosjektet vil leggja ned det arbeidet som trengst for
+                å få til dette. Arbeidet blir gjort med tanke på det som
+                trengst i Divvun-prosjektet, men vil automatisk koma
+                SD-termbasen, og det arbeidet som blir gjort der, til
+                gode.</li>
+
+                <li>arbeidet med namnebasen vil òg ta store steg framover når
+                det gjeld å leggja til rette for nye termsamlingar i
+                risten.no, samlingar som blir liggjande parallelt med den
+                noverande basen og den nye namnebasen.</li>
+              </ul></li>
+          </ul></li>
+
+        <li>Termbasen: sjå over om namneleksikonet. Heretter vil eg ikkje
+        rapportera for seg om termbasen til SD, alt arbeid vil i praksis bli
+        integrert med arbeidet med namneleksikonet.</li>
+
+        <li>Stavekontroll: vi har ikkje gjort vesentleg arbeid med
+        stavekontrollen i oktober</li>
+
+        <li>Utlysing av delar av prosjektet: alle tilbakemeldingar frå styret,
+        både frå styremøtet og seinare, vart inkorporert, og ny versjon av
+        dokumentet om utveljingskriterium vart sendt til styret for
+        godkjenning.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har gått framover etter planen, men arbeidet med utlysinga
+      tek tid.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

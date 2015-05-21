@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://förrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sv">
+    <header>
+        <title>Divvun - samisk språkteknologi</title>
+        <meta name="description">samisk rättstavning</meta>
+    </header>
+    <body>
+        <note label="Nyhet!">Nordsamiskt text-till-tal lanseras
+        6.5.2015! <a href="tale/tale.html">Läs mer här!</a></note>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            Vi har <a href="korrektur/korrektur.html">rättstavning</a> för <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> och <img alt="Linux" src="/images/linux_small.png"/>
+        </li>
+        <li class="col-sm-4">
+            Vi har <a href="keyboards/index.html">smarttelefontangentbord</a>
+            för nord‑, lule‑, syd‑, pite‑, enare‑ och skoltsamiska för både
+            <img src="/images/android.png" alt="android"/> och <img src="/images/ios8.png" alt="iOS 8"/>
+        </li>
+        <li class="col-sm-4">
+            Vi har nordsamisk <a href="tale/tale.html">talsyntes</a> för <img alt="Windows" src="/images/windows_small.png"/> och <img alt="OS X" src="/images/osx.png"/>
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            Vi har <a href="laring/laring.html">språkinlärningsappar</a> för <img src="/images/android.png" alt="android"/> och <img src="/images/ios.png" alt="iOS"/> och som webappar
+        </li>
+        <li class="col-sm-4">
+            Vi har <a href="ordboker/ordboker.html">ordböcker</a>, både webbaserade och nerladdningsbara.
+        </li>
+        <li class="col-sm-4">
+            Vi har verktyg för <a href="oversettelse/oversettelse.html">översättning</a>
+        </li>
+      </ul>
+    </body>
+</document>

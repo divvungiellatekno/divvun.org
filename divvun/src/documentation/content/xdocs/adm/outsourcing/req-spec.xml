@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing</title>
+
+    <subtitle>Requirements specification for project tasks to be
+    outsourced</subtitle>
+
+    <version>0.1</version>
+
+    <type>Internal draft</type>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+
+    <abstract>This document describes the exact requirements for each
+    component and each task within the outsourced part of the project. It
+    should preferably be tied to a tool for generating test cases to verify
+    the conformance with the specifications of each component, but as the tool
+    is not yet in place, it will for the time being be free form. For the same
+    reason, the content is rather rudimentary.</abstract>
+  </header>
+
+  <body>
+    <section>
+      <title>Source files</title>
+
+      <p>The data provided by the Divvun project is a computational linguistic
+      model built using Xerox finite state tools, and thus the source files
+      are in the formats supported by Xerox. More specifically, the source
+      files are of the following types, extensively described in Beesley &amp;
+      Karttunen 2003:</p>
+
+      <dl>
+        <dt>twolc</dt>
+
+        <dd>morphophonological descriptions, accounting for phenomenas such as
+        consonant gradation, vowel shortening, monophtongization, etc.</dd>
+
+        <dt>lexc</dt>
+
+        <dd>covers both morphological processes such as compounding,
+        derivation and inflection, as well as the complete lexicon</dd>
+      </dl>
+
+      <p>The cooperating companies are expected to be able to take these
+      formats directly as their input, or make scripts that will convert from
+      the Xerox formats to the companies internal formats without loss or
+      change of linguistic coverage.</p>
+    </section>
+
+    <section>
+      <title>Technical specification of deliverables</title>
+
+      <p>As well as acceptance criteria for the deliverables.</p>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

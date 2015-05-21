@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installasjåvnnå ja nævoj adnem MacOS X:n</title>
+   </header>
+   <body>
+      <section>
+         <title>Viedtjala Divvumav</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viedtjala dánna:
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> jali diŋgo CD:v Sámedikkes, tel: +47 78 48 42
+         22.</p>
+      </section>
+      <section>
+         <title>Installasjåvnnå</title>
+         <note>Jus dujna juo la version 1, de hähttu ierit válldet boares versjåvnåv åvddål gå bieja version 2.</note>
+         <p>Gå installeri Divvom-nævojt máhttá viedtjat prográmmav dássta: <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>jali
+         installerit dav skierros.</p>
+      </section>
+      <section>
+         <title>Installasjåvnnå MacOS X:n</title>
+         <p>1. Gå l gárvásit viettjaduvvam vinndek rahpas tjállembievden. Sæmmi vinndek rahpas gå skierro aj la gárves.
+         Dieddela visskis lådav (installasjonpáhkav) guokti:</p>
+         <p><img alt="Dieddela visskis lådav (installasjonpáhkav) guokti"
+         src="images/installation-dl_finished-msoff-2008-nob.png" /></p>
+         <p>2. Diette <strong>Fortsätt</strong> dassátjij gå l gárves álgadit installasjåvnåv:</p>
+         <p><img alt="Bild: " src="images/installation-starting-swe.png" /></p>
+         <p>3. Jus illa administráhtur, de sierra dakkár hæhttu dåhkkidit installasjåvnåv:</p>
+         <p><img alt="Administráhtur hæhttu dåhkkidit installasjåvnåv"
+         src="images/installation-adminpw-swe.png" /></p>
+         <p>4. Installasjåvnnå dálla l gárves ja dujna li Divvom-nævo du dáhtámasjijnan!</p>
+         <p><img alt="Installasjåvnnå l gárves" src="images/installation-done-swe.png" /></p>
+      </section>
+   </body>
+</document>

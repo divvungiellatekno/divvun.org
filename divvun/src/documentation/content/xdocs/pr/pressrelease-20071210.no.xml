@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>Pressemelding, 10.12.2007</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Pressemelding</title>
+
+      <p>Dato: 10.12.2007<br /> Kontaktperson: Prosjektleder Sjur Nørstebø Moshagen, tel. mob. +358 50 56 34 319</p>
+    </section>
+
+    <section>
+      <title>PRM: Versjon 1.0 av samiske korrekturverktøy</title>
+      <p>Sametingets Divvun-prosjekt lanserer de første samiske korrekturverktøyene. Lanseringen foregår i Oslo, onsdag den 12. desember kl. 10.00, i Kunnskapsdepartementets Y-bygg, rom Y1000 ("Medierommet"). Ved lanseringen kommer Sametingets president og Sametingsrådet, en representant for Kunnskapsdepartementets politiske ledelse, prosjektgruppen og prosjektstyret være tilstede. Pressen er velkommen.</p>
+
+      <p>Lanseringen av de samiske korrekturverktøyene er et viktig steg for å sikre de samiske språkene en plass i det moderne IKT-samfunnet, og vil være til hjelp for mange samisktalende som tidligere ikke har kunnet eller våget å skrive sitt eget språk.</p>
+
+      <p>Korrekturverktøyene inneholder stavekontroll og orddeling for nord- og lulesamisk. Alle verktøyene er gratis og all kildekode som Sametinget har copyright til er fritt tilgjengelig under GPL-lisensen.</p>
+
+      <p>De samiske korrekturverktøyene som lanseres er laget for MS Office for Windows og Mac, som blant annet inneholder programmene Word, PowerPoint og Excel. Orddeling for InDesign blir tilgjengelig snart, og stavekontroll for InDesign og verktøy for OpenOffice.org kommer til å bli tilgjengelig litt senere. OpenOffice.org er et kostnadsfritt alternativ til Microsoft Office, som også finnes for Linux. Oppdateringer av korrekturverktøyene kommer til å legges ut med jevne mellomrom.</p>
+
+      <p>Verktøyene finnes på <a href="http://www.divvun.no/" >www.divvun.no</a>, og kan lastes ned av alle interesserte. Kopier av verktøyene kan også hentes fra <a href="http://www.sametinget.no/">det norske Sametingets hjemmeside</a>.</p>
+      <ul>
+        <li>MacOS X - <a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a></li>
+        <li>Microsoft Windows - <a href="http://www.divvun.no/static_files/DivvunInstaller.exe">http://www.divvun.no/static_files/DivvunInstaller.exe</a></li>
+      </ul>
+
+      <p>Divvun-prosjektet gjennomføres av Sametinget i Norge, og er finansiert av Sametinget, Arbeids- og inkluderingsdepartementet, Kultur- og kirkedepartementet, Kunnskapsdepartementet, og Nordplus Sprog. Prosjektet har et nært samarbeid med <a href="http://giellatekno.uit.no/">språkteknologimiljøet ved Universitetet i Tromsø</a>. Integrering mot MS Office levert av <a href="http://www.polderland.nl/">Polderland Language &amp; Speech Technology bv</a>.</p>
+    </section>
+  </body>
+</document>

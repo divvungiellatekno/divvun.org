@@ -1,0 +1,68 @@
+!!!Meeting with Polderland 18.10.2006
+
+Participants:
+* Peter Beinema
+* Thomas Omma
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* since last time
+* questions and answers
+
+
+
+!!Since last time
+
+__Polderland:__
+
+* received new versions of lexica & compiled them
+* received first version of hyphenated lexicon yesterday (did not look at it
+  yet)
+* created localized version of spelling checker - probably finished today
+  (localized = uses the Sámi character set for tokenization)
+
+__Divvun:__
+* substantial progress with hyphenation and normativity in the delivered data
+* delivered hyphenated North Sámi
+* the conversion tool from our Xerox-based format to PLX is progressing, but not
+  yet finished
+
+
+
+
+__Next:__
+* the first version of the speller:-)
+
+
+
+!!Possible issues
+Nothing more than we already have discussed.
+
+
+!!Hyphenation
+The delivered data contains the following symbols:
+{{{
+# - word break
+^ - soft hyphen
+- - hard/lexicalised hyphen
+}}}
+
+The delivery of the Alpha version for the hyphenator will be slightly delayed
+compared to the deadline October 31. The speller will be delivered on time. The
+hyphenator delay is not a problem for the project.
+
+!!Lule Sámi
+There is probably no need for hyphenated Lule Sámi data yet.
+
+!!Next meeting
+Next Tuesday at 9:30 Norwegian / Dutch time as normal.
+
+!!!TODO:
+* continue to improve hyphenation (__Sjur__ and __Thomas__)
+* continue with speller data generation/conversion (__Tomi__)
+* get language codes to work with Mac Office 2004 (and check MacOffice 2007)
+  (__Polderland__)
+* deliver Lule Sámi hyphenation test data (__Sjur__ and __Børre__)

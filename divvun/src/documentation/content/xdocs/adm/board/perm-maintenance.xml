@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nn">
+  <header>
+    <title>Permanent driftsorganisasjon</title>
+
+    <version major="1" minor="0"
+    tag="$Id$">Oppdatert
+    versjon, juni 2007</version>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+
+    <abstract>I samband med utgreiinga for prosjektet som no er kjent som
+    Divvun-prosjektet, vart det peikt på trongen til ein permanent
+    driftsorganisasjon som kunne ta ansvar for det langsiktige vedlikehalds-
+    og utviklingsarbeidet etter at Divvun-projektet er avslutta og den fyrste
+    versjonen av korrekturprogramma vart ferdig. Styringsgruppa for
+    Divvun-prosjektet ba på det fyrste møtet sitt om at prosjektleiar laga ein
+    plan for ein slik driftsorganisasjon. Dette dokumentet inneheld denne
+    planen.<br />Oppdatering: Etter dei røynslene vi no har etter 2,5 års
+    prosjekt, har eg oppdatert stillingsprosentane til det eg trur er meir
+    realistisk.</abstract>
+  </header>
+
+  <body>
+    <section>
+      <title>Oppgåver</title>
+
+      <p>Ein permanent driftsorganisasjon bør ha ansvar for desse
+      oppgåvene:</p>
+
+      <ul>
+        <li>språkleg vedlikehald av leksikon (ordlista) og andre lister</li>
+
+        <li>språklege oppdateringar av dei eksisterande verktya</li>
+
+        <li>halda kontakt med leverandørar av eksternt utvikla verkty,
+        forhandla fram nye versjonar når det trengst (ny versjon av
+        vertsprogramma)</li>
+
+        <li>kontakt med brukarane</li>
+
+        <li>ansvar for tekniske problem i verktya som byggjer på open
+        kjeldekode</li>
+
+        <li>ansvar for å halda ved like og byggja ut det eksisterande
+        korpuset, inkl å samla inn meir tekst, sjå over rutinar for
+        kontinuerleg innsamling (avistekster, tekster frå Samediggi, osb)</li>
+
+        <li>vurdera, planleggja og starta nye prosjekt for nye språk, nye
+        verkty og nye målgrupper</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Stillingar</title>
+
+      <p>Ut i frå dei oppgåvene som er nemnde over, er det tre ulike
+      stillingstypar som trer fram:</p>
+
+      <ul>
+        <li>lingvist (språkleg vedlikehald, nye prosjekt) * 2, ein for
+        nordsamisk og ein for lulesamisk</li>
+
+        <li>programmerar (ansvar for open kjeldekode-verktya, kontakt med
+        ekstern leverandør)</li>
+
+        <li>teknisk sekretær (ansvar for oppdateringar, brukarkontakt,
+        korpusutvikling, nye prosjekt)</li>
+      </ul>
+
+      <p>Stillingane går litt over i kvarandre, og den eksakte oppdelinga kan
+      justerast i høve til ev tilsette, og i høve til finansieringsløysing.
+      Berre teknisk sekretær er fulltidsstilling, resten er deltid (om ikkje
+      lingvistane kan samlast i ein person), eit omtrentleg overslag av
+      arbeidsmengda for oppgåvene som er skissert over i prosent av heil
+      stilling er:</p>
+
+      <dl>
+        <dt>lingvist:</dt>
+
+        <dd>2 x 50 %</dd>
+
+        <dt>programmerar/datalingvist</dt>
+
+        <dd>50 %</dd>
+
+        <dt>teknisk sekretær</dt>
+
+        <dd>100 %</dd>
+      </dl>
+
+      <p>Det bør strekast under at det pr i dag er vanskeleg å vurdera det
+      eksakte behoved for (lingvistisk) vedlikehalds- og oppdateringsarbeid,
+      og stillingsprosenten bør vurderast etter eitt års drift. Det same gjeld
+      arbeidsmengda og dermed prosenten for den tekniske sekretæren.</p>
+
+      <p>For alle stillingane gjeld det at dei krev god forståing av
+      formalismane som blir nytta (pr. i dag basert på verkty frå Xerox, men
+      dette kan endra seg), og ei grunnleggjande forståing av språkteknologi
+      og korrekturprogram. Ein del av denne kunnskapen vil det vera rimeleg at
+      ein tileignar seg i stillinga, men det bør krevjast avsluttande
+      høgskuleeksamen i relevante fag for kvar av stillingane, eller praksis
+      som dokumenterer tilsvarande kunnskap.</p>
+
+      <p>Alle stillingane krev òg nært samarbeid med Universitetet i Tromsø og
+      det språkteknologiske miljøet der.</p>
+
+      <p>Nedanfor finst det spesifikke merknader til kvar stilling, med ei
+      skisse til kvalifikasjonane for stillinga.</p>
+
+      <section>
+        <title>Lingvist</title>
+
+        <p>Lingvisten/lingvistane må kunna halda ved like både lulesamiske og
+        nordsamiske leksikon (ordlister), og må derfor ha tilnærma
+        morsmålskompetanse i båe, samt vera sikker i normeringa av båe. Det er
+        derfor rimeleg å tru at ein treng to personar til denne stillinga,
+        sjølv om det er mogleg å slå dei i hop til éi heil stilling for
+        personar med dei rette kvalifikasjonane. Lingvisten/lingvistane skal
+        òg vera med å førebu og planleggja nye prosjekt, og særleg vurdera det
+        lingvistiske arbeidet av slike.</p>
+      </section>
+
+      <section>
+        <title>Programmerar/datalingvist</title>
+
+        <p>Programmeraren/datalingvisten vil ha hovudansvaret for å halda ved
+        like dei datalingvistiske modellane som ligg til grunn for
+        korrekturverktya, og for korrekturverktya som byggjer på open
+        kjeldekode. Denne stillinga bør óg ha ansvar for samarbeidet med
+        eksterne leverandørar (det vil seia korrekturverktya for MS Office og
+        Adobe InDesign), og kan i tillegg ha ansvar for å pakka og levera
+        oppdateringar til brukarane (som eit alternativ til å la den tekniske
+        sekretæren ha denne oppgåva).</p>
+      </section>
+
+      <section>
+        <title>Teknisk sekretær</title>
+
+        <p>I mangel av eit betre namn blir den tredje stillinga her omtala som
+        «teknisk sekretær». Stillinga inneheld ei blanding av sekretærliknande
+        oppgåver, tekniske oppgåver og brukarkontakt, og krev «litt av alt».
+        Denne stillinga skal ha hovudansvaret for å planleggja, førebu og
+        setja i gang nye prosjekt. Dersom nye prosjekt blir sett i gang, er
+        det rimeleg at denne stillinga får ansvaret som koordinator eller
+        prosjektleiar for dei.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Organisering</title>
+
+      <p>Stillingane bør opprettast som permanente stillingar ved Sametinget.
+      I og med at stillingane ikkje er heiltidsstililngar, bør dei kombinerast
+      med andre oppgåver som ligg nære, t.d. ansvar for termdatabasen (både
+      terminologisk og teknisk). Det er til dels høgt spesialisert kunnskap
+      som krevst i alle stillingane, og det tek tid å byggja opp kompetansen
+      og erfaringa som trengst. Permanente stillingar er meir attraktive for
+      kvalifiserte søkjarar, og sikrar samtidig kontinuitet i arbeidet med
+      denne viktige delen av samisk språkrøykt.</p>
+
+      <p>Det noverande prosjektet legg ned mykje tid og ressursar på å byggja
+      opp kompetanse for framtida, og det bør leggjast vekt på å motivera
+      noverande prosjektmedarbeidarar til å halda fram i den permanente
+      driftsorganisasjonen. Ein kan ikkje rekna med at alle noverande
+      medarbeidarar vil halda fram (det er heller ikkje set av
+      stillingsressursar til det), men jo større personalkontinuitet det er
+      mogleg å få, desto betre for kontinuiteten i arbeidet og
+      kunnskapsoverføringa til nye medarbeidarar.</p>
+    </section>
+
+    <section>
+      <title>Budsjett</title>
+
+      <p>Dei tre stillingane i hop gjev ein total stillingsprosent på 250 %.
+      Med ein årskostnad på kring 600 000,- NOK pr heile stilling, tilsvarer
+      det 1 500 000,- NOK / år i lønsmiddel for den permanente
+      driftsorganisasjonen frå starten januar 2008. Pga at arbeidet krev høg
+      og spesialisert kompetanse, bør ein inkludera middel for etterutdanning
+      og reiser til relevante konferansar, samt (sam)arbeidsmøte med miljøet
+      ved Universitetet i Tromsø. Forslag til budsjett ser dermed ut som
+      fylgjer:</p>
+
+      <table>
+        <caption>Årsbudsjett for permanent driftsorganisasjon</caption>
+
+        <tr>
+          <th>Budsjettpost</th>
+
+          <th>Sum</th>
+        </tr>
+
+        <tr>
+          <td>Løn</td>
+
+          <td>1 500 000,-</td>
+        </tr>
+
+        <tr>
+          <td>Etterutdanning, konferansar, reiser</td>
+
+          <td>300 000,-</td>
+        </tr>
+
+        <tr>
+          <th>Totalt</th>
+
+          <th>1 800 000,- NOK</th>
+        </tr>
+      </table>
+
+      <p>Budsjettet inkluderer ikkje utgifter til nye prosjekt.</p>
+    </section>
+  </body>
+</document>

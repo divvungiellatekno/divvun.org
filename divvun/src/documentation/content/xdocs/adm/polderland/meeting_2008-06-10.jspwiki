@@ -1,0 +1,50 @@
+!!!Meeting with Polderland 10.6.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+!!!Since last time
+
+!!Polderland
+
+Re-started work on InDesign/windows.
+Will do Mac Office 2008 when SW from MS arrives
+
+
+* According to MS, we should be receiving Mac office 2008 about now:
+  MS person who promised delivery of word 2008 visits us on thursday,
+  I think there is a big chance that he will actually bring it with him
+* OpenOffice: possibility still open.
+
+!!Divvun
+
+* again compiled and distributed internally a new speller version, fixing a few
+  more bugs - there are still some left (linguistic bugs only, AFAIK)
+* releasing other hunspell distributions THIS week
+
+!!Bug status
+
+!Solved/cancelled
+
+!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+
+!!PLD Priority list
+ 
+# Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
+# InDesign proofing tools for Windows *** PENDING
+
+!!!Next meeting
+
+Next week (17.6.) at 09.30 Dutch/Norwegian time.

@@ -1,0 +1,83 @@
+!!!Meeting with Polderland 28.11.2006
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* since last time
+* questions and answers
+
+
+
+!!Since last time
+
+__Polderland:__
+
+* Alpha drop:
+** speller is ready;
+** some difficulties with integrating speller in hyphenator;
+   overcome (windows), migrated to Mac, now testing
+** mklex: current version has difficulties with >> lexicon;
+   investigating modifications 
+
+__Divvun:__
+
+* provided new batch of hyphenated data
+* sent clitic problem via e-mail to Polderland
+* sent first round of PLX data to Polderland
+* worked on making complete PLX data set - all nouns now generated
+
+
+
+!!Alpha version
+
+!Spellers
+
+Both {{sme}} and {{smj}}. The {{sme}} version will be using the latest, 20Gb
+lexicon, if possible.
+
+!Hyphenators
+
+Will use only the limited data delivered to Polderland, and use the fallback
+algorithm for all words not in the lexicon. It will provide a nice test case
+for the fallback algorithm:-)
+
+!!Possible issues
+
+PLX format from Divvun not yet tested, needs to be to find possible issues with
+it.
+
+!Hyphenation
+
+In Dutch: "ie" either 1 vowel, or a combination of 2: i + e;
+in the second case, the e is written as ë to prevent confusion, but when
+hyphenated, the {{ë}} is "normalised": {{ië -> i-e}}
+
+This is not the case in Sámi languages, all characters are always "themselves".
+
+!Case in PLX entries
+
+Now always what it should be, earlier there were parallel forms of the same
+word, only with initial case differing. Example of the present (and correct)
+situation:
+{{{
+Oslo, Oslos
+oslolaš, oslolažžat (pl) "person(s) from Oslo"
+}}}
+
+!!Next meeting
+
+Next Tuesday (5.12.) at the usual time.
+
+!!!TODO:
+* continue to improve hyphenation (__Sjur__ and __Thomas__)
+* make complete PLX data set (__Tomi__)
+* get language codes to work with Mac Office 2004 (and check MacOffice 2007)
+  (__Polderland__)
+* deliver Alpha versions (__Polderland__) including mklex + hyphen script
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do)

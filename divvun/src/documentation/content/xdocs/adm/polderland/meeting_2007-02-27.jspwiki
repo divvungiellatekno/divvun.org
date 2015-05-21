@@ -1,0 +1,116 @@
+!!!Meeting with Polderland 27.2.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* thanks for resource fork help. Better than what we had.
+* beta drop completed except for hyphenators and lexicon test software.
+* lexicon test software and MS office hyphenators completed, ready to drop.
+* provided help with lexicon compilation issues (UTF8)
+* looked into suggestion issues (phonetic rules + hyphens)
+
+
+
+!Divvun:
+
+* Several new speller lexicons compiled. The latest (from yesterday) fixes most
+  of the outstanding bugs in the original beta: most closed POSes are now
+  included (acronyms and some abbreviations still missing) + auxiliary verbs,
+  and compounding works according to the default pattern. There are still too
+  many unrecognised words, mainly caused by the missing derivations. We have
+  thus decided to postpone the public beta release until we have included them.
+  New public beta release date is March 15.
+* reply from Microsoft - looks bad regarding MS Office 2004/Mac:
+
+{{{
+Apologies about the delay. This is indeed a shortcoming of the application.
+The product team is currently looking at how it can be addressed moving
+forward.
+
+For Office 2004, the only global language setting I'm aware of is the one in
+the Custom tab in the document properties window.  There you can set the
+Name field to "Language" then set the Type to text and enter the value
+"Saami."  Obviously this doesn't provide object-model support via language
+settings.
+}}}
+
+!!Possible issues
+
+!Updating installer packages
+
+We (ie Divvun) can now easily compile our own speller lexicons - thanks for the
+tools:-)
+
+But we also need to place that speller lexicon file over the old one within the
+installation packages. For that I assume we need the original installation
+package script (or whatever it is called), and for Win we also - I assume - need
+the software used to create the installer? (the corresponding software is
+included on the Mac, as part of the developer tools).
+
+!PLX format
+
+{{{
+bii^la  NIR     +N+Sg+Nom
+bii^la  NAL     +SgNomCmp
+}}}
+
+These two are ''in effect'' identical to the following (but the internal
+representation might be different):
+{{{
+bii^la  NIALR
+}}}
+Thus, it is ok and working as intended.
+
+!Testing
+
+Divvun needs the command-line testing tool(s) mentioned earlier.
+
+!Default phonetic rules
+
+Can these be updated to allow hyphenation, or should Divvun add them? Divvun
+don't know what the default rules are:-)
+
+!!Next meeting
+
+Next Tuesday (6.3.) at the usual time.
+
+!!!TODO:
+* send "default" phonetic rules (__PLD__)
+* discuss: add hyphens to default phonetic rules? (__PLD__)
+* discuss: how to include new lexicons in installer (__PLD__)
+* (__PLD__) check whether replacing lexicon on Mac requires change to
+  resource fork in speller shared library
+** no, but "old" resource fork must be attached to new lexicon
+*** command-line solution found and sent to Polderland
+* send prefix with spelling error penalties (head of fon.rule file)
+** part of beta drop
+*** not needed
+* check: installer on Mac should be able to:
+** move existing proofing tools out of the way (into a zip archive?)
+** restore "original" proofing tools on deinstallation
+*** yes, but some residues remain after de-installation.
+*** solution probably requires admin rights - will document
+* check if Sami-codes are included in Office 2008 / Mac (__PLD__)
+** appears not to be the case in last Beta (nov 2006)
+*** not yet, see answer from MS above
+* get language codes to work with Mac Office 2004 (and check Mac Office
+  2008) (__Polderland__)
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do) (__Polderland__)
+* send link to cvs checkout info (__Sjur__)

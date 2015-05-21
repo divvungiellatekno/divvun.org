@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Text-to-speech</title>
+    </header>
+    <body>
+        <note label="News!">North Sámi text-to-speech released
+        6.5.2015!</note>
+
+        <p><a href="/index.html">Divvun</a> and <a
+        href="http://sametinget.no">the Norwegian Sámi Parliament</a> has
+        developed a North Sámi speech synthesis system in cooperation with <a
+        href="http://www.acapela-group.com/">Acapela</a>. Speech syntehsis, or
+        text-to-speech (TTS), allows the computer to transform text to
+        natural speech in many applications. By using a screen reader
+        (must be installed separately) all text on the screen can be read aloud.
+        There are two Sámi voices, one female voice ("Elle") and one male voice
+        ("Biera").
+        </p>
+
+        <p>The North Sámi text-to-speech system is available in two versions
+        for end users:</p>
+        <ul>
+            <li><strong>North Sámi Infovox 4 for Windows</strong></li>
+            <li><strong>North Sámi iVox for OS X</strong></li>
+        </ul>
+
+        <p>North Sámi Infovox (for Windows) is delivered on a USB dongle, which
+        can be ordered free of charge from the Norwegian Sámi Parliament or <a
+        href="mailto:feedback@divvun.no">from the Divvun group at UiT
+        (feedback@divvun.no)</a>. The USB dongle is for one user only, but can
+        be removed from the computer after installation. The USB dongle makes it
+        possible to use the North Sámi speech syntheis on other computers than
+        one's own, by bringing it along and plug it into a different computer
+        and then starting the speech synthesis application directly from the
+        USB dongle without installing anything. More detailed instructions can
+        be found <a href="infovox4.en.pdf">here</a>.</p>
+
+        <p>iVox for OS X can be downloaded and installed free of charge from
+        <a href="http://www.assistiveware.com/product/infovox-ivox/resources"
+        >here</a>. To activate and put the North Sámi voices to use one needs an
+        activation code. This code can be had free of charge by contacting the
+        <a href="mailto:feedback@divvun.no">Divvun group at
+        UiT (feedback@divvun.no)</a>. Instructions for installation and use
+        can be found <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
+        >here (in Swedish)</a> and <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
+        >here (in English)</a>.
+        </p>
+
+        <p>Acapela has <a class="fork" href="http://www.acapela-group.com/">a demo page</a> where you can try the North Sámi
+        voices on a text of your own.
+        </p>
+
+        <p>Is it possible to adapt the voices to your own needs. There are
+        instructions in the Acapela <a href="Manual_Sami.pdf">language manual
+        for North Sámi.</a> The Manual covers mainly how the voices will
+        read certain constructions, but chapter 6 and 7 describes how to
+        add your own pronunciations and words.</p>
+
+        <section>
+            <title>Institutional licenses</title>
+            <p><a href="mailto:feedback@divvun.no">Contact Divvun</a> if
+            you need licenses for many users at once, e.g. for a whole
+            company or institution. If you want to install the voices on a
+            server with TTS serivces, please contact Acapela (contact info
+            below).</p>
+        </section>
+
+        <section>
+            <title>For developers</title>
+
+            <p>The North Sámi text-to-speech system is available in several
+            versions targeted at developers and others who want to integrate
+            the synthesis in specific applications and systems:</p>
+
+            <ul>
+              <li>SDK: Acapela TTS for Windows – PC    </li>
+              <li>SDK: Acapela TTS for Windows – Server</li>
+              <li>SDK: Acapela TTS for Linux – Server  </li>
+              <li>SDK: Acapela TTS for OS X        </li>
+            </ul>
+
+            <p>The SDK versions must be ordered directly from Acapela. Get in
+            touch with Susanne Magnusson (<a
+            href="mailto:susanne.magnusson@acapela-group.com"
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) for
+            questions related to these versions.</p>
+
+        </section>
+
+   </body>
+</document>

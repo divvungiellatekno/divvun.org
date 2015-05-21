@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+    <header>
+        <title>Installation on iOS (iPhone / iPad / iPod)</title>
+    </header>
+    <body>
+        <p>After downloading the app from the App Store, your homle screen could
+            look like this:
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Home screen with Sami Keyboards"/>
+        </p>
+        <p>Open the app:</p>
+        <p>
+            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="The app page."/>
+        </p>
+        <p>Press the link «Open Preferences»</p>
+        <p>Select
+<strong>
+«General &gt; Keyboard &gt; Keyboards &gt; Add new keyboard...»
+</strong>
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_general.no.png"          alt="Select General"/>
+            <img width="213" src="images/ios_keyboard.no.png"         alt="Select Keyboard"/>
+            <img width="213" src="images/ios_keyboards.no.png"        alt="Select Keyboards"/>
+            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Select Add new keyboard..."/>
+        </p>
+
+        <p>Under the text «Third party keyboards» choose «Sami keyboards»:</p>
+
+        <p>
+            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Select Sami Keyboards"/>
+        </p>
+        <p>Enable the keyboards you want to use:</p>
+        <p>
+            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Enable keyboards"/>
+        </p>
+        <p>The installation is done!</p>
+
+        <p>To switch to a Sami keyboards, touch and hold the globe key to the
+            left of the space key:</p>
+        <p>
+            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Keyboard selection menu"/>
+        </p>
+
+        <p>You may also just touch the globe key repeated times till you get th
+            keyboard you want.</p>
+
+        <p>Please note that touch-and-hold does not work when one of the Sami
+            keyboards is active. This is a <link
+        href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
+        >limitation by Apple</link> («there is no API to obtain a list of
+        enabled keyboards or for picking a particular keyboard to switch to»),
+        and concerns all third party keyboards.</p>
+
+    </body>
+</document>

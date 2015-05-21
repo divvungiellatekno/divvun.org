@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+	<title>Sami spell checking in MacOS X</title>
+
+		<authors>
+			<person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+		</authors>
+    </header>
+
+    <body>
+		<section>
+			<title>Sami spell checking in MacOS X (Snow Leopard)</title>
+			<p>
+				If you install the North, Lule and South Sami hunspell dictionaries, you can get system wide spelling support for these languages. 
+			</p>
+			<p>
+			Download and unzip our <a href="http://divvun.no/static_files/smi.zip">hunspell dictionaries</a> and follow the <a href="http://www.divvun.no/doc/infra/snow-leopard-upgrade.html#Direct+support+for+hunspell+files">instructions</a> and voilá, you get system wide sami spell checking.
+			</p>
+		</section>
+	</body>
+</document>

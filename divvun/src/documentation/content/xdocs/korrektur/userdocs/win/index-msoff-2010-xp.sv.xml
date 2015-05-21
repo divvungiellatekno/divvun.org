@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installera och använda Divvun med MS Office 2010</title>
+   </header>
+   <body>
+     <ol>
+       <li>Installera Divvun på:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li>MS Windows XP</li>
+         </ul>
+       </li>
+       <li>Ta fram samiskt tangentbord i:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li><a href="enable-keyboard-xp.html">MS Windows XP</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2010-win7-sme-nob.html">Använda Divvun i MS Office 2010</a></li>
+     </ol>
+   </body>
+</document>

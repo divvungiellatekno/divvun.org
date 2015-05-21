@@ -1,0 +1,75 @@
+!!!Velkomen
+
+* til seminaret
+* takk til alle som kunne koma
+* takk for at de vil hjelpa oss med prosjektet
+
+!!!Kven vi er
+
+Presentasjon av alle som er til stades.
+
+Oversikt over miljøet som arbeider med samisk språkteknologi:
+
+* Divvun-prosjekta (skal bli permanente etter Divvun II)
+** vi som er til stades
+** Per-Eric Kuoljok
+* Senter for samisk språkteknologi, UiT:
+** Lene Antonsen
+** Biret Anne Bals
+** Ciprian Gerstenberger
+** Saara Huhmarniemi
+** Trond Trosterud - senterleiar
+** Linda Wiechetek
+* to arbeidsgjevarar (UiT og SD), men eitt miljø - vi samarbeider nært
+
+!!!Praktiske opplysningar
+
+* transport mellom hotell og Dragvoll: buss, bil (i tilfelle det er nokon som køyrer), ca full drosje
+* middag tysdag:
+** nokon som ikkje kan koma?
+** kva vil de ha å eta? legg fram menyen
+** nokon som treng hjelp med å finna fram?
+* svømmehall torsdag
+
+
+!!!Kvifor
+
+Ein stavekontroll er sjølvsagt ikkje redninga for eit einaste språk. Men samfunnet er digitalt i dag, og den oppveksande ungdomen er det òg. Dersom språket skal vera relevant for dei, må dei kunna bruka det i det digitale samfunnet. Det same gjeld byråkrati og saksbehandling, m.m.
+
+Vi legg grunnen for å bruka dei samiske språka i det digitale samfunnet. Det er vårt bidrag til å styrkja språka.
+
+* kva vi har laga/gjort:
+
+!!Grunnteknologi
+
+* morfologisk analysator - tekst inn, alle analyser ut, føresetnad for alt anna vi gjer
+** normativ (godkjenner/analyserer berre det som er offisielt korrekt, grunnlag for m.a. stavekontroll, elektronisk ordbok med "intelligens", m.fl.)
+** deskriptiv (analyserer òg vanlege uoffisielle variantar, men tilfeldige skrivefeil blir ikkje analyserte)
+
+* syntaktisk analysator - mange morfologiske analyser inn, eintydige analyser ut, + syntaktisk funksjon, og syntaktiske tre
+** grunnlag for verkty som krev ein syntaktisk kontekst, som grammatikkontroll, termfinningsverkty, analyserte korpus
+
+!!Produkt for samisk
+
+* stavekontroll for nord- og lulesamisk
+** MS Office
+** Adobe InDesign (trykksaksproduksjon)
+** OpenOffice (gratisalternativ - betaversjon for tilfellet)
+* automatisk og korrekt orddeling for nord- og lulesamisk
+** MS Office
+** Adobe InDesign (trykksaksproduksjon)
+* pedagogiske program (språklæringsspel) som "forstår" kva eleven skriv, og svarar relevant - [http://oahpa.uit.no]
+* grammatikkspel
+* elektronisk ordbok: nordsamisk -> norsk
+
+!!Produkt for andre språk (berre UiT i samarbeid med andre)
+* stavekontroll og orddeling for grønlandsk
+
+!!I arbeid
+
+* stavekontroll og orddeling for sørsamisk
+
+!!Godkjende planar
+
+* talesyntese for nordsamisk
+

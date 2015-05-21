@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 14, februar 2006</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I februar vart dei delane som skal til underleverandørar endeleg lyst
+      ut i heile EU/EØS-området, medan det lingvistiske arbeidet framleis vart
+      hemma pga sjukdom; trass i dette tok vi eit viktig steg framover med
+      lulesamisk i februar: vi integrerte storparten av orda frå ordboka til
+      Anders Kintel. Arbeidet har vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>tekstinnsamling: vi sende kontrakten for å lisensiera tekstar til
+        fleire store tekstprodusentar, og ikkje minst til Anders Kintel for å
+        få eit lulesamisk leksikon å byggja vidare på. Vi byrja òg ein
+        diskusjon med Iđut for å lisensiera tekstane deira, særleg sidan dei
+        har ein del lulesamisk. Dei var i utgangspunktet veldig positive til
+        prosjektet vårt.</li>
+
+        <li>korpusorganisering: konstant forfining av infrastrukturen etter
+        kvart som vi bruker korpuset vårt meir og meir.</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: vi fekk endeleg ordboka til Anders Kintel, og fekk
+            lagt inn store delar av henne den siste veka i februar. Det vart
+            viktig å få eit fungerande lulesamisk leksikon før 1. mars, i
+            motsett fall ville universitetsprosjektet ha måtta leggja ned alt
+            lulesamisk arbeid, som òg ville ha fått konsekvensar for vårt
+            prosjekt. Heldigvis greidde vi å laga ein fyrste "fullversjon"
+            ("fullversjon" i motsetning til ) av leksikonet innan
+            fristen.</li>
+
+            <li>nordsamisk: Thomas var sjukmeldt til 18. februar, og pga
+            arbeidet med lulesamisk over vart arbeidet med nordsamisk
+            konsentrert om å leggja til nye ord, og få tak i vedtaka frå
+            SGL-møtet i desember.</li>
+          </ul></li>
+
+        <li>namneleksikon: arbeidet med å byggja ut risten.no for namnebasen
+        (og meir generelt for fleire parallelle basar) har gått vidare.</li>
+
+        <li>Stavekontroll: ingen ting i februar.</li>
+
+        <li>Utlysing av delar av prosjektet: utlysingsgrunnlaget
+        (grunnlagsdokumentet) vart ferdig, og oppdraga vart sendt til den
+        norske basen 13. februar, som sendte dei vidare til EU-basen.
+        Grunnlagsdokumentet vart 1. mars sendt ut til alle firma som viste
+        interesse då eg planla prosjektet. Innleveringsfrist for tilboda er
+        18. april.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har alt i alt halde fin framdrift i februar.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

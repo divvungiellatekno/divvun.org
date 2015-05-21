@@ -1,0 +1,64 @@
+!!!Meeting with Polderland 27.5.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+!!!Since last time
+
+!!Polderland
+
+Still focussing on other tasks, will do Mac Office 2008 when SW from MS arrives
+
+* Microsoft has agreed to supply Office 2008 for the Mac, waiting for arrival
+  (might take some time) (... tick ... tick ... tick ... tick ...)
+  (status asked, no answer yet) (... tick ... tick ... tick ... tick ...
+  tick ...)
+  Frank thinks creating an MS office 2008 proofing version without access
+  to MS office 2008 will only lead to non-functioning untested SW and
+  lots of superfluous communication, and he's probably right.
+  Try to plan it in for 1st week of june
+* basic version of InDesign/InCopy on windows runs, cleaning up before send
+* hyphenation issue in bug 679: the inserted hyphen is at a position
+  where a soft-hyphen is already in the word. No special treatment, insert
+  is effectively ignored.
+  Hyphenation is correct but not optimal: end user wants to override
+  hyphenation position proposed by InDesign, but can't.
+  => check complexity of doing that
+* considering doing an OpenOffice speller for some languages
+
+!!Divvun
+
+* tested both PL dictionary apps - seems quite good and to the point.
+* again compiled and distributed internally a new speller version, we're working
+  towards the 1.1 update
+* probably releasing hunspell public beta this week
+
+!!Bug status
+
+!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 676 | xxx | guovttenuppelot--Čoarvvegiin - both rejected and suggested
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 656 | xxx | User word list "gets full" (as reported by users): repro only if millions of words are added, but related to memory. Word gets very slow if the list goes over 100 000 words or so. This is in Office 11 (2003). In Office 12 (2007) the user dictionary is managed entirely by Word, but do not give problems either with big dictionaries. -> feedback from users on version. -> request forwarded -> Microsoft Windows XP Professional 5.1.2600 SP2, Word 2003, RAM unknown, potentially problem with the word "IEŠGUĐETLÁDJE". The user is using one of our public betas, not the latest release. We will ask her to upgrade, and see if that helps. -> Nothing new, we will remind her.
+
+!!PLD Priority list
+ 
+# Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
+# InDesign proofing tools for Windows *** PENDING
+
+!!!Next meeting
+
+Next week (3.6.) at 09.30 Dutch/Norwegian time.

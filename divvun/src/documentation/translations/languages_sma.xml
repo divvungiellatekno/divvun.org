@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+<catalogue
+xml:lang="nb"
+><message
+key="en"
+>Daate sæjroe lea Englaantengïelese</message
+><message
+key="es"
+>Daate sæjroe lea spanskegïelese</message
+><message
+key="nl"
+>Denne siden på nederlandsk</message
+><message
+key="de"
+>Daate sæjroe lea tyskegïelese</message
+><message
+key="fr"
+>Daate sæjroe lea frankrïjhkengïelese</message
+><message
+key="se"
+>Daate særjoe lea noerhtesaemiengïelese</message
+><message
+key="nb"
+></message
+><message
+key="nn"
+>Daate sæjroe lea orredaaroengïelese</message
+><message
+key="no"
+>Daate sæjroe lea daaroengïelese</message
+><message
+key="sv"
+>Daate sæjroe lea sveerjengïelese</message
+><message
+key="fi"
+>Daate sæjroe lea Suomigïelese</message
+><message
+key="smj"
+>Daate sæjroe lea julevsaemiengïelese</message
+><message
+key="sma"
+>Daate sæjroe lea åarjelsaemiengïelese</message
+></catalogue
+>

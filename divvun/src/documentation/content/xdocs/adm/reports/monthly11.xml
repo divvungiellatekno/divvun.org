@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 11, november 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>November har vore prega av viktige lingvistiske framsteg med
+      lulesamisk, arbeid med risten.no, og ein del arbeid kring
+      nyorganiseringa av namn. Arbeidet har vore fordelt på desse
+      hovudpunkta:</p>
+
+      <ul>
+        <li>tekstinnsamling:<ul>
+            <li>korpuskontrakt: vi har endeleg fått ferdig omsetjingane av
+            originalkontraktane frå Helsingfors universitet, inklusive
+            tilbakemeldingar og korrigeringar frå professor Kimmo Koskenniemi.
+            No skal våre eigne versjonar justerast i høve til korrigeringane i
+            omsetjingane, og deretter skal juristane ved Sametinget og
+            Universitetet i Tromsø ta ein siste sjekk.</li>
+
+            <li>innsamling: ein del tekst har vorte samla inn frå Sametinget
+            og Odin (offentlege dokument). Elles har det ikkje hendt så mykje
+            på den fronten i oktober, vi ventar på å få kontrakten
+            ferdig.</li>
+          </ul></li>
+
+        <li>korpusorganisering: arbeidet med infrastrukturen har gått vidare
+        medan vi ventar på at arbeidet med kontraktane skal bli ferdig.</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: vesentlege framsteg vart gjorde med dei problema
+            som stod att frå oktober. Lulesamisk er no nærmast så ferdig som
+            han kan bli til vi får tilgang til eit leksikon og
+            korpustekstar.</li>
+
+            <li>nordsamisk: nordsamisk blir kontinuerleg oppdatert med nye
+            ord, og arbeidet med å korrigera og utvikla den delen som tek seg
+            av samansetjingar og avleiingar vart påbyrja. Problema med
+            kommunikasjonen med Sámi giellalávdegoddi og allment kring
+            normering av samisk vart diskutert, og vi vil prøva å få til eit
+            seminar kring problema der vi inviterer alle medlemmene av SGL.
+            Seminaret bør bli ein gong utpå vinteren eller våren, etter at dei
+            nye medlemmene av SGL er valde og har organisert seg.</li>
+
+            <li>namneleksikon: arbeidet har gått framover, og vi har arbeidd
+            vidare med planen om at det nye namneleksikonet skal liggja på
+            risten.no. Alle over 36 000 namn har vorte merka opp med tanke på
+            eit nytt og betre namneleksikon (i all hovudsak gjort av
+            UiTø-prosjektet).</li>
+          </ul></li>
+
+        <li>Termbasen: ein teknisk feil i slutten av november gjorde at
+        risten.no var ute av drift i over ei veke - det tok tid å retta opp
+        feilen, og etablera betre rutinar. Dei nye rutinane skal hindra at det
+        ikkje tek lang tid å få termbasen på plass igjen dersom det blir
+        tekniske problem seinare, og heller ikkje at vi mister data.</li>
+
+        <li>Stavekontroll: ingen ting - stavekontrollen vil liggja ei stund
+        no, medan vi arbeider med andre saker.</li>
+
+        <li>Utlysing av delar av prosjektet: minimumskrav med tanke på kva for
+        versjonar av program og operativsystem vi skal støtta vart diskuterte
+        med relevante fagmiljø, og tilsvarande dokument oppdaterte.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Framdrift som planlagd, sjølv om det ser ut til å ta lenger tid med
+      utlysinga enn fyrst tenkt.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,91 @@
+!!!Meeting with Polderland 3.10.2006
+
+Participants:
+* Peter Beinema
+* Thomas Omma
+* Sjur Moshagen
+* Tomi Pieski
+
+
+
+!!Agenda
+
+* since last time
+* phonetic rules (correction)
+* hyphenation data
+* questions and answers
+
+
+
+!!Since last time
+
+__Polderland:__
+* all north Saami words used for regression test
+* spelling checker now runs on:
+** windows PC, for office 10 (XP) / 11 (2003) / 12 (2007)
+** Mac OS, Office 12 (2007)
+** to be done for both Mac and Win:
+*** localization (using proper locale)
+*** language codes (---"--- language codes)
+*** include phonetic rules in lexicon,
+*** include compound information (waiting for compounding info)
+*** add hyphenation information (waiting for hyphenated data)
+** Mac OS, Office 10 / 11 (spelling checking works, suggestions not yet)
+** to be done/Mac Office 10/11:
+*** Same as for above
+*** get suggestion mechanism running (MS Speller API issue) 
+*phonetric rules received
+** not included in lexicon yet
+** feed-back to Thomas on penalty mechanism
+
+
+__Waiting for:__
+* compounding information in North Saami lexicon
+* hyphenation information in North Saami lexicon
+* Lule Saami lexicon (+ charset used +  phon rules + hyph + compounding info)
+
+
+__Divvun:__
+* has improved hyphenation routines, but still more work to do
+* updates to our lexicons
+* work on the proper speller data generation in PLX format
+
+
+!!Phonetic rules
+
+Can we write a rule to transform {{ss}} into {{šš}}? Yes, we can.
+Please see documentation in separate e-mail.
+
+!!Lule Sámi
+
+Core alphabet:
+{{{
+ a á b c d e f g h i j k l m n ŋ o p q
+ r s t u v w x y z å ä ø ö å æ
+ -
+}}}
+
+The following characters are used in names:
+{{{
+ é ó ú í è ò ù ë ü ï â ê ô û î ã ý
+ ç č đ ð ñ š ŧ
+}}}
+
+Not presently used, althoug defined in the Divvun source files:
+{{{
+ à ì þ ß ª
+}}}
+
+!!Hyphenation
+
+Divvun has a problem with the (present) hyphenation system, it breaks down in the midle of 'a'. Divvun will continue to work on the issue, but Polderland has the Divvun Xerox-style, rewrite rules, which they can study if they find them useful.
+
+Divvun can presently provide a subset of the data as hyphenated.
+
+!!!TODO:
+* continue to improve hyphenation (__Sjur__ and __Thomas__)
+* continue with speller data generation/conversion (__Tomi__)
+* continue with Office integration (__Polderland__)
+* deliver updated data sets, including Lule Sámi (__Sjur__ and __Børre__)
+* check Lule Sámi character set needed (cf those defined in the twol file)
+  (__Sjur__)

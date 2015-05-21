@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+   <header>
+      <title>InDesign korrekturverktøy-dokumentasjon</title>
+   </header>
+   <body>
+      <p>Divvun-verktøyene for InDesign har tidligere bare støttet InDesign CS3 på grunn av manglende støtte for nyere
+      versjoner fra underleverandøren vår. Men med InDesign CS 5.5 støtter InDesign de samme rettksrivingsverktøyene som
+      OpenOffice/LibreOffice, som Divvun har støttet med en betaversjon i flere år. Divvun-gruppa vil derfor gå over til
+      å bruke verktøyene for OpenOffice/LibreOffice i InDesign. Dette betyr også at vi fra og med InDesign CS 5.5 kan
+      støtte InDesign på Windows.</p>
+      <p>Nedenfor finner du installeringsinstruksjoner for både InDesign CS3 og InDesign CS 5.5. CS4 og CS5 er ikke
+      støttet, og kommer heller ikke til å bli det. Støtte for CS6 er sannsynligvis identisk med CS5.5, men har ikke
+      blitt testet eller dokumentert.</p>
+      <section>
+         <title>InDesign CS3</title>
+         <p>Korrekturverktøykomponentene for InDesign CS3 er bygd på samme teknologi og arkitektur som
+         korrekturverktøyene for MS Office. Det finnes <a href="http://divvun.no/doc/proof/hyph/MSOff/index.html">en egen side</a> som
+         dokumenterer hvordan orddelinga fungerer.</p>
+         <p>Korrekturverktøy for InDesign leveres for både nord-, lule- og sørsamisk. De virker bare med
+         MacOSX-versjonen av InDesign. Det kreves InDesign CS3.</p>
+         <section>
+            <title>Nedlasting og installering</title>
+            <p>Følg disse instruksjonene:</p>
+            <ol>
+               <li>Last ned <a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">siste versjon av
+               InDesign-installereren - en dmg-fil/indesign-divvuntools.dmg</a></li>
+               <li>Etter nedlastingen, åpne dmg-filen. Vinduet nedenfor burde dukke opp på skjermen:<br/><img
+               alt="divvun-DMG" src="images/divvun-dmg-cs3.png"/></li>
+               <li>Åpne installeringspakka (dobbelt-klikk), og følg instruksjonene:<br/><img alt="Divvun installer"
+               src="images/divvun-installer-cs3.png"/></li>
+               <li>Avslutt og start InDesign på nytt dersom programmet var i gang. Det var alt!</li>
+            </ol>
+         </section>
+         <section>
+            <title>Oppgradering fra en tidligere versjon</title>
+            <p>Installer på vanlig måte oppå den gamle versjonen ved å følge instruksjonene over.</p>
+         </section>
+         <section>
+            <title>Avinstallering</title>
+            <p>Du må manuelt flytte de følgende filene til søppelbøtta:</p>
+            <source>I mappa: /Applications/Adobe InDesign CS3/Plug-Ins/
+
+skal du slette disse filene:
+
+PldHypSamiLule.InDesignPlugin
+PldHypSamiNorthern.InDesignPlugin
+PldHypSamiSouthern.InDesignPlugin
+PldSplSamiLule.InDesignPlugin
+PldSplSamiNorthern.InDesignPlugin
+PldSplSamiSouthern.InDesignPlugin
+
+I mappa: /Applications/Adobe InDesign CS3/Plug-Ins/Dictionaries/
+
+skal du slette følgende mappe:
+
+Polderland</source>
+         </section>
+         <section>
+            <title>Tekniske krav</title>
+            <p>InDesign-korrekturverktøymodulene har følgende krav:</p>
+            <ul>
+               <li>InDesign CS3</li>
+               <li>MacOS X 10.4.8 eller nyere</li>
+            </ul>
+         </section>
+      </section>
+      <section>
+         <title>InDesign CS5.5</title>
+         <note>Støtta for InDesign CS5.5 er for tida på beta-nivå. Det finnes visse feil i stavekontrollen, og vi vet at
+         den automatiske orddelinga deler sammensatte ord dårlig. Orddeling er for tilfellet bare tilgjengelig for
+         nordsamisk. En offentlig tilgjengelig betaversjon er planlagt til 1. mai.</note>
+         <section>
+            <title>MacOSX</title>
+            <p>Follow these instructions:</p>
+            <ol>
+               <li>Last ned <a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">siste versjon av
+               InDesign-installereren - en dmg-fil/indesign-divvuntools.dmg</a></li>
+               <li>Etter nedlastingen, åpne dmg-filen. Vinduet nedenfor burde dukke opp på skjermen:<br/><img
+               alt="divvun-DMG" src="images/divvun-dmg-cs55.png"/></li>
+               <li>Åpne installeringspakka (dobbelt-klikk), og følg instruksjonene:<br/><img alt="Divvun installer"
+               src="images/divvun-installer-cs55.png"/></li>
+               <li>Avslutt og start InDesign på nytt dersom programmet var i gang. Det var alt!</li>
+            </ol>
+         </section>
+         <section>
+            <title>Windows</title>
+            <p>For tida tilbyr vi bare manuell installering for Windows-brukere. For å installere Divvun for InDesign CS
+            5.5 gjør følgende:</p>
+            <ul>
+               <li>last ned <a href="http://divvun.no/static_files/smi.zip">Hunspell-pakka</a></li>
+               <li>dobbeltklikk zip-fila du nettopp lasta ned</li>
+               <li>følg <a
+               href="http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html">disse
+               instruksjonene</a> med følgende endringer og tillegg:<ul>
+                     <li>bruk <code>*.aff</code>- og <code>*.dic</code>-filene fra zip-fila du nettopp lasta ned.</li>
+                     <li>du behøver ikke legge til landskode i mappenavnet, ISO 639-språkkoden er nok. Det vil si:
+                     <code>se</code> for nordsamisk, <code>smj</code> for lulesamisk, og <code>sma</code> for sørsamisk.
+                     aff- og dic-filene har allerede slike navn, bare bruk de samme navnene for mappene deres.</li>
+                     <li>forsikre deg om at filene har rett eier, gruppe og rettigheter. Det skal være:
+                     <code>root:admin</code>, og <code>read-only</code> for alle.</li>
+                  </ul></li>
+            </ul>
+         </section>
+         <section>
+            <title>Avinstallering (både MacOSX og Windows)</title>
+            <p>Det finnes ennå ingen avinstalleringsprogram, så manuell avinstallering er det eneste alternativet. Følg
+            instruksjonene <a
+            href="http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html">her</a>,
+            i slutten av avsnittet med tittelen "Method Two: Hunspell dictionary". Vi vil legge til et
+            avinstalleringsprogram senere.</p>
+         </section>
+      </section>
+      <section>
+         <title>Bruk</title>
+         <p>Korrektur for samisk virker nøyaktig som for et hvilket som helst annet språk. Følg InDesign-instruksene for
+         å slå på automatisk orddeling og løpende korrektur, og velg ett av språkene <code>Sami: Northern</code> eller
+         <code>Sami: Lule</code> i språklista. Teksten vil tilpasses med automatisk innskutte orddelingstegn der det er
+         nødvendig, og feilskrevne ord vil bli merket med rød understrekning.</p>
+      </section>
+      <section>
+         <title>Kjente problemer</title>
+         <p>Det finnes <a href="KnownIssuesForIndesignCS3.html">en egen side med ofte stilte spørsmål, kjente problemer, og
+         løsningsforslag</a>.</p>
+      </section>
+      <section>
+         <title>Tilbakemelding</title>
+         <p>Vi setter pris på enhver tilbakemelding på korrekturverktøyene, slik at vi hele tiden kan forbedre dem.
+         Tilbakemelding kan sendes via e-post til en av følgende adresser:</p>
+         <ul>
+            <li><a href="mailto:feedback@divvun.no">feedback@divvun.no</a></li>
+            <li><a href="mailto:divvun@samediggi.no">divvun@samediggi.no</a></li>
+         </ul>
+      </section>
+      <p class="last_modified">Last modified: $Date: 2008-11-05 19:52:54 +0200 (ons, 05 nov 2008) $, by $Author: boerre
+      $</p>
+   </body>
+</document>

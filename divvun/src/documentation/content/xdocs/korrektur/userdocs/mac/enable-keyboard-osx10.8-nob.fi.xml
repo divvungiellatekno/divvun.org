@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Saamenkielisen näppäimistön kytkeminen päälle MacOSX 10.8:ssa</title>
+   </header>
+   <body>
+      <section>
+         <title>MacOS X 10.8 -asetukset kirjoitettaessa saameksi</title>
+
+         <p>Ota käyttöön saamenkieliset näppäimistöasetukset, jotta voit
+         kirjoittaa saameksi.</p>
+
+         <p>1. Avaa <strong>Järjestelmäasetukset…</strong></p>
+
+         <p><img alt="Avaa &quot;Järjestelmäasetukset…&quot;"
+         src="images/enable_sme_keyboard-systempref_menu-osx10.8-nob.png" /></p>
+
+         <p>2. Osoita <strong>Kieli ja teksti</strong> tai kirjoita hakuteksti
+         hakukenttään:</p>
+
+         <p><img alt="Järjestelmäasetukset…"
+         src="images/enable_sme_keyboard-systemprefs-osx10.8-nob.png" /></p>
+
+         <p>3. Osoita <strong>Syöttölähteet</strong> ja valitse <strong>Pohjoissaame:
+         </strong></p>
+
+         <p><img alt="Saamenkielinen näppäimistö"
+         src="images/enable_sme_keyboard-select_sme-osx10.8-nob.png" /></p>
+
+         <p>4. Varmista että <strong>Näytä syöttövalikko valikkorivillä</strong>,
+         on valittuna:</p>
+
+         <p><img alt="Näytä syöttövalikko valikkorivillä"
+         src="images/enable_sme_keyboard-enable_keyboard_menu-osx10.8-nob.png" /></p>
+
+         <p>5. Velg til slutt det nordsamiske tastaturet i tastaturmenyen til høyre
+         i menyen når du skal skrive samisk:</p>
+         <p>5. Valitse pohjoissaamenkielinen näppäimistö näppäimistövalikosta, kun
+         haluat kirjoittaa saameksi:</p>
+
+         <p><img alt="Valitse saamenkielinen näppäimistö"
+
+         src="images/enable_sme_keyboard-select_sme_input-osx10.8-nob.png" /></p>
+      </section>
+   </body>
+</document>

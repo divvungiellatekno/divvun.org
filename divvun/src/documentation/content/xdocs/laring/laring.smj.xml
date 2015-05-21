@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Giellaoahppam</title>
+    </header>
+    <body>
+        <section>
+            <title>Gïelese</title>
+            <p>Dát la oarjjelsáme oahppamprográmma majt <a href="/index.html">Divvun</a> aktan <a href="http://aajege.no">Aajege</a>le åvddånahttám</p>
+            <ul>
+                <li><a href="http://gielese.no/play/">Næhttaæhppa</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.phonegap.gielese">Æhppa Androidaj</a></li>
+                <li><a href="https://itunes.apple.com/us/app/gielese/id945846042?mt=8">Æhppa iPhone/iPadaj</a></li>
+            </ul>
+        </section>
+        <section>
+            <title>Oahpa!</title>
+            <p><a href="http://oahpa.no/">Oahpa!</a> le interaktijvalasj giellaoahppamprográmma majt Giellatekno-juogos le buvtadam, ja vuodon dasi le  giellateknologijja åvddånahteduvvam 
+            <a href="/index.html">Divvunis</a> ja
+            <a href="http://giellatekno.uit.no">Giellateknos</a>.</p>
+            <ul>
+                <li><a href="http://oahpa.no/">Álggobielle divna gielajda</a></li>
+                <li>Direkte til <a href="http://oahpa.no/davvi/" >nordsamisk   Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/aarjel/">sørsamisk    Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/kiilt/" >kildinsamisk Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/nuorti/">skoltesamisk Oahpa!</a></li>
+                <li>Direkte til <a href="http://oahpa.no/aanaar/">enaresamisk  Oahpa!</a></li>
+                </ul>
+        </section>
+   </body>
+</document>

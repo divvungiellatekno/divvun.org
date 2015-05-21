@@ -1,0 +1,96 @@
+!!!Meeting with Polderland 13.3.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* test software sent, does not recognise UTF8 -> investigating
+** upgraded test software, now handles utf8 (requires option -u8).
+   Sorry for forgetting to mention the option immediately.
+* lexicon issue: "WI" words ignored under certain circumstances.
+  This is on purpose: used to be regarded as somewhat "lesser" word class.
+  investigating impact of changing this.
+** Divvun is presently pregenerating the closed POSes including clitics, which
+   means we do not need the clitics for the W entries
+** but PLD is interested in finding out what led to this way of handling data
+* windows installer: check if executable winzip version will run
+  setup.exe automatically
+* send all files + instructions to create mac .pkg/.pax installer
+
+!Divvun:
+
+* new speller test tools working fine with the UTF-8 bug fixed
+** found a new, smaller issue with the test tool skipping lines beginning with
+  non-letters (ie numbers, hyphen). It should test those as well.
+* derivations added to the PLX dataset, but the conversion to PLX is now
+  extremely slow - working on fixing it
+* automated testing partially built, but will need some more work
+* also created an AppleScript to run text documents through the speller using
+  MS Word - it will allow us to test spellers for other languages, and compare
+  their behaviour with ours, as well as check consistency between the
+  command-line tool and the MS Word behaviour:-) (it is very slow, though)
+  (it is in {{gt/script/*.applescript}}, usage example towards the end of
+  {{gt/Makefile}})
+
+
+!!Possible issues
+
+!Updating installer packages
+
+We (ie Divvun) can now easily compile our own speller lexicons - thanks for the
+tools:-)
+
+But we also need to place that speller lexicon file over the old one within the
+installation packages. For that I assume we need the original installation
+package script (or whatever it is called), and for Win we also - I assume - need
+the software used to create the installer? (the corresponding software is
+included on the Mac, as part of the developer tools).
+
+The tools used:
+* Windows: InstallShield + small executable asking for the language to install
+* Mac: Apple Installer tool
+
+
+
+!!Next meeting
+
+Next Tuesday (20.3.) at the usual time.
+
+!!!TODO:
+* check handling of lines by test software: lines starting with non-alpha
+  skipped? cf. types-err-sme.txt: first 7 lines skipped
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+* send all files for mac installer + instructions
+* setup-text for windows installer: does language chosen
+  refer to installer interface, or to language to be installed?
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+* discuss: how to include new lexicons in installer (__PLD__)
+* check: installer on Mac should be able to:
+** move existing proofing tools out of the way (into a zip archive?)
+** restore "original" proofing tools on deinstallation
+*** yes, but some residues remain after de-installation.
+*** solution probably requires admin rights - will document
+* check if Sami-codes are included in Office 2008 / Mac (__PLD__)
+  (when beta arrives with codes) (__Polderland__)
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do) (__Polderland__)
+* send speller lexicon (or CVS tag) for the beta release to Polderland
+  (__Sjur__)

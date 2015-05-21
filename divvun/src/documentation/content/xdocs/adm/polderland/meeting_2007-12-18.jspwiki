@@ -1,0 +1,76 @@
+!!!Meeting with Polderland 18.12.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+!!!Since last time
+
+!!Polderland
+
+* inDesign spellers work except for custom dictionaries (FN)
+* bug 602 and 605: North Sami Sweden + Finland not recognized: error in speller
+  (and speller part of hyphenator): alternative language codes installed
+  and passed by office correctly, but incorrectly handled inside speller -
+  fixed (can be dropped immediately). 
+* bug 607: yet another suggestion-recognition mismatch.
+  Has to do with compounds with first part all uppercase,
+  second part all lowercase. Not trivial, will not be fixed this week.
+
+Next drops:
+* hyphenator for InDesign
+* speller for InDesign. Deadline: before merger of Sami newspapers (-> daily)
+  3 weeks of testing required -> drop: ultimately 1st week of januari
+
+!!Divvun
+
+* released version 1.0!
+* found and reported two installation bugs (602+605)
+* also found some linguistic bugs
+* plan a 1.0.1 release this week
+* received a working InDesign hyphenator, used in the demo at the release
+
+
+!!Bug status
+
+!Solved/cancelled
+||Div ||Pld ||Description
+| 461 | 448 | Spelling errors with editing distance 1 => most phon-rules now removed, now down to 56.
+| 576 | xxx | Speller does not accept the correct string, but do suggest the same as input. Possibly has to be reopened, pending more information from Audun
+| 585 | xxx | northsami (Sweden and Finland) triggers lulesami (Office 12)
+| 602 | xxx | North Sami speller (Sweden and Finland) do not work - fixed, will be dropped today
+| 605 | xxx | North Sami hyphenator (Sweden and Finland) do not work - fixed, will be dropped today
+| xxx | yyy | Hyphenator bugs
+
+!To be solved by Divvun
+||Div ||Pld ||Description
+| 564 | xxx | Win installer asking for non-existing disk
+
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 607 | xxx | acro-compounds without hyphen - suggestion rejected
+
+!!Priority list
+
+# drop windows speller/hyphenator with bug 602 and 605 fixed
+# indesign speller (drop without custom dictionary first, with immediately when available)
+
+
+!!!Schedule
+
+* December 18: bug 602 + 605 fix
+* January   4: Indesign Speller + 607 fix
+
+!!!Next meeting
+
+Wednesday in 2 weeks (2.1.) at 09.30 Dutch/Norwegian time.

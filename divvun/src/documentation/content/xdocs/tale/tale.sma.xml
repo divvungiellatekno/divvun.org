@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sma">
+    <header>
+        <title>Tekste-soptsestæmman</title>
+    </header>
+    <body>
+        <note label="Saernie!">Noerhtesaemien tekste-soptsestæmman  
+        6.5.2015 bæjhkoehtåvva!</note>
+
+        <p><a href="/index.html">Divvun</a> jïh <a
+        href="http://sametinget.no">Saemiedigkie</a> leah noerhtesaemien
+        tekste-soptsestæmman-programmem <a
+        href="http://www.acapela-group.com/">Acapeline ektine</a> dorjeme.
+        Soptsestimmiesyntese, jallh tekste-soptsestæmman, nuepiem maskinese
+        vadta tekstem soptsestæmman jeatjahtehtedh gelline programmine.
+        Skjeermelohkemepgrogrammine maahta gaajhke tekste mij skjeermesne
+        vååjnoe, lohkesovvedh. Göökte saemien gïeleh leah, akten nyjsenæjjan 
+        ("Elle") jïh mubpie gaarmanæjjan lea ("Biera").
+        </p>
+
+        <p>Noerhtesaemien tekste-soptsestæmman-systeeme gööktene versjovnesne
+        leah, utniejidie:</p>
+        <ul>
+            <li><strong>Noerhtesaemien Infovox 4 for Windows</strong></li>
+            <li><strong>Noerhtesaemien iVox for OS X</strong></li>
+        </ul>
+
+        <p>Noerhtesaemien Infovox (for Windows) maahta namhtah saemiedigkeste
+        dongkedh jïh debpede mojhtessaegkie
+        seedtesåvva <a
+        href="mailto:feedback@divvun.no">Divvun-dåehkeste UiT:esne
+        (feedback@divvun.no)</a>. Mojhtessaegkie lea persovneladtje, dam maahta
+        destie vaeltedh, goh lea sijjiedahteme. Mojhtessaegkie aaj nuepiem vadta
+        soptsestimmie-syntesem jeatjah maskinine utnedh, juktie gåarede vaeltedh
+        dam mealtan jïh tsagkedh jeatjah maskinide, jïh rïekte mojhtessaegkeste
+        soptsestimmiessyntesem utnedh. Vielie bïhkedassh dan bïjre daestie
+        gaavnh <a href="infovox4.se.pdf"> daesnie (noerhtesaemien)</a>.</p>
+
+        <p>iVox for OS X:m maahta namhtah vïedtjedh <a
+        href="http://www.assistiveware.com/product/infovox-ivox/resources"
+        >daestie</a>. Gosse dejtie noerhtesaemien gïelide utnedh, dle kodem
+        daarpsjh. Dam kodem åadtjoeh namhtah <a
+        href="mailto:feedback@divvun.no">Divvun-dåehkeste 
+        UiT:esne (feedback@divvun.no)</a>. Bïhkedassh guktie sijjiedehtedh jïh
+        dam utnedh, daestie åadtjoeh <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf"
+        >daesnie (sveerjengïelesne)</a> og <a class="fork"
+        href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf"
+        >daesnie (englaantegïelesne)</a>.
+        </p>
+
+        <p>Acapelan lea  <a class="fork" href="http://www.acapela-group.com/">
+        jïjtse demo-bielie</a> gusnie åådtje dejtie saemien gïelide prövedh
+        tekstijste.</p>
+
+        <p>Maahta aaj sjïehtesjidh dejtie gïelie jis daerpies. Bïhkedassh dan bïjre daesnie leah Acapela's <a href="Manual_Sami.pdf">gïelebïhkedassh noerhtesaemien gïelese.</a> Gïelebïhkedasse boejhkele guktie dah gïelh naan konstruksjovnide luhkieh, mohte govhtedinie jïh tjïjhtjedinie kapihtelisnie åadtjoeh aaj daejredh guktie maahtah jïjtje dejtie gïelie sjïehtesjidh.</p>
+
+        <section>
+            <title>institusjovneluhpieh</title>
+            <p><a href="mailto:feedback@divvun.no">Divvun</a> Jis daerpies
+            luhpieh almetjidie, vg. akten institusjovnese. Jis sïjhth serverem tseegkedh gusnie TTS-faaleldahkh, bïeljelh amma Acapelasse (kontaktinfo nedenfor).</p>
+        </section>
+
+        <section>
+            <title>Evtiedæjjide
+</title>
+
+            <p>Noerhtesaemien tekste-soptsestæmman-systeeme gelline versjovnine
+            leah, sjïehtesjamme evtiedæjjide jïh jeatjabidie mah sijhtieh
+            soptsestimmie-syntesem  jeatjah programmide jïh systeemide
+            bïejedh:</p>
+
+            <ul>
+              <li>SDK: Acapela TTS Windowsasse – PC    </li>
+              <li>SDK: Acapela TTS Windowsasse – Server</li>
+              <li>SDK: Acapela TTS Linuxasse – Server  </li>
+              <li>SDK: Acapela TTS OS X:ese        </li>
+            </ul>
+
+            <p>SDK-versjovnh maahta rïekte Acapeleste dængkedh. Bïeljelh
+
+            Susanne Magnussonem (<a
+            href="mailto:susanne.magnusson@acapela-group.com"
+            >susanne.magnusson@acapela-group.com</a>, tlf +46 8 799 86 02) jïs
+            åtnah maam joem gihtjedh daej versjovni bïjre.</p>
+
+        </section>
+
+   </body>
+</document>

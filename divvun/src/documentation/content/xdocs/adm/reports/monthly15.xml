@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nn">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 15, mars 2006</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I mars gjekk arbeidet med det lulesamiske leksikonet vidare, og mange
+      opne normeringsspørsmål kring nordsamisk vart avklara. Vi har laga ein
+      fyrste prototyp av ein samisk orddelar, og korpusinnsamlinga har gått
+      vidare, med både framsteg og baksteg. Arbeidet har vore fordelt på desse
+      hovudpunkta:</p>
+
+      <ul>
+        <li>tekstinnsamling: diskusjonen med Iđut+grafisk partnar gjekk
+        vidare, dårlegare og dårlegare. Som eg alt har rapportert direkte, vil
+        dei ikkje gje oss dei einaste filene dei har, og vil ha - etter vår
+        meining - grovt overbetalt for å konvertera filene dei har til noko
+        som vi kan bruka. Argumenta dei har for ikkje å gje filene sine til
+        oss, held ikkje, anna enn at det er eit prinsipp for dei. Derimot er
+        andre forlag meir positive enn vi hadde venta oss, og både Áššu og Min
+        Áigi er meir eller mindre klare til å gje oss tekstar i massevis.</li>
+
+        <li>korpusorganisering: meir arbeid med forfining og feilretting av
+        verktya våre - dei blir stadig betre!</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: i mars vart det lulesamiske leksikonet bygt ut
+            vidare, og er no på drygt 18 000 ord + namn.</li>
+
+            <li>nordsamisk: nye ord vart lagt til, og vi har oppdatert
+            normeringsdokumentet vårt med alle vedtak frå det siste SGL-møtet,
+            samt frå tidlegare møte så langt det er relevant for arbeidet
+            vårt.</li>
+          </ul></li>
+
+        <li>namneleksikon: arbeidet med å utvikla risten.no for formåla til
+        Divvun-prosjektet har gått vidare, og den grunnleggjande
+        infrastrukturen for å støtta fleire parallelle termsamlingar og
+        ordbøker er no på plass, og fungerer. Det står framleis att ein god
+        del koding før vi har noko som kan visast fram, men det går
+        framover.</li>
+
+        <li>Stavekontroll: ingen ting i mars heller, vi prioriterer arbeided
+        med den fleirspråklege namnebasen (inkl. risten.no) før vi går vidare
+        med stavekontrollar (det er Tomi som skal gjera meirparten av arbeidet
+        med begge).</li>
+
+        <li>Orddeling: på tampen av mars dukka det opp fleire spørsmål kring
+        orddeling i samband med utlysinga av delar av prosjektet. Desse
+        spørsmåla spora oss, og ikkje minst Trond frå Universitetsprosjektet,
+        til å laga ein avstavingsmodul som gjev alle potensielle
+        orddelingspunkt i samiske ord. Det står enno att litt arbeid før
+        orddelinga er heilt korrekt, men alt no er det mogleg å dela ord på <a
+        href="http://giellatekno.uit.no/d-sme.sme.html">ei av sidene til
+        Universitetsprosjektet</a>. Med dette arbeidet kan vi no anten pakka
+        inn vår eigen språkteknologi til ein ferdig orddelar, eller vi kan
+        generera data som andre kan bruka til å laga ein eigen orddelar ut i
+        frå.</li>
+
+        <li>Utlysing av delar av prosjektet: i mars har arbeidet med utlysinga
+        konsentrert seg på å svara på spørsmål frå interesserte firma. Til no
+        er det berre eitt firma som har kome med spørsmål. Det er heilt i det
+        uvisse om det er fordi dei andre firmaa har all informasjon dei treng,
+        eller fordi dei ikkje er interesserte. 18. april veit vi svaret.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har i all hovudsak gått fint framover i mars.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

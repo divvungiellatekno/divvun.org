@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 9, september 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>September har gått i vanleg takt. Eit viktig framsteg har vore
+      arbeidet med lulesamisk. Det arbeidet som har vorte gjort har vore
+      fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjon: nettstaden til prosjektet blir no automatisk
+        oppdatert, ein gong i halvtimen, slik at ny og oppdatert dokumentasjon
+        automatisk blir tilgjengeleg.</li>
+
+        <li>tekstinnsamling:<ul>
+            <li>Korpuskontraktane: i september har alle kontraktane vorte
+            omsett til norsk, og omsetjingane har fått ein fyrste gjennomgang
+            og sjekk. Vi har prøvd å få tilbakemeldingar frå Kimmo Koskenniemi
+            til omsetjingane, og vi prøver no å få ein jurist til å sjå på
+            dei.</li>
+
+            <li>Innsamling: vi har arbeidd med å få tak i bibeltekstar, og
+            byrja å byggja opp infrastruktur som skal gjera det lettare å
+            leggja til tekstar til korpussamlinga.</li>
+          </ul></li>
+
+        <li>korpusorganisering: arbeidet med å omorganisera korpussamlinga,
+        som vi byrja på i Helsingfors, har gått vidare i september, særleg
+        gjeld dette arbeidet med å konvertera frå innkomande format (Word,
+        PDF, m.fl.) til ein felles XML-representasjon.</li>
+
+        <li>Lingvistisk arbeid:<ul>
+            <li>lulesamisk: arbeidet har gått vidare framover i september, og
+            heile bøyingsmorfologien er no sjekka og korrigert.</li>
+
+            <li>nordsamisk: vi har fortsett med å leggja til nye ord og retta
+            feil som har vorte oppdaga.</li>
+
+            <li>anna: vi har identifisert fleire opne saker som vi må arbeida
+            med framover, og særleg gjeld det arbeidet med å byggja eit felles
+            namneleksikon. Eit felles namneleksikon vil samla alle namn i éin
+            felles base, slik at vi sikrar oss at alle språkverkty dekkjer dei
+            same namna. Dei fleste namn er like på tvers av språk (det gjeld
+            til dømes alle firmanamn, dei fleste utanlandske og nordiske
+            stadnamn, organisasjonar m.m.). Derimot vil bøyinga av namna, og
+            måten dei lagar samansetjingar m.m. på vera spesifikt for kvart
+            språk. Vi har i september starta eit internt prosjekt for å
+            utvikla eit felles namneformat som tek omsyn til dette (fleire
+			detaljar i <a href="http://divvun.no/doc/admin/meetings.html">møtereferata
+            våre</a>, særleg <a
+			href="http://divvun.no/doc/admin/weekly/2005/Meeting_2005-09-12.html#6.+Linguistics">dette</a>).</li>
+          </ul></li>
+
+        <li>Termbasen: det har ikkje vorte gjort vesentleg arbeid på termbasen
+        i september.</li>
+
+        <li>Stavekontroll: i etterkant av konferansen og demonstrasjonen i
+        månadsskiftet august/september har vi sett nærare på alternativ til
+        den stavekontrollmotoren vi brukte til demonstrasjonen. Ein lovande
+        kandidat er <a href="http://hunspell.sourceforge.net/">Hunspell</a>.
+        Demoversjonen vi presenterte i Helsingfors har òg vorte betre.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har gått fint framover i september òg.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

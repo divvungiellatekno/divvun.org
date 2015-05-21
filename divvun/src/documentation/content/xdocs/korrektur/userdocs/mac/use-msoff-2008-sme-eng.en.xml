@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installation and use on MacOS X</title>
+   </header>
+   <body>
+      <note>When writing Sámi in <strong>Microsoft Office for Mac</strong> (all versions), use the languages
+      <strong>Catalan</strong> (=North Sámi), <strong>Basque</strong> (=Lule Sámi) or <strong>Slovak</strong> (=South
+      Sámi). Don't blame us, blame Microsoft for the situation.</note>
+      <section>
+         <title>Using Divvun on a Mac</title>
+         <p>When you have opened MS Office you will have to tell Office which langauge the text is written in.</p>
+         <p>1. Mark the sami text:</p>
+         <p><img alt="Mark the sami text" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p>2. Go to the menu <strong>Tools &gt; Language…</strong> :</p>
+         <p><img alt="Go to the menu &quot;Tools &gt; Language…&quot;"
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
+         <p>3. Choose the langauge <strong>Catalan</strong> for <strong>North Sámi</strong> , <strong>Basque</strong>
+         for <strong>Julev Sámi</strong> , or <strong>Slovak</strong> for <strong>South Sámi</strong> ( <a
+         href="#1">1</a>):</p>
+         <p><img alt="Choose the proper language" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p>4. If you usually write in Sami, you may make Sami your default language for new documents, by clicking the
+         button <strong>Default…</strong> (see previous picture) and thereafter click the button <strong>Yes</strong>
+         :</p>
+         <p><img alt="Do you want to make Sami your default language?"
+         src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p>5. Now you may start writing in Sami, and the Divvun tools will help you spell correctly:</p>
+         <p><img alt="Sami text with spelling error" src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <figure alt="Orthography dialogue for the spelling error" src="images/Mac_09_MSoffice_spelling_example_c.png" />
+         <p>So far, Microsoft has not included support for Sami in MS Office for Mac, despite the fact that such a
+         support is provided for MS Office for Windows. Hopefully future verisions of MS Office for Mac will include
+         this support. Until then we will have to pretend that the Sami languages are other languages, already defined
+         in MS Office.</p>
+      </section>
+   </body>
+</document>

@@ -1,0 +1,128 @@
+!!!Meeting with Polderland 25.9.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!!Since last time
+
+!!Polderland
+
+* fixing bugs: some bugs pending (461, 521, 522)
+** compounding behaviour:
+*** 3/4/5-part compound appear to work in general,
+    but not in some specific cases
+* indesign CS3 hyphenator now runs in release mode, testing completed
+** will drop this week (Northern + Lule)
+* mac speller: installation issue (admin rights)?
+* zip utility for windows: not functional yet
+** first part works, calling REAL language-dependent installer appears to crash
+** have to do some debugging there
+* Speller behaviour: only suggests if errors are limited to 1 part of compound.
+** undesired (or should be user setting),
+** will be changed in future drop
+
+
+
+!!Divvun
+
+* gave 3-4 real-life examples of 3-4 part compounds
+* installed updated binaries from Polderland, compiled new spellers
+* new binaries seem to work fine, and fix the bugs they should
+* testing, bug hunting and fixing
+* further improvements to our test bench
+
+
+
+!!Bug status
+
+!Solved/cancelled
+
+||Div ||Pld ||Description
+| 427 | 442 | n+accent aegu not considered part of word
+| 465 | 449 | Hyphenation doesn't work on Mac :: solved at Divvun side
+| 468 | 451 | Mac: konseartaprogr·mma -> kon-seart-apr-ogr-·mma
+| 467 | 450 | Command-line speller tool has word-char punctuation issues (~477)
+| 477 | 454 | Command-line speller tool has number-initial string issues (~467)
+| 476 | 453 | Inconsistent speller behaviour depending on userdict availability => expected behaviour, message could be better
+| 498 | 456 | Cmd-line speller doesn't accept hyph-penalty > 0
+
+!To be solved in next drop
+||Div ||Pld ||Description
+| 402 | 439 | word + hyphen + comma is not recognised ("xxx-,") => solved
+| 419 | 440 | 3-part compounds not recognised => solved => solved
+| 448 | 444 | Upper-case words get suggestions with Initial Case => solved
+| 455 | 446 | Mac uninstaller doesn't work if run by a non-admin => solved
+| 473 | 452 | Windows installer does not autostart after download => discuss solutions
+| 516 | 4?? | vista installation from zip fails => probably solved by self-extracting zip; not functioning yet 
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 461 | 448 | Spelling errors with editing distance 1 from lexicalised words do not get correct suggestions => explanation not good enough, investigate more samples *** still investigating
+| 480 | 455 | Speller suggestions not identical in context menu and dialog => MS word behaviour: sorting of same-penalty suggestions; => no plans to repair this one
+| 521 | xxx | Mac installer only works for admin accounts => 
+| 522 | xxx | Strange compounding fenomena
+
+!To be investigated by Divvun/Users
+||Div ||Pld ||Description
+| 447 | 443 | Windows speller doesn't install on terminal server => SD IT guys will have a look once more
+
+!Will not be solved
+||Div ||Pld ||Description
+| 449 | 445 | suopmasápmelaš-type compounds accepted by the speller => limits of tagging /compounding mechanism reached
+
+!!!Issue discussion
+
+!!473 - Windows installer
+
+Alternatives to solve it:
+* make an executable installer file - requires InstallShield, meaning that
+  either Polderland will have to make each installation package, or that the
+  Divvun project will have to get an InstallShield license
+* make self-extracting zip files for download, with autostart options of the
+  extracted objects; some alternative zippers for this:
+
+
+For both cases different types of protection software (firewalls, anti-virus,
+etc) might block either download or execution of the installer. But default
+InstallShield installers behave in the same (or a similar) way, so that should
+not be any different.
+
+!!Speed
+
+With more than 2-part compounds now available, suggestion speed is sometimes very slow, in the range of 10 seconds.
+
+!!!Rough schedule
+
+Polderland didn't meet their self-imposed goal of delivering at the beginning of
+September, will try around mid September instead.
+
+* Mid September: planned final drop from Polderland
+* November 1: Divvun code freeze
+* November 15: Indesign speller
+* December 11: public release
+
+
+!!!Next meeting
+
+Next week (2.10.) at the usual time.
+
+!!!TODO:
+* __PLD__ drop first version of indesign Hyphenator
+* __PLD__ pass information on self-extracting ziptool with autostart option
+          + instructions on how to use it (not in working order yet)
+* __PLD__ Proposal for command line hyphenator: 12/9
+          ready to be sent by commercial dept
+* __PLD__ do speed tests: Mac/PPC Mac/c2duo Win, Office 11 Office 12
+          (compounding especially)

@@ -1,0 +1,121 @@
+!!!Meeting with Polderland 3.4.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* windows installer: check if executable winzip version will run
+  setup.exe automatically
+** can be done
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+** checked all documentation, but saw no such difference
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+** version sent
+* easter egg:
+** should not be a problem. Will send example today (from Frysian)
+*** working? ==> yes. see below
+* Adobe: pending
+* MS Mac 2008 proofing tools: march beta does NOT contain Sami language codes
+
+
+
+!Divvun:
+
+* working on integrating the whole speller making, PLX conversion etc. in the
+  make file
+** still working on it
+* working on updating the Lule Sámi conversion to be as good as the North Sámi
+** still working
+* got the version info/easter egg working
+
+
+!!Possible issues
+
+!Speller lexicon version ID
+
+The easter egg with version info is now working as it should :)
+
+!Number compounds
+
+How are number compounds handled?
+
+Example:
+{{{
+35-ahkásaš - in MS Word (if checked) it gets flagged, no suggestions
+
+In command-line speller: if forced, no suggestion.
+
+In both cases, it should be corrected to: => 35-jahkásaš
+}}}
+
+While testing the above, Divvun found a speller tool inconsistency:
+{{{
+a88-112-34-11:~/Documents/gt sjur$ spellSamiNort -u8 -m sme/polderland/SamiNortLexWithCatalanRez 
+
+when started *without* an existing userdict:
+Prompt: 35-ahkásaš
+Prompt: Prompt: Prompt: 
+Prompt:
+
+when started *with* an existing userdict:
+Prompt: 35-ahkásaš
+Prompt: 
+}}}
+
+PLD: we'll get back on this. Wanted: description of behaviour of speller wrt number compounds (number+hyphen+(noun|adj): "20-voets-jacht", "20e-eeuwse") Possible at all? requires summation of all numbers?
+
+Number compounds have the form Number-Word (note the hyphen!), where the Number part can be anything.
+
+We have unchecked the speller preference to ignore words with numbers, that is, they should be checked during our testing.
+
+!Documenting the PLX format
+
+Can we collect the pieces of information we have received, in a single document,
+and publish it? We need this for our own sake, it is hard to ensure consistensy
+as it is now, and it is time-consuming for both parties to debug errors in the
+PLX source as long as we don't have common documentation to refer to and check
+against.
+
+PLD: send your proposed text, it is probably OK. I personally think we should make PLX documentation public anyway.
+
+
+!!Next meeting
+
+Next Tuesday (10.4.) at the usual time.
+
+!!!TODO:
+* description of behaviour of speller wrt number compounds
+  (number+hyphen+(noun|adj): "20-voets-jacht", "20e-eeuwse")
+  Possible at all? requires summation of all numbers? __PLD__
+* check inconsistent speller behaviour depending on the existence of userdict or
+  not __PLD__
+* check: installer on Mac should be able to (__PLD__ to check):
+** move existing proofing tools out of the way (into a zip archive?)
+** restore "original" proofing tools on deinstallation
+*** yes, but some residues remain after de-installation.
+*** is current solution OK, or should we try to do something drastic (eg, add Perl scripts)
+*** solution probably requires admin rights - will document
+* check if Sami-codes are included in Office 2008 / Mac
+  (when beta arrives with codes) (__Polderland__)
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do) (__Polderland__)
+* send speller lexicon (or CVS tag) for the beta release to Polderland
+  (__Sjur__)

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 6, mai 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I mai 2005 har arbeidet vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjonssystemet: det var meir teknisk arbeid med å
+        setja opp universitetsservaren enn vi trudde. Kombinert med at
+        vår mann på universitetet var borte ein del i mai, fekk vi ikkje
+        opna nettstaden enno. Men arbeidet går framover, og vi har no
+        bestemt at vi opnar <a href="http://www.divvun.no/">www.divvun.no</a>
+        samtidig med språkavdelinga sin termbase, <a
+        href="http://www.risten.no">www.risten.no</a>, dvs. på språkstyret
+        sitt møte 22. juni.</li>
+
+        <li>tekstinnsamling: Vi har no fått to eksisterande avtaletekstar
+        (avtale som regulerer tilhøvet mellom teksteigarane, dvs. forfattarar
+        og forlag, og dei som samlar inn tekstane for språkteknologiske og andre
+        formål, dvs. Sametinget) som vi kjem til å
+        granska og samanlikna: ein tekst frå UiO, og ein tekst frå Helsingfors
+        Universitet. Den siste teksten er på finsk, og må omsetjast til norsk
+        før vi kan byrja arbeidet. Sjur har vore på møte med Prof. Kimmo
+        Koskenniemi, og gått gjennom den finske avtaleteksten, samt fått ei
+        innføring i heile lisensmodellen, og korleis han er meint.</li>
+
+        <li>korpusorganisering: det har ikkje skjedd så mykje med
+        korpusinfrastrukturen i mai, anna enn litt finpuss. Infrastrukturen
+        ventar no mest på at vi skal få tekstar, slik at vi kan byrja å bruka
+        han.</li>
+
+        <li>Lingvistisk arbeid: Arbeidet med nordsamiske verb vart langt på
+        veg ferdig i mai. Vi har byrja å diskutera arbeidet med lulesamisk
+        (sjå meir om det nedanfor).</li>
+
+        <li>Termbasen: Termbasen tok òg noko tid i mai: det er no bestem
+        at han skal opnast 22 juni (på språkstyret sitt møte, med pressemelding
+        og -konferanse), og dei feila som fanst skulle rettast, og heile
+        nettstaden skulle gjerast klar for den offisielle opninga. 18. mai
+        vart termbasen opna for intern bruk på Sametinget (betatesting), og
+        i byrjinga av juni vil vi få ein ny servar som databasen vil liggja
+        på (ein vesentleg raskare servar). Arbeidet med å redigera og leggja
+        til termar byrja i mai.</li>
+
+        <li>Prosjektsamling: vi hadde ei samling med heile prosjektgruppa i
+        Kautokeino siste veka i mai. Samlinga vart litt redusert pga. at
+        prosjektleiaren vart sjuk på reisa, men vart bortsett frå det svært
+        vellukka. Dei viktigaste emna på samlinga var:
+        <dl>
+          <dt>Halvårsevaluering:</dt>
+          <dd>Alle var svært nøgde med det fyrste halvåret, og vi har nådd
+              dei fleste måla vi sette opp: sett opp infrastrukturen, og
+              fått etablert ei fungerande prosjektgruppe, samt gjort mykje
+              lingvistisk grunnarbeid. Det som ikkje
+              vart gjort slik det var planlagt var spesifiseringa av dei
+              tenestene som skal kjøpast inn, og det å få laga ein detaljert
+              prosjektplan. I begge tilfelle har arbeidet vorte forseinka
+              pga prosjektleiaren sitt arbeid med termbasen, slik det har
+              vorte rapportert tidlegare (sjå i tillegg siste punktet i denne
+              rapporten).</dd>
+          <dt>Lulesamisk:</dt>
+          <dd>Vi må no byrja arbeidet med lulesamisk, og på samlinga gjekk
+              vi gjennom det som skal gjerast, og laga ein omtrentleg plan
+              for det nærmaste halvåret. Mykje av denne planen er avhengig
+              av når vi får tilgang til ordboksmaterialet til Anders Kintel.
+              Kintel har heile tida vore positiv til samarbeid, men vil gjera
+              seg ferdig med manuskriptet før vi kan få ein kopi. Manuskriptet
+              skal bli ferdig til hausten. Det finst jamvel ein god del arbeid
+              som kan gjerast uavhengig av Kintel sitt materiale, og Thomas
+              Omma vil byrja med det så snart han er ferdig med gjennomgangen
+              av nordsamiske verb.</dd>
+        </dl>
+        </li>
+      </ul>
+
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Som nemnt i avsnittet over om halvårsevalueringa, er vi i rute, med
+         unnatak av dei to punkta som etter kvart har vorte gjennomgangarar,
+         arbeidsplan og tilbodsspesifisering.
+         I og med at vi no nærmar oss den offisielle opninga av termbasen,
+         byrjar det å merkast at arbeidet der blir mindre, sjølv om eg reknar
+         med ein ny topp dei to siste vekene før opninga. For å ta att den tapte
+         tida føreslår eg fylgjande for tilbodsspesifiseringa:</p>
+
+      <ul>
+        <li>spesifiseringa blir ferdig til møtet i styringsgruppa i september</li>
+        <li>styringsgruppa går gjennom og godkjenner spesifiseringa, til liks
+            med ein gjennomgang av heile tilbodsprosessen</li>
+        <li>det offentlege tilbodet blir lagt ut rett etter møtet i styringsgruppa</li>
+        <li>frist for innkomne tilbod kring midten av november</li>
+        <li>forslag til leverandør blir lagt fram for styringsgruppa på neste
+            møte (i januar?), som gjer endeleg vedtak.</li>
+      </ul>
+
+      <p>Eit vedtak i januar er 3-4 månader seinare enn opphavleg planlagt,
+         men eg trur det både er bra og riktig at både tilbodsteksten (spesifiseringa)
+         og det endelege innkjøpsvedtaket blir forankra i vedtak frå
+         styringsgruppa. Det arbeidet som blir mest påverka av at samarbeidet med
+         leverandøren/leverandørane blir forseinka, vil vera arbeidet med å
+         definera eit nytt leksikonformat, og konvertering frå leksikonformatet
+         (og resten av den lingvistiske modellen får) til det/dei firmaspesifikke
+         formata vi må levera til. Når det gjeld leksikonformatet vil vi kunna møta
+         ei mogleg forseinking med å invitera alle interesserte partar, inkl. firma,
+         til å kommentera arbeidet vårt og koma med forslag til endringar og
+         forbetringar føre og uavhengig av kven som får leveransen.</p>
+
+      <p>Med ein revidert plan som skissert over, burde vi vera i rute i høve til den
+         opphavlege timeplanen om eitt års tid, dvs neste sommar.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>A sketch of the background to this project</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Before the Tromsø project</title>
+
+      <p>Around 1980, Lauri Karttunen, Ron Kaplan and Martin Kay found ways of
+      turning generative rewriting rules into finite-state automata. In 1983,
+      Kimmo Koskenniemi defended his doctoral dissertation, where he was able
+      to compile such automata for the grammar of a heavily inflecting
+      language, Finnish. During the eighties, rule sets for several languages
+      were made, but the process of writing automata by hand was a very
+      tedious one. Towards the end of the decade, researchers at Xerox were
+      able to make a machine compiler (twolc for Koskenniemi's two-level
+      morphophonological rules, and later lexc for the lexicon and and xfst
+      for the whole parser). The Xerox twolc compiler became the cornerstone
+      of much work, a.o. for the spellchecking programs made for the Nordic
+      languages by the Helsinki-based company Lingsoft.</p>
+
+      <p>In 1993, Pekka Sammallahti got a grant to spend 6 months writing the
+      prototype for the first Sámi parser, as a guest researcher at the Nordic
+      Sámi Institute in Guovdageaidnu. It covered the basic morphophonology
+      and inflection for the nouns, adjectives and verbs of Northern Sámi. The
+      work was done on Xerox tools lexc and twolc for Macintosh, and included
+      discussions with Kimmo Koskenniemi and Lauri Karttunen. Sammallahti's
+      parser was made as a quasi-morphematic model, with simple stems, but a
+      rich system of sublexica adding diacritical marks that triggered the
+      morphophonological processes found for different Sámi stem classes.</p>
+
+      <p>In 1998, Sjur Moshagen and Trond Trosterud found themselves in an
+      unstable job marked, sharing and interest for Southern Sámi, stemming
+      from the days of the Corpus project for small Uralic languages, which
+      they had initiated back in 1994. Moshagen then worked at Lingsoft, and
+      Trosterud was looking for ways of doing linguistics in Tromsø. They
+      decided to write a Southern Sámi parser. Unaware of Sammallahti's work
+      on Northern Sámi, they made a parser with different architecture: They
+      encoded as much morphophonological information as possible in the stems,
+      and in exchange got a very simple set of sublexica. They did not have
+      access to a dictionary, confined their work to the inflection of
+      non-compounded nouns.</p>
+    </section>
+
+    <section>
+      <title>The Tromsø projects</title>
+
+      <p>After several attempts, Trosterud in 2000 managed to get a 3-year NFR
+      grant for making a Northern Sámi parser. During the preparatory work he
+      became aware of Sammallahti's parser, and luckily enough, Sammallahti
+      offered the parser source code and his dictionary as a starting point
+      for the parser project. In this way, the project got a flying start, and
+      duplicate work was avoided. Due to the extra time provided by
+      Sammallahti's basic work, Trosterud was able to write a Lule Sámi
+      parser, and also continue the work on parts of the Southern Sámi parser
+      (including it into the common infrastructure, and adding support for
+      closed parts of speech).</p>
+
+      <p>In 2004, the University of Tromsø got a second 3-year grant, as a
+      part of the NFR KUNSTI project, with funding for 2 linguists and 1/2
+      programmer, in order to make a morphological disambiguator for Northern
+      Sámi, and as a control exercise, one for Lule Sámi as well. This project
+      is now half-way, and it is documented on these pages.</p>
+    </section>
+
+    <section>
+      <title>Sámi localisation</title>
+
+      <p>There has been various attempts at ensuring the Sámi languages
+      localisation solutions (solutions for getting the Sámi letters right, on
+      screen and printer, for getting good keyboard layouts, sorting
+      algorithms, date-and-time formats, etc.). In this context, we may state
+      that all the Sámi languages are represented in the Unicode standard.
+      Unicode support is not enough, but because of the work of a small group
+      of enthusiasts (especially Per Edvard Klemetsen and Audun Lona for
+      Windows, Michael Everson and Michal Aase for Macintosh and Børre Gaup
+      and Regnor Jernsletten for Linux), Northern Sámi is now the smallest
+      language in the world with localisation support, out-of-the-box, for all
+      the three OS-s. Work on Sámi language technology now is based upon
+      Unicode.</p>
+    </section>
+
+    <section>
+      <title>Planning the spell-checker program</title>
+
+      <p>As spellchecking programs for other languages became better, several
+      Sámis saw the increased need for such programs for Sámi. In 2002, Per
+      Edvard Klemetsen contacted Trond Trosterud in order to get a grip of
+      what it would take to make a Sámi spellchecker. Trosterud put Klemetsen
+      and Moshagen in contact with each other, as Moshagen, together with all
+      his collegues, had just been laid off from his job as the leader of
+      Lingsoft's dictionary division. Moshagen wrote the pilot project for a
+      Sámi spellchecker program. Then, Klemetsen did a very good job when
+      raising funds for the project. Although somewhat reduced (from initial
+      19 MNOK to the actual 11.3 MNOK), the project was able to launch at the
+      end of 2004, with a 3-year schedule.</p>
+    </section>
+
+    <section>
+      <title>The present projects, and beyond</title>
+
+      <p>The main focus at present is on finishing the twin projects:</p>
+
+      <ul>
+        <li>For the university project, to finish the disambiguator and make a
+        website with tagged corpora and a graphical user interface for
+        research use</li>
+
+        <li>For the Divvun project, to deliver spell checkers for Northern and
+        Lule Sámi</li>
+      </ul>
+
+      <p>Beyond that there are several obvious next steps:</p>
+
+      <ol>
+        <li>To extend the work to more languages <ol>
+            <li>The obvious first candidate is Southern Sámi, for which there
+            already is a partial parser ready</li>
+
+            <li>There are 3 more Sámi languages, working with them would be a
+            good way of involving linguists from Finland and Russla</li>
+
+            <li>With the ready-made infrastructure, one obvious strategy is to
+            extend it to other minority languages, as has already been done
+            for Komi and Greenlandic</li>
+          </ol></li>
+
+        <li>To work on lexicography and language technology<ol>
+            <li>... by making intelligent dictionaries</li>
+
+            <li>... by using parallel corpora as termbases</li>
+
+            <li>... by </li>
+          </ol></li>
+
+        <li>To make pedagogical programs</li>
+
+        <li>To make grammar checkers</li>
+      </ol>
+
+      <p>The University of Tromsø will initiate a program in Sámi lexicography
+      and language technology, thereby contributing to fulfulling these goals.
+      </p>
+
+    </section>
+  </body>
+</document>

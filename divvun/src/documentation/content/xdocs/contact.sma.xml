@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sma">
+   <header>
+      <title>Kontaktinfo</title>
+   </header>
+   <body>
+	<ul>
+		<li><a href="mailto:feedback@divvun.no">Mail address: feedback@divvun.no</a></li>
+		<li>Prosjektleder Sjur Nørstebø Moshagen:
+			<ul>
+				<li><a href="mailto:sjur.n.moshagen@uit.no">sjur.n.moshagen@uit.no</a></li>
+				<li>Telefonnr: +358 505 634 319</li>
+			</ul>
+		</li>
+		<li><a href="http://www.divvun.no/doc/admin/people.html">E-post- og lynmeldingsadresser til de andre prosjektmedlemmene</a></li>
+	</ul>
+   </body>
+</document>

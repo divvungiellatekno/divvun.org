@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document>
+  <header xml:lang="se">
+    <title>Mo korrektuvraprográmma ráhkaduvvo</title>
+
+    <authors>
+      <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Mo korrektuvraprográmma ráhkaduvvo</title>
+
+      <p>Čállindárkkistanprográmma ráhkaduvvo ovttas <a
+      href="http://giellatekno.uit.no">sámi giellateknologiijaprošeavttain</a>
+      <a href="http://uit.no/">Romssa universitehtas</a>. Romssa universitehta
+      prošeakta lea ráhkadan prográmma mii sáhttá sojahit sániid ja dulkot
+      sojahuvvon sániid. Dát bargu geavahuvvo vuođđun go korrektuvraprográmmat
+      ráhkaduvvojit</p>
+
+      <p>Programmerárat heivehit teavsttaid lingvisttaide nu ahte sii sáhttet
+      gieđahallat teavsttaid, iskat dovdá go prográmma buot sániid ja
+      sátnehámiid. Lingvisttat lasihit sániid leksikonaide ja muddejit
+      analysáhtora grammatihka go lea dárbu. Dán láhkái leksikonat
+      buoriduvvojit ja viiddiduvvojit dađistaga.</p>
+
+      <p>Danne go korrektuvraprográmma galgá doaibmát sihke Windowsis,
+Linuxis ja Mac OS X:s, de ferte doarjut dáid vuogádagaid
+      teknologiijaid. Prošeakta áigu ráhkadit prográmmaid mat konverterejit
+      Romssa universitehta formáhta dakkár formáhttan maid vuogádagat
+      gáibidit.</p>
+
+      <p>Dađistaga go prošeakta ovddiduvvo, de korrektuvraprográmma
+	geahččalanveršuvnnat almmuhuvvojit. Daid sáhttá viežžat prošeavtta
+      fierpmádatsiidduin nu ahte lea vejolaš geahččalit daid.</p>
+
+      <p class="last_modified">Maŋemuš rievdaduvvon: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

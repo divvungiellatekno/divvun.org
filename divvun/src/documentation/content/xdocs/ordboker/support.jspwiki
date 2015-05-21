@@ -1,0 +1,14 @@
+[Sátni.org|http://sátni.org/] supports the following browsers (newest version if nothing else is indicated):
+
+* Chrome
+* Firefox
+* Internet Explorer 8++
+* Opera
+* Safari
+
+Other browsers might work, but old versions of most browsers will definitely not work.
+
+This is mainly due to limitations in one of the libraries we use, [Bootstrap|http://getbootstrap.com/getting-started/#support].
+
+
+The web app is not optimised for mobile phones yet, but it does work. Mobile use optimisation will be implemented soon.

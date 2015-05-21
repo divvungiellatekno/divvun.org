@@ -1,0 +1,104 @@
+!!!Meeting with Polderland 27.3.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* windows installer: check if executable winzip version will run
+  setup.exe automatically
+** fell of the radar (forgot to copy it to TODO list last week)
+   - will check immediately
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+** does not appear to have it, not 100 % sure yet
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+** checked, problematic: haven't found yet where to include
+   Sami installer texts + Sami language names in installer drop-down lists
+   (Sami locales w.r.t. language codes etc were added in XP SP2)
+   will continue investigation
+** doable, almost completed. Will be sent today or tomorrow.
+* easter egg:
+** should not be a problem. Will send example today (from Frysian)
+
+!Divvun:
+
+* working on integrating the whole speller making, PLX conversion etc. in the
+  make file
+** still working on it
+* working on updating the Lule Sámi conversion to be as good as the North Sámi
+** still working
+* tried to make version info easter egg - no success, see below
+** it should work, PLD will send an example
+
+
+!!Possible issues
+
+!Speller lexicon version ID
+
+We planned some sort of easter egg of the type:
+
+nuvvid ->
+Divvun
+Speller Lexicon 13.3.2007
+Made by the Divvun team:
+...
+
+But it doesn't work. Presently I have the following code:
+
+{{{
+In the lexicon:
+Divvun	NI
+SjurMoshagen	NI
+Version1b02-200307
+
+Phon-rules:
+/$Divvun<=>nuvvi$D/         twin
+/$Sjur$Moshagen<=>nuvvi$D/         twin
+/$Version1b02-200307<=>nuvvi$D/	twin
+}}}
+
+* __PLD__: will send an example
+
+
+!!Next meeting
+
+Next Tuesday (3.4.) at the usual time.
+
+!!!TODO:
+* __PLD__ runnable winzip installer possible?
+* __PLD__ definitive answer on adobe hyphenator hyphen types (strong vs. weak)
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+  - under investigation
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+** solved, will be sent after testing
+* check: installer on Mac should be able to (__PLD__ to check):
+** move existing proofing tools out of the way (into a zip archive?)
+** restore "original" proofing tools on deinstallation
+*** yes, but some residues remain after de-installation.
+*** solution probably requires admin rights - will document
+* check if Sami-codes are included in Office 2008 / Mac
+  (when beta arrives with codes) (__Polderland__)
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do) (__Polderland__)
+* send speller lexicon (or CVS tag) for the beta release to Polderland
+  (__Sjur__)

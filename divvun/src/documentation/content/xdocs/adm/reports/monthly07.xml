@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 8, juli 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>Juli har vore prega av ferie. Det arbeidet som har vorte gjort har
+      vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjon: det vart gjort ein del arbeid med å setja opp
+        automatisk oppdatering av nettstaden. Ved utgangen av juli var
+        prosessen halvautomatisk – oppdateringa må startast manuelt, men
+        resten skjer automatisk. Visse funksjonar er ikkje på plass, m.a. går
+        det ikkje å lesa referata frå vekemøta våre enno, og vi har ikkje fått
+        på plass automatisk nyhendeutsending som gjer at det er mogleg å
+        fylgja prosjektet utan å gå til nettstaden.</li>
+
+        <li>tekstinnsamling: det vart ikkje gjort noko i juli pga
+        ferieavviklinga.</li>
+
+        <li>korpusorganisering: litt arbeid har vorte gjort med
+        infrastrukturen.</li>
+
+        <li>Lingvistisk arbeid: Svært lite har skjedd i juli, sjølv om Thomas
+        rakk å gjera litt med lulesamisk før han for på ferie, og Maaren ditto
+        for nordsamisk. Utover det har leksikonet vorte jamleg oppdatert av
+        folk på universitetsprosjektet.</li>
+
+        <li>Termbasen: arbeidet med å retta opp feil som har vorte oppdaga
+        etter opninga har halde fram.</li>
+
+        <li>Stavekontroll: vi har byrja arbeidet med å setja opp infrastruktur
+        for å laga den fyrste stavekontrollen. Stavekontrollen vil bruka ein
+        utvida versjon av verktya frå Xerox som vi må betala for. Denne utvida
+        versjonen vil generera det som trengst for å kunna laga ein
+        stavekontroll i <a href="http://aspell.net/">Aspell</a>, ein
+        stavekontrollmotor som finst for alle plattformar vi skal levera til,
+        og som er tilgjengeleg som open kjeldekode.</li>
+      </ul>
+
+      <section>
+        <title>Samling og kurs</title>
+
+        <p>Vi skal ha ei ny samling i Helsingfors dei siste dagane av august,
+        i samband med ein «workshop» om språkteknologi (<a
+        href="http://www.ling.helsinki.fi/events/FSMNLP2005/">FSMNLP</a>) av
+        den typen vi bruker i prosjektet. Alle prosjektmedlemene skal etter
+        samlinga delta på workshoppen.</p>
+      </section>
+
+      <section>
+        <title>Demonstrasjon</title>
+
+        <p>I samband med workshoppen nemnd over vil vi halda ein demonstrasjon
+        av den fyrste stavekontrollprototypen, slik det er skildra lenger opp.
+        Vi håper på å få nyttige tilbakemeldingar frå andre språkteknologar i
+        samband med demonstrasjonen.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet har gått smått framover i juli pga ferieavviklinga, men
+      det hadde vi sjølvsagt rekna med, og vi er såleis i rute. Prosjektet
+      ligg føre planen i høve til å testa ut den fyrste stavekontrollen, som
+      eigentleg var planlagt til seint på hausten eller føre jul.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

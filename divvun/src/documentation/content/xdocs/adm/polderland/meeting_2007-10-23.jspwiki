@@ -1,0 +1,117 @@
+!!!Meeting with Polderland 23.10.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+!!!Since last time
+
+!!Polderland
+
+* fixing bugs: some bugs pending
+* compounding behaviour:
+** 3/4/5-part compound appear to work in general,
+   but not in some specific cases
+*** have worked out details of a technical solution + costs (in hrs).
+    Decision to be taken next week 
+* working on zip utility for windows installer: pending
+* Speller behaviour: only suggests if errors are limited to 1 part of compound.
+** undesired (or should be user setting),
+** will be changed in future drop
+* work has started on Indesign Spellers for North + Lule Sami
+** speller starts to work, skeleton version recognises words
+** now adding the real functionality; relativey straightforward 
+* work on command line hyphenator for Mac still nearly completed.
+** implemented as front end for existing & delivered hyphenators
+* new bug messages received but not inspected yet
+
+
+!!Divvun
+
+* major work on hyphenator debugging, several bugs found relating to compounds
+* major remaining bugs relate to limits in the PLX formalism:
+** N-part compounds either overgenerate in a bad way, or severely undergenerate
+*** severely limits functionality; according to Divvun not in spec.
+*** should be fixed (maybe later than originally planned final drop)
+* added iso-disk installer for CD burning
+
+The latest spellers are available at:
+
+* [http://www.divvun.no/static_files/sami-proofing-tools-20071022.dmg] - Mac
+* [http://www.divvun.no/static_files/sami-proofing-tools-20071022.zip] - Win
+* [http://www.divvun.no/static_files/DivvunToolsCD-20071022.cdr] - cd master
+  disk image
+
+!!Bug status
+
+!Solved/cancelled
+
+None since last meeting.
+
+!To be solved in next drop
+||Div ||Pld ||Description
+| 473 | 452 | Windows installer does not autostart after download => discuss solutions
+| 516 | 4?? | vista installation from zip fails => probably solved by self-extracting zip; not functioning yet 
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 461 | 448 | Spelling errors with editing distance 1 from lexicalised words do not get correct suggestions => explanation not good enough, investigate more samples *** still investigating
+| 522 | xxx | Strange compounding fenomena
+| 528 | xxx | Acro words get upper-case case endings
+| 533 | xxx | Office 2007 gives North Sámi suggs in context menu when language is Lule => Divvun will check with the ''Public beta 2''.
+| 545 | xxx | Bad hyphenation in compounds - fence post errors?
+| 546 | xxx | Other bad hyphenation, different hyphenation in manual and auto
+| 553 | xxx | Uninstallation under Windows Vista fails
+
+!To be investigated by Divvun/Users
+||Div ||Pld ||Description
+| 447 | 443 | Windows speller doesn't install on terminal server => SD IT guys will have a look once more
+
+!!!Issue discussion
+
+!!473 - Windows installer
+
+Alternatives to solve it:
+* make an executable installer file - requires InstallShield, meaning that
+  either Polderland will have to make each installation package, or that the
+  Divvun project will have to get an InstallShield license
+* make self-extracting zip files for download, with autostart options of the
+  extracted objects; some alternative zippers for this:
+
+
+For both cases different types of protection software (firewalls, anti-virus,
+etc) might block either download or execution of the installer. But default
+InstallShield installers behave in the same (or a similar) way, so that should
+not be any different.
+
+
+!!!Rough schedule
+
+* Mid September: planned final drop from Polderland
+** did drop, new drops still expected: new Windows installer, etc
+* November 1: Divvun code freeze
+* November 15: Indesign speller
+* December 11: public release
+
+
+!!!Next meeting
+
+Next week (30.10.) at 09.30 Dutch/Norwegian time.
+
+!!!TODO:
+* __PLD__ discuss limits in N-part compound functionality with mgmt team,
+          get back to Divvun ASAP
+* __PLD__ pass information on self-extracting ziptool with autostart option
+          + instructions on how to use it (not in working order yet) - pending
+* __PLD__ provide information on InDesign language grouping
+* __PLD__ check: is mklex version G5 only, or universal binary?
+* __Divvun__ check bug {{533}} with latest release

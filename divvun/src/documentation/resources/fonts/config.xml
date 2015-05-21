@@ -1,0 +1,20 @@
+<fop version="1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://svn.apache.org/viewvc/xmlgraphics/fop/trunk/src/foschema/fop-configuration.xsd?view=co">
+ <base>./</base>
+ <source-resolution>72</source-resolution>
+ <target-resolution>72</target-resolution>
+ <default-page-settings height="11in" width="8.26in"/>
+ <renderers>
+   <renderer mime="application/pdf">
+     <filterList>
+       <value>flate</value>
+     </filterList>
+     <fonts>
+       <directory>./</directory>
+       <auto-detect/>
+     </fonts>
+   </renderer>
+   <!-- Some other renderers follow here -->
+ </renderers>
+</fop>

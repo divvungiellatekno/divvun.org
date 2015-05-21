@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>Administration</title>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Møter</title>
+
+      <section>
+        <title>Ukentlige møter</title>
+
+        <p>Vi har et prosjektmøte en gang i uka, vanligvis på mandager, kl. 10 norsk tid. I møtene deltar også medlemmer fra det samisk disambigueringsprosjektet, i det minste Trond Trosterud som er prosjektleder der, for å lettere kommunisere og koordinere samarbeidet.</p>
+
+        <p>Møtereferatene er tilgjengelig <a
+        href="http://divvun.no/doc/admin/meetings.html">i fellesområdet</a>. Referatene er skrevet i et <a class="fork"        href="http://forrest.apache.org/docs/wiki-sample.html" title="A page describing the JSPWiki features supported by Forrest">Wiki format</a> som støttes av <a class="fork" href="http://forrest.apache.org/" title="Forrest home page">Forrest</a>. Dette lar oss ha referater som nesten bare er ren tekst, kombinert med øyeblikkelig publisering. Vi har også laget en intern <a href="http://divvun.no/doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki howto</a>.</p>
+
+
+        <p>Møtene blir holdt via telefon, samtidig som vi skriver referatet med <a class="fork"
+        href="http://www.codingmonkeys.de/subethaedit/" title="Home page for SubEthaEdit">SubEthaEdit</a>. Et lynmeldingsprogram, (<a class="fork" href="http://www.apple.com/ichat/" title="Home page for iChat">iChat</a>) brukes også som et hjelpeverktøy. Senere i åris used as a supporting tool as
+        well. Later this year we will switch to using iChat instead of the
+        phone, as it will gain 4-way video and 10-way audio conferencing
+        included in the <a href="http://www.apple.com/macosx/"
+        title="Home page of MacOS X"> next major version of the MacOS</a>.</p>
+      </section>
+
+      <section>
+        <title>Andre møter</title>
+
+        <p>Vi kommer til å holde møter og workshops i ny og ne. Vi har ikke laget tidsplan eller bestemt hvor ofte slike møter skal holdes, men disse kommer til og holdes ved behov.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Raportter</title>
+
+      <section>
+        <title>Månedlige rapporter</title>
+
+        <p>Prosjektlederen lager en månedlig rapport med et sammendrag av arbeidet som er gjort og leverer dette til sjefen for sametingets språkavdeling. Rapportene er tilgjengelig i en <a href="reports/monthoverview.html">egen del</a> på dette nettstedet. Rapportene er skrevet på norsk.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>Den tiende hver måned.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Halvårsrapporter</title>
+
+        <p>Prosjektstyret har et møte hvert halvår, og prosjektlederen skal lage en rapport om prosjektets status før hvert møte. Rapportene blir tilgjengelige her etterhvert som de skrives.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>Tre uker før møtene.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Årlige rapporter</title>
+
+        <p>Finansiærene vil ha rapporter om fremgangen til prosjektet og bruken av pengene. <strong>Deadliner</strong> er:</p>
+
+        <dl>
+          <dt>NordPlus Sprog:</dt>
+
+          <dd>15. februar</dd>
+
+          <dt>Norske departementer:</dt>
+
+          <dd>15. mars</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Andre rapporter</title>
+
+        <p>Rapportene som ble laget under planleggingen av dette prosjektet kommer snart til å bli tilgjengelige på denne nettplassen. Rapportene ere:</p>
+
+        <ul>
+          <li>Den første rapporten, med et budsjett på 19,2 mill. NOK</li>
+
+          <li>Den reviderte rapporten, med et budsjett på 11,3 mill. NOK</li>
+        </ul>
+
+        <fixme author="SNM">Add the reports and their links here.</fixme>
+      </section>
+    </section>
+
+    <section>
+      <title>Budsjett</title>
+
+      <p>Some info about the budget here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+    </section>
+
+    <section>
+      <title>Project plan and schedule</title>
+
+      <p>Some info about the plans and schedules here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+
+    </section>
+
+    <section>
+      <title>Outsourcing</title>
+
+      <p>Deler av prosjektet kommer til å gjøres av utenforstående parter. Mere spesifikt kommer integrasjonen med MS Office (Mac/Win) og InDesign til å bli gjort av eksterne firmaer etter en anbudsrunde som følger EU/EØS reglene. Vi kommer til å skrive en del dokumenter med informasjon relevant for disse firmaene:</p>
+
+      <ul>
+        <li><a href="outsourcing/tech-spec.html">Tekniske spesifikasjoner</a> for de ventede produktene.</li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Sist modifisert: $Date$,
+       by $Author$</p>
+
+  </body>
+</document>

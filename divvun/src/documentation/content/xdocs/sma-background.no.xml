@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>Stavekontroll for sørsamisk</title>
+
+    <authors>
+      <person email="trond.trosterud@hum.uit.no" name="Trond Trosterud" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+<title>Sametingets stavekontrollprosjekt for sørsamisk startet 1.1. 2008.</title>
+<p>Prosjektet skiller seg fra første prosjektperiode (for nord- og lulesamisk) ved at det er færre ressurser til stede for sørsamisk:</p>
+
+      <ol>
+        <li>Lister over sørsamiske ord, med stammeklasseinformasjon, i
+        elektronisk form, er ikke tilgjengelig</li>
+
+        <li>Det trengs mer opplysninger om sørsamisk grammatikk, f.eks. i form
+        av en ny refereansegrammatikk. Åpne spørsmål er framfor alt
+        adjektivbøyinga, og behandlinga av låneord.</li>
+      </ol>
+
+<p>Følgende arbeidsoppgaver står sentralt</p>
+
+<ol>        <li>Utviding av den eksisterende sørsamiske <a
+        href="http://giellatekno.uit.no/a-sma.html">analysatoren</a> og <a
+        href="http://giellatekno.uit.no/g-sma.html">generatoren</a> til en
+        fullverdig automat.</li>
+	<li>Arbeid med normative spørsmål</li>
+      </ol>
+
+      <p>For å få til dette trengs det målretta samarbeid i arbeidet med sørsamisk.</p>
+      
+    </section>
+    <section>
+      <title>Bakgrunnen til at sørsamisk ikke ble med i første omgang av Divvun-prosjektet</title>
+
+      <p>Den opprinnelige planen for <em>divvun.no</em> var å lage
+      stavekontroll for tre språk, nord- lule og sørsamisk
+      samitidig. I løpet av planleggingsperioden gikk vi likevel inn
+      for å utelate sørsamisk fra første prosjektperiode, av følgende
+      grunner:</p>
+
+      <ol>
+        <li>I motsetning til de nord- og lulesamiske analysatorene, ble den
+        sørsamiske analysatoren (laget av Sjur N. Moshagen og Trond Trosterud)
+        ikke ferdig til det første Divvun-prosjektet starta. <ul>
+            <li>UiTø hadde ikke tilgang til ei liste over sørsamiske ord, med
+            stammeklasseinformasjon, i elektronisk form. Så lenge analysatoren
+            ikke har tilgang til ei slik liste, vil den forbli en
+            demonstrator, som ikke kan brukes til praktiske formål</li>
+
+            <li>De grammatikkene som eksisterte for sørsamisk var ikke
+            uttømmende nok til å lage gode analysatorer, det trengs mer
+            grunnforsking før vi vet nok om sørsamisk grammatikk.</li>
+          </ul></li>
+
+        <li>Språkteknologiprosjektet ved Universitetet i Tromsø fikk avslag på
+        en søknad til Forskingsrådet om å arbeide videre med den sørsamiske
+        analysatoren, Forskingsrådet sine referenter så det som viktigere for
+        prosjektet å konsentrere seg om nord- og lulesamisk, der den
+        grunnleggende infrastrukturen var på plass.</li>
+      </ol>
+
+      <p>I og med at den sørsamiske analysatoren ikke var ferdig, og
+      det var usikkert hvor mye arbeid det ville innebære å gjøre den
+      ferdig, kunne Sametinget ikke gå inn for å ta med sørsamisk i
+      det første Divvun-prosjektet.</p>
+    </section>
+    <section>
+      <title>Andre samiske språk</title>
+<p>I løpet av planleggingsfasen til dette prosjektet ble det ikke vurdert å lage stavekontrollprogram for enare-, skolte- eller kildinsamisk. Det norske sametinget har prioritert de samiske språka som blir snakka i Norge. Universitetet i Tromsø har analysatorer for disse språka, men bare skissemessige versjoner for enare- og skoltesamisk (se den <a href="http://divvun.no/doc/lang/smn/j-smn.html">enaresamiske</a> og <a href="http://divvun.no/doc/lang/sms/j-sms.html">skoltesamiske</a> dokumentasjonen). Ingenting har blitt gjort for kildinsamisk.</p>
+
+<p>Infrastrukturen som blir laga for nord- og lulesamisk kan selvfølgelig brukes for arbeid med de andre samiske språka i framtida, så på den måten vil arbeidet som blir gjort nå være relevant for enare- skolte- og kildinsamisk også.</p>
+
+
+<p class="last_modified">Siste endring: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

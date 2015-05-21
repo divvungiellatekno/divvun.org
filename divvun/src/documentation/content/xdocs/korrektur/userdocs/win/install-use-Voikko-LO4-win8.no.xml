@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+	<header>
+		<title>Divvun-stavekontrollene for LibreOffice 4 på Windows 8</title>
+	</header>
+
+	<body>
+
+			<p>Divvun-gruppa har i samarbeid med <a
+			href="http://voikko.puimula.org">Voikko</a>-miljøet og <a
+			href="http://hfst.sourceforge.net">Hfst</a>-miljøet utvikla en ny
+			serie stavekontroller for LibreOffice. All kildekode for
+			stavekontrollene er helt åpen, både den språklige og den tekniske.
+			På sikt vil denne stavekontrollen også bli integrert i andre system
+			og program.</p>
+
+		<section>
+			<title>Installer stavekontrollene</title>
+			
+			<warning>Stavekontrollene for <a
+			href="http://libreoffice.org/">LibreOffice</a> er fremdeles av
+			<strong>BETA</strong>-kvalitet. Vi tar gjerne i mot alle slags <a
+			href="mailto:feedback@divvun.no">tilbakemeldinger</a>!</warning>
+
+			<note>
+				Disse installasjoninstruksene er for Divvun-stavekontrollene
+				produsert med Voikko og Hfst for <em>LibreOffice.org 4.1+</em>.
+				Vi har en separat <a
+				href="../mac/install-OOo-3.html">installasjonsinstruks for
+				Divvun produsert for Hunspell</a> til bruk i lag med
+				LibreOffice 3.x og OpenOffice.org 2.x.
+			</note>
+			
+			<p>Samiske (og andre) stavekontroller for LibreOffice kan lastes
+			ned <a href="/libreofficeoxt.html">her</a>. Det nedlastede
+			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
+			<img src="images/win8-voikkooxt-fi-se-nn.png"
+			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
+
+			<p>Avhengig av hva slags webleser og operativsystem du har, blir fila
+			enten automatisk åpnet av LibreOffice eller lagret på harddisken.
+			Hvis fila blir lagret, dobbelklikk på den for å installere den.</p>
+
+            <p>LibreOffice starter opp og installerer stavekontrollen. Du får et
+            spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for
+            å installere den:<br/>
+            <img src="images/win8-installoxt-ok-nn.png"
+            alt="Dialog for å sjekke om man vil installere tillegget."/></p>
+
+            <p>Når den er ferdig installert, dukker et vindu som ligner på det
+            nedenfor opp. I bildet nedenfor er det nyinstallerte
+            stavekontrolltillegget markert (blåmerket) . Du kan klikke på
+            "Innstillingar …" for å se hvilke språk som er tilgjengelige i
+            stavekontrollen. Trykk «Lukk» for å avslutte installeringa.
+            <br /><img src="images/win8-oxt-installert-nn.png"
+            alt="Resultatet av installasjonen." /></p>
+
+		</section>
+
+		<section>
+            <title>Å bruke stavekontrollen</title>
+            
+            <note label="Windows-brukere">Om tastatur og innspråk er <a
+            href="enable_sme_input-win8-nob.html">satt opp
+            som anbefalt</a> i Windows, veksler stavekontrollspråket automatisk
+            sammen med inndataspråket, og instruksjonene nedenfor er
+            overflødige. Bare bytt tastatur: norsk tastatur når du skriver
+            norsk, nordsamisk tastatur når du skriver nordsamisk, osv.
+            Stavekontrollspråket bytter i lag med tastaturet!</note>
+            
+            <p>For å slå på samisk stavekontroll:</p>
+            <ul>
+                <li>Klikk i det fjerde feltet fra venstre i statusområdet og
+                    deretter «Andre …»: <br/>
+    			 <img src="images/win8-LO4-switch-language-nn.png"
+    			      alt="Språkmeny" /></li>
+	       		<li>Velg <strong>Skrift</strong>-fliken i dialogvinduet og velg
+	       		språket du vil ha i <strong>språkmenyen</strong>: <br/>
+	       		 <img src="images/win8-LO4-select-language-nn.png"
+	       		      alt="Skriftdialog" /></li>
+			    <li>Nå kan du <strong>høgreklikke</strong> på feilskrevne ord og
+			    få forslag til rettelser ("ordet" <em>nuvviDspeller</em> vil i
+			    forslagsmenyen fortelle deg hva slags versjon du har av
+			    Divvun-stavekontrollen):<br />
+			     <img src="images/win8-speller-popup-nn.png"
+			     alt="Velg språk for stavekontroll" /></li>
+            </ul>
+		</section>
+	</body>
+</document>

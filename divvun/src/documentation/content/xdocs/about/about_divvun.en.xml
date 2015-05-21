@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>About Divvun</title>
+    </header>
+    <body>
+      <section>
+         <title>About the Divvun tools</title>
+         <p>The Divvun tools have been developed during two three year long projects. The proofing tools are available
+         for the most popular office suites on Windows, Mac OS X and Linux. The <a
+         href="http://www.sametinget.no/">Norwegian Saami Parliament</a>, the <a
+         href="http://www.regjeringen.no/en/dep/fad.html?id=339">Ministry of Government administration, Reform and
+         Church affairs</a> and the <a href="http://www.regjeringen.no/en/dep/kd.html?id=586">Ministry of Research</a>
+         have funded these projects.</p>
+         <p>Divvun I (Northern and Lule Saami) lasted from 2004 to 2007, and Divvun II (Southern Saami) from 2008 to 2010.
+         From 2011 and onwards the project will be under the administration of developing Saami language technology and
+         practical tools based on language technology in cooperation with the <a href="http://giellatekno.uit.no">Center for Saami language technology</a>.</p>
+      </section>
+    </body>
+</document>

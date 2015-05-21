@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>Press release, 29.5.2007</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Press release</title>
+
+      <p>Date: 29.5.2007<br /> Contact person: Project leader Sjur
+      Nørstebø Moshagen, phone +358 50 56 34 319</p>
+    </section>
+
+    <section>
+      <title>PRM: Beta version of Sámi Proofing Tools</title>
+
+      <p>the Sámi Parliament's Divvun project is today releasing the first
+      publicly available version of Sámi proofing tools for the Microsoft
+      Office suite. The suite contains among others the applications Word,
+      Outlook, PowerPoint and Excel.</p>
+
+      <p>The Sámi proofing tools contain spell checkers for North Sámi and Lule
+      Sámi, and an automatic hyphenator for North Sámi.
+      Hyphenation for Lule Sámi will come later this year. All tools are free, 
+      included the final version, and all source code for the tools made by the
+      Sámi Parliament are freely available.</p>
+
+      <p>The tools launched today are not the final ones, but a so-called beta
+      version, a version who should be void of any serious technical and other
+      errors, but who still is not developed and tested.
+      The goal by releasing this beta version is to get important feedback 
+      when it comes to missing words, eventual technical problems, and other
+      possible weaknesses, so that they may be corrected before the final
+      release at the end of the year.</p>
+
+      <p>The proofing tools being released are tools for MS
+      Office for Windows and Mac. Tools for InDesign and OpenOffice.org will
+      be released at a later date. OpenOffice.org is a free alternative to
+      Microsoft Office, and is also available for Linux. Updates to the proofing
+      tools will be published at regular intervals.</p>
+
+      <p>The tools are available at <a href="http://www.divvun.no/"
+      >www.divvun.no</a>, and can be downloaded by all interested parties.
+      Copies of the tools may also be downloaded from <a
+      href="http://www.sametinget.no/">the Sámi Parliaments homepage</a>.</p>
+
+      <p>The Divvun project is run by the Norwegian Sámi Parliament, and is
+      financed by the Sámi Parliament, the Ministry of labour and social
+      inclusion, the Ministry of Culture and Church affairs, the Ministry of
+      Education and Research, and Nordplus Sprog. The project
+      cooperates closely with <a href="http://giellatekno.uit.no/"
+      >the Sámi language technology centre at the University of
+      Tromsø</a>. Integration with MS
+      Office is delivered by <a href="http://www.polderland.nl/">Polderland
+      Language &amp; Speech Technology bv</a>.</p>
+    </section>
+  </body>
+</document>

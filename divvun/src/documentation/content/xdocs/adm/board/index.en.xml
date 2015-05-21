@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nny">
+  <header>
+    <title>The board</title>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Documents for the board</title>
+
+      <ul>
+        <li><a href="perm-maintenance.html">Permanent maintenance organisation</a></li>
+        <li><a href="half-year-1.html">1. half year report</a></li>
+      </ul>
+
+    </section>
+
+  </body>
+</document>

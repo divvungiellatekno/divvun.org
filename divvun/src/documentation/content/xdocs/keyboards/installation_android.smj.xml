@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document>
+    <header>
+        <title>Sajájduhttem Androidan</title>
+    </header>
+    <body>
+        <p>Gå la ehpav Google Playas viedtjam soajttá návti vuojnnut:</p>
+        <p>
+            <img width="240" src="images/android_app_downloaded.no.png"
+        alt="Hjemmeskjerm med installert tastaturapp"/>
+        </p>
+        <p>Rabá ehpav:</p>
+        <p>
+            <img width="240" src="images/android_app_start.no.png"
+        alt="App-velkomstskjerm"/>
+        </p>
+        <p>Joarke konfigurierimijn:</p>
+        <p>
+            <img width="240" src="images/android_app_steg1.no.png"
+        alt="Første konfigureringssteg i appen"/>
+        </p>
+        <p>Dieddela sválldasav majt buktá duv sajájduhttempanellaj gånnå biedjá tastatuvrajt jåhtuj:</p>
+        <p>
+            <img width="240" src="images/android_config_steg1.no.png"
+        alt="Android-konfigurering, første steg"/>
+        </p>
+        <p>Oadtjo várrodusáv gå bieja dajt jåhtuj. Divvun ij tjoahkke dav majt
+        tjálá, máhtá danen dieddelit ok:</p>
+        <p>
+            <img width="240" src="images/android_config_steg1_warning.no.png"
+            alt="Advarsel om å gi full tilgang til utvikleren til alt du skriver"/>
+        </p>
+        <p>Gå la biedjam Samiske tastaturer jåhtuj viertti målssot dajda -
+            dieddela «Bytt inndatametode»:</p>
+        <p>
+            <img width="240" src="images/android_app_steg2.no.png"
+        alt="Andre konfigureringssteg i appen"/>
+            <img width="240" src="images/android_config_steg2.no.png"
+        alt="Android-konfigurering, andre steg"/>
+        </p>
+        <p>Dálla soajttá vuojnnet gájkka le gárves, valla viertti dieddelit «Konfigurer flere språk» vaj da sáme tastatuvra majt lágeda biejaduvvi jåhtuj:</p>
+        <p>
+            <img width="240" src="images/android_app_steg3.no.png"
+        alt="Tredje konfigureringssteg i appen"/>
+        </p>
+        <p>Gádoda bajemus ruossav listan («Bruk systemspråk»):</p>
+        <p>
+            <img width="240" src="images/android_config_steg3a.no.png"
+        alt="Android-konfigurering, tredje steg"/>
+        </p>
+        <p>Ja de mierkki gielajt majt lágeda:</p>
+        <p>
+            <img width="240" src="images/android_config_steg3b.no.png"
+        alt="Android-konfigurering, fjerde steg"/>
+        </p>
+        <p>De la gærggam!</p>
+        <p>
+            <img width="240" src="images/android_app_steg3.no.png"
+        alt="Tredje konfigureringssteg i appen - ferdig"/>
+        </p>
+        <p>Gå tjáledijn tastatuvrav sidá målssot dieddela ja adnala globusboalov gaskaboalo gåråbielen:</p>
+        <p>
+            <img width="240" src="images/android_writing.no.png"
+        alt="Skriv med samisk tastatur"/>
+            <img width="240" src="images/android_switching_keyboards.no.png"
+        alt="Bytt til et annet tastatur"/>
+        </p>
+        <p>Máhtá aj tastatuvraj tjadá sláddit jus dåssju globusboalov dieddela.</p>
+        <p>Jus la fabrihkkatastatuvrraj målssom, máhtsá vat ruoptus sáme tastatuvrajda gå tjuvdev guokti sjerma badjebieles giesa. De ihtá lissta válljimvejulasjvuodaj, d.d. dåhkki válljit «inndatametode» (tastatuvrra):</p>
+        <p>
+            <img width="240" src="images/android_switch_keyboard_alt.no.png"
+        alt="Alternativ for å bytte tastatur"/>
+        </p>
+    </body>
+</document>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 4, mars 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>Arbeidet i mars har vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>dokumentasjonssystemet er no i aktivt dagleg bruk i prosjektet (og
+        i prosjektet til UiT). Nokre små tekniske problem som enno ikkje var
+        løyste i februar er no retta opp. Det viktigaste punktet som framleis
+        står att er å gjera dokumentasjonen og prosjektinformasjon meir
+        allment tilgjengeleg utanfor prosjektgruppa. Domenet www.divvun.no
+        vart aktivert i slutten av mars, og det er no berre integreringa med
+        servaren til UiT som står att før prosjektet sine heimesider er
+        tilgjengelege for publikum.</li>
+
+        <li>tekstinnsamling: vi har fått mange positive tilbakemeldingar i
+        mars, og neste steg er å få ferdig utkast til avtaledokument.</li>
+
+        <li>korpusorganisering: vi har jobba vidare med å testa konvertering
+        frå MS Word-dokument, og diskutert ein god del korleis vi vil
+        organisera filene, og kva for format vi vil ha i vårt eige
+        korpus.</li>
+
+        <li>Lingvistisk arbeid: arbeidet gjekk òg denne månaden bra framover,
+        og Thomas arbeider seg systematisk vidare gjennom bøyinga av ulike
+        grupper av ord, i mars har målgruppa vore verb. Maaren har i praksis
+        ikkje hatt tid til å delta i prosjektarbeidet i mars.</li>
+
+        <li>Termbasen: Også i mars har Børre og Sjur jobba med termbasen, Sjur
+        ein stor del av tida. Sidan dette arbeidet ikkje høyrer til
+        Divvun-prosjektet, vil det bli rapportert separat.</li>
+      </ul>
+
+      <p>Vi har ingen tekniske problem utover det ein må rekna med i eit slikt
+      prosjekt, bortsett frå at det framleis ikkje er mogleg å kopla seg opp
+      med video- og talekonferanseprogramvare mot brukarar innanfor veggene
+      til Sametinget (Thomas og Maaren). I mai vil vi auka bruken av video- og
+      talekonferanse, så då må dette siste problemet løysast.</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet er stort sett i rute, men nokre av oppgåvene til
+      prosjektleiaren er framleis forsinka pga arbeidet med å gjera ferdig
+      terminologibasen. Dette gjeld, som i januar og februar, prosjektplanen,
+      og arbeidet med å skriva ein spesifikasjon for eksterne leverandørar for
+      dei delane som skal leggjast ut. Arbeidet med terminologibasen vart
+      ikkje heilt ferdig i mars, sjølv om det no klart nærmar seg slutten.
+      Slik det ser ut no, vil prosjektet bli litt forseinka med å laga ein
+      spesifikasjon for eksterne leverandørar, og det vil påverka tidsfristane
+      for offentlege tilbod. Dersom vi gjer svartida for slike tilbod kortare,
+      kan vi enno klara å gjennomføra heile tilbodsprosessen i år, men eg trur
+      ikkje vi får sett i gang det praktiske samarbeidet på denne sida av
+      årsskiftet. Får vi gjennomført tilbodsrunden i år burde vi kunna vera
+      heilt i rute i høve til den opphavlege timeplanen neste sommar. </p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installation and use on Windows</title>
+   </header>
+   <body>
+      <section>
+         <title>Use Divvun on Windows</title>
+         <p>In order for the Divvun tools to be able to help you, you have to tell the computer that you actually do
+         intend to write in Sami, by choosing Sami as the language of your text.</p>
+         <p>1a. MS Office 2003: When you have opened MS Office you choose the menu <strong>Tools Languages Mark selected
+         text as …</strong> <img alt="Menu to choose Sami" src="images/PC_14_Office_2003_velg_sprak.png" /></p>
+         <p>1b. Office 2007: When you have opened MS Office you click the tab <strong>Se gjennom</strong> , where you
+         chose <strong>Angi språk</strong></p>
+         <p>2. In the emerging dialogue you choose <strong>Sami</strong> or <strong>Lule Sami</strong> . NB! Make sure
+         that the box <strong>Identify language automatically</strong> is <em>not</em> ticked. If it <em>is</em> ticked,
+         Office will guess the text is in languages other than Sami for a long time, and Divvun will not work as
+         expected (most users report that it will eventually settle with the user's language setting, but that it takes
+         time).</p>
+         <p><img alt="Choose language dialogue" src="images/PC_15_Office_2003_bestem_sprak.png" /></p>
+         <p>3. Now you may start to write in Sami, and the program will then help you with your spelling. You may either
+         right-click (ctrl-click) on words underlined with red, in which case it looks as follows:<br /></p>
+         <p><img alt="Suggestion in menu" src="images/PC_16_Bruke_stavekontrollen.png" /></p>
+         <p>or you may start the speller in a separate window. Press the <img alt="abc-button"
+         src="images/PC_17_abc_knapp.png" />. The result is:<br /><img alt="The spell checker in use"
+         src="images/PC_13_MSOffice_example_cut.png" /></p>
+      </section>
+   </body>
+</document>

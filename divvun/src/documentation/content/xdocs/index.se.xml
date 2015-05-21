@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Divvun - sámi giellateknologiija</title>
+        <meta name="description">sámi čállindárkkisteaddji</meta>
+    </header>
+    <body>
+        <note label="Ođđasat!">Davvisámi hállansyntesa almmuhuvvo
+        6.5.2015! <a href="tale/tale.html">Loga eanet dás!</a></note>
+
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            Mis leat davvi-, julev- ja lullisámi <a href="korrektur/korrektur.html">čállindárkkisteaddjit</a> <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> várás
+        </li>
+        <li class="col-sm-4">
+            Mis leat davvi-, julev-, lulli-, bihtán-, anár- ja nuortalašsámegiel <a href="keyboards/index.html">boallobeavddit</a>  <img src="/images/android.png" alt="android"/> ja <img src="/images/ios8.png" alt="iOS 8"/> várás
+        </li>
+        <li class="col-sm-4">
+            Mis leat davvisámi <a href="tale/tale.html">hupmansyntesa</a> <img alt="Windows" src="/images/windows_small.png"/> ja <img alt="OS X" src="/images/osx.png"/> várás
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            Mis leat <a href="laring/laring.html">e-oahppanprográmmat</a> <img src="/images/android.png" alt="android"/>, <img src="/images/ios.png" alt="iOS"/> ja neahtta várás
+        </li>
+        <li class="col-sm-4">
+            Neahttavuođđuduvvon ja vieččahahtti <a href="ordboker/ordboker.html">sátnegirjjit</a>
+        </li>
+        <li class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">Jorgalanmuitu</a>
+        </li>
+      </ul>
+    </body>
+</document>

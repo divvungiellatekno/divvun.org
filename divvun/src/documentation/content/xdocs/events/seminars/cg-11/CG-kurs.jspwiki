@@ -1,0 +1,48 @@
+Vi inviterer til Constraint Grammar-kurs ved UiT (11-14 oktober). Constraint Grammar ([http://beta.visl.sdu.dk/constraint_grammar.html]) er en dependensanalysebasert formalisme som ble utvikla av prof. Fred Karlsson ved Helsingfors universitet og blir brukt for å lage automatisk syntaktisk analyse og disambiguering, dependensanalyse, leksikalsk seleksjon, maskinoversetting og grammatikkontroll. Divvun/Giellatekno ved UiT skal i oktober begynne med utvikling av grammatikkontroll for de samiske språka og i forbindelse med dette holde kurs for de som vil bidra til å lage slike program eller er interesserte. Det er nødvendig å ta med egen datamaskin.
+Det vil bli mer informasjon på følgende sider i de neste to ukene:
+
+* [Divvun|http://divvun.no/]
+* [Giellawiki|http://victorio.uit.no/cgi-bin/wiki/index.php/Main_Page]
+
+Blant annet skal vi legge ut en del setninger som inneholder grammatiske konstruksjoner vi vil jobbe med.
+
+Hjertelig velkommen, \\ Divvun, Giellatekno
+
+
+!!!CG-kurs i Tromsø 11-14 oktober
+
+
+* __Formål:__ lære opp folk i CG-formalismen med tanke på å lage grammatikkontroll
+* __Bakgrunn:__ lage en grammatikkontroll (+ analysator eigna for grammatikkontroll)
+* __Målgruppe:__ alle som er interesserte i CG (det er ok å ikke være med på alt)
+* __Tidspunkt:__ hver dag 9.30-15.30
+* __Stad:__ UiT, Teorifagsbygget, Hus 4, rom 4.553
+* __Påmelding:__ senest fredag 7.10 med e-post til ''sjur.n.moshagen ved uit.no''
+  eller ''linda.wiechetek ved uit.no''
+
+Det blir en kombinasjon av forelesninger & teori og praktiske oppgaver.
+
+!!!Førebuingar
+
+* installer [CG3|http://beta.visl.sdu.dk/cg3.html]
+  (de kan få hjelp på kurset om det trengst)
+** nyaste Windows-versjon: [http://beta.visl.sdu.dk/download/vislcg3/vislcg3-0.9.7.7397-win32.zip]
+** nyaste Mac-versjon: [http://beta.visl.sdu.dk/download/vislcg3/vislcg3-0.9.7.7524-osx.tar.gz]
+* les Tino si innføring: [http://beta.visl.sdu.dk/cg3_howto.pdf]
+* ta med datamaskin
+
+!!!Program
+
+| Tys 11.10. | Rask repetisjon/innføring i cg-formalismen
+| Ons 12.10. | Meir CG-reglar: disambiguering, analyser og dependensar
+| Tor 13.10. | Å laga ein grammatikkontroll
+| Fre 14.10. | Meir CG, planlegging av arbeidet framover
+
+!!!Literatur
+
+The following links point to articles available on the net (with one exception). These are not full and correct references, just usefull pointers.
+
+* Arppe, Antti (2000): [Developing A Grammar Checker For Swedish|http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.5017&rep=rep1&type=pdf, http://www.google.com/search?client=safari&rls=en&q=grammar+checker+frameworks&ie=UTF-8&oe=UTF-8]
+* Bick, Eckhard (2006): [A Constraint Grammar Based Spellchecker for Danish with a Special Focus on Dyslexics|http://www.linguistics.fi/julkaisut/SKY2006_1/1.6.1.%20BICK.pdf]
+* Birn, Juhani (1999): Detecting grammar errors with Lingsoft's Swedish grammar checker, Proc. Nodalida 1999
+* Müürisep, Kaili et al (20xx): [From Grammar Checker to Syntactic Trees: Estonian CG|http://www.hf.uio.no/iln/om/organisasjon/tekstlab/aktuelt/arrangementer/arkiv/CG08/KailiOslo.pdf]

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Váldit eret Divvun-reaidduid Windows 7:s</title>
+    </header>
+    <body>
+        <section>
+            <title>Váldit eret Divvun-reaidduid Windows 7:s</title>
+
+            <ol>
+                <li>Mana <strong>Start</strong>:ii, vállje
+                    <strong>Datamaskin</strong>
+                    <p><img src="images/win7_start_no.png"
+                    alt="Startmeny" /></p>
+                </li>
+
+                <li>Mana máhppii <strong>Lokal disk (C) -> Backup ->
+                    Divvun</strong> ja duppalcoahkkal prográmma <strong>remove_SamiProofingTools.exe</strong>
+                    <p><img src="images/remove_divvun-win7-nob.png"
+                        alt="Kontrollpanel"/></p>
+                </li>
+
+                <li>Go leat coahkkalan <strong>Lukk</strong> eretváldinlásežis, de leat Divvun-reaiddut jávkaduvvon dihtoris.
+                    <p><img src="images/remove_divvun_dialog-win7-nob.png"
+                        alt="Avinstaller Divvun"/></p>
+                </li>
+            </ol>
+        </section>
+    </body>
+</document>

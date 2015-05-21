@@ -1,0 +1,57 @@
+!!!Meeting with Polderland 10.2.2009
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Bug status
+* Priority list
+* Next meeting
+
+!!!Since last time
+
+!!Polderland
+* InDesign Windows/Mac: mac installer ready, win installer waiting for completion
+* South Sami: waiting for requests/samples for extra texts
+* bugs: work completed, answers to be sent today
+* started preparations for InDesign CS4 - no reply by Adobe on request for debug version yet
+* openOffice: completion of Papiamento speller expected this week
+
+!!Divvun
+* M&S - waiting for a response from Polderland
+* South Sámi offer: legal clarifications finished, an official answer to the
+  offer will be sent this week by mail.
+
+!!!Bug status
+
+!!Solved/cancelled
+
+Nothing new since last time.
+
+!!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
+| 670 | xxx | __REGRESSION:__ hard hyphen replaced with soft, see [latest test results|http://www.divvun.no/doc/proof/hyph/testing/regression-pl-forrest-smj-20090105.html] - since this was fixed earlier, and the hyphenation binary has not changed since then, we should investigate this first to see if we produce illegal PLX entries.
+
+!!Under investigation by Polderland
+||Div ||Pld ||Description
+| 581 | xxx | consonant doubling
+| 595 | xxx | problem with prefix containing hyphens
+| 603 | xxx | suffix is accepted in the middle of a word
+| 613 | xxx | speller does not accept 'Ga' tagged word as 2nd part
+| 670 | xxx | Hard hyphen replaced by soft hyphen. Regression? Check for v. 1.1
+| 679 | xxx | Discretionary/soft hyphen not respected - repaired, repaired code to be dropped
+
+!!!Priority list
+
+# installers for InDesign (CS3 & CS4, Mac + Win)
+
+!!!Next meeting
+
+Next meeting (Tue 23.2.) at 10.00 Dutch/Norwegian time.

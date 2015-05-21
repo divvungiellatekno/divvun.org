@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nny">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 1, oktober-desember 2004</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+
+  </header>
+
+  <body>
+    <section>
+      <title>Arbeid</title>
+
+      <p>Det utførte arbeidet i perioden var:</p>
+
+      <ul>
+        <li>å gå gjennom søkjarlista, intervjua og tilsetja
+        prosjektmedarbeidar for 3 av stillingane i prosjektet.</li>
+
+        <li>etter tilsetjing vart det gjeve eit grunnleggjande kurs og
+        innføring i prosjektet, arbeidet og verktya (= oppstartsseminar)</li>
+
+        <li>i samband med oppstartsseminaret vart det halde ein
+        pressekonferanse som resulterte i eit lengre innslag på NRK
+        Sámeradio</li>
+
+        <li>å byrja med å tilpassa og betra eksisterande infrastruktur frå
+        Tromsø-prosjektet, og byggja ny infrastruktur der det manglar</li>
+
+        <li>det fyrste styringsgruppemøtet vart halde i Oslo 15. desember.
+        Overordna plan og budsjett vart godkjent med små justeringar, og
+        detaljplan og -budsjett for 2005 vart òg godkjent.</li>
+      </ul>
+
+      <p>Alle punkta vart gjennomførde etter planen. Detaljar om det tredje
+      punktet kjem nedanfor.</p>
+    </section>
+
+    <section>
+      <title>Arbeidet med infrastrukturen</title>
+
+      <p>Arbeidet med infrastrukturen omfattar fleire punkt:</p>
+
+      <ol>
+        <li>konvertering frå internt teiknsett til Unicode (UTF-8)</li>
+
+        <li>setja opp eit dokumentasjonssystem som er lettare å halda ved like
+        og utnytta til fleire formål enn det eksisterande</li>
+
+        <li>setja opp eit reelt system for korpushandtering: konvertera, lagra
+        og bruka tekstar for testing og utvikling</li>
+      </ol>
+
+      <p>Infrastrukturarbeidet er omfattande og vil ta tid. Målet med arbeidet
+      før årsskiftet var å koma godt i gang med det fyrste punktet, og ev.
+      byrja på det andre.</p>
+
+      <section>
+        <title>Konvertering til Unicode</title>
+
+        <p>Pga alle dei problema det har vore med å bruka samisk på data, i
+        fyrste omgang pga mange konkurerande, og delvis private, standardar
+        (eller delvis mangel på slike) for teiknsett, har det heilt frå
+        starten vore klart at prosjektet må satsa på og bruka Unicode.
+        Arbeidet med å konvertera ikkje berre sjølve filene, men òg
+        arbeidsgangen til Unicode, kravde grundig gjennomgang av alle verktya
+        vi bruker, og oppsettet av datamaskinene.</p>
+
+        <p>Arbeidet vart ikkje ferdig før utgangen av desember, men kom godt i
+        gang, og er såleis i rute med planen.</p>
+      </section>
+
+      <section>
+        <title>Dokumentasjonssystem</title>
+
+        <p>Prosjektet treng eit dokumentasjonssystem som gjer det lett å
+        skriva og halda ved like dokumentasjonen, og helst eit system som gjer
+        det lett å omorganisera nettsidene utan dramatiske inngrep i dei
+        underliggjande filene. Det er òg ein stor fordel om det er lett å
+        publisera til fleire kanalar (t.d. både nettsider, pdf m.fl.).</p>
+
+        <p>I og med at prosjektet samarbeider så tett med Disamb-prosjektet
+        ved UiTø, var det viktig å kunna byggja vidare på det dei alt har av
+        dokumentasjon. Deira dokumentajson er skriven i HTML.</p>
+
+        <p>Arbeidet med å reorganisera og tilpassa dokumentasjonen til eit
+        nytt system, og å førebu konverteringa til dette systemet, byrja i
+        siste halvdel av desember då Børre Gaup byrja på prosjektet.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Arbeidet i perioden oktober-desember var i samsvar med planane, og
+      prosjektet var i rute ved årsskiftet.</p>
+    
+  </section>
+  </body>
+</document>

@@ -1,0 +1,66 @@
+!!!Meeting with Polderland 8.4.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+!!!Since last time
+
+!!Polderland
+
+* Adobe: is working on the case (cf. copy of E-mail sent). Their provisional
+  solution a) crashes b) does not use the InDesign API, so we're not there yet.
+* Microsoft has agreed to supply Office 2008 for the Mac, waiting for arrival
+  (might take some time) (... tick ... tick ... tick ...)
+* conversion of InDesign/InCopy to windows still nears completion
+* cmd line speller now contains version number option, will drop
+* bug 630: is an InDesign feature, WONTFIX (cantfix, actually).
+  see bugzilla for details.
+* bug 656: did not get around to that, have deferred it to Frank
+* drop of all code planned for this week
+
+!!Divvun
+
+Should have a look at the maintenance and support issues, contract-wise.
+
+* more bug fixes
+* latest speller and hyphenator tested, findings reported
+
+
+!!Bug status
+
+!Solved/cancelled
+||Div ||Pld ||Description
+| 636 | xxx | Hyphen in front of final consonant
+
+!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 549 | xxx | missing hyphens at word boundaries - noaiderumbbuid (accepted by speller) - solved in command-line tool, updates to Office and InDesign not yet delivered
+| 645 | xxx | borgguhan-gihppagis gets the hyphen on the next line - SOLVED; update not delivered
+| 656 | xxx | User word list "gets full" (as reported by users): repro only if millions of words are added, but related to memory. Word gets very slow if the list goes over 100 000 words or so. This is in Office 11 (2003). In Office 12 (2007) the user dictionary is managed entirely by Word. -> feedback from users on version, tests for office 2007 by Polderland.
+| 676 | xxx | guovttenuppelot--Čoarvvegiin - both rejected and suggested
+
+!!PLD Priority list
+
+# drop final/present versions of all DLLs and tools
+# remaining indesign speller custom dictionary issue (Adobe help activated)
+# Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
+# Check possible size of custom dictionary in office 2007/windows
+# InDesign proofing tools for Windows *** PENDING
+
+!!!Next meeting
+
+Next week (15.4.) at 9.30 Dutch/Norwegian time.

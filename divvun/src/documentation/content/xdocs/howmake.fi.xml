@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="fi">
+  <header>
+    <title>Miten oikolukuohjelma tuotetaan?</title>
+
+    <authors>
+	    <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Miten oikolukuohjelma tuotetaan?</title>
+
+      <p>Oikolukuohjelma tehdään läheisessä yhteistyössä Tromsan yliopiston
+      saamen kielen kieliteknologiaprojektin kanssa <a
+      href="http://giellatekno.uit.no">(Saamen kieliteknologiaprojekti)</a>.
+      Tromsan projekti on tuottanut ohjelman, joka voi taivuttaa saamen kielen
+      sanoja perusmuodoista muihin muotoihin, ja tietää taivutetun sanan
+      kieliopillisen muodon. Tätä ohjelmaa käytetään oikeinkirjoitusohjelman
+      perustana.</p>
+
+      <p>Ohjelmoijat tekevät mahdolliseksi sen, että lingvistit voivat
+      käydä läpi tekstejä testatakseen kattaako oikolukuohjelma kaikki
+      kieliopillisesti oikeat muodot ja että taivutusmuodot ovat oikein.
+      Lingvistit myös lisäävät sanakirjoista puuttuvat sanat ja tarkastavat
+      analysaattorin kieliopin. Tällä tavalla sanastoa koko ajan parannetaan
+      ja kehitetään.</p>
+
+      <p>Koska oikolukuohjelmat tuotetaan toimimaan sekä Windowsin, Mac OS X:n
+      ja Linuxin ohjelmissa, joudutaan tukeutumaan näiden alustojen jo
+      olemassa olevaan teknologiaan. Projektissa tullaan tuottamaan ohjelmia, jotka
+      muuttavat Tromsan yliopiston käyttämän formaatin eri alustojen ymmärtämään
+      formaattiin.</p>
+
+      <p>Vähitellen työn edetessä tulemme julkaisemaan oikolukuohjelman
+      testiversioita. Nämä laitetaan projektin nettisivuille, jotta asiasta
+      kiinnostuneet voisivat ladata versiot ja testata niitä.</p>
+
+      <p class="last_modified">Päivitetty: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>En skisse av bakgrunnen for dette prosjektet</title>
+  </header>
+  
+  <body>
+    <section>
+      <title>Før Tromsøprosjektet</title>
+      
+      <p>Rundt 1980 fant Lauri Karttunen, Ron Kaplan og Martin Kay på metoder for å konvertere generative omskrivingsregler til automater med endelig tilstand. I 1983 forsvarte Kimmo Koskenniemi doktoravhandlingen sin, der han var i stand til å kompilere slike automater for grammatikken til finsk, et "heavy inflecting language". I løpet av åttitallet ble det laget regelsett for flere språk, men prosessen å skrive disse manuelt var veldig arbeidskrevende. På slutten an årtiet kunne forskere ved Xerox lage en maskinell kompilator (twolc for Koskenniemis to-nivå morfofonologiske regler, og senere lexc for leksikonet og xfst for hele tolkeren). Xerox twolc kompilatorem ble hjørnesteinen for mye arbeid, også for stavekontrollprogrammene som ble laget for nordiske språk av det Helsingfors baserte firmaet Lingsoft.</p>
+      
+      <p>I 1993 fikk Pekka Sammallahti et stipend for å bruke seks måneder for og skrive prototypen for den første samiske tolkeren. Dette gjorde han som gjesteforsker ved Nordisk Samisk Institutt i Kautokeino. Tolkeren dekket den grunnleggende morfofonologien og bøyningen for substantiv, adjektiv og verb på nord-samisk. Arbeidet ble gjort med Xerox verktøyene lexc og twolc på Macintosh, og inkluderte diskusjoner med Kimmo Koskenniemi og Lauri Karttunen. Sammallahtis tolker ble laget som en kvasi-morfematisk modell, med enkle stammer, men et rikt system av underleksikon som la til diakritiske merker som sparket i gang de morfofonologiske prosessene som finnes for forskjellige samiske stammeklasser.</p>
+      
+      <p>I 1998 befant Sjur Moshagen og Trond Trosterud seg i et ustabillt jobbmarked. De hadde en felles interesse av sør-samisk. Denne interessen stammet fra tiden for korpusprosjektet for små uralske språk, et prosjekt de hadde vært med og startet i 1994. På den tiden jobbet Moshagen for Lingsoft og Trosterud lette etter muligheter for å jobbe med lingvistikk i Tromsø. De bestemte seg for å skrive en sør-samisk tolker. Siden de ikke var klar over Sammallahtis arbeid med nord-samisk, laget de en tolker med en forskjellig arkitektur. De kodet så mye morfofonologisk informasjon som mulig i stammene, og fikk som resultat et veldig enkelt sett med underleksikon. De hadde ikke tilgang til en ordbok, og begrenset arbeidet sitt til ikke-sammensatte substantiv.</p>
+    </section>
+    
+    <section>
+      <title>Tromsøprosjektene</title>
+      
+      <p>Etter flere forsøk, klarte Trosterud i 2000 å få et treårig stipend av Norsk forskningsråd for å lage en nord-samisk tolker. I det forberedende arbeidet ble han klar over Sammallahtis tolker, og heldigvis tilbød Sammallahti å la ham bruke kildekoden til tolkeren og ordboken sin som utgangspunkt for tolkerprosjektet. På denne måten fikk prosjektet en knallstart og dobbeltarbeid ble unngått. Siden det ble tid til overs, pga. av Sammallahtis grunnleggende arbeid, kunne Trosterud skrive en lule-samisk tolker, og også fortsette på deler av den sør-samiske tolkeren (ved å innlemme den i felles infrastruktur og legge til støtte for "closed parts of speech").</p>
+      
+      <p>I 2004 fikk universitetet i Tromsø et andre treårig stipend, som en del av Norsk forskningsråds KUNSTI prosjekt. Dette stipendet finansierer to lingvist- og en halv programmererstilling for å lage en morfologisk tvetydighetsløser (disambiguator) for nord-samisk, og som en kontrollsjekk, en for lule-samisk også. Dette prosjektet dokumenteres på vevplassen til <a href="http://giellatekno.uit.no">vevplassen til Tromsøprosjektet</a>.</p>
+    </section>
+    
+    <section>
+      <title>Samisk lokalisering</title>
+      
+      <p>Det har vært mange forsøk for å sikre løsninger for samisk lokalisering (løsninger for å få samiske bokstaver til på en korrekt måte på skjerm og på skrivere, for å få gode tatstaturløsninger, sorteringsalgoritmer, dato- og tidsformat, osv). I denne sammenhengen kan vi konkludere med at alle de samiske språkene er representert i Unicode-standarden. Unicode-støtte er ikke tilstrekkelig, men pga arbeidet til en liten gruppe entusiaster (spesielt Per Edvard Klemetsen og Audun Lona for Windows, Michael Everson og Michal Aase for Macintosh og Børre Gaup og Regnor Jernsletten for Linux), er nordsamisk ett av de minste språkene i verden med lokaliseringsstøtte fra bunnen av i alle disse tre operativsystemene. Arbeidet med samisk språkteknologi er nå basert på Unicode.</p>
+    </section>
+    
+    <section>
+      <title>Planleggingen av stavekontrollprogrammet</title>
+      
+      <p>Etter som stavekontrollprogrammene for andre språk ble bedre, innså flere samer det økende behovet for slike program for samisk. I 2002 kontaktet Per Edvard Klemetsen Trond Trosterud for å få greie på hva som skulle til for og lage en samisk stavekontroll. Trosterud satte Klemetsen og Moshagen i kontakt med hverandre, siden Moshagen (og alle andre i Lingsoft) nettopp hadde blitt sagt opp fra stillingen sin som lederen for Lingsofts ordboksavdeling. Moshagen laget en plan for et samisk stavekontrollprogram. Deretter gjorde Klemetsen en meget god jobb med å skaffe finansiering av prosjektet. Selv om det var litt redusert (fra opprinnelig 19 millioner kroner til 11,3 millioner kroner), kunne programmet settes i gang høsten 2004, og skal være avsluttet i 2007.</p>
+    </section>
+    
+    <section>
+      <title>De nåværende prosjektene, og videre utsikter</title>
+      
+      <p>Hovedtyngden ligger på å avslutte tvillingprosjektene:</p>
+      
+      <ul>
+        <li>For universitetsprosjektet gjelder det å avslutte tvetydighetsløseren og lage en vevplass med merket korpus og et vevgrensesnitt for dette til  forskningsbruk</li>
+        
+        <li>For Divvunprosjektet, ligger fokus på å levere stavekontrollene for nord- og lule-samisk.</li>
+      </ul>
+      
+      <p>Forutenom dette er det flere selvklare neste steg:</p>
+      
+      <ol>
+        <li>Å utvide arbeidet til å dekke flere språk<ol>
+            <li>Den selvklare førstekandidaten er sør-samisk, som allerede har en delvis tolker ferdig</li>
+            
+            <li>Det finnes tre samiske språk til. Å arbeide med disse ville være en bra måte og involvere lingvister fra Finlang og Russland</li>
+            
+            <li>Med den ferdige strukturen, er en selvklar strategi og utvide den til andre minoritetsspråk, noe som allerede er gjort for grønlandsk og komi</li>
+          </ol></li>
+        
+        <li>Å jobbe med leksikografi og språkteknologi<ol>
+            <li>... ved å lage intelligente ordbøker</li>
+            
+            <li>... ved å bruke parallelle korpora som terminologibaser</li>
+            
+            <li>... ved … </li>
+          </ol></li>
+        
+        <li>Å lage pedagogiske program</li>
+        
+        <li>Å lage grammatikkontroller</li>
+      </ol>
+      
+      <p>Universitet i Tromsø vil hjelpe til og oppnå disse målene ved å starte opp et program innen samisk leksikografi og språkteknologi.
+      </p>
+      
+    </section>
+  </body>
+</document>

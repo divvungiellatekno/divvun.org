@@ -1,0 +1,57 @@
+
+!!!Meeting with Polderland 12.9.2006
+
+Participants:
+* Peter Beinema
+* Thomas Omma
+* Sjur Moshagen
+
+
+!!Agenda
+
+* questions and answers
+
+
+!!New team members Polderland
+* Marijke Koster
+* Jeroen Daanen
+
+
+
+!!Since last time
+
+Thomas has sent more data to PL, and Peter has made a script to process and
+"refactor" the "stems" to something more edible by the PL technology.
+
+!!Polderland tasks
+
+Will try to reach a conclusion whether the present approach is acceptable, or
+whether a FS machine is a better solution all-in-all.
+
+Now splitting the word forms into subgroups that behave in more or less the
+same way. The number of subgroups can be fairly large.
+
+Split words into stem + derivation cluster
+3000*10000 -> 3000+10000
+
+Current derivation system overgenerates. Unclear whether this is a problem in
+actual use: PLD compounding also overgenerates, and this is not perceived to be
+a problem.
+
+Additional problem: not all derivations are possible for all stem forms.
+Ideosyncratic? Can this be tackled by grouping words in a smart way, and have each group have it's own set of derivations?
+
+Possibility: limit derivations and add additional forms as "full lemma's"
+
+!!Hyphenation
+
+PL is looking for a recent CodeWarrior to compile Universal binaries for
+InDesign.
+
+The next version of InDesign will most likely build with XCode. Thus,
+CodeWarrior is only needed for the present InDesign CS2.
+
+!!!TODO
+* send processed data sets back to Thomas (__Peter__)
+* review the processed data sets (__Thomas__)
+

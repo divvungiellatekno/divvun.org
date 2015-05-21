@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Polderland cooperation</title>
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Intro</title>
+
+      <p>After a round of public tender, <a
+      href="http://www.polderland.nl/">Polderland</a> was selected as a
+      subcontractor for the Divvun project. The main tasks of the subcontractor
+      is to use our linguistic resources to create end-user-ready proofing tools
+      for use with <a href="http://www.microsoft.com/office/">Microsoft
+      Office</a> and <a href="http://www.adobe.com/indesign/">Adobe
+      InDesign</a>.</p>
+
+      <p>This page contains links to meeting memos between the Divvun project
+      and Polderland, as well as other relevant links. For reasons of trade
+      secrets, not all meeting memos will be available, or complete.</p>
+    </section>
+
+    <section>
+      <title>Meetings</title>
+
+      <p>Starting August 29, we will have coordination meetings on Tuesdays at
+      9:30 AM Norwegian time. The core participants of the meetings are the
+      two project managers, Peter Beinema (Polderland) and Sjur Moshagen
+      (Divvun). Other project members will be included as needed. The memo from
+      our <a
+      href="http://divvun.no/doc/admin/physical_meetings/tromso-2006-08-polderland.html">inital
+      start-up meeting</a> can be found on the <a
+      href="http://divvun.no/doc/admin/physical_meetings/tromso-2006-08.html">August 2006 Tromsø
+      gathering</a> pages.</p>
+
+      <p>The regular meeting memos are available below. The
+      memos are written in a <a class="fork"
+      href="http://forrest.apache.org/docs/wiki-sample.html"
+      title="A page describing the JSPWiki features supported by Forrest">Wiki
+      format</a> supported by <a class="fork"
+      href="http://forrest.apache.org/"
+      title="Forrest home page">Forrest</a>, allowing a near-text memo
+      combined with instant publishing. For help with the Wiki format, see our
+      <a href="http://divvun.no/doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
+      howto</a>.</p>
+
+      <p>The meetings are held as Internet-based video conferences using <a
+      class="fork" href="http://www.apple.com/ichat/"
+      title="Home page for iChat">iChat</a>, and meeting
+      memos are taken collaboratively using <a class="fork"
+      href="http://www.codingmonkeys.de/subethaedit/"
+      title="Home page for SubEthaEdit">SubEthaEdit</a>.</p>
+    </section>
+
+    <section>
+      <title>Meeting memos</title>
+      <ul>
+        <li><a href="meeting_2009-06-30.html">June      30, 2009</a></li>
+        <li><a href="meeting_2009-06-16.html">June      16, 2009</a></li>
+        <li><a href="meeting_2009-05-26.html">May       26, 2009</a></li>
+        <li><a href="meeting_2009-05-12.html">May       12, 2009</a></li>
+        <li><a href="meeting_2009-05-05.html">May        5, 2009</a></li>
+        <li><a href="meeting_2009-04-21.html">April     21, 2009</a></li>
+        <li><a href="meeting_2009-04-01.html">April      1, 2009</a></li>
+        <li><a href="meeting_2009-03-24.html">March     24, 2009</a></li>
+        <li><a href="meeting_2009-03-17.html">March     17, 2009</a></li>
+        <li><a href="meeting_2009-03-10.html">March     10, 2009</a></li>
+        <li><a href="meeting_2009-03-03.html">March      3, 2009</a></li>
+        <li><a href="meeting_2009-02-10.html">February  10, 2009</a></li>
+        <li><a href="meeting_2009-01-27.html">January   27, 2009</a></li>
+        <li><a href="meeting_2009-01-20.html">January   20, 2009</a></li>
+        <li><a href="meeting_2009-01-07.html">January    7, 2009</a></li>
+        <li><a href="meeting_2008-12-16.html">December  16, 2008</a></li>
+        <li><a href="meeting_2008-12-10.html">December  10, 2008</a></li>
+        <li><a href="meeting_2008-12-03.html">December   3, 2008</a></li>
+        <li><a href="meeting_2008-11-27.html">November  27, 2008</a></li>
+        <li><a href="meeting_2008-11-11.html">November  11, 2008</a></li>
+        <li><a href="meeting_2008-11-04.html">November   4, 2008</a></li>
+        <li><a href="meeting_2008-10-28.html">October   28, 2008</a></li>
+        <li><a href="meeting_2008-10-22.html">October   22, 2008</a></li>
+        <li><a href="meeting_2008-10-14.html">October   14, 2008</a></li>
+        <li><a href="meeting_2008-10-07.html">October    7, 2008</a></li>
+        <li><a href="meeting_2008-09-30.html">September 30, 2008</a></li>
+        <li><a href="meeting_2008-09-23.html">September 23, 2008</a></li>
+        <li><a href="meeting_2008-09-03.html">September  3, 2008</a></li>
+        <li><a href="meeting_2008-08-19.html">August    19, 2008</a></li>
+        <li><a href="meeting_2008-08-12.html">August    12, 2008</a></li>
+        <li><a href="meeting_2008-07-01.html">July       1, 2008</a></li>
+        <li><a href="meeting_2008-06-25.html">June      25, 2008</a></li>
+        <li><a href="meeting_2008-06-10.html">June      10, 2008</a></li>
+        <li><a href="meeting_2008-06-03.html">June       3, 2008</a></li>
+        <li><a href="meeting_2008-05-27.html">May       27, 2008</a></li>
+        <li><a href="meeting_2008-05-20.html">May       20, 2008</a></li>
+        <li><a href="meeting_2008-05-13.html">May       13, 2008</a></li>
+        <li><a href="meeting_2008-05-06.html">May        6, 2008</a></li>
+        <li><a href="meeting_2008-04-21.html">April     21, 2008</a></li>
+        <li><a href="meeting_2008-04-15.html">April     15, 2008</a></li>
+        <li><a href="meeting_2008-04-08.html">April      8, 2008</a></li>
+        <li><a href="meeting_2008-04-01.html">April      1, 2008</a></li>
+        <li><a href="meeting_2008-03-25.html">March     25, 2008</a></li>
+        <li><a href="meeting_2008-03-12.html">March     12, 2008</a></li>
+        <li><a href="meeting_2008-03-04.html">March      4, 2008</a></li>
+        <li><a href="meeting_2008-02-26.html">February  26, 2008</a></li>
+        <li><a href="meeting_2008-02-12.html">February  12, 2008</a></li>
+        <li><a href="meeting_2008-02-05.html">February   5, 2008</a></li>
+        <li><a href="meeting_2008-01-29.html">January   29, 2008</a></li>
+        <li><a href="meeting_2008-01-22.html">January   22, 2008</a></li>
+        <li><a href="meeting_2008-01-15.html">January   15, 2008</a></li>
+        <li><a href="meeting_2008-01-08.html">January    8, 2008</a></li>
+        <li><a href="meeting_2008-01-02.html">January    2, 2008</a></li>
+        <li><a href="meeting_2007-12-18.html">December  18, 2007</a></li>
+        <li><a href="meeting_2007-12-10.html">December  10, 2007</a></li>
+        <li><a href="meeting_2007-12-04.html">December   4, 2007</a></li>
+        <li><a href="meeting_2007-11-28.html">November  28, 2007</a></li>
+        <li><a href="meeting_2007-11-20.html">November  20, 2007</a></li>
+        <li><a href="meeting_2007-11-13.html">November  13, 2007</a></li>
+        <li><a href="meeting_2007-11-06.html">November   6, 2007</a></li>
+        <li><a href="meeting_2007-10-30.html">October   30, 2007</a></li>
+        <li><a href="meeting_2007-10-23.html">October   23, 2007</a></li>
+        <li><a href="meeting_2007-10-15.html">October   15, 2007</a></li>
+        <li><a href="meeting_2007-10-09.html">October    9, 2007</a></li>
+        <li><a href="meeting_2007-10-02.html">October    2, 2007</a></li>
+        <li><a href="meeting_2007-09-25.html">September 25, 2007</a></li>
+        <li><a href="meeting_2007-09-18.html">September 18, 2007</a></li>
+        <li><a href="meeting_2007-09-11.html">September 11, 2007</a></li>
+        <li><a href="meeting_2007-09-04.html">September  4, 2007</a></li>
+        <li><a href="meeting_2007-08-28.html">August    28, 2007</a></li>
+        <li><a href="meeting_2007-08-21.html">August    21, 2007</a></li>
+        <li><a href="meeting_2007-07-03.html">July       3, 2007</a></li>
+        <li><a href="meeting_2007-06-26.html">June      26, 2007</a></li>
+        <li><a href="meeting_2007-06-21.html">June      21, 2007</a></li>
+        <li><a href="meeting_2007-06-12.html">June      12, 2007</a></li>
+        <li><a href="meeting_2007-06-05.html">June       5, 2007</a></li>
+        <li><a href="meeting_2007-05-29.html">May       29, 2007</a></li>
+        <li><a href="meeting_2007-05-22.html">May       22, 2007</a></li>
+        <li><a href="meeting_2007-05-15.html">May       15, 2007</a></li>
+        <li><a href="meeting_2007-05-08.html">May        8, 2007</a></li>
+        <li><a href="meeting_2007-04-24.html">April     24, 2007</a></li>
+        <li><a href="meeting_2007-04-18.html">April     18, 2007</a></li>
+        <li><a href="meeting_2007-04-10.html">April     10, 2007</a></li>
+        <li><a href="meeting_2007-04-03.html">April      3, 2007</a></li>
+        <li><a href="meeting_2007-03-27.html">March     27, 2007</a></li>
+        <li><a href="meeting_2007-03-20.html">March     20, 2007</a></li>
+        <li><a href="meeting_2007-03-13.html">March     13, 2007</a></li>
+        <li><a href="meeting_2007-03-06.html">March      6, 2007</a></li>
+        <li><a href="meeting_2007-02-27.html">February  27, 2007</a></li>
+        <li><a href="meeting_2007-02-13.html">February  13, 2007</a></li>
+        <li><a href="meeting_2007-02-06.html">February   6, 2007</a></li>
+        <li><a href="meeting_2007-01-30.html">January   30, 2007</a></li>
+        <li><a href="meeting_2007-01-23.html">January   23, 2007</a></li>
+        <li><a href="meeting_2007-01-16.html">January   16, 2007</a></li>
+        <li><a href="meeting_2007-01-09.html">January    9, 2007</a></li>
+        <li><a href="meeting_2007-01-04.html">January    4, 2007</a></li>
+        <li><a href="meeting_2006-12-19.html">December  19, 2006</a></li>
+        <li><a href="meeting_2006-12-12.html">December  12, 2006</a></li>
+        <li><a href="meeting_2006-12-05.html">December   5, 2006</a></li>
+        <li><a href="meeting_2006-11-28.html">November  28, 2006</a></li>
+        <li><a href="meeting_2006-11-21.html">November  21, 2006</a></li>
+        <li><a href="meeting_2006-11-14.html">November  14, 2006</a></li>
+        <li><a href="meeting_2006-11-07.html">November   7, 2006</a></li>
+        <li><a href="meeting_2006-10-31.html">October   31, 2006</a></li>
+        <li><a href="meeting_2006-10-24.html">October   24, 2006</a></li>
+        <li><a href="meeting_2006-10-18.html">October   18, 2006</a></li>
+        <li><a href="meeting_2006-10-10.html">October   10, 2006</a></li>
+        <li><a href="meeting_2006-10-03.html">October    3, 2006</a></li>
+        <li><a href="meeting_2006-09-26.html">September 26, 2006</a></li>
+        <li><a href="meeting_2006-09-19.html">September 19, 2006</a></li>
+        <li><a href="meeting_2006-09-12.html">September 12, 2006</a></li>
+        <li><a href="meeting_2006-09-05.html">September  5, 2006</a></li>
+        <li><a href="meeting_2006-08-29.html">August    29, 2006</a></li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Last modified: $Date$,
+       by $Author$</p>
+
+  </body>
+</document>

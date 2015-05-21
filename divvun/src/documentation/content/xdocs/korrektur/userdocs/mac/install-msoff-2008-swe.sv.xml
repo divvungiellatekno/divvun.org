@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installation och användning av Divvun på MacOS X</title>
+   </header>
+   <body>
+      <section>
+         <title>Skaffa Divvun</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hämta
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> eller beställ en CD från Sametinget, tel: +47 78
+         48 42 22.</p>
+      </section>
+      <section>
+         <title>Installation</title>
+         <note>Om du uppgraderar från version 1, så måste du avinstallera den gamla versionen innan du installerar
+         version 2.</note>
+         <p>För att installera Divvun kan man antingen ladda ner programmet från <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">http://www.divvun.no/static_files/sami-proofing-tools.dmg</a>eller
+         installera det från en CD.</p>
+      </section>
+      <section>
+         <title>Installation på MacOS X</title>
+         <p>1. Om du har CD:n, sätt då in den i datorn. När nedladdningen är klar öppnas ett fönster på ditt skrivbord.
+         Samma fönster öppnas även när CD:n är klar. Dubbelklicka på den gula lådan med texten Divvun Installer på
+         (installationspaketet):</p>
+         <p><img alt="Dubbelklicka på installationspaketet"
+         src="images/installation-dl_finished-msoff-2008-nob.png" /></p>
+         <p>2. Klicka på <strong>Fortsätt</strong> tills du är klar för att börja själva installationen:</p>
+         <p><img alt="Klicka på &quot;Fortsätt&quot;" src="images/installation-starting-swe.png" /></p>
+         <p>3. Om du inte är administratör måste installationen godkännas av en sådan:</p>
+         <p><img alt="Installationen måste godkännas av en administratör"
+         src="images/installation-adminpw-swe.png" /></p>
+         <p>4. Installationen är nu klar och du har Divvun-verktygen på din dator!</p>
+         <p><img alt="Installationen är klar" src="images/installation-done-swe.png" /></p>
+      </section>
+   </body>
+</document>

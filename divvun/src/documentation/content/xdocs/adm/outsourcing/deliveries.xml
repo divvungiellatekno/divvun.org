@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing — Deliverables</title>
+
+    <subtitle>Exact specification of the deliverables</subtitle>
+
+    <version>0.2</version>
+
+    <type>Internal draft, updated with feedback from Davvi Girji</type>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Introduction</title>
+
+      <p>The basic goal of the outsourcing is to create the following tools
+      given the linguistic resources developed by the Divvun project team, and
+      in cooperation with the team.</p>
+
+      <table>
+        <caption>Overview of outsourced items</caption>
+
+        <tr>
+          <th>Host Application</th>
+
+          <th>Deliverables</th>
+        </tr>
+
+        <tr>
+          <td>Adobe InDesign 2 and newer, primarily for MacOS X 10.3 and
+          newer, but optionally also for Windows 2000 and newer</td>
+
+          <td><ul>
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+
+        <tr>
+          <td>Microsoft Office 2000 and newer (running on Windows 2000 and
+          newer)</td>
+
+          <td><ul>
+              <li>speller (sme, smj)</li>
+
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+
+        <tr>
+          <td>Microsoft Office 2004 and newer (running on MacOS X 10.3 and
+          newer)</td>
+
+          <td><ul>
+              <li>speller (sme, smj)</li>
+
+              <li>hyphenator (sme)</li>
+            </ul></td>
+        </tr>
+      </table>
+    </section>
+
+    <section>
+      <title>Adobe InDesign</title>
+
+      <p>The Divvun project will outsource the integration of a sme hyphenator
+      with Adobe InDesign CS 2 or later, and possibly the whole making of the
+      hyphenator. In the latter case, the Divvun project will provide the
+      language-specific algorithm, and of course be responsible for testing
+      the linguistic correctness of the deliverables.</p>
+
+      <p>The exact list of deliverables is:</p>
+
+      <ul>
+        <li>one set of binary hyphenation file(s) for hyphenation of North
+        Sámi according to the hyphenation rules of North Sámi, using the
+        hyphenation API found in InDesign CS2 and all versions thereafter
+        released before October 1<sup>st</sup>, 2007.</li>
+
+        <li>installation application to provide end users with a simple and
+        automatized process of correctly installing the binary file(s). The
+        installation package shall be provided in the following languages:<ul>
+            <li>English and the following Nordic languages at no additional
+            cost, provided they are readily available from the provider:
+            Norwegian bokmål, Swedish and Finnish.</li>
+
+            <li>North Sámi, and potentially some or all of the following
+            Nordic languages if not readily available from the provider:
+            Norwegian bokmål, Swedish and Finnish. These language versions are
+            based on translations provided by the Divvun team.</li>
+          </ul></li>
+
+        <li>user documentation in English and the following Nordic languages
+        as far as readily available by the provider: Norwegian bokmål, Swedish
+        and Finnish.</li>
+
+        <li>user documentation in North Sámi, and possibly in other Nordic
+        languages if not readily available from the provider Norwegian bokmål,
+        Swedish and Finnish. These language versions are based on translations
+        provided by the Divvun team.</li>
+
+        <li>All the above (binaries, user documentation, installation
+        application) shall be provided for MacOS X 10.3.9 or later; they could
+        also be provided for MS Windows XP SP 2 or later, depending on what
+        will finally be ordered.</li>
+      </ul>
+
+      <p>The assumption behind the first user documentation point is that the
+      providers have similar or identical existing products, and thus existing
+      user documentation to be translated. Any existing user documentation
+      will be reviewed before being accepted.</p>
+    </section>
+
+    <section>
+      <title>Microsoft Office</title>
+
+      <p>The Divvun project will outsource the making and the integration of
+      the proofing tools for MS Office, based on the computational linguistic
+      models developed by the project.</p>
+
+      <section>
+        <title>For MS Windows</title>
+
+        <p>The exact list of deliverables for MS Windows is:</p>
+
+        <ul>
+          <li>one set of binary file(s) to provide North Sámi spelling
+          correction using the CSAPI version 3 in MS Office 2000, MS Office XP
+          and all MS Office versions released before October 1<sup>st</sup>,
+          2007, running on MS Windows 2000 (all versions), MS Windows XP (all
+          versions) and MS Windows Vista (all versions).</li>
+
+          <li>one set of binary file(s) to provide North Sámi hyphenation
+          using the CHAPI version 3 in MS Office 2000, MS Office XP and all MS
+          Office versions released before October 1<sup>st</sup>, 2007,
+          running on MS Windows 2000 (all versions), MS Windows XP (all
+          versions) and MS Windows Vista (all versions).</li>
+
+          <li>one set of binary file(s) to provide Lule Sámi spelling
+          correction using the CSAPI version 3 in MS Office 2000, MS Office XP
+          and all MS Office versions released before October 1<sup>st</sup>,
+          2007, running on MS Windows 2000 (all versions), MS Windows XP (all
+          versions) and MS Windows Vista (all versions).</li>
+
+          <li>installation application to provide end users with a simple and
+          automatized process of correctly installing the binary file(s)
+          listed above. The installation package shall be provided in the
+          following languages:<ul>
+              <li>English and the following Nordic languages at no additional
+              cost, provided they are readily available from the provider:
+              Norwegian bokmål, Swedish and Finnish.</li>
+
+              <li>North Sámi, and potentially some or all of the following
+              Nordic languages if not readily available from the provider:
+              Norwegian bokmål, Swedish and Finnish. These language versions
+              are based on translations provided by the Divvun team.</li>
+            </ul></li>
+
+          <li>user documentation in English and the following Nordic languages
+          as far as readily available by the provider: Norwegian bokmål,
+          Swedish and Finnish.</li>
+
+          <li>user documentation in North Sámi, and possibly in other Nordic
+          languages if not readily available from the provider Norwegian
+          bokmål, Swedish and Finnish. These language versions are based on
+          translations provided by the Divvun team.</li>
+        </ul>
+
+        <p>The assumption behind the first user documentation point is that
+        the providers have similar or identical existing products, and thus
+        existing user documentation to be translated. Any existing user
+        documentation will be reviewed before being accepted.</p>
+      </section>
+
+      <section>
+        <title>For MacOS X</title>
+
+        <p>The exact list of deliverables for MacOS X is:</p>
+
+        <ul>
+          <li>one set of binary file(s) to provide North Sámi spelling
+          correction using the CSAPI version 3 in MS Office 2004 and all MS
+          Office versions released before October 1<sup>st</sup>, 2007 (both
+          powerpc and intel architecture versions), running on MacOS X 10.3,
+          MacOS X 10.4, MacOS X 10.5 (powerpc and intel) and all other
+          versions of MacOS X released before October 1<sup>st</sup>, 2007
+          (both powerpc and intel architecture versions).</li>
+
+          <li>one set of binary file(s) to provide North Sámi hyphenation
+          using the CHAPI version 3 in MS Office 2004 and all MS Office
+          versions released before October 1<sup>st</sup>, 2007 (both powerpc
+          and intel architecture versions), running on MacOS X 10.3, MacOS X
+          10.4, MacOS X 10.5 (powerpc and intel) and all other versions of
+          MacOS X released before October 1<sup>st</sup>, 2007 (both powerpc
+          and intel architecture versions).</li>
+
+          <li>one set of binary file(s) to provide Lule Sámi spelling
+          correction using the CSAPI version 3 in MS Office 2004 and all MS
+          Office versions released before October 1<sup>st</sup>, 2007 (both
+          powerpc and intel architecture versions), running on MacOS X 10.3,
+          MacOS X 10.4, MacOS X 10.5 (powerpc and intel) and all other
+          versions of MacOS X released before October 1<sup>st</sup>, 2007
+          (both powerpc and intel architecture versions).</li>
+
+          <li>installation application to provide end users with a simple and
+          automatized process of correctly installing the binary file(s)
+          listed above. The installation package shall be provided in the
+          following languages:<ul>
+              <li>English and the following Nordic languages at no additional
+              cost, provided they are readily available from the provider:
+              Norwegian bokmål, Swedish and Finnish.</li>
+
+              <li>North Sámi, and potentially some or all of the following
+              Nordic languages if not readily available from the provider:
+              Norwegian bokmål, Swedish and Finnish. These language versions
+              are based on translations provided by the Divvun team.</li>
+            </ul></li>
+
+          <li>user documentation in English and the following Nordic languages
+          as far as readily available by the provider: Norwegian bokmål,
+          Swedish and Finnish.</li>
+
+          <li>user documentation in North Sámi, and possibly in other Nordic
+          languages if not readily available from the provider Norwegian
+          bokmål, Swedish and Finnish. These language versions are based on
+          translations provided by the Divvun team.</li>
+        </ul>
+
+        <p>The assumption behind the first user documentation point is that
+        the providers have similar or identical existing products, and thus
+        existing user documentation to be translated. Any existing user
+        documentation will be reviewed before being accepted.</p>
+      </section>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

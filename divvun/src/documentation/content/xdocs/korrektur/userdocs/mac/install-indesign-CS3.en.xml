@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>InDesign Proofing Tools Documentation</title>
+   </header>
+   <body>
+      <p>The Divvun tools for InDesign has earlier only supported InDesign CS3 due to lack of support for newer versions
+      of InDesign from our subcontractor. But with the release of CS5.5, InDesign supports the same proofing tools as
+      OpenOffice, which Divvun has supported in a Beta version for many years. The Divvun group will thus start using
+      the OpenOffice/LibreOffice tools for InDesign. This also means that we will be able to support InDesign running on
+      Windows.</p>
+      <p>Below you will find installation instructions for both InDesign CS3 and InDesign CS5.5. CS4 and CS5 are not
+      supported, and will never be. Support for CS6 is probably the same as for CS5.5, but has not yet been tested or
+      documented.</p>
+      <section>
+         <title>InDesign CS3</title>
+         <p>The InDesign CS3 proofing tools components are built on the same technology and architecture as the proofing
+         tools for MS Office. There is a <a href="http://divvun.no/doc/proof/hyph/MSOff/index.html">separate page</a> documenting how
+         the hyphenation works.</p>
+         <p>Proofing tools for InDesign CS3 are provided for both North, Lule and South Sámi. They work only with the
+         Macintosh version of InDesign. They require InDesign CS3.</p>
+         <section>
+            <title>Download and installation</title>
+            <p>The latest version is always available here: <a
+            href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">www.divvun.no/static_files/indesign-divvuntools.dmg</a>.</p>
+            <ol>
+               <li>After download, open the dmg file. You should see the following window (or something close to
+               it):<br/><img alt="divvun-DMG" src="images/divvun-dmg-cs3.png"/></li>
+               <li>Open the installation package (double-click it), and follow the instructions:<br/><img
+               alt="Divvun installer" src="images/divvun-installer-cs3.png"/></li>
+               <li>Quit and restart InDesign if it was running. That's it!</li>
+            </ol>
+         </section>
+         <section>
+            <title>Upgrading from an earlier version</title>
+            <p>Just install atop an existing installation by following the instructions above.</p>
+         </section>
+         <section>
+            <title>Deinstallation/removal</title>
+            <p>Manually move the following files and folder to the thrash:</p>
+            <source>In the folder: /Applications/Adobe InDesign CS3/Plug-Ins/
+
+delete the following files:
+
+PldHypSamiLule.InDesignPlugin
+PldHypSamiNorthern.InDesignPlugin
+PldHypSamiSouthern.InDesignPlugin
+PldSplSamiLule.InDesignPlugin
+PldSplSamiNorthern.InDesignPlugin
+PldSplSamiSouthern.InDesignPlugin
+
+In the folder: /Applications/Adobe InDesign CS3/Plug-Ins/Dictionaries/
+
+delete the following folder and all its contents:
+
+Polderland</source>
+         </section>
+         <section>
+            <title>Technical requirements</title>
+            <p>The InDesign proofing tools modules have the following requirements:</p>
+            <ul>
+               <li>InDesign CS3</li>
+               <li>MacOS X 10.4.8 or newer</li>
+            </ul>
+         </section>
+      </section>
+      <section>
+         <title>InDesign CS5.5</title>
+         <note>The InDesign CS5.5 support is in beta stage at the moment. There are some issues with the speller, and
+         the hyphenator is known to be bad at hyphenating compounds. Hyphenation is presently only available for North
+         Sámi. A beta release is planned for May 1.</note>
+         <section>
+            <title>MacOSX</title>
+            <p>Follow these instructions:</p>
+            <ol>
+               <li>Download the <a href="http://www.divvun.no/static_files/indesign-divvuntools.dmg">latest InDesing
+               installer - a dmg file</a></li>
+               <li>After download, open the dmg file. You should see the following window (or something close to
+               it):<br/><img alt="divvun-DMG" src="images/divvun-dmg-cs55.png"/></li>
+               <li>Open the installation package (double-click it), and follow the instructions:<br/><img
+               alt="Divvun installer" src="images/divvun-installer-cs55.png"/></li>
+               <li>Quit and restart InDesign if it was running. That's it!</li>
+            </ol>
+         </section>
+         <section>
+            <title>Windows</title>
+            <p>For the time being, only manual install is available for Windows users. To install Divvun for InDesign
+            CS5.5, follow these steps:</p>
+            <ul>
+               <li>download the <a href="http://divvun.no/static_files/smi.zip">Hunspell package</a></li>
+               <li>double click the zip file you just downloaded</li>
+               <li>follow <a
+               href="http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html">these
+               instructions</a> with the following modifications/additions:<ul>
+                     <li>use the <code>*.aff</code> and <code>*.dic</code> files from the zip file obtained above</li>
+                     <li>you do not need to add the country code, only the ISO 639 language code is enough. That is:
+                     <code>se</code> for North Sámi, <code>smj</code> for Lule Sámi, and <code>sma</code> for South
+                     Sámi. The aff and dic files are already named like this, just use the same names for their
+                     folders.</li>
+                     <li>make sure the files have correct owner, group and permissions. It should be
+                     <code>root:admin</code>, and <code>read-only</code> for all.</li>
+                  </ul></li>
+            </ul>
+         </section>
+         <section>
+            <title>Deinstallation (both MacOSX and Windows)</title>
+            <p>Only manual deinstallation is available for the time being. Follow the instructions <a
+            href="http://blogs.adobe.com/typblography/2011/11/how-to-enable-more-languages-in-indesign-cs5-5.html">here</a>,
+            at the end of the section entitled "Method Two: Hunspell dictionary". Automated deinstallation will be
+            provided at a later point.</p>
+         </section>
+      </section>
+      <section>
+         <title>Known issues</title>
+         <p>There is <a href="KnownIssuesForIndesignCS3.html">a separate page with FAQ, known issues, and suggestions for
+         work-arounds</a>.</p>
+      </section>
+      <section>
+         <title>Usage</title>
+         <p>Proofing for Sámi works exactly as for any other language. Follow the InDesign instructions for turning on
+         automatic hyphenation and continuous spell checking, and select one of the languages <code>Sami:
+         Northern</code>, <code>Sami: Lule</code> or <code>Sami: Sout</code> (for CS3) / <code>Northern Sámi</code>,
+         <code>Lule Sámi</code> or <code>South Sámi</code> (for CS5.5) in the language list. The text will reflow, with
+         hyphens automatically inserted where needed, and misspellings will be marked with a red underline.</p>
+      </section>
+      <section>
+         <title>Feedback</title>
+         <p>We appreciate any feedback on the proofing tools. Feedback can be sent via e-mail to one of the following
+         addresses:</p>
+         <ul>
+            <li><a href="mailto:feedback@divvun.no">feedback@divvun.no</a></li>
+            <li><a href="mailto:divvun@samediggi.no">divvun@samediggi.no</a></li>
+         </ul>
+      </section>
+   </body>
+</document>

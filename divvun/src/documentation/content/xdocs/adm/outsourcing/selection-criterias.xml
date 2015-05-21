@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+  <header>
+    <title>Outsourcing — selection criterias</title>
+
+    <subtitle>A precise description of the criteria used for selecting
+    vendors</subtitle>
+
+    <version major="2" minor="0">Revised version after the board
+    meeting</version>
+
+    <authors>
+      <person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Introduction</title>
+
+      <p>This document is written in conformance with the guidelines from the
+      Norwegian ministry of trade and industry (Nærings- og
+      handelsdepartementet, NHD) (see «Veileder», link on the overview
+      page).</p>
+
+      <p>The purpose of the selection criteria is to select the economically
+      most appealling offer. The main criterion is price, but also indirect
+      costs and longer term costs will influence the decision.</p>
+
+      <p>The selection criteria as well as the weighting have been approved by
+      the project board.</p>
+    </section>
+
+    <section>
+      <title>Selection criteria</title>
+
+      <p>The selected offer is the economically most attractive one. That
+      implies an evaluation of price and the following criteria:</p>
+
+      <ol>
+        <li>Technical compatibility with our existing linguistic resources and
+        language technology.</li>
+
+        <li>Willingness to license tools to compile the binary lexicon for the
+        proofing tools to Sámediggi and the project group, such that
+        linguistic, non-technical updates can be delivered to end users
+        without involvement from the cooperating companies).</li>
+
+        <li>The total cost in a longer perspective. This includes the price
+        for this project, and the costs for maintenance updates, combined with
+        the costs for the Sámi Parliament for the same maintenance.</li>
+
+        <li>Quality, functionality and user friendliness. Quality and user
+        evaluation of corresponding tools for other languages. In the case of
+        the InDesign hyphenator, it is essential that a company can provide a
+        documented capability to develop high-quality hyphenation modules,
+        benefitting from our linguistic work and tools. In the case of
+        proofing tools for MS Office, it is important that the estimated
+        quality of the end user products is high enough for our end users, to
+        reduce the risk of extra work and higher costs later on in the
+        project.</li>
+      </ol>
+
+      <p>The exact documentation needed to support a decision based on these
+      criteria is specified in the main public tender document.</p>
+    </section>
+
+    <section>
+      <title>The final word</title>
+
+      <p>The winning company is the one that, after a total evaluation of
+      price and quality criteria, gives the best offer. Price will be
+      important. The decision is made by the project board.</p>
+    </section>
+
+    <p class="last_modified">Last modified: $Date$, by
+    $Author$</p>
+  </body>
+</document>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+  <header>
+    <title>Administrašuvdna</title>
+    <authors>
+<person email="sjur.moshagen@samediggi.no" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Čoahkkimat</title>
+
+      <section>
+        <title>Vahkkosaš čoahkkimat</title>
+
+        <p>Mis lea prošeaktačoahkkin oktii vahkus, dábálaččat mánnodaga diibmu 10:s norgga diimmu mielde. Dáidda čoahkkimiidda servet maiddái miellahtut sámi disambiguerenprošeavttas, goittot Trond Trosterud gii lea prošeaktajođiheaddji, álkidan dihte gulahallama ja prošeavttaid ovttasbarggu.</p>
+
+        <p>Čoahkkingirjjit gávdnojit <a href="http://divvun.no/doc/admin/meetings.html">oktasašguovllus</a>. Čoahkkingirjjit leat čállon <a class="fork"        href="http://forrest.apache.org/docs/wiki-sample.html" title="A page describing the JSPWiki features supported by Forrest">Wiki formáhtas</a> maid <a class="fork" href="http://forrest.apache.org/" title="Forrest home page">Forrest</a> doarju. Dát addá midjiide čoahkkingirjjiid mat leat goasii čabu teaksta, ja seammás jođánis ja álkes almmuheami. Mii leat maid ráhkadan siskkildas <a href="http://divvun.no/doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki howto:a</a>.</p>
+
+
+        <p>Čoahkkimat dollojuvvojit telefovnna bokte, seamma botta go mii čállit referáhta dáinna prográmmain: <a class="fork"
+        href="http://www.codingmonkeys.de/subethaedit/" title="Home page for SubEthaEdit">SubEthaEdit</a>. Chat-prográmma, (<a class="fork" href="http://www.apple.com/ichat/" title="Home page for iChat">iChat</a>) maid adno veahkkin. Go iChat:ii bohtet vejolašvuođat njealjis leahkit mielde videokonferánssas ja logis audiokonferánssas, mii álgit dan atnit. . Dát vejolašvuohta boahtá <a href="http://www.apple.com/macosx/"
+        title="Home page of MacOS X"> MacOS ođđa versuvnna olis </a>.</p>
+      </section>
+
+      <section>
+        <title>Eará čoahkkimat</title>
+
+        <p>Mii áigut doallat čoahkkimiid ja workshopaid duollet dálle. Mis ii leat gearggus áigeplána, eatge leat mearridan man dávjá dáid čoahkkimiid doallat, muhto doallat dárbbu mielde.</p>
+      </section>
+    </section>
+
+    <section>
+      <title>Raporttat</title>
+
+      <section>
+        <title>Mánnosaš raporttat</title>
+
+<p>Prošeaktajođiheaddji ráhkada mánnosaččat raportta gos muitaluvvo mii lea dáhkkon ja guođđá dan sámedikki giellaossodaga hovdii. Raporttat gávdnojit <a href="reports/monthoverview.html">sierra báikkis</a> dán fierpmádatbáikkis. Raporttat leat čállon dárogillii.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>10. beaivvi juohke mánnu.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Jahkebealraporttat</title>
+
+        <p>Proseaktastivrras lea čoahkkin juohke jahkebealli, ja prošeaktajođiheaddji galgá ráhkadit raportta prošeavtta dili birra dáid čoahkkimiidda. Raporttat ihtet dáppe dađistaga go ráhkaduvvojit.</p>
+
+        <dl>
+          <dt>Deadline:</dt>
+
+          <dd>Golbma vahku čoahkkima ovdal.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Jahkásaš raporttat</title>
+
+        <p>Ruhtadeaddjit háliidit diehtit prošeavtta dili ja man láhkái ruđat geavahuvvojit. <strong>Deadlines</strong> leat:</p>
+
+        <dl>
+          <dt>NordPlus Sprog:</dt>
+
+          <dd>Guovvamánu 15. b.</dd>
+
+          <dt>Norgga departemeanttat:</dt>
+
+          <dd>Njukčamánu 15. b.</dd>
+        </dl>
+      </section>
+
+      <section>
+        <title>Eará raporttat</title>
+
+<p>Raporttat mat ráhkaduvvojedje prošeavtta plánedettiin ihtet dán fierpmádatbáikkis. Raporttat leat:</p>
+
+        <ul>
+          <li>Vuosttas raporta man bušeahtta lei 19,2 mill. NOK</li>
+
+          <li>Reviderejuvvon raporta man bušeahtta lei 11,3 mill. NOK</li>
+        </ul>
+
+        <fixme author="SNM">Add the reports and their links here.</fixme>
+      </section>
+    </section>
+
+    <section>
+<title>Bušeahtta</title>
+
+      <p>Some info about the budget here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+    </section>
+
+    <section>
+      <title>Project plan and schedule</title>
+
+      <p>Some info about the plans and schedules here.</p>
+
+      <fixme author="SNM">Write this section.</fixme>
+
+    </section>
+
+    <section>
+      <title>Outsourcing</title>
+
+      <p>Olggobeal mielbargit bohtet dahkat osiid prošeavttas. Olggobeal fitnodagat galget dahkat integrašuvnna MS Officiin (Mac/Win) ja InDesignain fálaldatgilvvu maŋŋil. Gilvu čuovvu EU/EØS njuolggadusaid. Mii galgat čállit muhtin dokumeanttaid dieđuiguin mat leat dehálaččat dáidda fitnodagaide: </p>
+
+      <ul>
+        <li><a href="outsourcing/tech-spec.html">Teknihkalaš spesifikašuvnnat</a> vurdojuvvon buktagiidda.</li>
+      </ul>
+
+    </section>
+
+    <p class="last_modified">Maŋemuš rievdaduvvon: $Date$,
+ $Author$</p>
+
+  </body>
+</document>

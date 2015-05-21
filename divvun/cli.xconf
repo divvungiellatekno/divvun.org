@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<cocoon verbose="true"
+        follow-links="true"
+        precompile-only="false"
+        confirm-extensions="false">
+
+   <context-dir>.</context-dir>
+   <config-file>WEB-INF/cocoon.xconf</config-file>
+   <work-dir>../tmp/cocoon-work</work-dir>
+   <dest-dir>../site</dest-dir>
+
+   <!--   <checksums-uri>build/work/checksums</checksums-uri>-->
+
+   <broken-links type="xml"
+                 file="../brokenlinks.xml"
+                 generate="false"
+                 extension=".error"
+                 show-referrers="true"/>
+
+
+   <default-filename>index.html</default-filename>
+   <accept>*/*</accept>
+
+
+   <exclude pattern="**/"/>
+   <exclude pattern="**apidocs**"/>
+   <exclude pattern="api/**"/>
+
+   <exclude pattern="site:**"/>
+   <exclude pattern="ext:**"/>
+   <exclude pattern="lm:**"/>
+   <exclude pattern="**/site:**"/>
+   <exclude pattern="**/ext:**"/>
+   <exclude pattern="**/lm:**"/>
+
+   <exclude pattern="[preferred]/**"/>
+   <exclude pattern="[location]"/>
+
+   <uri type="insert"
+        src-prefix=""
+        src="index.html"
+        follow-links="false"
+        dest="/Users/boerre/xtdoc/sd.disp/build/site/se/*"
+         />
+
+</cocoon>

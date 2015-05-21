@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="fi">
+    <header>
+        <title>Divvun työkaluista</title>
+    </header>
+    <body>
+      <section>
+         <title>Divvun-työkaluista</title>
+         <p>Divvun-työkalut on kehitetty kahden projektin aikana joiden kummankin kesto oli kolme vuotta. Oikolukuohjelmat
+         ovat saatavissa yleisimmille toimisto-ohjelmille Windows-, Mac OS X- ja Linux-käyttöjärjestelmissä. <a
+         href="http://www.sametinget.no/">Norjan saamelaiskäräjät</a>, <a
+         href="http://www.regjeringen.no/en/dep/fad.html?id=339">Uudistus-, hallinto- ja kirkkoasiainministeriö</a> ja
+         <a href="http://www.regjeringen.no/en/dep/kd.html?id=586">Tutkimusministeriö</a> ovat rahoittaneet näitä
+         projekteja.</p>
+         <p>Divvun I (pohjois- ja luulajansaame) pyöri vuodesta 2004 vuoteen 2007 ja Divvun II (eteläsaame) vuodesta
+         2008 vuoteen 2010. Vuodesta 2011 eteenpäin projektia hallinnoi saamen kieliteknologian kehitys ja kieliteknologiaan
+         perustuvat käytännön työkalut yhteistyössä <a href="http://giellatekno.uit.no">Sámi language technoly center</a>
+         kanssa.</p>
+      </section>
+    </body>
+</document>

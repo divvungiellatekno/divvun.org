@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en"> 
+    <header> 
+        <title>How the spellchecker is made</title>
+
+	<authors>
+	  <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+	</authors>
+
+    </header> 
+    <body> 
+        <section>
+        <title>How the spellchecker is made</title>
+
+	<p>The spellchecker is made in close cooperation with the <a
+	href="http://giellatekno.uit.no">Sámi language technology
+            project</a> at the <a href="http://uit.no/">University of Tromsø</a>. The Tromsø project has
+	made programs that are able to both inflect and parse Sámi
+	wordforms. This work is being used as basis for the Sámi
+	spellcheckers.</p>
+
+	<p>The programmers prepare a working environment for the
+	linguists, so that they may survey texts in order to test
+	coverage (the spellers' ability to recognise correctly spelled
+	words) and generation. The linguists add words that are
+	missing in the lexica, and adjust the grammar of the analyser
+	In this way, the lexica and grammar are improved and enlarged
+	on a continuous basis.</p>
+
+	<p>Since the spellchecker shall be made for both Windows, Mac
+	OS X and Linux, the project must support available technology
+	on these platforms. We will make programs converting the
+	format of the Tromsø project to formats appropriate for the
+	different platforms and end user programs.</p>
+
+	<p>As the work proceeds, we will publish test versions of the
+	spellers. These will be made available on our web pages so
+	that people interested may download them and test them.</p>
+
+      <p class="last_modified">Last revision: $Date$, by $Author$</p>
+        </section>
+    </body>
+</document>

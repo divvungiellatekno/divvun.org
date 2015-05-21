@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+    <map:components>
+        <map:generators>
+          <map:generator label="content" logger="sitemap.generator.directory"
+           name="directory" pool-max="16"
+           src="org.apache.cocoon.generation.DirectoryGenerator"/>
+          <map:generator label="content" logger="sitemap.generator.xpathdirectory"
+           name="xpathdirectory" src="org.apache.cocoon.generation.XPathDirectoryGenerator"/>
+        </map:generators>
+        <map:transformers default="xslt">
+          <map:transformer name="i18n" src="org.apache.cocoon.transformation.I18nTransformer">
+            <catalogues default="langcode">
+              <catalogue id="languages" name="languages" location="{lm:project.translations}"/>
+              <catalogue id="langcode" name="langcode" location="{lm:project.translations}"/>
+              <catalogue id="messages" name="ContractsMessages" location="{lm:project.translations}"/>
+            </catalogues>
+          </map:transformer>
+        </map:transformers>
+        <map:serializers>
+            <map:serializer logger="sitemap.serializer.text"
+                            mime-type="text/calendar" name="ical"
+                            src="org.apache.cocoon.serialization.TextSerializer">
+              <encoding>UTF-8</encoding>
+            </map:serializer>
+        </map:serializers>
+    </map:components>
+
+    <map:pipelines>
+        <map:pipeline>
+            <map:match pattern="**custom.xml">
+                <map:generate src="{properties:content.xdocs}{1}custom.xml" />
+                <map:transform src="{properties:resources.stylesheets}/hello2document.xsl" />
+                <map:serialize type="xml" />
+            </map:match>
+
+            <!-- Corpus parallelisation test results match - statistics against the gold standard: -->
+            <map:match pattern="**paragstesting.xml">
+                <map:generate src="{properties:content.xdocs}{1}paragstesting.xml" />
+                <map:transform src="{properties:resources.stylesheets}/paragstest2document.xsl" />
+                <map:serialize type="xml" />
+            </map:match>
+
+            <!-- Corpus summary match - it produces statistics for the whole corpus repository. -->
+            <map:match pattern="**corpus-summary.xml">
+                <map:generate src="{properties:content.xdocs}{1}corpus-summary.xml" />
+                <map:transform src="{properties:resources.stylesheets}/corpus-summary2document.xsl" />
+                <map:serialize type="xml" />
+            </map:match>
+
+            <!-- Corpus language match - it produces an overview of the available corpus
+                 material for the requested language. -->
+            <map:match pattern="**corpus-*.xml">
+                <map:generate src="{properties:content.xdocs}{1}corpus-content.xml" />
+                <map:transform src="{properties:resources.stylesheets}/corpus-lang-overview2document.xsl">
+                    <map:parameter name="overviewlang" value="{2}" />
+                </map:transform>
+                <map:transform type="i18n">
+                    <map:parameter name="locale" value="en" />
+                </map:transform>
+                <map:serialize type="xml" />
+            </map:match>
+
+            <!-- Speller test result processing and presentation - typos-type input: -->
+            <map:match pattern="**spelltest-typos-plx-*_*.xml">
+                <map:generate src="{properties:content.xdocs}{1}spelltest-typos-plx-{2}_{3}.xml" />
+                <map:transform src="{properties:resources.stylesheets}/spelltest-typos2document.xsl">
+                    <map:parameter name="testlang" value="{2}" />
+                    <map:parameter name="date" value="{3}" />
+                </map:transform>
+                <map:serialize type="xml" />
+            </map:match>
+
+            <!-- Speller test result processing and presentation - corpus document input:
+            <map:match pattern="**spelltest-pl-docu-*-*-*.xml">
+                <map:generate src="{properties:content.xdocs}{1}spelltest-pl-docu-{2}-{3}-{4}.xml" />
+                <map:transform src="{properties:resources.stylesheets}/spelltest-docutest2document.xsl">
+                    <map:parameter name="testlang" value="{2}" />
+                </map:transform>
+                <map:serialize type="xml" />
+            </map:match> -->
+
+        </map:pipeline>
+
+<!--+
+    | The following pipeline returns an XML document containing the list of available locales:
+    | <document localecount="3">
+    |  <locale>nb</locale>
+    |  <locale selected="true">se</locale>
+    |  <locale fallback="true">en</locale>
+    | </document>
+    |
+    | The second match catches documents in the document root directory. The first one the rest.
+    +-->
+    <map:pipeline>
+     <map:act type="locale" >
+      <map:match pattern="**/*.languages.xml">
+          <map:aggregate element="document">
+            <map:part src="cocoon://{1}/localised-{2}.xml"/>
+            <map:part src="cocoon://{1}/fallback-{2}.xml"/>
+          </map:aggregate>
+          <map:transform src="{properties:resources.stylesheets}/unify-language-lists.xsl">
+            <map:parameter name="matched-locale" value="{../locale}"/>
+            <!-- The following parameter should be taken from a forrest property. Hardcoded FTTB. -->
+            <map:parameter name="fallback-locale" value="en"/>
+          </map:transform>
+          <map:transform type="i18n">
+            <map:parameter name="locale" value="{../locale}"/>
+          </map:transform>
+          <map:serialize type="xml"/>
+        <!--/map:match-->
+      </map:match>
+
+      <map:match pattern="**.languages.xml">
+          <map:aggregate element="document">
+            <map:part src="cocoon://localised-{1}.xml"/>
+            <map:part src="cocoon://fallback-{1}.xml"/>
+          </map:aggregate>
+          <map:transform src="{properties:resources.stylesheets}/unify-language-lists.xsl">
+            <map:parameter name="matched-locale" value="{../locale}"/>
+            <!-- The following parameter should be taken from a forrest property. Hardcoded FTTB. -->
+            <map:parameter name="fallback-locale" value="en"/>
+          </map:transform>
+          <map:transform type="i18n">
+            <map:parameter name="locale" value="{../locale}"/>
+          </map:transform>
+          <map:serialize type="xml"/>
+      </map:match>
+     </map:act>
+    </map:pipeline>
+
+<!--+
+    | The following match should return an XML document as follows:
+    | <localised found="N">
+    |   <locale>$LOCALE</locale>
+    |   <locale>$LOCALE</locale>
+    |   ...
+    | </localised>
+    |
+    | There can be zero or more localised documents. @found contains the number of such documents.
+    |
+    | The locale of each document is extracted from the filename.
+    +-->
+    <map:pipeline>
+      <map:match pattern="**localised-*.xml">
+          <map:generate type="directory" src="{properties:content.xdocs}{1}">
+            <map:parameter name="include" value="^{2}\.\w+\.\w+$"/>
+          </map:generate>
+          <map:transform src="{properties:resources.stylesheets}/document-list-to-language-list.xsl" />
+          <map:serialize type="xml"/>
+      </map:match>
+    </map:pipeline>
+
+<!--+
+    | The following match should return an XML document as follows:
+    | <fallback found="1">$LOCALE</fallback>
+    |
+    | There should normally be only one fallback document. If none is found, @found="0".
+    |
+    | If the fallback document is XML, an attempt is done at identifying an @xml:lang or @lang
+    | on the root element <document>. If not found, or if not an XML document, the <fallback>
+    | element is emtpy.
+    |
+    | If @found="1" but there's no $LOCALE, this fact is later used to inject the fallback locale.
+    +-->
+    <map:pipeline>
+      <map:match pattern="**fallback-*.xml">
+          <map:generate type="xpathdirectory" src="{properties:content.xdocs}{1}">
+            <map:parameter name="include" value="^{2}\.\w+$"/>
+            <map:parameter name="exclude" value="^{2}\.\w+\.\w+$"/>
+            <map:parameter name="xpath" value="/*"/>
+            <map:parameter name="xmlFiles" value="\.x.*$"/>
+          </map:generate>
+          <map:transform src="{properties:resources.stylesheets}/fallback-document-to-language.xsl" />
+          <map:serialize type="xml"/>
+      </map:match>
+    </map:pipeline>
+
+    </map:pipelines>
+</map:sitemap>

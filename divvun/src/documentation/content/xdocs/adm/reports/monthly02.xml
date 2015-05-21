@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 3, februar 2005</subtitle>
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Arbeid</title>
+
+      <p>Arbeidet i februar har vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>dokumentasjonssystemet: dei fleste problema som fanst ved utgangen
+        av januar er løyste, og dokumentasjonssystemet er no i aktivt bruk av
+        alle prosjektdeltakarane. Så godt som alt vi gjer blir dokumentert
+        her, inklusive månadsrapportane, og referat frå møta våre. Det
+        viktigaste punktet som står att er å gjera dokumentasjonen og
+        prosjektinformasjon meir allment tilgjengeleg utanfor prosjektgruppa.
+        Prosjektet har fått reservert eit eige domene (www.divvun.no), men
+        IT-avdelinga har ikkje gjort alt som trengst for at vi kan ta i bruk
+        domenet. Vi har som mål å få domenet operativt og dermed gjera
+        dokumentasjonen tilgjengeleg i mars.</li>
+
+        <li>tekstinnsamling: Brevet med invitasjon til avlevering og samarbeid
+        omkring prosjektet er omsett og sendt ut, og prosjektet har fått mykje
+        positiv respons, men enno ingen tekstar. Både Børre og Thomas har
+        brukt ein god del tid på dette. Neste steg blir å laga ein avtaletekst
+        som kan brukast ved avlevering.</li>
+
+        <li>korpusorganisering: Tomi og Trond har diskutert med Lars Nygård
+        ved Tekstlaboratoriet, UiO, og diskusjonen har etter kvart kome godt i
+        gang i diskusjonsgruppa vår, der òg Børre og Sjur har vore aktivt med.
+        Vi har testa ut eit-par ulike løysingar for å konvertera materiale til
+        XML, og resultata så langt ser svært lovande ut. Vi har berre sett på
+        Word-filer til no, sidan storparten av korpusmaterialet sannsynlegvis
+        vil vera slike.</li>
+
+        <li>Tromsø-seminar: Maaren og Thomas var tre dagar i Tromsø for å få
+        meir opplæring og for å kunna arbeida konsentrert med prosjektet (det
+        siste var særleg viktig for Maaren, som har hatt problem med å få tid
+        til å arbeida for prosjektet i Kautokeino). Resultatet av reisa var
+        svært positivt: i tillegg til at Maaren og Thomas lærte mykje, fekk vi
+        og ordna visse tekniske problem som Maaren har slite med.</li>
+
+        <li>Lingvistisk arbeid: arbeidet går bra framover, og Thomas arbeider
+        seg systematisk gjennom bøyinga av ulike grupper av ord, i februar har
+        målgruppa vore adjektivbøying. Prosjektet får hjelp frå GT-prosjektet
+        (Giellateknologiija, UiT-prosjektet), ved at Trond har tilsett to
+        studentar på deltid som hjelper til med å korrigera leksikonet. Maaren
+        har òg arbeidd med dette.</li>
+
+        <li>Termbasen: Børre, Tomi og Sjur har jobba med termbasen, Sjur ein
+        stor del av tida. Sidan dette arbeidet ikkje høyrer til
+        Divvun-prosjektet, vil det bli rapportert separat.</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Tekniske problem</title>
+
+      <p>Dei viktigaste tekniske problema er no løyste: internetttilkoplinga
+      er no for det meste stabil, alle på Sametinget har igjen tilgang til
+      diskusjonsgruppa, og alle kan òg delta på møta våre slik det er
+      meininga.</p>
+
+      <p>Det er framleis ikkje mogleg å kopla seg opp med video- og
+      talekonferanseprogramvare mot brukarar innanfor veggene til Sametinget
+      (Thomas og Maaren), og nokre mindre tekniske problem står att, men ingen
+      som allvorleg hindrar det daglege arbeidet.</p>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet er stort sett i rute, men nokre av oppgåvene til
+      prosjektleiaren er framleis forsinka pga arbeidet med å gjera ferdig
+      terminologibasen. Dette gjeld, som i januar, prosjektplanen, og arbeidet
+      med å skriva ein spesifikasjon for eksterne leverandørar for dei delane
+      som skal leggjast ut. Arbeidet med terminologibasen bør vera meir eller
+      mindre over i mars, og dermed burde det ikkje få konsekvensar for
+      prosjektet på lengre sikt. Alle delane av prosjektet burde igjen vera i
+      rute til sommaren.</p>
+
+      <p class="last_modified">Last modified: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

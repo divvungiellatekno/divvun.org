@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Beta Proofing Tools for LibreOffice</title>
+      <meta name="description">Saami speller, Saami spell checker</meta>
+   </header>
+   <body>
+
+      <section>
+         <title>Download Divvun LibreOffice Spell Checkers for Multiple Languages</title>
+
+         <table>
+         <tr>
+           <th>Language:</th>
+           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Documentation and source code:</th>
+         </tr>
+         <tr>
+           <td>North Sámi</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/sme/j-sme.html">North Sami project</a>.
+               (For developers:
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">North Sami source code</a>. More info below.)
+            </td>
+         </tr>
+         <tr>
+           <td>Lule Sámi</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/smj/j-smj.html">Lule Sami project</a>.
+               (For developers:
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">Lule Sami source code</a>. More info below.)
+            </td>
+         </tr>
+         <tr>
+           <td>South Sámi</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/sma/j-sma.html">South Sami project</a>.
+               (For developers:
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">South Sami source code</a>. More info below.)
+            </td>
+         </tr>
+         <tr>
+           <td>Finnish</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project</a>.
+               (For developers:
+               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">Finnish source code</a>. More info below.)
+            </td>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>.
+               (For developers:
+               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">Greenlandic source code</a>. More info below.)
+            </td>
+         </tr>
+         <tr>
+           <td>Kven</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project</a>.
+               (For developers:
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">Kven source code</a>. More info below.)
+           </td>
+         </tr>
+         </table>
+      </section>
+
+      <section>
+         <title>User Guide</title>
+
+         <p>There is a Windows 8.1 <strong><a
+         href="userdocs/win/install-use-Voikko-LO4-win8.html">installation and
+         user guide</a></strong> which should also be informative for Mac users.</p>
+         
+         <p>Note that the Kven language is not a possible option in LibreOffice. 
+         Mark the Kven text as written in «Kashubian», and it will be correced as Kven.</p>
+
+      </section>
+
+      <section>
+         <title>Additional info</title>
+
+      <note>In honour of the contributions by Tommi Pirinen to make these
+      LibreOffice spell checkers come through, this download page was made
+      public on the day of Tommi's public defense for his <a
+      href="https://helda.helsinki.fi/handle/10138/42526">PhD on using
+      Weighted Finite State technologies in spell checkers</a>, February 28,
+      2014.</note>
+
+      <p>The extensions are built using <a
+      href="http://hfst.sourceforge.net">HFST</a> — specifically
+      <code>hfst-ospell</code> (<a
+      href="https://sourceforge.net/projects/hfst/files/hfst/">source code</a>)
+      — and <a href="http://voikko.puimula.org">Voikko</a>, specifically the
+      <strong>LibreOffice-voikko</strong> extension (<a
+      href="http://voikko.puimula.org/sources.html">source code</a>). The exact
+      list of libraries and their versions used for the released spellers can
+      be found on <a
+      href="http://divvun.no/doc/infra/LibreOfficeVoikkoLibraries.html">a
+      separate page</a>.</p>
+
+      <p>The spellers here are a direct application of the normative fst used as
+      a spelling checker (in combination with an error model to create
+      suggestions). This is work in progress, and there are several open issues
+      still to be worked out. Although the available spellers and extensions
+      should work fine for the specified LibreOffice versions, please bear with
+      us and report any issues you find to
+      <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
+
+      </section>
+
+      <section>
+         <title>For developers</title>
+
+         <p>The source code for each language is available at the links above,
+         and instructions for how to build each language can be found by
+         following the instructions <a href="/doc/infra/GettingStarted.html">here.</a></p>
+
+      </section>
+
+   </body>
+</document>

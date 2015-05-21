@@ -1,0 +1,109 @@
+!!!Meeting with Polderland 5.6.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* currently looking into bug with test system with/without user dictionary
+** still not completed yet
+* Adobe: developing for CS3 - work continues.
+** Both Windows and Mac version compile
+** InDesign CS3 debug installed
+** Solving configuration issues, expect to be able to *really* compile this week
+   (and then encounter the real bugs)
+* testing Divvun installer for Mac: succeeded for Win + Mac OS 10.3/10.4
+* __ŋ__ and __ñ__ exist, but __ń__ must be added - try to complete this week
+** work finished, ready for final test & shipment.
+   Will be accompanied by additional documentation on resource fork usage
+   (we encountered some problems in the hyphenation data)
+* bug 402: tokenization issue, buried deep in code, fix available before final
+  version
+* bug 409: not repro
+** ack, no repair necessary
+
+
+
+Test string is: {{nuvviD}}, even {{nuvviDpeople}}
+
+!Divvun:
+
+* CS3 seems to be installed, or is on the way to being installed in at least the
+  biggest printing houses, but I still need to check some of the other
+  publishers
+** still some more to check, but it seems CS3 will be a safe lower end supported
+* been fixing bugs in the released public beta
+* planning linguistic update towards the end of this week, or next week
+
+
+!!Compounding issue
+
+!Japn and Napn
+
+The noun and adjective subclasses Japn and Napn accept also regular J and N classes?
+
+ - subclass a can have subclasses a and n and classes J and N on the right side
+ - subclass p can have subclasses p and n and classes J and N on the right side
+ - subclass n can have subclasses a, p and n and classes J and N on the right side
+
+We are getting unwanted string ''suopmasivaheapmi'' accepted in the speller:
+{{{
+suop-ma NIALR   // nominative  
+suop-ma NAL     // nominative, used for compounding with regular nouns
+                // assumed not to be compoundable with Ja-tagged words
+                // whereas suo-ma  GaAL + si-va-heap-mi JaIALR should be
+                // (and is) ok
+si-va-heap-mi VI
+si-va-heap-mi JaIALR
+}}}
+The wanted compound is: ''suomasivaheapmi'' (which we get), but we need to be
+able to exclude the other one.
+{{{
+suo-ma  NnIR    // Acc
+suo-ma-- NIAL   // Gen override - w/hyph
+suo-ma-- GaIAL  // Gen - w/hyph
+suo-ma  NAL     // Gen override
+suo-ma  GaAL    // Gen case, should be used for compounding with sivaheapmi
+}}}
+What could we do to prevent this behaviour?
+
+
+!The A PLX flag
+
+PLD has not really documented the A compound flagg. What does it stand for?
+
+From the e-mail you sent us: "add an A flag to every (Proper or common) Noun
+that can be a left part (or even to all Nouns)"
+
+A = Can occur middle in composition?
+
+
+!!Next meeting
+
+Next week (19.6) at the usual time.
+
+!!!TODO:
+* check inconsistent speller behaviour depending on the existence of userdict or
+  not __PLD__
+* __PLD__ continue to create hyphenator for Adobe InDesign CS3
+* __PLD__ try to find proper compiler version for Adobe Indesign CS2. Looks bad.
+** old version does not work, user group + Adobe confirms it no longer sold
+** check with Sámi publishing houses whether support for CS2 is still needed
+   (__Divvun__)
+* include ń as character in words (__PLD__), send updated binaries
+** finished, testing nearly completed, will be sent today
+* speller in InDesign/InCopy option (__PLD__)

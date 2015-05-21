@@ -1,0 +1,73 @@
+!!!Meeting with Polderland 21.4.2008
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+!!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+!!!Since last time
+
+!!Polderland
+
+* Adobe: solved. Solution uses non-public part of API which has now become
+  public (change in SDK).
+* Microsoft has agreed to supply Office 2008 for the Mac, waiting for arrival
+  (might take some time) (... tick ... tick ... tick ... tick ...)
+  (status asked, no answer yet) (... tick ...)
+* basic version of InDesign/InCopy on windows runs, cleaning up before send
+* bug 676: triple hyphen in lexicon (cf 630), will not be solved
+* Drop: all versions dropped together with repaired
+  Mac InDesign custom dictionary fix.
+* hyphenation issue in bug 679: the inserted hyphen is at a position
+  where a soft-hyphen is already in the word. No special treatment, insert
+  is effectively ignored.
+  Hyphenation is correct but not optimal: end user wants to override
+  hyphenation position proposed by InDesign, but can't.
+  => check complexity of doing that
+
+!!Divvun
+
+Should have a look at the maintenance and support issues, contract-wise. Also
+ask for more user feedback regarding bug 656: OS version, Office version, size
+of user dictionary, etc.
+
+* discussed contract-issues with the boss, will take it through the project
+  board
+* (still) more bug fixes, lexical fine-tuning, work on hunspell (not
+  Polderland-related)
+* request for more info on bug 656 forwarded (could be memory-related)
+
+!!Bug status
+
+!Solved/cancelled
+||Div ||Pld ||Description
+| 636 | xxx | Hyphen in front of final consonant
+
+!To be solved/investigated by Divvun
+||Div ||Pld ||Description
+| 621 | xxx | other hyphenator bugs. PB: not as much incorrect as well as weird-looking.
+| 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
+| 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
+| 676 | xxx | guovttenuppelot--Čoarvvegiin - both rejected and suggested
+
+!Under investigation by Polderland
+||Div ||Pld ||Description
+| 549 | xxx | missing hyphens at word boundaries - noaiderumbbuid (accepted by speller) - solved in command-line tool, updates to Office and InDesign not yet delivered
+| 645 | xxx | borgguhan-gihppagis gets the hyphen on the next line - SOLVED; update not delivered
+| 656 | xxx | User word list "gets full" (as reported by users): repro only if millions of words are added, but related to memory. Word gets very slow if the list goes over 100 000 words or so. This is in Office 11 (2003). In Office 12 (2007) the user dictionary is managed entirely by Word. -> feedback from users on version, tests for office 2007 by Polderland. -> request forwarded
+
+!!PLD Priority list
+
+# drop final/present versions of all DLLs and tools
+# InDesign proofing tools for Windows *** PENDING
+# Proofing tools for Microsoft Office 2008 / Mac *** check locale issues
+
+!!!Next meeting
+
+Next week (29.4.) at 09.30 Dutch/Norwegian time, unless notified otherwise.

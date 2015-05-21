@@ -1,0 +1,102 @@
+!!!Meeting with Polderland 23.1.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* did poll technical contacts, no answer yet
+* mklex: beta test results:
+** some things we can't / won't deal with (multiword expr, 
+   words starting with hyphen, words containing '+')
+** repaired for problem with initial non- A-Za-z, requires rerun of test
+* investigating possibilities for 2 extra word/noun classes:
+** proper noun (as second part of compound),
+   making it possible to limit the 1st parts
+** word that can follow genitive stem (as second part of compound),
+   making it possible to limit the 1st parts too
+* words in lexicon starting with hyphen:
+** is not even processed "correctly": hyphen is skipped prior to checking
+   so, if lexicon and text contain {{"-abcde"}} (without quotes),
+    the speller will flag "abcde" and suggest "-abcde", resulting in
+    "--abcde" (and then "abcde" is flagged again).
+    Has to do with handling of characters such as " ' _ - etc.
+
+
+
+!Divvun:
+
+PLX conversion made good progress last week as well, noun compounding now ok, and all POSes except numbers should be ok. We hope to deliver the first large-scale PLX lexicon today or tomorrow. It will not contain derivations, though, which will account for a large portion of the total size.
+
+
+!!Possible issues
+
+!Name "prefixes"
+
+Some nouns are common as prefixes to names, mainly words for ''North'',
+''South'', etc. Even though these are regular nouns, when prefixing proper nouns
+they should be capitalized, and there needs to be a hyphen between the prefix
+and the second part. Example (spelling error -> correct form):
+
+* davvi-Norgga -> Davvi-Norgga (= ''North(ern) Norway'')
+
+
+That is:
+{{{
+name-prefix + name => upper case + hyphen
+}}}
+
+Thus, to correctly handle these cases, we need to identify names as different from other nouns, such that we can direct the upppercased and hyphenated
+prefixes to the correct second parts.
+
+Compound where first part is genitive:
+
+similar issue as with name-prefix. Proposed solution:
+new word (sub)class that can act as compound following a genitive only
+
+
+!Hyphen as prefix
+
+In constructions of coordinated compounds with common first part (YX and YZ =>
+YX and -Z: ''bussbillett og -sjåfør'') it is customary to replace the common
+part with a hyphen. We could reduce the size of the noun lexicon by 50% if we
+can specify the hyphen as a prefix, instead of, as now, pregenerate all nouns
+in a version with a prefixed hyphen.
+
+__Decision:__ such constructions will be handled automatically, and should not
+be included in the lexicon.
+
+!!Next meeting
+
+Next Tuesday (30.1.) at the usual time.
+
+!!!TODO:
+* get back on linguistic issue regarding proper nouns vs. common nouns
+** done, see above
+* get back on linguistic issue re. hyphen as prefix
+** hard-coded, the speller will accept both with and without hyphen
+* check if North Sámi hyphenation can be disabled when processing Lule Sámi (__PLD__)
+** can be done with a simple work-around
+* make complete PLX data set (__Tomi__)
+** approaching:-)
+* get language codes to work with Mac Office 2004 (and check MacOffice 2007)
+  (__Polderland__)
+* deliver mklex + hyphen script 
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do)
+* try to get an answer to the language codes in MS Office for Mac question from
+  other sources (__Sjur__)
+** done, responded via e-mail

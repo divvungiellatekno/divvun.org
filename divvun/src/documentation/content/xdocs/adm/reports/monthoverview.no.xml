@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>Månedlige rapporter - oversikt</title>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Struktur</title>
+
+      <p>Rapportene kommer til å inneholde minst disse punktene:</p>
+
+      <ul>
+        <li>et kort sammendrag over arbeidet som er gjennomført</li>
+
+        <li>en kort evaluering av framgangen sammenlignet med den opprinnelige planen. Avvikelser kommer til å bli analysert og kommentert.</li>
+      </ul>
+
+      <p>Rapportene burde være ferdig den 10. påfølgende måned. Rapportene skrive på norsk.</p>
+    </section>
+
+    <section>
+      <title>Tilgjengelige rapporter</title>
+
+      <section>
+        <title>2006</title>
+
+        <ul>
+          <li><a href="monthly17.html"
+          title="Monthly report for May 2006">Mai</a></li>
+
+          <li><a href="monthly16.html"
+          title="Monthly report for April 2006">April</a></li>
+
+          <li><a href="monthly15.html"
+          title="Monthly report for March 2006">Mars</a></li>
+
+          <li><a href="monthly14.html"
+          title="Monthly report for February 2006">Februar</a></li>
+
+          <li><a href="monthly13.html"
+          title="Monthly report for January 2006">Januar</a></li>
+
+        </ul>
+      </section>
+
+      <section>
+        <title>2005</title>
+
+        <ul>
+          <li><a href="monthly12.html"
+          title="Monthly report for December 2005">Desember</a></li>
+
+          <li><a href="monthly11.html"
+          title="Monthly report for November 2005">November</a></li>
+
+          <li><a href="monthly10.html"
+          title="Monthly report for October 2005">Oktober</a></li>
+
+          <li><a href="monthly09.html"
+          title="Monthly report for September 2005">September</a></li>
+
+          <li><a href="monthly08.html"
+          title="Monthly report for August 2005">August</a></li>
+
+          <li><a href="monthly07.html"
+          title="Monthly report for July 2005">Juli</a></li>
+
+          <li><a href="monthly06.html"
+          title="Monthly report for June 2005">Juni</a></li>
+
+          <li><a href="monthly05.html"
+          title="Monthly report for May 2005">Mai</a></li>
+
+          <li><a href="monthly04.html"
+          title="Monthly report for April 2005">April</a></li>
+
+          <li><a href="monthly03.html"
+          title="Monthly report for March 2005">Mars</a></li>
+
+          <li><a href="monthly02.html"
+          title="Monthly report for February 2005">Februar</a></li>
+
+          <li><a href="monthly01.html"
+          title="Monthly report for January 2005">Januar</a></li>
+        </ul>
+      </section>
+
+      <section>
+        <title>2004</title>
+
+        <ul>
+          <li><a href="monthly00.html"
+          title="Monthly report for October—December 2004">Oktober-Desember</a>
+          - rapport for oppstartsperioden.</li>
+        </ul>
+      </section>
+
+      <p class="last_modified">Last modified: $Date$,
+      $Author$</p>
+    </section>
+  </body>
+</document>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Boallobeavddit</title>
+    </header>
+    <body>
+        <p>
+            Divvun lea ráhkadan prográmmaža «Samiske tastaturer»
+            mas leat boallobeavddit davvi-, julev-, lulli-, bihtán-, anár- ja nuorttalašsámegielaid várás.
+            Prográmmaš lea ráhkaduvvon sihke <a
+            href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> ja <a
+href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >iOS (iPhone ja iPad)</a> várás.</p>
+
+    <table>
+        <tr>
+            <td>
+                <img alt="Šearbmagovva Google Plays"
+                src="images/google_play_entry.png"
+                width="300" />
+            </td>
+            <td>
+                <img alt="Šearbmagovva App Stores"
+                src="images/app_store_entry.png"
+                width="300" />
+            </td>
+        </tr>
+        <tr><td> </td></tr>
+        <tr>
+            <td>
+                <img alt="Android-šearbmagovva"
+                src="/images/sami_keyboard_android.png"
+                width="300" />
+            </td>
+            <td>
+                <img alt="iPhone-šearbmagovva"
+                src="/images/sami_keyboard_ios.png"
+                width="300" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <a
+href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+                 <img
+                    alt="Viečča Google Plays"
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
+                </a>
+            </td>
+
+            <td>
+                <a
+href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >
+                    <img
+        alt="Viečča App Stores"
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
+                </a>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <a href="installation_android.html">
+                    <img alt="Gažaldatmearka" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Sajáiduhttinveahkki
+                </a>
+            </td>
+
+            <td>
+                <a href="installation_ios.html">
+                    <img alt="Gažaldatmearka" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Sajáiduhttinveahkki
+                </a>
+            </td>
+        </tr>
+
+    </table>
+    <p>Mis lea oktageardánis siidu <a href="privacy.html">persovdnasuodjaleami</a> dáid prográmmažiid oktavuođas.</p>
+   </body>
+</document>

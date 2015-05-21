@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Sajáiduhttit Divvunreaidduid Windows 8:s</title>
+	</header>
+	<body>
+		<section>
+			<title>Viežžat ja sajáiduhttit Divvunreaidduid Windows 8:s</title>
+			<ol>
+				<li>Mana <a href="http://divvun.no">Divvuma ruovttosiidui</a></li>
+				<li>
+					Coahkkal viežžanliŋkka
+					<p>
+						<img src="images/download-3.se.png" alt="The download area"/>
+					</p>
+				</li>
+				<li>
+					<dl>
+						<dt>
+							Explorer
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Coahkkal <strong>Run</strong>
+									<p>
+										<img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Firefox
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Coahkkal <strong>Lagre fil</strong>
+									<p>
+										<img src="images/firefox-save.png" alt="Firefox save dialog"/>
+									</p>
+								</li>
+								<li>
+									Duppalcoahkkal Divvuma sajáiduhttinprográmma
+									<p>
+										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Google Chrome
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Duppalcoahkkal Divvuma sajáiduhttinprográmma
+									<p>
+										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					Coahkkal <strong>Ja</strong> go <em>User Account Control</em>-láseš ihtá.
+				</li>
+				<li>
+					Láseš ihtá ja jávká. Divvunreaidduid leat dál sajis dihtoris.
+				</li>
+				<li>
+					Olggos- ja sisačálit iežat aktiveren dihte  Divvunreaidduid.
+				</li>
+			</ol>
+		</section>
+	</body>
+</document>

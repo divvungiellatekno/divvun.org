@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun-ohjelman asennus ja käyttö MacOS X -koneella</title>
+   </header>
+   <body>
+      <note>Kun kirjoitat saamea <strong>Microsoft Office for Mac</strong>:lle, käyta kielet <strong>Catalan</strong>
+      (=pohjoissaamea), <strong>Basque</strong> (=julevsaamea) tai <strong>Slovak</strong> (=etelälsaamea). Syy on
+      Microsoftin, ei meidän.</note>
+      <section>
+         <title>Divvun-ohjelman käyttäminen</title>
+         <p>Kun olet avannut MS Office-ohjelmiston sinun täytyy määritellä Office-ohjelmistolle millä kielellä
+         kirjoitat. Tämä tapahtuu samalla tavalla sekä MS Office 2004 että MS Office 2008 versioissa.</p>
+         <p>1. Valitse saamenkielinen teksti:</p>
+         <p><img alt="Valitse saamenkielinen teksti" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p>2. Valitse Työkalut &gt; Kieli…:</p>
+         <p><img alt="Valitse &quot;Työkalut &gt; Kieli…&quot;"
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
+         <p>3. Valitse kieleksi Katalaani (Catalan) jos kirjoitat pohjoissaamen kielellä, Baski (Basque) jos kirjoitat
+         luulajansaamen kielellä tai Slovaki (Slovak) jos kirjoitat eteläsaamen kielellä( <a href="#1">1</a>):</p>
+         <p><img alt="Valitse kieli" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p>4. Jos kirjoitat paljon saamen kielellä voit valita sen oletuskieleksi osoittamalla Oletus-painiketta ja
+         tämän jälkeen valitse Kyllä:</p>
+         <p><img alt="Haluatko käyttää saamea oletuskielenä?" src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p>5. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua apuna oikoluvussa:</p>
+         <p><img alt="Saamenkielinen teksti jossa kirjoitusvirhe"
+         src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Korjausikkuna" src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p>Microsoft ei vielä tue saamen kieltä Mac MS Office toimisto-ohjelmistossa, vaikka tuki löytyy Windows MS
+         Office versiosta. Toivottavasti tulevat versiot sisältävät tuen saamen kielelle. Siihen asti saamen kieli tulee
+         määritellä toiseksi kieleksi.</p>
+      </section>
+   </body>
+</document>

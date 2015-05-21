@@ -1,0 +1,151 @@
+!!!Meeting with Polderland 20.3.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* windows installer: check if executable winzip version will run
+  setup.exe automatically
+** fell of the radar (forgot to copy it to TODO list last week)
+   - will check immediately
+* send all files + instructions to create mac .pkg/.pax installer
+**  prepared, will be sent today
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+** does not appear to have it, not 100 % sure yet
+* setup-text for windows installer: does language chosen
+  refer to installer interface, or to language to be installed?
+** installer interface language
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+** checked, problematic: haven't found yet where to include
+   Sami installer texts + Sami language names in installer drop-down lists
+   (Sami locales w.r.t. language codes etc were added in XP SP2)
+   will continue investigation
+
+!Divvun:
+
+* fixed the problem with converting verbal derivations to the PLX format, now
+  all verbs are converted in less than an hour
+* compiling with Gb sources for the first time - it seems to be working fine,
+  but there are some compilation messages we don't understand, see below
+** are informative messages: intermediate compression (mem boundary reached)
+* working on integrating the whole speller making, PLX conversion etc. in the
+  make file
+* working on updating the Lule Sámi conversion to be as good as the North Sámi
+* tried to make version info easter egg - no success, see below
+
+!!Possible issues
+
+!Updating installer packages
+
+We (ie Divvun) can now easily compile our own speller lexicons - thanks for the
+tools:-)
+
+But we also need to place that speller lexicon file over the old one within the
+installation packages. For that I assume we need the original installation
+package script (or whatever it is called), and for Win we also - I assume - need
+the software used to create the installer? (the corresponding software is
+included on the Mac, as part of the developer tools).
+
+The tools used:
+* Windows: InstallShield + small executable asking for the language to install
+* Mac: Apple Installer tool
+
+!Lexicon compilation:
+
+With a full-size verb lexicon (2Gb in all now), I got the following messages
+when I compiled it:
+
+{{{
+Reading dictionary 'tmp/lex-sort.plx'...
+at line 8937146: 'vars-su-huv-vo-goa-[111]e-det-tii-nis', compress...
+at line 14418531: 'speal-la-alm-m[e1]j-huht-to[161]-goa-[111][e1]-[161]it', compress...
+at line 19547140: 'sad-djo-hast-te-[17e]at', compress...
+at line 28152191: 'oa-[111][e1]-hal-lo[161]-goa-[111][e1]-[161]ed-jen', compress...
+at line 35285592: 'l[e1]v-go-lih-te-huht-to-goa-[111]i-ha', compress...
+at line 44009984: 'ie[161]-alm-m[e1]j-huht-to-juv-vo-det-tii-neat-te', compress...
+at line 51507083: 'gieh-ta-hearg-gi-huht-to-juv-vo-leid-de', compress...
+at line 55472103: 'ex-pe-de-re-has-to-goa-[111]i-det-tii-neat-te', compress...
+at line 64245660: 'buoh-kait-rievt-ti-huht-to-[161]eim-me', compress...
+Compressing dictionary...
+Dumping dictionary...
+}}}
+
+Is this just messages that everything is going ok, or something to worry about?
+(notice the non-UTF-8 output)
+
+It is nothing to worry about, it is just telling that it has reached the upper
+memory limit, and needs to compress what it has, before it continues.
+
+!Speller lexicon version ID
+
+We planned some sort of easter egg of the type:
+
+nuvvid ->
+Divvun
+Speller Lexicon 13.3.2007
+Made by the Divvun team:
+...
+
+But it doesn't work. Presently I have the following code:
+
+{{{
+In the lexicon:
+Divvun	NI
+SjurMoshagen	NI
+Version1b02-200307
+
+Phon-rules:
+/$Divvun<=>nuvvi$D/         twin
+/$Sjur$Moshagen<=>nuvvi$D/         twin
+/$Version1b02-200307<=>nuvvi$D/	twin
+}}}
+* PLD: will get back on this (can we include spaces? if not, underscores?)
+
+
+!!Next meeting
+
+Next Tuesday (27.3.) at the usual time.
+
+!!!TODO:
+* check handling of lines by test software: lines starting with non-alpha
+  skipped? cf. types-err-sme.txt: first 7 lines skipped
+** yes, skipped. Can force suggestions by starting with a ",".
+   not sure if "," solution will work for non-alpha word initials
+* check: does the Adobe hyphenator differentiate between
+  "word boundary" (strong) hyphenation points and "word internal" (weak) ones?
+  - under investigation
+* send all files for mac installer + instructions
+  - will be sent today
+* installer for windows: should be multi-lingual for
+  Norwegian, Swedish, Finnish, English, N.Sami and L.Sami.
+  Check which installshield version we need
+  - working on it
+* check: installer on Mac should be able to (__PLD__ to check):
+** move existing proofing tools out of the way (into a zip archive?)
+** restore "original" proofing tools on deinstallation
+*** yes, but some residues remain after de-installation.
+*** solution probably requires admin rights - will document
+* check if Sami-codes are included in Office 2008 / Mac
+  (when beta arrives with codes) (__Polderland__)
+* try to find proper compiler version for Adobe Indesign (old version will
+  probably do) (__Polderland__)
+* send speller lexicon (or CVS tag) for the beta release to Polderland
+  (__Sjur__)

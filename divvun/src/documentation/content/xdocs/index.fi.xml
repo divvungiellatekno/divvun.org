@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Divvun - saamen kieliteknologia</title>
+        <meta name="description">saamen kielten korjausohjelmat</meta>
+    </header>
+    <body>
+        <note label="Uutisia!">Pohjoissaamen puhentuottojärjestelmä julkaistaan
+        6.5.2015! <a href="tale/tale.html">Lue lisää täältä!</a></note>
+
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            Meillä on <a href="keyboards/index.html">matkapuhelinnäppäimistöt</a>
+            pohjois-, luulajan-, etelän-, piitimen-, inarin- ja koltansaameksi sekä
+            <img src="/images/android.png" alt="android"/> että <img src="/images/ios8.png" alt="iOS 8"/>
+        </li>
+        <li class="col-sm-4">
+            Meillä on <a href="laring/laring.html">E-learning ohjelmia</a> sekä <img src="/images/android.png" alt="android"/> että <img src="/images/ios.png" alt="iOS"/> sekä Webapps
+        </li>
+        <li class="col-sm-4">
+            <a href="korrektur/korrektur.html">Oikolukuohjelmia</a>  <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/>
+        </li>
+      </ul>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-4">
+            <a href="ordboker/ordboker.html">Sanakirjoja</a>, sekä nettipohjaisia että ladattavia.
+        </li>
+        <li class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">Kääntäjämuisti</a>
+        </li>
+        <li class="col-sm-4">
+            Pohjoissaamen <a href="tale/tale.html">puheentuotto</a> tulossa
+        </li>
+      </ul>
+    </body>
+</document>

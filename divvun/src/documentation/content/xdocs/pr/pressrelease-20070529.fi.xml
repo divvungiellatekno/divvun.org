@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+  <header>
+    <title>Lehdistötiedote, 29.5.2007</title>
+  </header>
+
+  <body>
+    <section>
+      <title>Lehdistötiedote</title>
+
+      <p>Päivämäärä: 29.5.2007<br /> Yhteyshenkilö: Projektipäällikkö Sjur
+      Nørstebø Moshagen, puh. matk. +358 50 56 34 319</p>
+    </section>
+
+    <section>
+      <title>PRM: Norjan Saamelaiskäräjät julkaisee oikolukuohjelman betaversion</title>
+
+      <p>Norjan Saamelaiskäräjien Divvun-projekti julkaisee nyt ensimmäisen,
+      kaikille saatavilla olevan version saamen oikolukuohjelmista Microsoft
+      Office-ohjelmistolle (mm. Word, Outlook,
+      PowerPoint ja Excel).</p>
+
+      <p>Saamen oikolukuohjelmat sisältävät korjausohjelmia pohjois- ja 
+      luulajansaamelle sekä automaattisen tavutusohjelma pohjoissaamelle.
+      Luulajansaamen tavutusohjelma ilmestyy myöhemmin tänä vuonna. Kaikki
+      työvälineet ovat ilmaisia, myös lopullinen versio, ja kaikki 
+      Saamelaiskäräjien tekemät lähdetiedostot ovat vapaasti saatavilla.</p>
+
+      <p>Tänään ilmestyneet ohjelmat eivät ole lopullisia, vaan ns.
+      betaversioita, joissa ei saa olla vakavia teknisiä ja muita virheitä. Betaversioita ei kuitenkaan ole lopullisesti kehitetty eikä testattu. 
+      Oikolukuohjelmien betaversion julkaisemisen 
+      päämääränä on saada projektille tärkeää palautetta puuttuvista sanoista,
+      mahdollisista teknisistä ongelmista ja muista heikkouksista, jotta
+      niitä voidaan korjata ennen lopullista versiota, jonka on tarkoitus ilmestyä vuoden lopussa.</p>
+
+      <p>Nyt julkaistut kielenkorjausohjelmat on tarkoitettu Macintoshin ja 
+      Windowsin MS Officelle. InDesignille ja
+      OpenOffice.org:ille tarkoitetut korjausohjelmat julkaistaan myöhemmin.  OpenOffice.org on ilmainen
+      vaihtoehto Microsoft Officelle, ja se on saatavilla myös Linuxille.
+      Oikolukuohjelmien päivityksiä tullaan julkaisemaan tasaisin väliajoin.</p>
+
+      <p>Työkalut löytyvät osoitteesta  <a href="http://www.divvun.no/"
+      >www.divvun.no</a>, ja niitä voivat kaikki kiinnostuneet 
+      ladata itselleen. Ohjelmien kopioita voi myös hakea  
+       <a href="http://www.sametinget.no/">Norjan saamelaiskäräjien kotisivulta</a>.</p>
+
+      <p>Divvun-projekti on Norjan Saamelaiskäräjien vetämä. Sitä rahoittavat
+      Norjan Saamelaiskäräjät, Norjan työ- ja sosiaaliministeriö, 
+      kulttuuri- ja kirkkoministeriö, tiedeministeriö sekä Nordplus Sprog. 
+      Projekti tekee tiivistä yhteistyötä  <a href="http://giellatekno.uit.no/"
+      >Tromssan yliopiston saamen kieliteknologiakeskuksen</a> kanssa.
+      Integroinnin MS Office-ohjelmistoon on tehnyt <a href="http://www.polderland.nl/">Polderland
+      Language &amp; Speech Technology bv</a>.</p>
+    </section>
+  </body>
+</document>

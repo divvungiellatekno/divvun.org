@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document xml:lang="nn">
+  <header>
+    <title>Sørsamisk stavekontroll</title>
+
+    <subtitle>Eit framhald av Divvun-prosjektet</subtitle>
+
+    <version>Oppdatert versjon, juni 2007</version>
+  </header>
+
+  <body>
+    <section>
+      <title>Mål</title>
+
+      <p>Å laga eit sett med sørsamiske stavekontrollar, med same oppsett som
+      for lulesamisk. Dette betyr:</p>
+
+      <ul>
+        <li>stavekontroll for MS Office for Windows</li>
+
+        <li>stavekontroll for MS Office for Mac</li>
+
+        <li>stavekontroll for OpenOffice.org</li>
+
+        <li>minst ein stavekontroll basert på open kjeldekode</li>
+
+        <li>orddeling i MS Office, Win og Mac</li>
+      </ul>
+
+      <p>Jf elles planane for det noverande Divvun-prosjektet, på <a
+      href="http://www.divvun.no/">www.divvun.no</a>.</p>
+    </section>
+
+    <section>
+      <title>Status pr september 2005</title>
+
+      <p>Det er gjort ein del lingvistisk arbeid, fyrst og fremst med
+      substantivbøying og omlydsreglar for substantiv. Alle usamansette
+      substantiv er skrive inn. Ei relativt komplett liste over det
+      eksisterande arbeidet er:</p>
+
+      <ul>
+        <li>substantivleksikon med alle usamansette substantiv frå
+        Sydsamisk-norsk ordbok (kring 4300 ord)</li>
+
+        <li>namn (kring 24 000)</li>
+
+        <li>bøyingsmorfologi for substantiv</li>
+
+        <li>morfologi for pronomen og andre lukka ordklasser</li>
+
+        <li>tonivåreglar for nominal bøying</li>
+      </ul>
+
+      <p>Dette utgangspunktet er vesentleg dårlegare enn det tilsvarande var
+      for lulesamisk då Divvun-prosjektet starta mot slutten av 2004. Der var
+      den morfologiske modellen meir eller mindre komplett for alle opne
+      ordklasser, og tonivåreglane ganske heildekkjande. Det som mangla for
+      lulesamisk var ein skikkeleg gjennomgang av ein morsmålstalar for å
+      komplettera og retta feil.</p>
+    </section>
+
+    <section>
+      <title>Planlagt arbeid</title>
+
+      <section>
+        <title>Lingvistisk arbeid:</title>
+
+        <ul>
+          <li>Verbmorfologi (hovudmønsteret er klårt, og stammeklasse er merka
+          av i ordboka, det kan hende det er variasjon frå verb til verb når
+          det gjeld kor mykje omlyd verba har, dette må i tilfelle sjekkast
+          manuelt)</li>
+
+          <li>Adjektivmorfologi (her trengst det grunnforsking)</li>
+
+          <li>Samansetjing (her treng vi undersøkingar av forma til
+          forleddet)</li>
+
+          <li>Derivasjon (data frå referansegrammatikken må systematiserast og
+          komplementerast)</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Datalingvistisk arbeid:</title>
+
+        <ul>
+          <li>morfofonologi for verb (arbeidet er starta, og vi har i
+          prinsippet eit system for å kombinere verb- og omlydsklasse, men til
+          no har det ikkje fungert.)</li>
+
+          <li>morfofonologi for adjektiv (her har vi ikkje gjort noko; dette
+          er eit problematisk punkt, i og med at referansegrammatikken har så
+          lite hjelp å gje.)</li>
+
+          <li>morfofonologi for avleiing/samansetjing (tonivåmorfologien for
+          substantiva burde funka, men det er ikkje sjekka)</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Sørsamisk ordbok</title>
+
+        <p>Det vil vera ei uvurderleg hjelp for eit slikt prosjekt å få
+        tilgang til Sydsamisk-norsk ordbok (Bergsland &amp; Mattsson Magga,
+        1993) i elektronisk form. — Det er no komne signal om at boka vil bli
+        tilgjengeleg, ev. etter nokre rettingar. Budsjettet og planane byggjer
+        på denne føresetnaden.</p>
+      </section>
+
+      <section>
+        <title>Korpusinnsamling</title>
+
+        <p>Det må setjast av ein del ressursar på å samla inn så mykje
+        sørsamisk tekst som det berre er mogleg. Det vil vera rimeleg å bruka
+        dei same kjeldene som ved det noverande Divvun-prosjektet bruker, dvs
+        Sametings-administrasjonen, kommunane (Snåsa), departementa,
+        Bibelforlaget/Kyrkja, forlag og forfattarar, og privatpersonar som
+        sjølve vil gje tekstane sine til prosjektet.</p>
+
+        <p>Som prøve på faktisk språkbruk bør ein undersøkja om det er mogleg
+        å bruka materiale frå dei nasjonale prøvene. Der finst det eit ganske
+        stort materiale med sørsamiske elevtekstar.</p>
+      </section>
+
+      <section>
+        <title>Stavekontrollspesifikt arbeid</title>
+
+        <p>Sjølv om prosjektet byggjer på arbeid som alt er gjort i
+        Divvun-prosjektet, vil det krevast tilpassingar til sørsamisk, og ein
+        god del testing og språkspesifikt arbeid. Dette arbeidet vil m.a.
+        omfatta:</p>
+
+        <ul>
+          <li>sjekka forslagsmekanismen og dei forslaga som blir gjeve</li>
+
+          <li>testa dei ulike stavekontrollane</li>
+        </ul>
+      </section>
+
+      <section>
+        <title>Rettskrivingsspørsmål for sørsamisk</title>
+
+        <p>Dette er eit ressurskrevjande punkt, i og med at sørsamisk til no i
+        liten grad har vorte eksplisitt normert. Eit normerande verkty som ein
+        stavekontroll krev at ein bestemmer seg for kva ein vil ha innanfor
+        den offisielle norma, om det no er stor eller liten variasjon. Derfor
+        er det viktig at dei normerande organa for sørsamisk både nasjonalt og
+        nordisk er (inter)aktivt med i prosjektet.</p>
+
+        <ul>
+          <li>Kva er rett, kva er gale?</li>
+
+          <li>korleis skal vi stave lånord frå norsk/svensk m.fl. i
+          sørsamisk?</li>
+
+          <li>datoformat</li>
+
+          <li>forkortingar</li>
+
+          <li>bøying av framande namn</li>
+        </ul>
+      </section>
+    </section>
+
+    <section>
+      <title>Ferdige modular frå Divvun-prosjektet</title>
+
+      <p>I og med at det sørsamiske prosjektet byggjer på det noverande
+      prosjektet, er det sjølvsagt ein del arbeid som ikkje treng repeterast
+      for sørsamisk. Spesifikt gjeld det følgjande punkt:</p>
+
+      <ul>
+        <li>infrastruktur for <ul>
+            <li>språkteknologiutvikling og testing</li>
+
+            <li>korpushandtering og -bruk</li>
+
+            <li>stavekontrollutvikling</li>
+          </ul></li>
+
+        <li>tilpassing av stavekontrollmotor(ar)</li>
+
+        <li>vi har også eit ferdig team av programmerarar og datalingvistar
+        som ikkje treng opplæring, og som vil vera ei stor hjelp for nye
+        prosjektmedarbeidarar</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Anna arbeid</title>
+
+      <p>Ein del teknisk og anna arbeid må gjerast for sørsamisk uavhengig av
+      kva som har vorte gjort før:</p>
+
+      <ul>
+        <li>brukardokumentasjon</li>
+
+        <li>nettsider (for brukarane)</li>
+
+        <li>installeringsprogram (lokalisering til sørsamisk)</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Stillingar</title>
+
+      <ul>
+        <li>sørsamisk lingvist — 100%</li>
+
+        <li>datalingvist - 100% fyrste året, 50% dei to andre</li>
+
+        <li>programmerar - 25%</li>
+
+        <li>prosjektleiar - 50%</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Timeplan</title>
+
+      <p>Prosjektet bør gå over tre - 3 - år. Det har vist seg at det krevst
+      mykje tid både til å samla inn korpus, og til det reint lingvistiske
+      arbeidet. Og med tanke på at det trengst meir lingvistisk grunnarbeid
+      enn for både nord- og lulesamisk, vil det derfor ikkje vera realistisk
+      med eit prosjekt kortare enn tre år. Prosjektstart er rekna til januar
+      2008.</p>
+
+      <p>Tidsplanen vil vere avhengig av at vi får tak i ein kvalifisert
+      sørsamisk lingvist. Sjølv med ein kvalifisert lingvist trengst det ein
+      god del opplæring. Med ein prosjektperiode på tre år er det rom for slik
+      opplæring.</p>
+
+      <p>Prosjektstart er tenkt rett etter at Divvun-prosjektet er avslutta,
+      dvs 1. januar 2008, og varer til 31. desember 2010 med den føreslåtte
+      timeplanen.</p>
+
+      <p>Prosjektet vil samarbeida med den permanente driftsorganisasjonen for
+      dei samiske korrekturverktya.</p>
+    </section>
+
+    <section>
+      <title>Budsjett</title>
+
+      <p>Alle tal er i 1000 NOK</p>
+
+      <source>                         2008   2009   2010
+Løn                                   
+  Lingvist                600    600    600
+  Datalingvist            600    300    300
+  Programmerar            150    150    150
+  Prosjektleiar           300    300    300
+Eksterne tenester         100    100    100
+Reiser, utstyr, m.m.      100    100    100
+                                      
+Totalt                   1850   1550   1550
+Total prosjektsum                             4950</source>
+
+      <p>Dei eksterne tenestene er integrering mot MS Office for Windows og
+      Mac, på same vis som i det noverande Divvun-prosjektet.</p>
+    </section>
+  </body>
+</document>

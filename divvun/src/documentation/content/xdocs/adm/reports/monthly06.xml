@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nno">
+  <header>
+    <title>Framdriftsrapport for Divvun</title>
+
+    <subtitle>Nr 7, juni 2005</subtitle>
+
+    <authors>
+      <person email="sjurnm@mac.com" name="Sjur N. Moshagen" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Gjennomført arbeid</title>
+
+      <p>I juni 2005 har arbeidet vore fordelt på desse hovudpunkta:</p>
+
+      <ul>
+        <li>Dokumentasjon: nettstaden vår, <a
+        href="http://www.divvun.no/">www.divvun.no</a> vart opna samtidig med
+        språkavdelinga sin termbase, <a
+        href="http://www.risten.no">www.risten.no</a> på språkstyret sitt møte
+        22. juni i Tysfjord. Nettstaden blir enno ikkje oppdatert automatisk,
+        men det er no mogleg å lesa om alt vi har gjort frå starten og fram
+        til no:-) Det er i tillegg ein del allmenn info for ålmenta:
+        hovudpunkta i framdriftsplanen, kva prosjektet leverer når det er
+        ferdig, og litt anna.</li>
+
+        <li>tekstinnsamling: det vart ikkje gjort så mykje med tekstinnsamling
+        i juni, i og med at mykje arbeid gjekk med til å førebu opninga av
+        nettstaden vår, og fordi Børre byrja ferien sin rett etter opninga. Vi
+        fekk omsett modellkontrakten frå Helsingfors universitet frå finsk til
+        norsk, slik at vi lettare kan byrja å setja i hop vår eigen
+        korpuskontrakt.</li>
+
+        <li>korpusorganisering: Tomi har arbeidd vidare med nokre verkty vi
+        har laga for å prosessera korpusa, og trekkja ut den informasjonen vi
+        vil ha.</li>
+
+        <li>Lingvistisk arbeid: Thomas gjorde mykje arbeid med lulesamisk i
+        juni, og arbeidet har kome godt i gang. Maaren gjorde ein del arbeid
+        med nordsamisk, fremst med å leggja til ord som enno ikkje fanst i
+        leksikonet. Det har òg vorte arbeidd ein god del med leksikonet av
+        folk som arbeider på universitetsprosjektet, og arbeidet med
+        nordsamisk hadde derfor ei god framdrift sjølv om ikkje Thomas
+        deltok.</li>
+
+        <li>Termbasen: Termbasen vart ferdig og installert på ny servar til
+        opninga den 22. juni, med ein rimeleg mengde med sør- og lulesamiske
+        termar. Termbasen fekk svært god mottaking, og med den nye servaren er
+        han rask og grei å arbeida med. Redigeringa funkar i hovudsak som han
+        skal - ein del mindre feil har vorte rapportert og delvis retta. Det
+        gjekk ein del tid til termbasen i forkant av opninga, men no er han
+        der - på nett!</li>
+      </ul>
+    </section>
+
+    <section>
+      <title>Framdrift</title>
+
+      <p>Prosjektet gjekk framover som planlagt i juni. Dei viktigaste
+      hendingane i høve til timeplanen var at vi byrja arbeidet med lulesamisk
+      på allvor, og at vi opna nettstaden for publikum. Det som ikkje fylgjer
+      den opphavlege timeplanen vart gjennomgått i rapporten for mai, og vil
+      ikkje bli repetert her. Ein justert framdriftsplan vil bli lagt fram for
+      styringsgruppa i september, basert på mai-rapporten.</p>
+
+      <p class="last_modified">Last modified: $Date$, by
+      $Author$</p>
+    </section>
+  </body>
+</document>

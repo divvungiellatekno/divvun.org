@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+  <header>
+    <title>Máttasámegielat čállindárkkisteapmi</title>
+
+    <authors>
+      <person email="trond.trosterud@hum.uit.no" name="Trond Trosterud" />
+    </authors>
+  </header>
+
+  <body>
+    <section>
+      <title>Ovdahistorjá</title>
+
+      <p>Álgovuolggalaš plána  <em>divvun.no</em> ovddas lei ráhkadit čállindárkkistánreaidduid golmma giela várás, davvi-, julev- ja máttasámegillii. Plánenáigodagas guđiimet liikká máttasámegiela olggobeallái, dáid sivaid dihte:</p>
+
+      <ol>
+<li>Go divvun-prográmma álggahuvvui de ledje davvi- ja julevsámegielat analysáhtorat gárvvis, muhto ii máttasámegielat analysáhtor (maid Sjur N. Moshagen ja Trond Trosterud leaba ráhkadan).<ul>
+            <li>UiTø:s ii lean máttasámegielat sátnelistu, mas leat doarvái grammatihkalaš dieđut, elektronalaš hámis. Jus ii gávdno analysáhtorii dákkár listu, de dat lea dušše čájehanprográmma, maid ii sáhte geavahit praktihkalaččat.</li>
+
+            <li>Máttasámegielat grammatihkain mat gávdnojit eai leat doarvái vuđolaš dieđut ráhkadit buriid analysáhtoriid. Dárbbašuvvo eanet vuođđodutkan ovdalgo leat doarvái buori dieđut máttasámegielat grammatihkas.</li>
+          </ul></li>
+
+        <li>Dutkanráđđi hilggui Romssa universitehta giellateknologiijaprošeavtta ohcama bargat viidáseappot máttasámi analysáhtoriin, dannego dutkanráđi anii dan deháleabbon joatkit barggu davvi- ja julevsámegielain, gos vuođđostruktuvra juo gávdnui.</li>
+      </ol>
+
+      <p>Dannego máttasámegielat analysáhtor ii lean gárvvis, ja lei eahpesihkkar man ollu bargu lea dan gárvvistit, de Sámediggi ii sáhttán váldit máttasámegiela fárrui divvun-prošektii dán háve, muhto atná dan dehálažžan oažžugoahtit dan barggu johtui, gč. boahtte teakstabihtás.</p>
+    </section>
+
+    <section>
+      <title>Boahtteáiggi plánat máttasámegiela várás</title>
+
+      <p>Sihke Sámedikki ja Romssa universitehta mielas lea miellagiddevaš bargat máttasámegielat giellateknologiijain. Vai oažžugoahtit dán barggu johtui, de dát eavttut fertejit leat čielggaduvvon:</p>
+
+      <ol>
+        <li>Prošeavttas ferte leat vejolašvuohta geavahit máttasámegielat elektronalaš sátnelisttu, mas leat doarvái grammatihkalaš dieđut</li>
+
+<li>Dárbbašuvvojit eanet dieđut máttasámegielat grammatihkas, várra ođđa referánsagrammatihkka. Ovdamearkka dihte váilot dieđut adjektiivasojaheami birra ja mo loatnasánit gieđahallojuvvojit.</li>
+
+        <li>Giinu ferte buoridit dálá máttasámegielat <a
+        href="http://giellatekno.uit.no/a-sma.html">analisáhtora</a> ja <a
+        href="http://giellatekno.uit.no/g-sma.html">generáhtora</a> ollislaš automáhtii (odne dat gokčá dušše substantiivasojaheami ja moadde smávit sátneluohká). Dán barggu sáhttá ovdamearkka dihte dahkat Romssa universitehta bokte, ovttas máttasámegielat lingvisttaiguin.</li>
+
+        <li>Dan maŋŋá sáhttá Sámedikki divvun-prošeakta, ovttas Sámi giellalávdegottiin, ráhkadišgoahtit analysáhtora čállindárkkistanprográmmii.</li>
+      </ol>
+
+       <section>
+      <title>Eará sámegielat</title>
+<p>Dán prošeavtta plánenáigodagas eai vuoruhuvvon anáraš- ja nuortalašgiella ja gielddasámegiella. Norgga Sámediggi vuoruhii daid sámegielaid maid hupmet Norggas. Romssa universitehtas leat analysáhtorat dáid gielaid várás, muhto dušše ovttageardánis veršuvnnat anáraš- ja nuortalašgielaid várás (geahča <a href="http://divvun.no/doc/lang/smn/j-smn.html">anárašgiela</a> ja <a href="http://divvun.no/doc/lang/sms/j-sms.html">nuortalašgielai</a> dokumentašuvnna). Ii mihkkege lea dahkkon gielddasámegielain.</p>
+
+<p>Infrastruktuvrra mii ráhkaduvvo davvi- ja julevsámegiela várás, sáhttá dieđusge geavahit eará sámegielaide boahtteáiggis, nu ahte dálá bargu lea maid ovttaláhkái relevánta anáraš- ja nuortalašgielaid várás.</p>
+    </section>
+
+<p class="last_modified">Maŋemuš rievdadus: $Date$, by $Author$</p>
+    </section>
+  </body>
+</document>

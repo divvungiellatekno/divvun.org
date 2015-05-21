@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sv">
+   <header>
+      <title>Om Divvun</title>
+   </header>
+   <body>
+      <section>
+         <title>Om Divvun-verktygen</title>
+         <p>Divvun-verktygen har blivit utvecklade i två treåriga projekt under Sametinget, finansierat av <a
+         href="http://www.sametinget.no/">Sametinget</a>, <a
+         href="http://www.regjeringen.no/nb/dep/fad.html?id=339">FAD</a> och <a
+         href="http://www.regjeringen.no/nb/dep/kd.html?id=586">KD</a>, för att ta fram rättstavningsprogram för de
+         vanligaste kontorprogrammen i de tre stora operativsystemen (Linux, MacOS X och Windows).</p>
+         <p>Divvun I (nord- och lulesamiska) varade från 2004 till 2007, och Divvun II (sydsamiska)
+         från 2008 till 2010. Från 2011 kommer projektet att flyttas över till Universitetet i Tromsø, och bli en
+         permanent enhet som skall fortsätta vidareutveckla samisk språkteknologi och praktiska hjälpmedel baserade på
+         denna språkteknologin i nära samarbete med <a href="http://giellatekno.uit.no">Senter for samisk
+         språkteknologi</a>.</p>
+      </section>
+   </body>
+</document>

@@ -1,0 +1,99 @@
+!!!Meeting with Polderland 26.6.2007
+
+Participants:
+* Peter Beinema
+* Sjur Moshagen
+
+
+
+!!Agenda
+
+* Since last time
+* Possible issues
+* Next meeting
+* Todo items for the next meeting
+
+
+
+!!Since last time
+
+!Polderland:
+
+* currently looking into bug with test system with/without user dictionary
+** still not completed yet
+* Adobe: developing for CS3 - work continues.
+** hyphenator for Afrikaans/Windows running, working on Sami extensions
+* evaluating price for InDesign speller
+* bug 402: tokenization issue, buried deep in code, fix available before final
+  version
+* bug 419 (compounding: 2 elements -> 5): will be solved this week
+* bug 447 (installation on terminal server): looks like configuration issue
+* working on self-starting windows installer
+* have a set of penalty setting rules (to be included in phonetic rules)
+  ready to be sent
+* have had some discussions internally on SáMI -> Sámi sugg mechanism.
+  Currently, we do not suggest all uppercase in any of our spellers
+* speller tester (command line speller) tokenization:  no trivial change.
+  Has to do with the fact that MS word also does some tokenization.
+  - punctuation that can, or can not, be part of a token (.'-)
+
+!Divvun:
+
+* CS3 seems to be installed, or is on the way to being installed in at least the
+  biggest printing houses, but I still need to check some of the other
+  publishers
+** still one more to check, but it seems CS3 will be a safe lower end supported
+** also needs to get confirmation from the board
+* installed new version of mklex - waiting for the first compilation run with it
+  to finish
+* our speller test bench is starting to become really good:) - have a look at
+  [this page|http://www.divvun.no/doc/proof/spelling/testing/spelltest-pl-forrest-Markansluska-publicbeta1.html]
+  where we measure performance on different editing distances, suggestion
+  rating, number of failed suggestions, etc.
+
+
+!!Issues
+
+* suggestions for generated compounds
+** send examples
+** penalty levels can be set at the begining of the phonetic rules file - Peter
+   will send some examples and documentation
+*** on its way
+* compounding limit - now 2 elements, should be higher
+** Peter will change it to 5 - otherwise identical to the newest speller.
+*** will be sent this week
+* windows installer should autostart
+** see bug report - being worked on
+* case correction:
+** MáRKANSLUSKA => MÁRKANSLUSKA, suggests: Márkanšiljuska and other words with
+   only initial capital.
+** SáMI => SÁMI, suggests: Sámi
+*** Peter will look into possible settings to adjust this
+*** it has been discussed now, it will probably be fixed, but not immediately
+* full stop at end of word - command line speller
+** will check this and get back wrt tokenization diffs with Word
+*** needs some more investigation
+* hyphenation lexicon update - the dic file
+** the dic file is exactly the same as the speller lex file
+** the pattern file is a different story, and can not be updated by Divvun. But
+   there shouldn't be any need for updating it - the resulting patterns would be
+   the same
+
+
+
+!!Next meeting
+
+Next week (3.7.) at the usual time.
+
+!!!TODO:
+* check inconsistent speller behaviour depending on the existence of userdict or
+  not __PLD__
+** Peter has started to look at this
+* __PLD__ continue to create hyphenator for Adobe InDesign CS3
+* __PLD__ try to find proper compiler version for Adobe Indesign CS2. Looks bad.
+** old version does not work, user group + Adobe confirms it no longer sold
+** check with Sámi publishing houses whether support for CS2 is still needed
+   (__Divvun__)
+* speller in InDesign/InCopy option (__PLD__)
+* see bugs 402, 419, 447 in the Divvun Bugzilla (partially __PLD__)
+* add capital suggestion bug to Bugzilla (__Divvun__)

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Guktie sijjiedehtedh jih utnedh programmem MacOS X:sne</title>
+   </header>
+   <body>
+      <note>Gosse saemien tjaeledh Mac:esne, tjoeverh dellie veeljedh <strong>Catalan</strong> (=noerhtesaemien),
+      <strong>Basque</strong> (=julevsaemien) jallh <strong>Slovak</strong> (=Åarjelsaemien). Ij leah dïhte mijjen
+      fåantoe, mohte MS:n fåantoe ahte nimhtie lea!</note>
+      <section>
+         <title>Divvun Mac:esne utnedh</title>
+         <p>Gosse datne MS Office:m rïhpestamme, dle tjoerh daatovrem stïlledh saemien gïelesne staeriedidh.Dam darjoeh
+         seamma vuekien mietie guktie MS Office 2004:sne jïh MS Office 2008:sne.</p>
+         <p>1. Mïerhkesjh saemien tjaaladahkem:</p>
+         <p><img alt="Markera den samiska texten" src="images/Mac_08_MSOffice_tools_language_a.png" /></p>
+         <p>2. Mïnnh menyesne <strong>Tools &gt; Language…</strong> :</p>
+         <p><img alt="Gå till menyn &quot;Tools &gt; Language…&quot;"
+         src="images/Mac_08_MSOffice_tools_language_b.png" /></p>
+         <p>3. Veeljh gïelem <strong>Katalanska</strong> ( <strong>Catalan</strong> ) jis lea <strong>noerhtesaemien
+         tjaalege</strong>, veeljh <strong>Baskiska</strong> ( <strong>Basque</strong> ) jis lea <strong>julevsaemien
+         tjaalege</strong> , jallh veeljh <strong>Slovakiska</strong> ( <strong>Slovak</strong> ) jis lea
+         <strong>åarjelsaemien tjaalege</strong> ( <a href="#1">1</a>):</p>
+         <p><img alt="Välj språk" src="images/Mac_08_MSOffice_tools_language_c.png" /></p>
+         <p>4. Jis datne jïjnjem saemiengïelese tjaalah, dle maahtah saemien voestesveeljemegïeline veeljedh orre
+         tjaatsegidie. Dam hov naemhtie darjoeh: Diedtieh båaloem <strong>Default…</strong> (minngemes guvvie) jïh die
+         diedtieh båaloem <strong>Yes</strong> :</p>
+         <p><img alt="Vil du göra samiska till förvalt språk?" src="images/Mac_08_MSOffice_tools_language_d.png" /></p>
+         <p>5. Daelie maahtah aelkedh saemien tjaeledh jïh prograamme datnem viehkehte rïekteslaakan tjaeledh:</p>
+         <p><img alt="Samisk text med skrivfel" src="images/Mac_09_MSoffice_spelling_example_a.png" /></p>
+         <p><img alt="Rättstavningsdialog för skrivfelet" src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
+         <p>Ij leah Microsoft daen raajan naan sjïere dovtegem dorjeme guktie saemien gïelide Mac:esne dåarjelidh,
+         jïlhts dovtege MS Office:ese jïh Windows:ese gååvnese. Håhkoe lea ahte båetijebiejjide versjovnh MS Office:ese
+         jïh Mac:ese aaj daam dovtegem åadtjoeh. Daen raajan tjoeveribie saemien gïelide jeatjah gïeline tjïelkestidh
+         mah gååvnesieh MS Office:sne.</p>
+      </section>
+   </body>
+</document>

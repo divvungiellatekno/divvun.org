@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+  <header>
+    <title>Korrekturverktøy fra Divvun-prosjektet</title>
+  </header>
+
+  <body>
+    <section>
+      <title>MS Office Beta, 27. februar 2007</title>
+
+      <section>
+        <title>Installering</title>
+
+        <ol>
+          <li>Last ned betaversjonen av korrekturprogrammene for <a
+          href="???">Mac</a> og <a href="???">Windows</a></li>
+
+          <li>dobbeltklikk på installeringsprogrammet</li>
+
+          <li>følg anvisningene på skjermen</li>
+        </ol>
+      </section>
+
+      <section>
+        <title>Kjente feil</title>
+
+        <ul>
+          <li><strong>Mac:</strong> pga samisk ikke finnes som tilgjengelig
+          språk i MS Office 2004, er nordsamisk "forkledd" som katalansk, og
+          lulesamisk som baskisk. Man skal altså velge baskisk og katalansk
+          som språk for å få samisk korrektur! Vi har i lengre tid, i
+          samarbeid med vår leverandør av MS Office-integreringen, forsøkt å
+          få Microsoft til å rette på dette, men har hittill ikke lykkes. Vi
+          vil fortsatt arbeide med dette fram til vi lanserer de ferdige
+          verkøyene. (På Windows er de samiske språkene definerte og
+          tilgjengelige.)</li>
+
+          <li>I denne første betaen dekker ikke verktøyene alle tallord, dvs
+          når man skriver tall som tekst, er det ikke sikkert at tallet blir
+          korrekt kjent igjen</li>
+
+          <li>avledninger er ikke inkludert i denne versjonen, derimot vil de
+          aller fleste sammensetninger bli korrekt kjent igjen, og
+          feilskrivninger bli korrigert</li>
+
+          <li><strong>Lulesamisk:</strong> bøyningen av navn er ikke alltid
+          100 % korrekt. Selv om vi er oppmerksomme på problemet, er vi
+          takknemlige for tilbakemeldinger om korrekte navneformer som
+          verktøyene ikke kjenner igjen.</li>
+        </ul>
+      </section>
+    </section>
+  </body>
+</document>

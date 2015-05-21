@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+          "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+  <header>
+    <title>Divvun prošeavtta duogáš</title>
+  </header>
+  
+  <body>
+    <section>
+<title>Tromsøprošeavttat ovdal</title>
+      
+      <p>Sullii 1980 gávdne Lauri Karttunen, Ron Kaplan ja Martin Kay vugiid mo sáhttá konverteret generatiivalaš ođđasitčállinnjuolggadusaid automáhtaide mas lea dovddus dilli. 1983:s Kimmo Koskenniemi doarjjui iežas doavttirgrádadutkamuša, gos son čájehii ahte lei vejolaš kompileret dákkár automáhtaid suoma grammatihka várás, mii lea "heavy inflecting language". Gákcilotlogus ráhkaduvvui njuolggadusčoahkkádusaid eanet gielaide, muhto proseassa ráhkadit daid ádjánii guhkká. Gákcilotlogu loahpas dutkit Xeroxis nagodedje ráhkadit mašiidnakompiláhtora (<a href="">twolc</a> Koskenniemi guoktedássásaš morfofonologalaš njuolggadusaid várás, maŋŋileabbut <a href="">lexc</a> ja loahpas <a href="">xfst</a> olles dulkka várás). Xerox twolc kompiláhtor šattai maid vuođđun ollu eará bargguide, maiddái čállindárkkistanprográmmaid davviriikkalaš gielaid várás maid Helssetvuođđoduvvon fitnodat Lingsoft ráhkadii.</p>
+      
+<p>1993:s Pekka Sammallahti oaččui guhttamánosaš stipeandda ráhkadit vuosttáš sámegielat dulkaprototypa. Sammallahti lei dalle guossedutki Sámi Instituhtas Guovdageainnus. Dulka govččai vuđolaš davvisámi substantiivvaid, adjektiivvaid ja vearbbaid morfofonologiija ja sojaheami. Son dagai barggu lexc:in ja twolc:in MacIntosh dihtoris, ja son sagastalai maid Kimmo Koskenniemiin ja Lauri Karttuneniin. Sammallahti dulka ráhkaduvvui kvasi-morfematalaš málle vuođul, mas ledje oktageardánis máddagat, muhto ollu vuolleleksikonat mat lasihedje diakritihkalaš mearkkaid mat bidje johtui morfonologalaš proseassaid mat gávdnojit dihto sámi máttaluohkáin.</p>
+      
+      <p>I 1998 befant Sjur Moshagen og Trond Trosterud seg i et ustabillt jobbmarked. De hadde en felles interesse for sør-samisk. Denne interessen stammet fra tiden for korpusprosjektet for små uralske språk, prošeavtta maid leigga álggahan 1994:s. Dalle Moshagen barggai Lingsoftas ja Trosterud geahččalii gávdnat vejolašvuođa bargat lingvistihkain Romssas. Soai mearrideigga ráhkadit máttasámi dulkka. Dannego eaba diehtán maidege Sammallahti barggus, soai ráhkadeigga dulka mas lei eará arkitektuvra. Soai bijaiga nu ollu morfofonologalaš dieđuid go lei vejolaš máddagiidda, ja oaččuiga dan dihte oktageardánis vuolleleksikončoahkkádusa. Sudnos ii lean sátnegirji, ja barggaiga danne dušše ii-goallostuvvon substantiivvaiguin.</p>
+    </section>
+    
+    <section>
+      <title>Romsaprošeavttat</title>
+      
+      <p>Máŋga geahččaleami maŋŋá, Trond Trosterud oaččui 2000:s golmmajahkásaš stipeandda Norgga dutkanráđis ráhkadit davvisámegielat dulkka. Ovdabarggus son fuobmái Sammallahti barggu, ja buorre lihkus Sammallahti divttii Trosterud geavahit sátnegirjji ja dulkka gáldokoda álgun iežas dulkaprošeavttas. Dán láhkái prošeakta álggii hui bures, ja duppalbargu easttaduvvui. Dán dihtege bázii áiggi ráhkadit julevsámi dulkka, ja joatkit veháš máttasámi dulkkain (go bidjui sisa oktasaš struktuvrii ja lasihit "closed parts of speech").</p>
+      
+      <p>2004:s Romssa universitehta oaččui nuppi golmmajahkásaš stipeandda, oassin Norgga dutkanráđi KUNNSTI-prošeavttas. Dát stipeanda ruhtada guokte lingvistta- ja bealle programmerenvirggi. Dán prošeavttas ráhkaduvvo morfologalaš "tvetydighetsløser (disambiguator)" davvisámegiela várás, ja sihkarastin dihte maiddái, seammalágan julevsámegillii. Dat prošeakta dokumenterejuvvo <a href="http://giellatekno.uit.no">Romsaprošeavtta fierpmebáikkis</a>.</p>
+    </section>
+    
+    <section>
+      <title>Samisk lokalisering</title>
+      
+      <p>Det har vært mange forsøk for å sikre løsninger for samisk lokalisering (løsninger for å få samiske bokstaver til på en korrekt måte på skjerm og på skrivere, for å få gode tatstaturløsninger, sorteringsalgoritmer, dato- og tidsformat, osv). Dán oktavuođas sáhttá muitalit ahta buot sámi gielat leat mielde Unicode-standárddas. Dušše Unicode-doarjja ii leat doarvái, muhto uhca entusiástajoavkku dihte (erenoamážit Per Edvard Klemetsen ja Audun Lona Windowsa várás, Michael Everson ja Michal Aase Macintosha várás ja Børre Gaup ja Regnor Jernsletten Linuxa várás), lea davvisámegiella okta máilmmi unnimus gielain mii dorjojuvvo álggu rájes buot dáin operatiivavuogádagain. Sámi giellateknologiijabargu geavaha dál dušše Unicode.</p>
+    </section>
+    
+    <section>
+      <title>Plánemin čállindárkkistanprošeavtta</title>
+      
+      <p>Dađistagago eará gielaid čállindárkkistanprográmmat šadde buorebut, de ipmirdedje muhton sámit ahte dákkár prográmmat livčče ávkkálačča maiddái sámegillii. 2002:s Per Edvard Klemetsen válddii oktavuođa Trond Trosterudain gávnnahan dihte maid ferte bargat vai lea vejolaš ráhkadit dákkár reaiddu maiddái sámegillii. Lingsoft lei easka koŋkánan, ja Moshagen lei danne láhpán barggu jođiheaddjin Lingsofta sátnegirjjeossodagas. Trosterud gohčui Klemetsen váldit oktavuođa Moshageniin, ja Moshagen plánii sámi čállindárkkistanprošeavtta. Klemetsen de dagai hui buorre barggu go fidnii ruhtadeami prošektii. Vaikkoge prošeakta lei vehá unnudan (álggu rájes 19 millijovnna ruvnnu 11,3 millijovnna rádjái), de lei vejolaš bidjat prošeavtta johtui čakčat 2004:s ja galgá leat heaittihuvvon 2007.</p>
+    </section>
+    
+    <section>
+      <title>Dálá prošeavttat ja boahtteáigi</title>
+      
+      <p>Deháleamos dál lea gearggahit jumešprošeavttaid:</p>
+      
+      <ul>
+<li>Universitehtaprošeakta ferte gearggahit "tvetydighetsløseren (disambiguatoren)" ja ráhkadit fierpmebáikki mas lea merkejuvvon korpus ja fierpmelakta mii lea vejolaš geavahit dutkanoktavuođas</li>
+        
+        <li>Sámedikki prošektii lea deháleamos gearggahit davvi- ja julevsámegiela čállindárkkistanprográmmaid</li>
+      </ul>
+      
+      <p>Dasa lassin gávdnojit máŋga lunddolaš boahtte lávkkit:</p>
+      
+      <ol>
+        <li>Viiddidit barggu vai gokčá eanet gielaid<ol>
+            <li>Lunddoleamos lea gearggahit máttasámegiela dulkka, "tvetydighetsløser" ja čállindárkkistanprográmma</li>
+            
+            <li>Leat golbma eará sámi gielat. Jus barggašii dáiguin, livččii maid buorre vejolašvuohta oažžut oktavuođa suoma ja ruošša lingvisttaiguin</li>
+            
+            <li>Go juo gávdno gárvves infrastruktuvra, lea lunddolaš strategiija viiddidit dán barggu eará minoritehtagielaide. Inuihtta- ja komigielat leat juo geavahan dán infrastruktuvrra</li>
+          </ol></li>
+        
+        <li>Bargat leksikografiijain ja giellateknologiijain<ol>
+            <li>... ráhkadettiin jierbmás sátnegirjjiid</li>
+            
+            <li>... geavahettiin bálddalas korpusat tearbmadiehtovuođđun</li>
+            
+            <li>... dagadettiin … </li>
+          </ol></li>
+        
+        <li>Ráhkadit pedagogalaš prográmmaid</li>
+        
+        <li>Ráhkadit grammatihkkadárkkistemiid</li>
+      </ol>
+      
+      <p>Romssa lea easka álggahan sámi leksikografiija- ja giellateknologiijaprográmma, ja šaddá dan láhkái ávkin go galgá dáid ulbmiliid ollašuhttit.</p>
+      
+    </section>
+  </body>
+</document>

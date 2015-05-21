@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="nb">
+    <header>
+        <title>Hvordan man administrerer kontrakter</title>
+        <authors>
+            <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
+        </authors>
+    </header>
+    <body>
+        <section>
+            <title>Introduksjon</title>
+            <p>
+                Å håndtere kontrakter og detaljene med å skrive dem, få dem underskrevet, osv, har vist seg å være en ganske krevende prosess. Dette dokumentet er ment som en innføring i denne kunsten.
+            </p>
+        </section>
+        <section>
+            <title>Steg for å skaffe tilgang til tekster</title>
+            <ul>
+               <li>
+                   Kontakt forfattere og oversettere og spør om de er villig til å dele tekstene sine med oss under vilkårene som skisseres i <a href="sd-contract.html">kontrakten vår</a>
+               </li>
+               <li>
+                   Fyll ut nødvendig info i kontraktene
+               </li>
+               <li>
+                   Send kontraktene til underskrift av alle parter
+               </li>
+               <li>
+                   Når alle interessenter har underskrevet kontrakten, send et eksemplar til alle interessentene
+               </li>
+               <li>
+                   Ta kontakt med forlaget med en forespørsel om å få tilsendt tekstene man har kontrakt for
+               </li>
+           </ul>
+           <section>
+               <title>Redigering av kontraktsmalen</title>
+               <p>
+                   <a href="sd-contract.html">Kontraktsmalen</a> må fylles ut med relevant informasjon og bli skrevet ut av den enkelte medarbeider. For å kunne gjøre dette må man ha <a href="http://divvun.no/doc/infra/forrest-howto.html">installert og konfigurert forrest</a>.
+               </p>
+               <p>
+                   Malen er beregnet for et verk der en forfatter, en oversetter og et forlag har retter til verket. Den delen av malen som inneholder feltene der denne informasjon skal fylles i ser slik ut:
+               </p>
+               <source>&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forfattar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Omsetjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forleggjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    Om man er i ferd med å lage en avtale med en forfatter og forfatterens forlag kommer denne delen av kontrakten til å se ut på følgende måte
+                </p>
+                <source>&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forfattar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Jovnna Eira&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Gáhkkorluodda 6&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;9520 Guovdageaidnu&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forleggjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Davvi Girji&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Ivvár Ivvár geavli;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;9730 Kárášjohka&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    Her har vi tatt bort alle linjene mellom <strong>&lt;table&gt; og &lt;/table&gt;</strong> som har med oversetteren å gjøre
+                </p>
+                <p>
+                    Et annet eksempel viser et verk der en forfatter, to oversettere og et forlag har rettigheter i verket.
+                </p>
+                <source>&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forfattar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Tore Andersen&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Ole Olsesen vei 38&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;9500 Alta&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Omsetjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Niillas Hætta&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Ole Georgsg. 5B&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;0101 Oslo&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Omsetjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Anta Kuoljok&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Kulturgatan 6&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;SE-980 35 Jokkmokk&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forleggjar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;Iđut&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;Ikkaldas&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;9710 Indre Billefjord&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    På slutten av kontrakten skal underskriftene fylles i, og der må man evt. legge til eller slette antall rader for antall underskrifter. I malen ser den slik ut:
+                </p>
+                <source>&lt;title&gt;Underskrifter&lt;/title&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Avgjevarar&lt;/th&gt;    &lt;th&gt;Mottakar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;  &lt;td&gt;Stad og tid:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;  &lt;td&gt;Underskrift:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    Underskriftsdelen for det første eksemplet:
+                </p>
+                <source>&lt;title&gt;Underskrifter&lt;/title&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Avgjevarar&lt;/th&gt;    &lt;th&gt;Mottakar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;  &lt;td&gt;Stad og tid:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;  &lt;td&gt;Underskrift:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    Underskriftsdelen for det andre eksemplet:
+                </p>
+                <source>&lt;title&gt;Underskrifter&lt;/title&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;&lt;th&gt;Avgjevarar&lt;/th&gt;    &lt;th&gt;Mottakar&lt;/th&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;  &lt;td&gt;Stad og tid:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;  &lt;td&gt;Underskrift:&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Stad og tid:&lt;/td&gt;                       &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Underskrift:&lt;/td&gt;                       &lt;/tr&gt;
+&lt;/table&gt;
+                </source>
+                <p>
+                    Man skal altså legge til eller slette de to siste radene før <strong>&lt;/table&gt;</strong>
+                </p>
+                <p>
+                    Når dette er gjort, må man sjekke om kontrakten er fylt ut korrekt. Start opp forrest som forklart i <a href="http://divvun.no/doc/infra/forrest-howto.html#Reading+the+documentation">oppsett av forrest</a>. Når det er klart er kontrakten <a href="http://localhost:8888/adm/legal/sd-contract.pdf">klar til å ses over</a>. Når alt er korrekt, skriv ut like mange eksemplarer av denne kontrakten som det er interessenter. For det første eksempelet vårt blir det tre eksemplar, for det andre skal det være fem.
+                </p>
+            </section>
+            <section>
+                <title>Lage liste over hvilke tekster kontrakten gjelder for</title>
+                <p>
+                    Lag et dokument med en liste over hvilke tekster kontrakten gjelder for. Eksempelvis kan den se ut slik:
+                </p>
+		<ul>
+		    <li>Sámi historjá 1800-1850, ISBN: 777-333-346</li>
+		    <li>Jovnnaš ja su ustibat, ISBN: 777-234-23423</li>
+		</ul>
+                <p>
+                    Skriv denne lista ut i like mange eksemplar som kontrakten ovenfor
+                </p>
+            </section>
+            <section>
+                <title>Vedlegg 2</title>
+                <p>
+                    Skriv ut like mange eksemplarer av <a href="sd-contract-3.pdf">kontraktsmalen</a> som viser hvilke formål man kan bruke tekstene under i like mange eksemplarer som kontrakten ovenfor.
+                </p>
+            </section>
+            <section>
+                <title>Utsendelse av kontrakten</title>
+                <p>
+                    Anbefalt måte er å sende alle eksemplarer til en interessent av gangen med en frankert konvolutt adressert til sametinget. Om kontrakten ikke har blitt returnert innen en viss tid vet man hvor den har stoppet opp og kan kontakte interessenten for å påminne om og underskrive kontrakten. I tillegg til den ferdigfrankerte konvolutten skal det være x antall kontrakter, x antall lister over bøker og x antall vedlegg 2.
+                </p>
+            </section>
+        </section>
+        <p class="last_modified">
+            Last modified: $Date: 2008-06-27 12:27:08 +0200 (bear, 27 geas 2008) $, by $Author: boerre $
+        </p>
+    </body>
+</document>
