@@ -269,16 +269,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                                 </xsl:if>
                             </div>
                         </xsl:if>
-                        <xsl:if test="$config/host-logo and not($config/host-logo = '')">
-                            <div class="host">
-                                <xsl:call-template name="renderlogo">
-                                    <xsl:with-param name="name" select="$config/host-name"/>
-                                    <xsl:with-param name="url" select="$config/host-url"/>
-                                    <xsl:with-param name="logo" select="$config/host-logo"/>
-                                    <xsl:with-param name="root" select="$root"/>
-                                </xsl:call-template>
-                            </div>
-                        </xsl:if>
                         <xsl:comment>end bottomstrip</xsl:comment>
                     </div>
                 </div>
@@ -402,6 +392,19 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         <xsl:with-param name="root" select="$root"/>
                         <xsl:with-param name="description" select="$config/group-description"/>
                         <xsl:with-param name="height" select="150"/>
+                    </xsl:call-template>
+                </div>
+            </xsl:if>
+            <xsl:if test="$config/host-url">
+                <div class="host-logo">
+                    <xsl:call-template name="renderlogo">
+                         <xsl:with-param name="name" select="$config/host-name"/>
+                         <xsl:with-param name="url" select="$config/host-url"/>
+                         <xsl:with-param name="logo" select="$config/host-logo"/>
+                         <xsl:with-param name="root" select="$root"/>
+
+                        <xsl:with-param name="description" select="$config/group-description"/>
+                        <xsl:with-param name="height" select="50"/>
                     </xsl:call-template>
                 </div>
             </xsl:if>
