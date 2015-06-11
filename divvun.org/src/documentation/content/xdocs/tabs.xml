@@ -30,12 +30,19 @@
    Tabs can be embedded to a depth of two. The second level of tabs will only 
     be displayed when their parent tab is selected.    
   -->
-  <tab id="" label="Home" dir="" indexfile="index.html"/>
-  <tab id="samples" label="Samples" dir="samples-a">
-    <tab id="samples-1" label="Samples1" dir="samples-b" />
-    <tab id="samples-2" label="Samples2" dir="samples-c" />
+  <tab id="" label="Divvun.org" dir="" indexfile="index.html">
+      <tab id="about" label="About Divvun.org" dir="" indexfile="index.html" />
+      <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
   </tab>
-    <tab id="plugins" label="Plugins" dir="pluginDocs/plugins_0_100" indexfile="index.html"/>
+  <tab id="proofing" label="Proofing tools" dir="proofing" indexfile="index.html">
+        <tab dir="korrektur" id="Office" label="Office applications" indexfile="index.html" />
+        <tab dir="korrektur" id="Beta"   label="Beta"                indexfile="beta.html"  />
+  </tab>
+  <tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
+        <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
+        <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobile.html" />
+  </tab>
+  
 <!-- Add new tabs here, eg:
   <tab label="How-Tos" dir="community/howto/"/>
   <tab label="XML Site" dir="xml-site/"/>
