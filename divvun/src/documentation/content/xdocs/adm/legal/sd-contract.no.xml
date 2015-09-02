@@ -3,48 +3,48 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header xml:lang="nn">
-    <title>Avtale om overføring av bruksrett for tekstar</title>
+    <title>Sjiehtadus tevstaj adnemriektá gáktuj</title>
   </header>
 
   <body>
 
       <section>
-        <title>Avtalepartar</title>
+        <title>Sjiehtadusoassálasste</title>
 
         <section>
-          <title>Dei som overfører bruksrett (<code>avgjevar</code>)</title>
+          <title>Sij gudi adnemriektáv sirddi (<code>vadde</code>)</title>
 
           <table>
-            <tr><th>Rolle:</th>                   <th>Forfattar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><th>Roalla:</th>                   <th>Tjálle</th></tr>
+            <tr><td>Namma:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adræssa:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Poasstanummar ja -bájkke:</td>     <td>&nbsp;</td></tr>
           </table>
 
           <table>
-            <tr><th>Rolle:</th>                   <th>Omsetjar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><th>Roalla:</th>                   <th>Jårggåliddje</th></tr>
+            <tr><td>Namma:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adræssa:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Poasstanummar ja -bájkke:</td>     <td>&nbsp;</td></tr>
           </table>
 
 
           <table>
-            <tr><th>Rolle:</th>                   <th>Forleggjar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><th>Roalla:</th>                   <th>Almodiddje</th></tr>
+            <tr><td>Namma:</td>                    <td>&nbsp;</td></tr>
+            <tr><td>Adræssa:</td>                 <td>&nbsp;</td></tr>
+            <tr><td>Poasstanummar ja -bájkke:</td>     <td>&nbsp;</td></tr>
           </table>
 
         </section>
 
         <section>
-          <title>Den som får bruksrett (<code>mottakar</code>)</title>
+          <title>Dat gut adnemriektáv oadtju (<code>vuosstájvállde</code>)</title>
 
           <table>
-            <tr><td>Namn</td>               <td>Sámediggi · Sametinget</td></tr>
-            <tr><td>Adresse</td>            <td>Ávjovárgeaidnu 50</td></tr>
-            <tr><td>Postnummer og -stad</td><td>N-9730 Karasjok</td></tr>
+            <tr><td>Adræssa</td>               <td>Sámediggi · Sametinget</td></tr>
+            <tr><td>Adræssa</td>            <td>Ávjovárgeaidnu 50</td></tr>
+            <tr><td>Poasstanummar ja -bájkke</td><td>N-9730 Karasjok</td></tr>
           </table>
 
         </section>
@@ -52,142 +52,103 @@
     <p class="pageBreakAfter"></p>
 
     <section>
-      <title>Meininga med denne avtalen</title>
+      <title>Sjiehtadusá ulmme</title>
 
-      <p>2.1. Denne avtalen gjeld bruksrett for <code>tekstar</code> som er
-      eller blir overført til elektronisk form.
-      <code>Mottakaren</code> kan leggje den i si
-      <code>tekstsamling</code> og bruke den til forskingsføremål og/eller for
-      å utvikle språkteknologiske program.</p>
+      <p>2.1. Dát sjiehtadus guosská adnemriektáv  <code>tekstajda</code> ma rievddaduvvi elektråvnålasj hábmáj.
+      <code>Vuosstájvállde</code> oadtju biedjat dav ietjas
+      <code>tækstatjoakkáldahkaj</code> ja adnet dav dutkamaktijvuodan ja/jali åvddånahtátjit giellateknolåvgålasj prográmmajt.</p>
 
-      <p>2.2 <code>Avgjevarane</code> forsikrar at dei har rett til å
-      gje <code>mottakar</code> dei <code>tekstane</code> som denne
-      kontrakten gjeld for.</p>
+      <p>2.2 <code>Vadde</code> duodasti siján la riektá <code>vuosstájválldáj</code> vaddet <code>tevstajt</code> majt dát kontrákta gåbtjå.</p>
     </section>
 
     <section>
-      <title>Omfanget av bruksretten</title>
+      <title>Adnemriektá stuorrudahka</title>
 
-      <p>3.1 <code>Tekstane</code> som får bruksretten sin overført blir
-      lista opp i denne kontrakten.</p>
+      <p>3.1 <code>Tevsta</code> majn adnemriektá sirdeduvvi nammaduvvi dán kontrávtan.</p>
 
-      <p>3.2 Opphavsretten og den immaterielle retten til desse
-      <code>tekstane</code> høyrer til <code>avgjevaren</code>.</p>
+      <p>3.2 <code>Tevstaj</code> dahkkerievtesvuohta ja immateriella adnemriektá gulluji tevstaj <code>vaddijda</code>.</p>
 
-      <p>3.3 <code>Mottakaren</code> får en ikke-eksklusiv rett til, utan
-      å betale <code>avgjevaren</code> for denne retten, å leggje
-       <code>tekstane</code> til
-      <code>tekstsamlinga</code> si. For å gjere dette kan tekstane bli
-      handsama både manuelt og maskinelt, men på ein slik måte at innhaldet
-      deira ikkje blir endra. Til <code>tekstane</code> er det likevel mogleg
-      å leggje til <code>koding</code> som trengst for den vitskaplege
-      granskinga, eller EDB-handsaminga, slik som informasjon om setningar,
-      avsnitt, ordklasse, og andre språklege eigenskapar eller anna
-      klassifisering.</p>
+      <p>3.3 <code>Vuosstájvállde</code> adtju riektáv <code>tevstajt</code> ietjas tækstatjoakkáldahkaj biedjat váni máksemis
+       <code>vaddijt</code> dán riektá åvdås. Dát riektá ij la eksklusijvva. Tevsta soajttá giehtadaláduvvat sihke manuellalattjat ja masjijnalattjat, valla dakkir láhkáj vaj sisadno ij rievddaduvá. <code>Tevstajda</code> la huoman vejulasj lasedit <code>kåvdåjt</code> ma li dárbulattja diedalasj guoradallamij, jali EDM-giehtadallamij, dagu diedo gárgadisáj, gihpoj, báhkoklásaj ja ietjá gielalasj vuogij jali klassifisierimij birra.</p>
 
-      <p>3.4 <code>Avgjevarane</code> får ikkje opphavsrett eller
-      andre immaterielle rettar til forskingsresultata som kjem som eit
-      resultat av handsaminga av <code>tekstane</code>.
-      <code>Avgjevarane</code> skal likevel bli presentert i brosjyrer
-      og dokumentasjon for <code>tekstsamlinga</code>.</p>
+      <p>3.4 Tevstaj <code>vadde</code> e oadtjo dahkkerievtesvuodav jali ietjá immateriella riektájt dutkambåhtusijda ma li båhtusa <code>tevstaj</code> giehtadallamijs.
+      <code>Vadde</code> galggi huoman nammaduvvat girjátjijn ja diedojn <code>tækstatjoakkáldagá</code> birra.</p>
 
-      <p>3.5 <code>Mottakar</code> kan lagre <code>tekstane</code>
-      på eiga datamaskin og/eller plassere tekstane hos ein ekstern datasentral.
-      <code>Mottakar</code> forpliktar seg til å sikre at
-      <code>tekstane</code> sin datatryggleik og vilkåra og pliktene som
-      fylgjer av denne kontrakten blir oppfylt.</p>
+      <p>3.5 <code>Vuosstájvállde</code> oadtju vuorkkit <code>tevstajt</code>
+      ietjas dáhtámasjijnnaj ja/jali ietja ålgoldis dáhtásentrállaj.
+      <code>Vuosstájvállden</code> le vælggogisvuohta sihkarasstet
+      <code>tevstaj</code> dáhtáoaggásvuodav ja ævto ja vælgo ma tjuovvu dáv kontrávtav ålliduvvi.</p>
 
-      <p>3.6 <code>Mottakar</code> har ikkje rett til å gje
-      <code>tekstar</code>, kopiar av <code>tekstar</code> eller bruksrett til
-      <code>tekstar</code> til tredjepart, anna enn det som er nemnd i
-      punkt 3.7. Dersom <code>mottakar</code> lagrar
-      <code>tekstane</code> hos ein ekstern datasentral som nemnt i punkt
-      3.5, har tilsette ved datasentralen rett til å leggja tekstane til rette
-      for bruk som nemnt i 2.1</p>
+      <p>3.6 <code>Vuosstájvállden</code> ij la loahpe 
+      <code>tevstajt</code>, <code>tevstaj</code> kopidjajt jali
+      <code>tevstaj</code> adnemriektájt vaddet ietjádijda ietján gå mij la nammaduvvam tjuokkan 3.7. Jus <code>vuosstájvállde</code>
+      <code>tevstajt</code> vuorkki ålgoldis dáhtáguovdátjin, dagu nammaduvvam tjuokkan 3.5, li barggin dán dáhtáguovdátjin riektá tevstajt giehtadallat dagu tjielggiduvvam tjuokken 2.1</p>
 
-      <p>3.7 <code>Mottakar</code> kan gje personleg bruksrett til
-      <code>tekstsamlinga</code> til personar som har skrive under på
-      bruksrettskontrakten i vedlegget til denne kontrakten. <code>Mottakar</code> skal
-      ikkje gje bruksrett til <code>tekstsamlinga</code> til personar som
-      ein har grunn til å tru vil bryte vilkåra i kontrakten.
-      <code>Mottakar</code> forpliktar seg til å informere
-      <code>avgjevar</code> med ein gong han/ho får kjennskap til
-      mogleg brot på desse vilkåra.</p>
+      <p>3.7 <code>Vuosstájvállde</code> máhttá persåvnålasj adnemriektáv
+      <code>tækstatjoakkáldahkaj</code> vaddet ulmutjijda gudi li vuollájtjállám adnemriektákontrávtav dán kontrávta tjuovvusin. <code>Vuosstájvállde</code> ij galga adnemriektáv <code>tækstatjoakkáldahkaj</code> ulmutjijda vaddet gudi soajtti kontrávta ævtojt dåssjidit.
+      <code>Vuosstájvállden</code> le vælggo 
+      <code>vaddijt</code> dalága diededit jus oadtju diedov dá ævto li dåssjiduvvam.</p>
 
-        <p>3.8 Bruksrett gjeld rett til å bruke <code>tekstsamlinga</code>  i
-        elektronisk format til desse formåla (i samsvar med lov og reglar for
-        opphavsrett og med god vitskapleg skikk):</p>
+        <p>3.8 Adnemriektá guosská riektáj <code>tækstatjoakkáldagáv</code>  elektråvnålasj hámen adnet dáj aktijvuodajn (dahkkerievtesvuodaj lágaj ja njuolgadusáj ja aj buorre diedulasj dábij milta):</p>
 
       <ul>
-        <li>driva vitskapleg forsking</li>
-        <li>trekkja ut eigenskapar ved språket i tekstane (f.eks. statistiske data, grammatiske eigenskapar, ord)</li>
-        <li>publisera korte eksempelsitat</li>
-        <li>bruka tekstane for kommersielle og ikkje-kommersielle språkteknologiske formål som ikkje bryt med opphavsrettslovene. Eksempel er retteprogram, språklæringsprogram, maskinomsetjing, o.s.b.</li>
+        <li>diedalasj dutkamij</li>
+        <li>guoradallat tevstaj gielav (buojk. gávnnat statistihkalasj dáhtáv, grammatihkalasj diedojt, bágojt)</li>
+        <li>almodit oanes buojkulvisgárgadisájt</li>
+        <li>adnet tevstajt kommersiála ja ij-kommersiála giellateknolåvgålasj ájggomusájda ma e dåssjida dahkkerievtesvuodalágajt. Buojkulvisá li tjállemdárkastusá, giellaoahppamprográmma, masjijnnajårggålibme, jnv.</li>
       </ul>
 
-      <p>3.9 <code>Mottakar</code> forpliktar seg til å følgje slike
-      teksthandsamingsprinsipp at datatryggleik og -vern er oppfylt.</p>
+      <p>3.9 <code>Vuosstájvállden</code> le vælggogisvuohta tjuovvot tækstagiehtadallamprinsihpajt ma sihkarassti dáhtáoaggásvuodav ja -suodjalimev.</p>
 
-      <p>3.10 <code>Mottakar</code> tilbyr seg å formidle ein
-      versjon av tekstane i den bearbeidde og koda forma som er lagt til
-      tekstsamlinga, attende til <code>avgjevaren</code>.</p>
+      <p>3.10 <code>Vuosstájvállde</code> fállá <code>vaddijda</code> vaddet gárvedum ja kåvddiduvvam versjåvnåv tevstajs ma li tækstatjoakkáldahkaj laseduvvam.</p>
 
-      <p>3.11 Denne kontrakten tek til å gjelde når alle kontraktspartane har
-      underskrive han.</p>
+      <p>3.11 Dát kontrákta doajmmagoahtá gå divna kontráktaoassálasste li dav vuollájtjállám.</p>
 
-      <p>3.12 <code>Mottakar</code> kan seie opp denne kontrakten
-      ved å returnere <code>tekstane</code> med alle kopiar attende til
-      <code>avgjevaren</code>, eller ved å slette
-      <code>tekstane</code> med alle kopiar, og opplyse om dette på ein
-      sakleg måte til <code>avgjevaren</code>.
-      <code>Avgjevaren</code> har rett til å seie opp denne kontrakten
-      viss <code>mottakaren</code> på ein vesentleg måte bryt
-      vilkåra i denne kontrakten, og ikkje rettar opp vilkårsbrota sine,
-      trass i skriftleg påpeiking, innan 60 dagar etter at han har fått
-      denne påpeikinga.</p>
+      <p>3.12 <code>Vuosstájvállde</code> máhttá låhpadit kontrávtav jus rádjá <code>tevstajt</code> aktan divna kopidjaj ruoptus
+      <code>vaddijda</code>, jali jus gádot
+      <code>tevstajt</code> aktan divna kopidjaj, ja jus<code>vaddijda</code> ássjeguoskavasj láhkáj diedet dán birra.
+      Tevstaj <code>vaddijn</code> le riektá kontrávtav hiejttet jus <code>vuosstájvállde</code> duodas la dåssjidam ævtojt dán kontrávtan, ja jus ij la, tjálalasj tsuojggidime niedjen, njuolggim ietjas æktodåssjidimev 60 biejve dán tsuojggidime maŋŋela.</p>
 
-      <p>3.13 Mogleg usemje i samband med denne kontrakten skal ein forsøke
-      å forhandle om.</p>
+      <p>3.13 Jus li kontrávta aktijvuodan ássje masi oassálasste e guorrasa, galggá gæhttjalit sjiehtadallama baktu guorrasibmáj boahtet.</p>
 
-      <p>3.14 Kvar kontraktspartnar har eitt eksemplar av denne
-      kontrakten.</p>
+      <p>3.14 Juohkka kontráktaoassálassten la eksemplárra kontrávtas.</p>
     </section>
 
     <p class="pageBreakAfter"></p>
 
     <section>
-        <title>Tekstane kontrakten gjeld for</title>
+        <title>Tevsta kontrákta gåbtjå</title>
         <ul>
-            <li>Tittel, ISBN: xxxxxxxx</li>
+            <li>Tevsta namma, ISBN: xxxxxxxx</li>
         </ul>
     </section>
 
     <section>
-        <title>Underskrifter</title>
+        <title>Vuollájtjállaga</title>
 
         <table>
-            <tr><th>Avgjevarar</th></tr>
-            <tr><td>Stad og tid:</td></tr>
-            <tr><td>Underskrift, forfattar:</td></tr>
-            <tr><td>Stad og tid:</td></tr>
-            <tr><td>Underskrift, omsetjar:</td></tr>
-            <tr><td>Stad og tid:</td></tr>
-            <tr><td>Underskrift, forlag:</td></tr>
+            <tr><th>Vadde</th></tr>
+            <tr><td>Bájkke ja ájgge:</td></tr>
+            <tr><td>Vuollájtjála, tjálle:</td></tr>
+            <tr><td>Bájkke ja ájgge:</td></tr>
+            <tr><td>Vuollájtjálla, jårgåliddje:</td></tr>
+            <tr><td>Bájkke ja ájgge:</td></tr>
+            <tr><td>Vuollájtjála, almodiddje:</td></tr>
           </table>
 
           <table>
-              <tr><th>Mottakar</th></tr>
-            <tr><td>Stad og tid:</td></tr>
-            <tr><td>Underskrift, Sametinget:</td></tr>
+              <tr><th>Vuosstájváldde</th></tr>
+            <tr><td>Bájkke ja ájgge:</td></tr>
+            <tr><td>Vuollájtjála, Sámedigge:</td></tr>
           </table>
 
       </section>
 
       <section>
-        <title>Vedlegg</title>
+        <title>Tjuovvus</title>
 
         <ul>
-            <li><a href="sd-contract-part-3.html">Bruksrettsavtale for tekstsamlinga</a></li>
+            <li><a href="sd-contract-part-3.html">Tækstatjoakkáldagá adnemriektásjiehtadus</a></li>
         </ul>
       </section>
   </body>
