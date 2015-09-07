@@ -18,7 +18,7 @@
 
 		<section>
 			<title>Install the spellchecker</title>
-			
+
 			<warning>The spelling checkers for <a
 			href="http://libreoffice.org/">LibreOffice</a> are still
 			<strong>BETA</strong> quality. We appreciate all and any <a
@@ -32,9 +32,9 @@
 				Divvun built for Hunspell</a> when used with
 				LibreOffice 3.x and OpenOffice.org 2.x.
 			</note>
-			
+
 			<p>Sami (and other) spelling checkers for LibreOffice can be
-			downloaded <a href="/libreofficeoxt.html">here</a>. The downloaded
+			downloaded <a href="/korrektur/libreofficebeta.html">here</a>. The downloaded
 			spellchecker extension looks like this (the name may vary):<br/>
 			<img src="images/win8-voikkooxt-fi-se-nn.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
@@ -61,7 +61,7 @@
 
 		<section>
             <title>How to use the spelling checker</title>
-            
+
             <note label="Windows users">If the input method and language are
             <a href="enable_sme_input-win8-nob.html">configured as
             recommended</a> in Windows 8.1, the spell checker language will
@@ -70,7 +70,7 @@
             English keyboard layout when writing in English, North Sámi keyboard
             when writing in North Sámi, etc. The speller language will switch
             together with the keyboard layout!</note>
-            
+
             <p>To turn on the Divvn spell checker for North Sámi, do as follows:</p>
             <ul>
                 <li>Click the fourth field from the left in the status bar, and

@@ -18,7 +18,7 @@
 
 		<section>
 			<title>Installer stavekontrollene</title>
-			
+
 			<warning>Stavekontrollene for <a
 			href="http://libreoffice.org/">LibreOffice</a> er fremdeles av
 			<strong>BETA</strong>-kvalitet. Vi tar gjerne i mot alle slags <a
@@ -32,9 +32,9 @@
 				Divvun produsert for Hunspell</a> til bruk i lag med
 				LibreOffice 3.x og OpenOffice.org 2.x.
 			</note>
-			
+
 			<p>Samiske (og andre) stavekontroller for LibreOffice kan lastes
-			ned <a href="/libreofficeoxt.html">her</a>. Det nedlastede
+			ned <a href="/korrektur/libreofficebeta.html">her</a>. Det nedlastede
 			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
 			<img src="images/win8-voikkooxt-fi-se-nn.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
@@ -61,7 +61,7 @@
 
 		<section>
             <title>Å bruke stavekontrollen</title>
-            
+
             <note label="Windows-brukere">Om tastatur og innspråk er <a
             href="enable_sme_input-win8-nob.html">satt opp
             som anbefalt</a> i Windows, veksler stavekontrollspråket automatisk
@@ -69,7 +69,7 @@
             overflødige. Bare bytt tastatur: norsk tastatur når du skriver
             norsk, nordsamisk tastatur når du skriver nordsamisk, osv.
             Stavekontrollspråket bytter i lag med tastaturet!</note>
-            
+
             <p>For å slå på samisk stavekontroll:</p>
             <ul>
                 <li>Klikk i det fjerde feltet fra venstre i statusområdet og
