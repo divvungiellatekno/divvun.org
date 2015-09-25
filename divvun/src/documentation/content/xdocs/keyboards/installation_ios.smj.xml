@@ -39,18 +39,18 @@
         </p>
         <p>Sajájduhttem le gærggam!</p>
 
-        <p>Gå tjáledijn tastatuvrav sidá målssot dieddela ja adnala globusboalov gaskaboalo gåråbielen:</p>
+        <p>Gå tjáledijn tastatuvrav sidá målssot oanegattjat diebttji globusboalov gaskaboalo gåråbielen:</p>
         <p>
             <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
         </p>
 
-        <p>Máhtá aj dåssju globusboalov moaddi dieddelit dasik boadá dan tastatuvrraj majt ájgo.</p>
+        <p>Máhtá aj dåssju globusboalov moaddi dieddelit dasik boadá dan tastatuvrraj majt lágeda.</p>
 
-        <p>Gå sáme tastatuvrra la juo anon de ij dåhkki dieddelit-ja-adnalit. Dát la  <link
+        <p>Gå sáme tastatuvrra la juo anon de ij dåhkki oanegattjat diebttjit globusboalov listav åttjutjit. Dát la  <link
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
         >gártjedus Apple bieles</link> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
-        og gjelder alle tredjepartstastaturer.</p>
+        majt goasská divna goalmátbieltastatuvrajda.</p>
 
     </body>
 </document>
