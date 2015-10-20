@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Divvun - sáme giellateknologijja</title>
+        <title>Divvun - sáme giellateknologiddja</title>
         <meta name="description">sáme tjállemdárkastus</meta>
     </header>
     <body>
@@ -12,7 +12,7 @@
 
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
-          Miján li <a href="korrektur/korrektur.html">nuortta-, julev- ja oarjjelsáme tjállemdárkastusá</a> ma doajmmi <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> vuogádagájn
+          Miján li <a href="korrektur/korrektur.html">nuortta-, julev- ja oarjjelsáme duollatjállemdárkastusá</a> ma doajmmi <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> vuogádagájn
         </li>
         <li class="col-sm-4">
             Miján li <a href="keyboards/index.html">mobijllatastatuvra</a>
@@ -20,7 +20,7 @@
             <img src="/images/android.png" alt="android"/> ja <img src="/images/ios8.png" alt="iOS 8"/> vuogádagájn
         </li>
         <li class="col-sm-4">
-          Miján li nuorttasáme <a href="tale/tale.html">tevstas-hållaj-prográmma</a> ma doajmmi <img alt="Windows" src="/images/windows_small.png"/> ja <img alt="OS X" src="/images/osx.png"/> vuogádagájn
+          Miján li nuorttasáme <a href="tale/tale.html">tevstas-hållaj-prográmma</a> majt doajmmá sihke <img alt="Windows" src="/images/windows_small.png"/> ja <img alt="OS X" src="/images/osx.png"/> vuogádagájn
         </li>
       </ul>
       <ul class="col-sm-12 nobullet">
