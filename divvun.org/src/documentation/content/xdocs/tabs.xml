@@ -38,10 +38,10 @@
         <tab dir="korrektur" id="Office" label="Office applications" indexfile="index.html" />
         <tab dir="korrektur" id="Beta"   label="Beta"                indexfile="beta.html"  />
   </tab>
-  <tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
+  <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
         <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
         <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobile.html" />
-  </tab>
+  </tab-->
   
 <!-- Add new tabs here, eg:
   <tab label="How-Tos" dir="community/howto/"/>

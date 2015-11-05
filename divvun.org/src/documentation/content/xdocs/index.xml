@@ -4,21 +4,22 @@
 <document xml:lang="en">
     <header>
         <title>Language tools for indigenous and minority languages</title>
-        <meta name="description">Saami speller, Saami spell checker</meta>
+        <meta name="description">Spell checkers, proofing tools,
+        indigenous languages, minority languages</meta>
     </header>
     <body>
-      <p>Divvun.org has proofing tools and keyboards for a number of languages
-      around the Arctic. See the page for each tool type to get the exact list
+      <p>Divvun.org provides proofing tools for a number of languages
+      around the Arctic. See the proofing tool page to get the exact list
       of languages supported.</p>
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-6">
             <a href="korrektur/korrektur.html">Spelling checkers</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> and <img alt="Linux" src="/images/linux_small.png"/>
         </li>
-        <li class="col-sm-6">
+        <!--li class="col-sm-6">
             <a href="keyboards/index.html">Keyboards</a>
             for desktops and mobile systems:
             <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
-        </li>
+        </li-->
       </ul>
     </body>
 </document>
