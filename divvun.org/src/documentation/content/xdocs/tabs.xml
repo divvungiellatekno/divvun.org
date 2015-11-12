@@ -34,9 +34,10 @@
       <tab id="about" label="About Divvun.org" dir="" indexfile="index.html" />
       <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
   </tab>
-  <tab id="proofing" label="Proofing tools" dir="proofing" indexfile="index.html">
-        <tab dir="korrektur" id="Office" label="Office applications" indexfile="index.html" />
-        <tab dir="korrektur" id="Beta"   label="Beta"                indexfile="beta.html"  />
+  <tab id="korrektur" label="Proofing tools" dir="korrektur" indexfile="korrektur.html">
+        <tab dir="korrektur" id="OfficeApps" label="Office applications" indexfile="korrektur.html" />
+        <tab dir="korrektur" id="OtherApps"  label="Other applications"  indexfile="otherapps.html" />
+        <tab dir="korrektur" id="Beta"       label="Beta"                indexfile="beta.html"  />
   </tab>
   <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
         <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />

@@ -43,11 +43,95 @@ See http://forrest.apache.org/docs/linking.html for more info
   <about label="About">
     <index label="Index" href="index.html" description="Welcome to MyProj"/>
   </about>
-  <samples tab="samples">
-    <overview label="Overview" href="samples-a/index.html"/>
-    <samples_1 label="Samples 1" href="site:samples-b/index"/>
-    <samples_2 label="Samples 2" href="site:samples-c/index"/>
-  </samples>
+
+    <korrektur tab="Korrektur" href="korrektur/" label="Korrektur">
+        <msoff tab="OfficeApps" label="Korrekturverktøy for MS Office">
+          <index  label="Siste versjon" href="korrektur.html"/>
+          <userdocs label="Vegledninger" href="userdocs/">
+            <win label="Windows" href="win/">
+              <msoff13 label="Divvun og MS Office 2013">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2013-win7-8.html" />
+              </msoff13>
+              <msoff10 label="Divvun og MS Office 2010">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2010-win7-8.html" />
+                <windoc label="Bruk" href="use-msoff-2010-win7-sme-nob.html" />
+              </msoff10>
+              <msoff07 label="Divvun og MS Office 2007">
+                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2007-win7-8.html" />
+                <windoc label="Bruk" href="use-msoff-2007.html" />
+              </msoff07>
+              <wininstall label="Installer Divvun">
+                <windoc label="På Windows 8" href="install-msoff-win8.html" />
+                <windoc label="På Windows 7" href="install-msoff-win7.html" />
+              </wininstall>
+              <keyboards label="Slå på samiske tastatur">
+                <windoc label="Windows 8" href="enable_sme_input-win8-nob.html" />
+                <windoc label="Windows 7" href="enable_sme_input-win7-nob.html" />
+              </keyboards>
+              <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
+            </win>
+            <mac label="MacOSX" href="mac/">
+              <msoff11 label="Divvun og MS Office 2011">
+                <index11    label="Oversikt" href="index-msoff-2011.html" />
+                <install11  label="Installering" href="install-msoff-2011-nob.html" />
+                <use11      label="Bruk" href="use-msoff-2011-sme-nob.html" />
+              </msoff11>
+              <msoff08 label="Divvun og MS Office 2008">
+                <index08    label="Oversikt" href="index-msoff-2008.html" />
+                <install08  label="Installering" href="install-msoff-2008-swe.html" />
+                <use08      label="Bruk" href="use-msoff-2008-sme-eng.html" />
+              </msoff08>
+              <keyboards label="Slå på det samiske tastaturet">
+                <keyb108    label="MacOSX 10.6-10.8" href="enable-keyboard-osx10.8-nob.html" />
+                <keyb105    label="MacOSX 10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
+              </keyboards>
+              <rem08      label="Avinstaller Divvun" href="remove-msoff-2008-nob.html" />
+            </mac>
+          </userdocs>
+          <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
+            <win label="Windows Installation" href="win-msoffice-video.html" />
+            <mac label="Mac installation" href="mac-video.html" />
+          </uservids>
+          <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
+          <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
+        </msoff>
+
+        <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
+          <indesign label="InDesign og OpenOffice" href="otherapps.html"/>
+          <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
+          <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
+          <userdocs label="Vegledninger" href="userdocs/">
+            <maclo label="OpenOffice and LibreOffice" >
+                <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
+            </maclo>
+            <indesign label="Adobe InDesign" >
+                <install_and_use description="Installation for InDesign CS3"
+                                 href="mac/install-indesign-CS3.html"
+                                 label="Installation and Use" />
+                <known_issues description="Adobe InDesign Known Issues"
+                              href="mac/KnownIssuesForIndesignCS3.html"
+                              label="Known issues" />
+            </indesign>
+            <hunspell label="Hunspell" >
+                    <linux description="Hunspell on Linux"
+                           href="linux/install-linux.html"
+                           label="Hunspell on Linux" />
+                    <macosx description="Hunspell on MacOSX"
+                            href="mac/install-macosx-10.6.html"
+                            label="Hunspell on MacOSX"/>
+            </hunspell>
+          </userdocs>
+          <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
+            <ooo label="OpenOffice Installation" href="ooo-video.html" />
+          </uservids>
+        </otherapps>
+
+        <beta tab="Beta" description="Beta releases and prerelease versions" label="Beta and prerelease">
+          <entry1 label="Download" href="beta.html"/>
+          <entry1 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
+        </beta>
+    </korrektur>
+
 <!--
   The href must be wholesite.html/pdf  You can change the labels and node names
   <all label="All">
