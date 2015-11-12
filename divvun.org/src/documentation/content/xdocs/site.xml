@@ -127,8 +127,13 @@ See http://forrest.apache.org/docs/linking.html for more info
 
         <beta tab="Beta" description="Beta releases and prerelease versions" label="Beta and prerelease">
           <entry1 label="Download" href="beta.html"/>
-          <entry1 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
+          <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
         </beta>
+
+        <beta tab="DevInfo" description="Developer info and source code links" label="Developer info">
+          <entry1 label="Download" href="devinfo.html"/>
+        </beta>
+
     </korrektur>
 
 <!--

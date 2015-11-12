@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Beta Proofing Tools for LibreOffice</title>
+      <meta name="description">Saami speller, Saami spell checker</meta>
+   </header>
+   <body>
+
+      <section>
+         <title>Third-party dependencies</title>
+
+      <p>The extensions are built using <a
+      href="http://hfst.sourceforge.net">HFST</a> — specifically
+      <code>hfst-ospell</code> (<a
+      href="https://sourceforge.net/projects/hfst/files/hfst/">source code</a>)
+      — and <a href="http://voikko.puimula.org">Voikko</a>, specifically the
+      <strong>LibreOffice-voikko</strong> extension (<a
+      href="http://voikko.puimula.org/sources.html">source code</a>). The exact
+      list of libraries and their versions used for the released spellers can
+      be found on <a
+      href="http://divvun.no/doc/infra/LibreOfficeVoikkoLibraries.html">a
+      separate page</a>.</p>
+
+      <p>The spellers here are a direct application of the normative fst used as
+      a spelling checker (in combination with an error model to create
+      suggestions). This is work in progress, and there are several open issues
+      still to be worked out. Although the available spellers and extensions
+      should work fine for the specified LibreOffice versions, please bear with
+      us and report any issues you find to
+      <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
+
+      </section>
+
+      <section>
+         <title>For developers</title>
+
+         <p>The source code for each language is available at the links behind each
+         download link,
+         and instructions for how to build each language can be found by
+         following the instructions <a href="/doc/infra/GettingStarted.html">here.</a></p>
+
+      </section>
+
+   </body>
+</document>

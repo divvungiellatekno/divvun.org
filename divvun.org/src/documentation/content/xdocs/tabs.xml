@@ -38,6 +38,7 @@
         <tab dir="korrektur" id="OfficeApps" label="Office applications" indexfile="korrektur.html" />
         <tab dir="korrektur" id="OtherApps"  label="Other applications"  indexfile="otherapps.html" />
         <tab dir="korrektur" id="Beta"       label="Beta"                indexfile="beta.html"  />
+        <tab dir="korrektur" id="DevInfo"    label="Developer info"      indexfile="devinfo.html"  />
   </tab>
   <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
         <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
