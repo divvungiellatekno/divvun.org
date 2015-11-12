@@ -92,7 +92,6 @@ See http://forrest.apache.org/docs/linking.html for more info
             <win label="Windows Installation" href="win-msoffice-video.html" />
             <mac label="Mac installation" href="mac-video.html" />
           </uservids>
-          <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
         </msoff>
 
