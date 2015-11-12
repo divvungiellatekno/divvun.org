@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Språkverktøy for urfolksspråk og minoritetsspråk</title>
+        <meta name="description">Stavekontroller, korrekturverktøy,
+        urfolksspråk, minoritetsspråk</meta>
+    </header>
+    <body>
+      <p>Divvun.org tilbyr korrekturverktøy for mange arktiske språk.
+      Gå til siden for korrekturverktøy for å få en komplett liste
+      over språk vi støtter.</p>
+      <ul class="col-sm-12 nobullet">
+        <li class="col-sm-6">
+            <a href="korrektur/korrektur.html">Stavekontroller</a> for <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> og <img alt="Linux" src="/images/linux_small.png"/>
+        </li>
+        <!--li class="col-sm-6">
+            <a href="keyboards/index.html">Keyboards</a>
+            for desktops and mobile systems:
+            <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
+        </li-->
+      </ul>
+    </body>
+</document>
