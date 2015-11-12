@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installerit ja adnet Divvun-ræjdojt MS Office 2003:n ja 2007:n</title>
+   </header>
+   <body>
+     <ol>
+       <li>Installerit Divvunav:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li>MS Windows XP</li>
+         </ul>
+       </li>
+       <li>Adnuj vállet nuorttasáme boallobievdev:
+         <ul>
+           <li>MS Windows Vista</li>
+           <li><a href="enable-keyboard-xp.html">MS Windows XP</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2007.html">Adnet Divvunav MS Office 2003:n ja 2007:n</a></li>
+     </ol>
+   </body>
+</document>

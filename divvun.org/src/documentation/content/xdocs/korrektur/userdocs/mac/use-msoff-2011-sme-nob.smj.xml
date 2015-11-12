@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Adnet Divvunav MS Office 2011:n</title>
+   </header>
+   <body>
+
+      <note>Gå sámegielav tjálá <strong>Microsoft Office:in</strong>
+      (divna Mac versjåvnå), hæhttu adnet gielajt <strong>Katalansk</strong>
+      (=nuorttasáme), <strong>Baskisk</strong> (=julevsáme) jali
+      <strong>Slovakisk</strong> (=oarjjelsáme). Ale dáv midjij skulldi, skulldi Microsoft:aj</note>
+
+      <section>
+         <title>Adnet Divvunav Mac:an</title>
+         <p>Gå la rahpam MS Office hæhttu diededit Office:ij makkir giellaj tæksta la, nav váj tjállemdárkastus galggá doajmmat.</p>
+
+         <p>1. Mierkki sáme tevstav:</p>
+         <p><img alt="Marker den samiske teksten"
+         src="images/usage-select_text-msoff-2011-sme-nob.png" /></p>
+
+         <p>2. Maná menyaj <strong>Verktøy &gt; Språk…</strong> :</p>
+         <p><img alt="Gå til menyen &quot;Verktøy &gt; Språk…&quot;"
+         src="images/usage-tools_menu-msoff-2011-nob.png" /></p>
+
+         <p>3. Vállji gielav <strong>Katalansk</strong>
+         (<strong>Catalan</strong>) jus tjálá <strong>nuorttasámegiellaj</strong>,
+          <strong>Baskisk</strong> (<strong>Basque</strong>) jus tjálá
+         <strong>julevsámegiellaj</strong>, jali
+         <strong>Slovakisk</strong> (<strong>Slovak</strong>) jus tjálá
+         <strong>oarjjelsámegiellaj</strong> (<a href="#1">1</a>):</p>
+         <p><img alt="Velg språk"
+         src="images/usage-select_sme_speller_lang-msoff-2011-sme-nob.png"
+         /></p>
+
+         <p>4. Jus ålov sámegiellaj tjálá  máhtá válljit sámegielav standardgiellan ådå dokumentajda. 
+         Dieddela  <strong>Standard…</strong> (gehta åvdep gåvåv) ja dan maŋŋela de dieddela 
+         <strong>Ja</strong>:</p>
+         <p><img alt="Vil du gjøre samisk til forvalgt språk?"
+         src="images/usage-default_language-msoff-2011-sme-nob.png" /></p>
+
+         <p>5. Divvun mierkki tjállemvigijt ruoppsis sátsoj:</p>
+         <p><img alt="Samisk tekst med skrivefeil"
+         src="images/usage-misspelled_text-msoff-2011-sme-nob.png" /></p>
+
+         <p>6a. Máhtá tjállemvigijt divvot oalgesdieddelime (Kontroll-klikk) baktu:</p>
+
+         <p><img alt="Høgreklikk for å få retteforslag"
+         src="images/usage-misspelled_text_corrected-msoff-2011-sme-nob.png"
+         /></p>
+
+         <p>6b. jali tjállemdárkastusvinndega baktu :</p>
+
+         <p><img alt="Rettskrivingsdialog for skrivefeilen"
+         src="images/Mac_09_MSoffice_spelling_example_c.png" /></p>
+
+         <!--<a name="1" id="1">1.</a>-->
+         <p>1. Microsoft ij ájn doarjo sámegielav Mac MS Office:in, vajku sæmmi doarjja l Windows MS Office:in. 
+         Doajvodahtte de doarjosj MS Office sámegielav boahtte Mac versjåvnåjn. Dallutjij hæhttup definerit sámegielav ietjá giellan, 
+         mij juo gávnnu MS Office:in</p>
+      </section>
+   </body>
+</document>

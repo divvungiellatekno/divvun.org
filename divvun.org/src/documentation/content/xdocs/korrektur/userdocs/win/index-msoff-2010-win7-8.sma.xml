@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Sijjiedehtedh jïh utnedh Divvun-dïrregidie MS Office 2010:ine</title>
+   </header>
+   <body>
+     <ol>
+       <li>Sijjiedehtedh Divvun-dïrregem:
+         <ul>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
+           <li><a href="install-msoff-win7.html">MS Windows  7</a></li>
+         </ul>
+       </li>
+       <li>Saemien båaloebuertie:
+         <ul>
+           <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
+           <li><a href="enable_sma_input-win7-nob.html">MS Windows 7</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2010-win7-sma-nob.html">Divvun-dïrregem utnedh MS Office 2010:esne</a></li>
+     </ol>
+   </body>
+</document>

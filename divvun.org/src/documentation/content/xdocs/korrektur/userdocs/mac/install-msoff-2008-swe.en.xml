@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installation and use on MacOS X</title>
+   </header>
+   <body>
+      <section>
+         <title>Get Divvun</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Download
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> or order a CD from the Sámi parliament, tel: +47
+         78 48 42 22.</p>
+      </section>
+      <section>
+         <title>Installation on MacOS X</title>
+         <note>If you are upgrading from version 1, please uninstal the old version before installing version 2.</note>
+         <p>1. Download the installation package. You will always find the latest version <a
+         href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">here</a>.</p>
+         <p>If you have the CD, insert it into the computer. When either the download is finished or when the CD is
+         ready a window will open on your machine. Double click the yellow box (the installations package) of the
+         installation you want:</p>
+         <p><img alt="Double click the installation package"
+         src="images/installation-dl_finished-msoff-2008-nob.png" /></p>
+         <p>2. Click <strong>Continue</strong> untill you are ready to start the installation proper:</p>
+         <p><img alt="Click &quot;Continue&quot; untill installation can start"
+         src="images/installation-starting-swe.png" /></p>
+         <p>3. An administrator has to accept the installation:</p>
+         <p><img alt="The installation must be approved by an administrator"
+         src="images/installation-adminpw-swe.png" /></p>
+         <p>4. The installation is now finished and the Divvun tools are now available on your computer!</p>
+         <p><img alt="Installation is ready" src="images/installation-done-swe.png" /></p>
+      </section>
+   </body>
+</document>

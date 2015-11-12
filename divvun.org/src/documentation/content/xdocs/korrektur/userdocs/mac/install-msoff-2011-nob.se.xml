@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Sajáiduhttit Divvun-reaidduid MacOS X 10.8:s</title>
+   </header>
+   <body>
+
+      <section>
+         <title>Skáhpput Divvuma</title>
+         <p><a href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Viečča
+         http://www.divvun.no/static_files/sami-proofing-tools.dmg</a> dahje dahje diŋgo CD Sámedikkis, tel: +47 78 48
+         42 22.</p>
+      </section>
+
+      <section>
+         <title>Sajáiduhttin</title>
+
+         <note>Jus dál geavahat veršuvnna 1, <a href="remove-msoff-2008-nob.html">válddes eret</a> boares veršuvnna ovdalgo sajáiduhtát veršuvnna 2.</note>
+
+         <p>1. Jus dus lea CD, coggal dan dihtorii ja man boahtte lávkái.
+         Jus leat viežžan Divvun-reaidduid neahtas, de fertet rahpat «Nedlastinger»-máhpa, ja duppalcoahkkalit Divvun-fiilla
+         (<em>sami-proofing-tools.dmg</em>):</p>
+
+         <p><img alt="Doppalcoahkkal vižžon dmg-fiilla"
+         src="images/installation-dl_folder-msoff-2011-nob.png" /></p>
+
+         <p>2. Duppalcoahkkal fiskes doasa (sajáiduhttinpáhka) man namma lea «<em>Divvun for MS Office
+         2011</em>»:</p>
+
+         <p><img alt="Duppalcoahkkal"
+         src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
+
+         <p>3. Jus váruhus ihtá:</p>
+
+         <p><img alt="Váruhus amas ovdánahtis"
+         src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
+         /></p>
+
+         <p>4. Coahkkal <strong>OK</strong> ja olgešcoahkkal (Control-coahkkal) sajáiduhttinpáhka ja vállje <strong>Raba</strong> fálus:</p>
+
+         <p><img alt="Dohkket rabadettiin fálu bokte"
+         src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
+
+         <p>5. Jerro fas jus háliidat rahpat sajáiduhttinpáhka.
+         Coahkkal <strong>Åpne</strong>:</p>
+
+         <p><img alt="Nanne ahte háliidat rahpat sajáiduhttinpáhka"
+         src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
+         /></p>
+
+         <p>6. Dasto gáibiduvvo hálddašeaddji geavaheaddjinama ja beassansáni:</p>
+
+         <p><img alt="Hálddašeaddji beassansáni gáibiduvvo"
+         src="images/installation-mtlion_confirm_dmgopen_adminpw-nob.png"
+         /></p>
+
+         <p>7. Sajáiduhtti vuolgá johtui ja čájeha álgosiiddu:</p>
+
+         <p><img alt="Sajáiduhtti álgosiidu"
+         src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
+
+         <p>8. Coahkkal <strong>Fortsett</strong> dassáigo sajáiduhttinprográmma lea gearggus álggahit sajáiduhttima ja coahkkal <strong>installer</strong>:</p>
+
+         <p><img alt="Álggat sajáiduhttima"
+         src="images/installation-starting-msoff-2011-nob.png" /></p>
+
+         <p>9. Hálddašeaddji ferte dohkkehit sajáiduhttima:</p>
+
+         <p><img alt="Hálddašeaddji ferte dohkkehit sajáiduhttima"
+         src="images/installation-adminpw-nob.png" /></p>
+
+         <p>10. Prográmmagálvu sajáiduhtto ja jus visot manná bures, de oidno dát loahpasiidu:</p>
+
+         <p><img alt="Sajáiduhttin gearggai"
+         src="images/installation-done-msoff-2011-nob.png" /></p>
+
+         <p>11. Sajáiduhttin lea geargan ja Divvun-reaiddut leat du dihtoris..</p>
+
+      </section>
+   </body>
+</document>

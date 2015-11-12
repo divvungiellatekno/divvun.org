@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installation and use on MacOS X</title>
+   </header>
+   <body>
+      <section>
+         <title>Setting options in MacOS X to be able to write in Sami</title>
+         <p>To write in Sami you need a Sami keyboard.</p>
+         <p>1. Open <strong>System Settings</strong></p>
+         <p><img alt="Open &quot;System Settings&quot;" src="images/keyboard-open-systemprefs-osx10.5-swe.png" /></p>
+         <p>2. Click <strong>International</strong> :</p>
+         <p><img alt="System Settings" src="images/keyboard-selectintl-osx10.5-swe.png" /></p>
+         <p>3. Click the <strong>Keyboard menu</strong> tab and toggle <strong>Northern Sami:</strong></p>
+         <p><img alt="Adding a Sami keyboard" src="images/keyboard-select_se_keyboard-osx10.5-swe.png" /></p>
+         <p>4. When you would like to write in Sami, choose the Sami keyboard in the Keyboard menu:</p>
+         <p><img alt="Choose the Sami keyboard" src="images/keyboard-keyboard_menu-osx10.5-swe.png" /></p>
+      </section>
+   </body>
+</document>

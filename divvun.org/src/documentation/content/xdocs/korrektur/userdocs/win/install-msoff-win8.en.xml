@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Installing the Divvun tools on Windows 8</title>
+	</header>
+	<body>
+		<section>
+			<title>Downloading and installing the Divvun tools on Windows 8</title>
+			<ol>
+				<li>Go to the <a href="http://divvun.no">Divvun site</a></li>
+				<li>
+					Click on the download link.
+					<p>
+						<img src="images/download-3.en.png" alt="The download area"/>
+					</p>
+				</li>
+				<li>
+					<dl>
+						<dt>
+							Explorer
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Run</strong>
+									<p>
+										<img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Firefox
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Click on <strong>Save</strong>
+									<p>
+										<img src="images/firefox-save.png" alt="Firefox save dialog"/>
+									</p>
+								</li>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+						<dt>
+							Google Chrome
+						</dt>
+						<dd>
+							<ul>
+								<li>
+									Double click on the Divvun installer
+									<p>
+										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
+									</p>
+								</li>
+							</ul>
+						</dd>
+					</dl>
+				</li>
+				<li>
+					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears.
+				</li>
+				<li>
+					A dialog window appears and disappears. Divvun is now installed.
+				</li>
+				<li>
+					Log out and in again to activate the Divvun tools.
+				</li>
+			</ol>
+		</section>
+	</body>
+</document>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Install and use Divvun with Microsoft Office 2011 for Mac</title>
+   </header>
+   <body>
+     <ol>
+       <li><a href="remove-msoff-2008-nob.html">Uninstall old versions of Divvun</a></li>
+       <li>Install Divvun for Microsoft Office 2008 on:
+         <ul>
+           <li><a href="install-msoff-2011-nob.html">MacOSX 10.7 and 10.8</a></li>
+           <li>MacOSX 10.6</li>
+           <li>MacOSX 10.5</li>
+         </ul>
+       </li>
+       <li>Enable the Sami keyboard in:
+         <ul>
+           <li><a href="enable-keyboard-osx10.8-nob.html">MacOSX 10.6-10.8</a></li>
+           <li><a href="enable-keyboard-osx10.5-swe.html">MacOSX 10.5</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2011-sme-nob.html">Using Divvun with Microsoft Office 2011</a></li>
+     </ol>
+   </body>
+</document>

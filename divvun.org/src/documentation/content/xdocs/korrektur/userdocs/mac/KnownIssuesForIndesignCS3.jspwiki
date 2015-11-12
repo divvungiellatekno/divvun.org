@@ -1,0 +1,27 @@
+!!!InDesign CS3
+
+De kjente problemene med InDesigns stavekontroll [er de samme som for stavekontrollen i MS Office|http://giellatekno.uit.no/bugzilla/buglist.cgi?product=Spell+checking+common&amp;product=Spell+checking+sme&amp;product=Spell+checking+smj&amp;component=Encoding+issues&amp;component=Missing+words&amp;component=MS+Office+speller&amp;component=PLX+conversion&amp;component=Speller+engine&amp;component=Suggestions&amp;component=Systematic+lexical+errors&amp;component=Transducers&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED"] om ikke annet er nevnt. Det finnes noen kjente småproblemer spesifikt for InDesign, og som er knyttet til brukerordlistene, men ingen vesentlige som hindrer full bruk av stavekontrollen.
+
+De kjente problemene med InDesigns orddelingsmodul for samisk er òg de samme som for MS Office-orddelingen, om ikke annet er nevnt. Det finnes et fåtall kjente orddelingsproblemer - for en oppdatert liste kan du se på lista over [åpne orddelingsfeil i Bugzilla|http://giellatekno.uit.no/bugzilla/buglist.cgi?product=Hyphenation&amp;bug_status=NEW&amp;bug_status=ASSIGNED&amp;bug_status=REOPENED"] (kun på engelsk).
+
+* endringer i UDC/UDR (brukerordlistene) vises ikke med det samme i dokumentet (f.eks. vil et ord som akkurat er lagt til AddedWords forbli merket med rød understreking til noe blir endret i eller inntil ordet (f.eks. ved å taste et mellomrom etter det) eller til dokumentet blir korrekturlest på nytt.
+
+* om et ord blir fjernet fra lista RemovedWords vil ikke det bli gjenspeilt på skjermen med det samme (det fungerer som det skal, det er bare visningen som ikke blir oppdatert)
+
+* NonWords (ord som finnes i stavekontrollen men også i lista RemovedWords (på harddisken som UsrDicNon)) vil ikke bli vurdert før lista RemovedWords blir åpnet direkte av brukeren
+
+* fungerer berre på MacOSX, __ikkje på Windows__.
+
+!!!InDesign CS4 og CS5
+
+Desse versjonane av InDesign er ikkje støtta av Divvun
+
+!!!InDesign CS5.5
+
+* __feilmerking før utropsteikn og spørjeteikn:__ korrekt skrivne ord blir merkte som feilskrivne når det kjem eit utropsteikn eller spørjeteikn rett etter. Dette er ein feil i InDesign, og gjeld alle språk som bruker Hunspell. Du kan delvis __kringgå__ problemet ved å setja inn eit mellomrom mellom ordet og utropsteiknet/spørjeteiknet - om raudstreken forsvinn er ordet rett skrive, og du kan ta vekk mellomrommet igjen. Dette er sjølvsagt ikkje ei fullverdig løysing, men feilen må rettast av Adobe. Feilen er rapportert til dei.
+
+!!!InDesign CS6
+
+Enno ikkje testa, men i prinsippet burde det vera det same som for InDesign CS5.5
+
+* __Installering på Mac/Windows:__ berre manuell installering inntil vidare, sjå lenka for CS5.5 over

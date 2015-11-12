@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installera och använda Divvun med MS Office 2003 och 2007</title>
+   </header>
+   <body>
+     <ol>
+       <li>Installera Divvun på:
+         <ul>
+           <li>MS Windows 8</li>
+           <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
+         </ul>
+       </li>
+       <li>Slå på samiskt tangentbord i:
+         <ul>
+           <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
+           <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2007.html">Använda Divvun i MS Office 2003 och 2007</a></li>
+     </ol>
+   </body>
+</document>

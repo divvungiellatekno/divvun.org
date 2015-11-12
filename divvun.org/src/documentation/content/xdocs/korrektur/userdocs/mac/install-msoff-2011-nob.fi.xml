@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installere Divvun for MS Office 2011</title>
+   </header>
+   <body>
+
+      <section>
+         <title>Skaffe Divvun</title>
+         <p><a
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent
+          nyeste Divvun på nettet</a> eller
+          bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+      </section>
+
+      <section>
+         <title>Installering</title>
+
+         <note>Om du oppgraderer fra versjon 1, må du
+         <a href="remove-msoff-2008-nob.html">avinstallere</a> den gamle
+         versjonen før du installerer versjon 2. Det kan uansett være lurt å
+         avinstallere tidligere versjoner før man installerer den nye.</note>
+
+         <p>1. Om du har CD-en, putt den inn i datamaskinen, og gå til neste
+         punkt. Om du har lasta ned Divvun fra nettet, kan det hende du må
+         åpne Nedlastings-mappa, og dobbeltklikke på Divvun-filen
+         (<em>sami-proofing-tools.dmg</em>):</p>
+
+         <p><img alt="Dobbelklikk på nedlasta dmg-fil"
+         src="images/installation-dl_folder-msoff-2011-nob.png" /></p>
+
+         <p>2. Dobbelklikk på
+         den gule eska (installeringspakka) med navnet «<em>Divvun for MS Office
+         2011</em>»:</p>
+
+         <p><img alt="Dobbelklikk på installeringspakka"
+         src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
+
+         <p>3. I MacOSX 10.8 (Mountain Lion) vil du få en advarsel (men ikke i
+         eldre versjoner - gå direkte til punkt 7):</p>
+
+         <p><img alt="Advarsel om ukjent utvikler"
+         src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
+         /></p>
+
+         <p>4. Klikk <strong>OK</strong> og høgreklikk (Kontroll-klikk) på
+         installeringspakka, og velg <strong>Åpne</strong> fra menyen:</p>
+
+         <p><img alt="Åpne med meny for å godkjenne"
+         src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
+
+         <p>5. Du får et nytt spørsmål om du vil åpne installeringspakka.
+         Klikk <strong>Åpne</strong>:</p>
+
+         <p><img alt="Bekreft at du vil åpne installeringspakka"
+         src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
+         /></p>
+
+         <p>6. For å få lov til å fortsette må du skrive inn et
+         administratornavn og -passord:</p>
+
+         <p><img alt="Det kreves et administratorpassord"
+         src="images/installation-mtlion_confirm_dmgopen_adminpw-nob.png"
+         /></p>
+
+         <p>7. Installereren starter, og viser en velkomstside:</p>
+
+         <p><img alt="Velkomstsiden i installereren"
+         src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
+
+         <p>8. Klikk på <strong>Fortsett</strong> til installeringsprogrammet er
+         klart til å starte selve installeringen, og klikk deretter på
+         <strong>installer</strong>:</p>
+
+         <p><img alt="Start sevle installeringen"
+         src="images/installation-starting-msoff-2011-nob.png" /></p>
+
+         <p>9. Installasjonen må godkjennes av en administrator:</p>
+
+         <p><img alt="Installeringen må godkjennes av en administrator"
+         src="images/installation-adminpw-nob.png" /></p>
+
+         <p>10. Programvaren blir installert, og om alt har gått bra, vil denne
+         avslutningssiden vises:</p>
+
+         <p><img alt="Installeringen er ferdig"
+         src="images/installation-done-msoff-2011-nob.png" /></p>
+
+         <p>11. Installeringen er nå ferdig og du har Divvun-verktøyene på
+         datamaskinen din.</p>
+
+      </section>
+   </body>
+</document>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Installerit ja adnet Divvun-ræjdojt MS Office 2010:n</title>
+   </header>
+   <body>
+     <ol>
+       <li>Installerit Divvunav:
+         <ul>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
+           <li><a href="install-msoff-win7.html">MS Windows  7</a></li>
+         </ul>
+       </li>
+       <li>Adnuj vállet nuorttasáme boallobievdev:
+         <ul>
+           <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
+           <li><a href="enable_smj_input-win7-nob.html">MS Windows7</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2010-win7-smj-nob.html">Adnet Divvunav MS Office 2010:n</a></li>
+     </ol>
+   </body>
+</document>

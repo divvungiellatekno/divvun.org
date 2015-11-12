@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Avinstallation</title>
+   </header>
+   <body>
+      <section>
+         <title>Divvun 2.x</title>
+         <ul>
+            <li>Öppna mappen <strong>DivvunTools</strong> i <strong>/Bibliotekets</strong>mappen:<figure
+            alt="Divvun 2 Uninstallation program" src="images/Mac_10_Divvun2_Uninstallation.png" /></li>
+            <li>Kör <strong>Remove Divvun for Office</strong> programmet i undermappen för programmet som du vill ta
+            bort Divvun från, och bekräfta att du vill ta bort Divvun när du tillfrågas:<figure
+            alt="Confirm uninstallation" src="images/Mac_11_Divvun2_Uninstallation_confirmation.png" /></li>
+            <li>Om det är den sista eller enda Divvun-installationen, så kommer hela mappen
+            <strong>DivvunTools</strong> att tas bort.</li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun 1.x</title>
+         <ul>
+            <li>Öppna mappen <strong>SamiProofingTools</strong> i <strong>Programmer</strong> mappen:<figure
+            alt="Uninstallation of Divvun1" src="images/Mac_12_Divvun1_Uinstallation.png" /></li>
+            <li>Kör (en av) <strong>Ta bort SamiProofingTools</strong> programmena. Klicka <strong>OK</strong> när
+            det är gjort:<figure alt="Avinstalleringen färdig"
+            src="images/Mac_13_Divvun1_Uninstallation_done.png" /></li>
+            <li>Om inte mappen <strong>SamiProofingTools</strong> automatiskt försvinner, så kasta bort den
+            manuellt</li>
+         </ul>
+      </section>
+   </body>
+</document>

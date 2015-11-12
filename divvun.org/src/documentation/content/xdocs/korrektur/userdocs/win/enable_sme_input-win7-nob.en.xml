@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Northern Sámi as input languge in Windows 7</title>
+    </header>
+    <body>
+        <section>
+            <title>Settings in Windows 7 to be able to write Northern Sámi</title>
+
+            <p>We will show how to set up Northern Sámi as input languge. When Northern Sámi set up as the input language, the spell checker will automatically be switched to Northern Sámi when the Divvun tools have been installed.</p>
+
+            <ol>
+                <li>Go to <strong>Start</strong>, choose <strong>Control Panel</strong>
+                    <p><img src="images/win7_start_no.png" alt="Start menu" /></p>
+                </li>
+
+                <li>Choose <strong>Change keyboards or other input methods</strong> kontrollpanel.
+                    <p><img src="images/win7_kontrollpanel_no.png" alt="Control Panel"/></p>
+                </li>
+
+                <li>The dialog Region and Language appears. Choose <strong>Change keyboards...</strong>.
+                    <p><img src="images/win7_region_og_sprak_no.png" alt="Region and language" /></p>
+                </li>
+
+                <li>The dialog <strong>Text Services and Input Languages</strong> appears. Choose <strong>Add...</strong>.
+                    <p><img src="images/win7_teksttjenester_og_inndatasprak_no.png" alt="Text Services and Input Languages"/></p>
+                </li>
+
+                <li>The dialog <strong>Add Input Language</strong> appears. Go to Sami, Northern (Norway), Sami, Northern (Finland) or Sami, Northern (Sweden). Choose <strong>Sami Extended Norway</strong> <strong>Sami Extended Finland-Sweden</strong>.
+                    <p><img src="images/win7_legg_til_inndatasprak_sme_no.png" alt="Add Input Language"/></p>. Then click <strong>OK</strong>.
+                </li>
+
+                <li>The dialog <strong>Text Services and Input Languages</strong> now shows the input method you chose in the previous step in addition to the other input languages that was active earlier.
+                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sme_no.png" alt="Text Services and Input Languages after that Northern Sami has been chosen."/></p>.
+                </li>
+
+                <li>Then click the <strong>OK</strong> button in all dialogs.</li>
+            </ol>
+        </section>
+    </body>
+</document>

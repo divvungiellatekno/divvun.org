@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+	<header>
+		<title>Installasjåvnnå ja nævoj adnem Windowsin</title>
+	</header>
+	<body>
+		<section>
+			<title>Hiebadusá Windowsin gå galggá sábmáj tjállet</title>
+			<p>1. Gå sáme bokstávaj galga tjállet hæhttu válljit dav dánna:  <strong>Kontrollpanelen</strong> . Dieddela dáv guokti: <strong>Dato, klokkeslett, språk og regionale innstillinger:</strong> </p>
+			<p>
+				<img src="images/PC_07_controlpanel_settings_date_clock_cut.png" alt="Biejvenummar, kloahkkamierre, giella ja regionála&#10;hiebadusá"/>
+			</p>
+			
+			<p>2. Dálla la dási ållim:  <strong>Regionale innstillinger</strong> . Dieddela dáv guokti: <strong>Innstillinger for region og språk:</strong> </p>
+			<p>
+				<img src="images/PC_08_Settings_language_cut.png" alt="Dieddela guokti &quot;Innstillinger for region og&#10;språk&quot;"/>
+			</p>
+			
+			<p>3. Dánna vállji   <strong>Språk</strong> ja dieddela  <strong>Detaljer:</strong> </p>
+			<p>
+				<img src="images/PC_09_Settings_language_details_cut.png" alt="dieddela&#10;&quot;Detaljer&quot;"/>
+			</p>
+			
+			<p>4. De dieddela  <strong>Legg til...</strong> . Dálla máhtá válljit gielav majt sidá tjállet:  <strong>Samisk:</strong> </p>
+			<p><img src="images/PC_10_settings_choose_language_cut.png" alt="Bild: "/>. </p>
+			
+			<p>5. Dálla oattjo dahppat dimna vinndegijt ja mannat ruopptot tjállembævddáj. </p>
+			
+			<p>6. Gå dálla galga álgget tjállet sábmáj dieddela giellaikonav tjállembievde vuolep rievtes tjiegan ja danna vállji  <strong>Samisk</strong> : </p>
+			<p>
+				<img src="images/PC_11_dashboard_choose_language_cut.png" alt="Bild: "/>
+			</p>
+			<p>Dálla dujna l sáme tastatuvrra, bv. oattjo "á" q-boalos ja "&#331;" ¨-boalos. </p>
+		</section>
+	</body>
+</document>

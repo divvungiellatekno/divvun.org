@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Divvun-ohjelman asennus ja käyttö Microsoft Office 2008 Macille</title>
+   </header>
+   <body>
+     <ol>
+       <li><a href="remove-msoff-2008-nob.html">Poista Divvun-ohjelman aiempi versio</a></li>
+       <li>Asenna Divvun Microsoft Office 2008:lle:
+         <ul>
+           <li>MacOSX 10.7 ja 10.8</li>
+           <li>MacOSX 10.6</li>
+           <li><a href="install-msoff-2008-swe.html">MacOSX 10.5</a></li>
+         </ul>
+       </li>
+       <li>Ota saamenkielinen näppäimistö käyttöön:
+         <ul>
+           <li><a href="enable-keyboard-osx10.8-nob.html">MacOSX 10.6-10.8</a></li>
+           <li><a href="enable-keyboard-osx10.5-swe.html">MacOSX 10.5</a></li>
+         </ul>
+       </li>
+       <li><a href="use-msoff-2008-sme-eng.html">Divvun-ohjelman käyttö Microsoft Office 2008:lla</a></li>
+     </ol>
+   </body>
+</document>

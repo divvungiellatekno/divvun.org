@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+   <header>
+         <title>Gamle versjoner</title>
+   </header>
+   <body>
+      <section>
+         <title>Divvun 2.x</title>
+         <ul>
+          <li><strong>Divvun 2.2:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20111122.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a></li>
+           </ul>
+          </li>
+          <li><strong>Divvun 2.1:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20110317.exe"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a></li>
+           </ul>
+          </li>
+          <li><strong>Divvun 2.0:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20101207.exe"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20101207.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a></li>
+           </ul>
+          </li>
+         </ul>
+      </section>
+      <section>
+         <title>Divvun 1.x</title>
+         <ul>
+          <li><strong>Divvun 1.1:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a></li>
+           </ul>
+          </li>
+          <li><strong>Divvun 1.0:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a> </li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a> </li>
+           </ul>
+          </li>
+         </ul>
+      </section>
+      <section>
+         <title>Versjonshistorie</title>
+         <section>
+            <title>Divvun 2.3</title>
+            <p>Språklige oppdateringer for nordsamisk:</p>
+            <ul>
+               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
+               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
+               <li>mange andre smårettinger</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.2</title>
+            <ul>
+               <li>støtte for 64-bits Windows</li>
+               <li>støtte for masseinstallering på Windows</li>
+               <li>andre smårettinger</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.1</title>
+            <ul>
+               <li>språklige oppdateringer for sørsamisk</li>
+               <li>støtte for MS Office 2010 for 32-bit Windows</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.0 - 2010-12-08</title>
+            <ul>
+               <li>sørsamisk versjon 1</li>
+               <li>nytt installeringsprogram</li>
+               <li>støtte for MS Office 2011 for Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.1</title>
+            <ul>
+               <li>språklige oppdateringer for nord- og lulesamisk</li>
+               <li>støtte for MS Office 2008 for Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0 2007-12-12</title>
+            <ul>
+               <li>første versjon</li>
+            </ul>
+         </section>
+      </section>
+   </body>
+</document>
