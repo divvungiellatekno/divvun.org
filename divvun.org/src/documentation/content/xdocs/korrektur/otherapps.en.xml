@@ -51,32 +51,6 @@
             <tr>
             <td colspan="4"><p class="line"/></td>
             </tr>
-            <tr><td>
-            <ul>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
-                alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" /><icon
-                alt="Right arrow" height="18" width="18"
-                src="images/arrow-right-icon.png"/><icon
-                alt="MacOSX" height="27" width="27"
-                src="images/InDesign-icon.png" /><icon
-                alt="MacOSX" height="27" width="27"
-                src="images/mac.png" /><br/>Divvun for InDesign CS3, CS5.5 — MacOS X</a>
-              </li>
-            </ul></td>
-            <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-            <br/><br/>
-            <br/>
-                    · <a href="userdocs/mac/install-indesign-CS3.html">Instructions</a>
-                    - <a href="userdocs/mac/KnownIssuesForIndesignCS3.html">Known issues</a>
-            </td>
-            <td>
-            </td>
-            </tr>
             </table>
         </section>
 
@@ -87,8 +61,6 @@
             and use the Divvun tools in Mac OS X</li>
             <li>Divvun for Linux: <a href="userdocs/linux/install-linux.html">instructions</a> on how to install and
             use the Divvun tools in Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> to burn an installation CD for
-            all three operating systems</li>
          </ul>
       </section>
    </body>

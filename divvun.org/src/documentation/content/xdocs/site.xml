@@ -97,7 +97,7 @@ See http://forrest.apache.org/docs/linking.html for more info
         </msoff>
 
         <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
-          <indesign label="InDesign og OpenOffice" href="otherapps.html"/>
+          <indesign label="OpenOffice" href="otherapps.html"/>
           <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
           <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
           <userdocs label="Vegledninger" href="userdocs/">

@@ -59,34 +59,6 @@
                 <tr>
                     <td colspan="4"><p class="line"/></td>
                 </tr>
-                <tr>
-                    <td>
-                        <ul>
-                          <li class="Download"><a
-                            href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
-                            alt="Download" height="44" width="44"
-                            src="images/Crystal_Clear_app_download_manager.png" /><icon
-                            alt="Right arrow" height="18" width="18"
-                            src="images/arrow-right-icon.png"/><icon
-                            alt="MacOSX" height="27" width="27"
-                            src="images/InDesign-icon.png" /><icon
-                            alt="MacOSX" height="27" width="27"
-                            src="images/mac.png" /><br/>Divvun InDesign CS3:lle, CS5.5:lle — MacOS X</a>
-                          </li>
-                        </ul>
-                    </td>
-                    <td>
-                          <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                    </td>
-                    <td>
-                        <br/>
-                        <br/>
-                        <br/>
-                        · <a href="userdocs/mac/install-indesign-CS3.html">ohjeet</a>
-                    </td>
-                    <td>
-                    </td>
-                </tr>
             </table>
         </section>
 
@@ -97,7 +69,6 @@
             Divvun työkalut Mac OS X:lle</li>
             <li>Divvun Linuxille: <a href="userdocs/linux/install-linux.html">ohjeet</a> kuinka asentaa
             Divvun työkalut Linuxille</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> joka voidaan polttaa CD:lle</li>
          </ul>
       </section>
     </body>
