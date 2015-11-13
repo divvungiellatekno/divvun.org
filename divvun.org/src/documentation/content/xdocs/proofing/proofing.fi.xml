@@ -3,84 +3,93 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Oikolukutyökalut vähemistökielille</title>
+        <title>Proofing tools for Office suites</title>
     </header>
     <body>
+      <section>
+         <title>Spelling Checkers for Microsoft Office (Windows only)</title>
+
+         <table>
+         <tr>
+           <th>Language:</th>
+           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Documentation and source code:</th>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><ul>
+                <li><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.msi">Download installer</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               More info <a href="devinfo.html">here</a>.
+            </td>
+         </tr>
+         </table>
+      </section>
+
+      <section>
+         <title>Spelling Checkers for LibreOffice</title>
+
+         <table>
+         <tr>
+           <th>Language:</th>
+           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Documentation and source code:</th>
+         </tr>
+         <tr>
+           <td>Finnish</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
+               More info <a href="devinfo.html">here</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               More info <a href="devinfo.html">here</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>Kven</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+               More info <a href="devinfo.html">here</a>.
+           </td>
+         </tr>
+         </table>
+
         <section>
-            <title>Lataa Divvun</title>
-            <table>
-                <tr>
-                    <td>
-                        <ul>
-                            <li class="Download">
-                                <a href="http://divvun.no/static_files/msofficedivvuntools.msi">
-                                    <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-                                    <icon alt="Right arrow" height="18" width="18" src="images/arrow-right-icon.png"/>
-                                    <icon alt="Office" height="27" width="27" src="images/MSOffice-icon.png"/>
-                                    <icon alt="Windows" height="27" width="27" src="images/windows.png"/>
-                                    <br/>
-                                    Divvun MS Office:lle — Windows 7 ja 8
-                                </a>
-                          </li>
-                        </ul>
-                    </td>
-                    <td>
-                        <br/>
-                        <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                    </td>
-                    <td>
-                        · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-ohjeet</a>
-                        <br/>
-                        · <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-ohjeet</a>
-                        <br/>
-                        · <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-ohjeet</a>
-                    </td>
-                    <td>
-                        <br/>
-                        <a href="userdocs/videos/win-msoffice-video.html">
-                            <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
-                            ohjevideot
-                        </a>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="4">
-                        <p class="line"/>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <ul>
-                            <li class="Download">
-                                <a href="http://divvun.no/static_files/sami-proofing-tools.dmg">
-                                    <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-                                    <icon alt="Right arrow" height="18" width="18" src="images/arrow-right-icon.png"/>
-                                    <icon alt="Windows" height="27" width="27" src="images/MSOffice-icon.png"/>
-                                    <icon alt="MacOSX" height="27" width="27" src="images/mac.png" />
-                                    <br/>
-                                    Divvun MS Office:lle — MacOS X
-                                </a>
-                            </li>
-                        </ul>
-                    </td>
-                <td>
-                    <br/>
-                    <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011-ohjeet</a>
-                    <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-ohjeet</a>
-                    <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004-ohjeet</a>
-                </td>
-                <td>
-                    <br/>
-                        <a href="userdocs/videos/mac-video.html">
-                            <icon alt="Instructions" height="48" width="48" src="images/Movie-icon.png"/>
-                            ohjevideot
-                        </a>
-                    </td>
-                </tr>
-            </table>
+           <title>User Guide</title>
+  
+           <p>There is a Windows 8.1 <strong><a
+           href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice
+           installation and user guide</a></strong> which should also be
+           informative for Mac users.</p>
+           
         </section>
+      </section>
+
     </body>
 </document>
