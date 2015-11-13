@@ -95,7 +95,7 @@ See http://forrest.apache.org/docs/linking.html for more info
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
         </msoff>
 
-        <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
+        <otherapps tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
           <indesign label="OpenOffice" href="otherapps.html"/>
           <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
           <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
@@ -130,9 +130,9 @@ See http://forrest.apache.org/docs/linking.html for more info
           <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
         </beta>
 
-        <beta tab="DevInfo" description="Developer info and source code links" label="Developer info">
+        <devs tab="DevInfo" description="Developer info and source code links" label="Developer info">
           <entry1 label="Download" href="devinfo.html"/>
-        </beta>
+        </devs>
 
     </korrektur>
 

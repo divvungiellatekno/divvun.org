@@ -35,10 +35,10 @@
       <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
   </tab>
   <tab id="korrektur" label="Proofing tools" dir="korrektur" indexfile="korrektur.html">
-        <tab dir="korrektur" id="OfficeApps" label="Office applications" indexfile="korrektur.html" />
-        <tab dir="korrektur" id="OtherApps"  label="Other applications"  indexfile="otherapps.html" />
-        <tab dir="korrektur" id="Beta"       label="Beta"                indexfile="beta.html"  />
-        <tab dir="korrektur" id="DevInfo"    label="Developer info"      indexfile="devinfo.html"  />
+        <tab dir="korrektur" id="OfficeApps" label="For office suites" indexfile="korrektur.html" />
+        <tab dir="korrektur" id="Browsers"   label="For web browsers"  indexfile="otherapps.html" />
+        <tab dir="korrektur" id="Beta"       label="OS-wide spellers"  indexfile="beta.html"  />
+        <tab dir="korrektur" id="DevInfo"    label="Developer info"    indexfile="devinfo.html"  />
   </tab>
   <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
         <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
