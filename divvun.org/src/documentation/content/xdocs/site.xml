@@ -92,7 +92,6 @@ See http://forrest.apache.org/docs/linking.html for more info
             <win label="Windows Installation" href="win-msoffice-video.html" />
             <mac label="Mac installation" href="mac-video.html" />
           </uservids>
-          <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
         </msoff>
 
         <browsers tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
