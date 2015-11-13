@@ -36,15 +36,17 @@
   </tab>
   <tab id="korrektur" label="Proofing tools" dir="korrektur" indexfile="korrektur.html">
         <tab dir="korrektur" id="OfficeApps" label="For office suites" indexfile="korrektur.html" />
-        <tab dir="korrektur" id="Browsers"   label="For web browsers"  indexfile="otherapps.html" />
-        <tab dir="korrektur" id="Beta"       label="OS-wide spellers"  indexfile="beta.html"  />
+        <tab dir="korrektur" id="Browsers"   label="For web browsers"  indexfile="browsers.html" />
+        <tab dir="korrektur" id="OSWide"     label="OS-wide spellers"  indexfile="beta.html"  />
+        <tab dir="korrektur" id="OtherApps"   label="Other installations" indexfile="otherapps.html" />
         <tab dir="korrektur" id="DevInfo"    label="Developer info"    indexfile="devinfo.html"  />
   </tab>
   <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
         <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
         <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobile.html" />
   </tab-->
-  
+  <tab dir="dicts/"     id="Dicts"     label="Dictionaries"     indexfile="dicts.html"    />
+
 <!-- Add new tabs here, eg:
   <tab label="How-Tos" dir="community/howto/"/>
   <tab label="XML Site" dir="xml-site/"/>

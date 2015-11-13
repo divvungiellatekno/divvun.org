@@ -95,7 +95,16 @@ See http://forrest.apache.org/docs/linking.html for more info
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
         </msoff>
 
-        <otherapps tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
+        <browsers tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
+          <index label="OpenOffice" href="browsers.html"/>
+        </browsers>
+
+        <beta tab="OSWide" description="Beta releases and prerelease versions" label="Beta and prerelease">
+          <entry1 label="Download" href="beta.html"/>
+          <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
+        </beta>
+
+        <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
           <indesign label="OpenOffice" href="otherapps.html"/>
           <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
           <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
@@ -125,42 +134,14 @@ See http://forrest.apache.org/docs/linking.html for more info
           </uservids>
         </otherapps>
 
-        <beta tab="Beta" description="Beta releases and prerelease versions" label="Beta and prerelease">
-          <entry1 label="Download" href="beta.html"/>
-          <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
-        </beta>
-
         <devs tab="DevInfo" description="Developer info and source code links" label="Developer info">
           <entry1 label="Download" href="devinfo.html"/>
         </devs>
 
     </korrektur>
 
-<!--
-  The href must be wholesite.html/pdf  You can change the labels and node names
-  <all label="All">
-    <whole_site_html label="Whole Site HTML" href="wholesite.html"/>
-    <whole_site_pdf label="Whole Site PDF" href="wholesite.pdf"/>
-  </all> 
-  -->
-  <external-refs>
-    <forrest href="http://forrest.apache.org/">
-      <linking href="docs/linking.html"/>
-      <validation href="docs/validation.html">
-        <catalog href="#catalog"/>
-        <debug-catalog href="#debug-catalog"/>
-      </validation>
-      <webapp href="docs/your-project.html#webapp"/>
-      <cap href="docs/cap.html"/>
-      <dtd-docs href="docs/dtd-docs.html"/>
-      <new_content_type href="docs/your-project.html#adding_new_content_type"/>
-      <buildPlugin href="docs/howto/howto-buildPlugin.html"/>
-      <dev href="howto-dev.html">
-        <debug-validation href="#debug-validation"/>
-      </dev>
-    </forrest>
-    <forrest-zone href="http://forrest.zones.apache.org/"/>
-    <cocoon href="http://cocoon.apache.org/"/>
-    <xml.apache.org href="http://xml.apache.org/"/>
-  </external-refs>
+    <dicts href="dicts/" tab="Dicts" label="Dictionaries">
+        <index href="dicts.html" label="Dictionaries"/>
+    </dicts>
+
 </site>
