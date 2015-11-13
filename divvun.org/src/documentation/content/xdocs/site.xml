@@ -41,13 +41,13 @@ See http://forrest.apache.org/docs/linking.html for more info
   xmlns:xi="http://www.w3.org/2001/XInclude"
   >
   <about label="About">
-    <index label="Index" href="index.html" description="Welcome to MyProj"/>
+    <index label="Index" href="index.html" description="Welcome to Divvun.org"/>
   </about>
 
     <korrektur tab="Korrektur" href="korrektur/" label="Korrektur">
-        <msoff tab="OfficeApps" label="Korrekturverktøy for MS Office">
-          <index  label="Siste versjon" href="korrektur.html"/>
-          <userdocs label="Vegledninger" href="userdocs/">
+        <msoff tab="OfficeApps" label="Spellers for office suites">
+          <index  label="Download page" href="korrektur.html"/>
+          <!--userdocs label="Vegledninger" href="userdocs/">
             <win label="Windows" href="win/">
               <msoff13 label="Divvun og MS Office 2013">
                 <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2013-win7-8.html" />
@@ -91,7 +91,7 @@ See http://forrest.apache.org/docs/linking.html for more info
           <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
             <win label="Windows Installation" href="win-msoffice-video.html" />
             <mac label="Mac installation" href="mac-video.html" />
-          </uservids>
+          </uservids-->
         </msoff>
 
         <browsers tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
@@ -107,7 +107,7 @@ See http://forrest.apache.org/docs/linking.html for more info
           <indesign label="OpenOffice" href="otherapps.html"/>
           <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
           <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
-          <userdocs label="Vegledninger" href="userdocs/">
+          <!--userdocs label="Vegledninger" href="userdocs/">
             <maclo label="OpenOffice and LibreOffice" >
                 <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
             </maclo>
@@ -130,7 +130,7 @@ See http://forrest.apache.org/docs/linking.html for more info
           </userdocs>
           <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
             <ooo label="OpenOffice Installation" href="ooo-video.html" />
-          </uservids>
+          </uservids-->
         </otherapps>
 
         <devs tab="DevInfo" description="Developer info and source code links" label="Developer info">
