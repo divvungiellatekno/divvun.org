@@ -38,7 +38,7 @@
         <tab dir="proofing" id="OfficeApps" label="For office suites" indexfile="proofing.html" />
         <tab dir="proofing" id="Browsers"   label="For web browsers"  indexfile="browsers.html" />
         <tab dir="proofing" id="OSWide"     label="OS-wide spellers"  indexfile="beta.html"  />
-        <tab dir="proofing" id="OtherApps"   label="Other installations" indexfile="otherapps.html" />
+        <tab dir="proofing" id="OtherApps"  label="Other installations" indexfile="otherapps.html" />
         <tab dir="proofing" id="DevInfo"    label="Developer info"    indexfile="devinfo.html"  />
   </tab>
   <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
