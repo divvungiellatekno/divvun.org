@@ -20,6 +20,9 @@
             for desktops and mobile systems:
             <img src="/images/android.png" alt="android"/> and <img src="/images/ios8.png" alt="iOS 8"/>
         </li-->
+        <li class="col-sm-6">
+            <a href="dicts/dicts.html">Dictionaries</a>, both web based and downloadable ones.
+        </li>
       </ul>
     </body>
 </document>
