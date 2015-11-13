@@ -6,37 +6,46 @@
         <title>Proofing tools for Office suites</title>
     </header>
     <body>
+
+      <p>This page contains download links for spelling checkers for some of the
+      most popular office suites that we support. Languages marked with <img
+      src="images/Beta-Stamp.png" height="30"/> are under development and will
+      contain known errors and often a very limited lexicon. Use on your own
+      risk! See the project pages for further details. See the <a
+      href="devinfo.html">developer info page</a> if you want to build your
+      speller from source.</p>
+
       <section>
-         <title>Spelling Checkers for Microsoft Office (Windows only)</title>
+         <title>Spelling checkers for Microsoft Office (Windows only)</title>
 
          <table>
          <tr>
            <th>Language:</th>
            <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Version</th>
            <th>Documentation and source code:</th>
          </tr>
          <tr>
            <td>Greenlandic</td>
-           <td><ul>
-                <li><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.msi">Download installer</a></li>
-           </ul></td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.msi">Download installer</a> </td>
            <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
            <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
-               More info <a href="devinfo.html">here</a>.
             </td>
          </tr>
          </table>
       </section>
 
       <section>
-         <title>Spelling Checkers for LibreOffice</title>
+         <title>Spelling checkers for LibreOffice</title>
 
          <table>
          <tr>
            <th>Language:</th>
            <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Version </th>
            <th>Documentation and source code:</th>
          </tr>
          <tr>
@@ -46,10 +55,10 @@
                 <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project</a>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
-               More info <a href="devinfo.html">here</a>.
             </td>
          </tr>
          <tr>
@@ -59,23 +68,24 @@
                 <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
-               More info <a href="devinfo.html">here</a>.
             </td>
          </tr>
          <tr>
-           <td>Kven</td>
+           <td><img src="images/Beta-Stamp.png"
+                height="30"/>Kven</td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
                 <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project</a>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
-               More info <a href="devinfo.html">here</a>.
            </td>
          </tr>
          </table>
