@@ -34,8 +34,8 @@
       <tab id="about" label="About Divvun.org" dir="" indexfile="index.html" />
       <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
   </tab>
-  <tab id="Proofing" label="Proofing tools" dir="proofing" indexfile="korrektur.html">
-        <tab dir="proofing" id="OfficeApps" label="For office suites" indexfile="korrektur.html" />
+  <tab id="Proofing" label="Proofing tools" dir="proofing" indexfile="proofing.html">
+        <tab dir="proofing" id="OfficeApps" label="For office suites" indexfile="proofing.html" />
         <tab dir="proofing" id="Browsers"   label="For web browsers"  indexfile="browsers.html" />
         <tab dir="proofing" id="OSWide"     label="OS-wide spellers"  indexfile="beta.html"  />
         <tab dir="proofing" id="OtherApps"   label="Other installations" indexfile="otherapps.html" />
