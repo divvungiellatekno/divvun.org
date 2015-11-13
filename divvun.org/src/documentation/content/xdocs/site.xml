@@ -94,8 +94,9 @@ See http://forrest.apache.org/docs/linking.html for more info
           </uservids-->
         </msoff>
 
-        <browsers tab="Browsers" description="Download files from divvun.no" label="Last ned for andre program" >
-          <index label="OpenOffice" href="browsers.html"/>
+        <browsers tab="Browsers" description="Download files from divvun.no"
+                  label="Proofing tools for web browsers" >
+          <index label="Browser spelling checkers" href="browsers.html"/>
         </browsers>
 
         <beta tab="OSWide" description="Beta releases and prerelease versions" label="Beta and prerelease">

@@ -3,65 +3,35 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Downloads</title>
+      <title>Browser spelling checkers</title>
    </header>
    <body>
         <section>
-            <title>Download Divvun</title>
-            <table>
-            <tr><td>
-            <ul>
-              <li class="Download"><a
-              href="http://divvun.no/static_files/smi.oxt"><icon
-                alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" /><icon
-                alt="Right arrow" height="18" width="18"
-                src="images/arrow-right-icon.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/Galaxy_OOo3_main_256.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/LibreOfficeIcon.png"/><icon
-                alt="Windows" height="32" width="32"
-                src="images/windows.png" /><icon
-                alt="MacOSX" height="32" width="32"
-                src="images/mac.png" /><icon
-                alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
-              </li>
-            </ul></td>
-            <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="Linux" height="12" width="12"
-                src="images/Linux_Icon_256.png" />Linux instructions</a>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="MacOSX" height="12" width="12"
-                src="images/mac.png" />MacOSX instructions</a>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="Windows" height="12" width="12"
-                src="images/windows.png" />Windows instructions</a>
-            </td>
-            <td>
-            <br/><a href="userdocs/videos/ooo-video.html">
-              <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>Instructional videos</a></td>
-            </tr>
-            <tr>
-            <td colspan="4"><p class="line"/></td>
-            </tr>
-            </table>
+            <title>Internet Explorer / Edge</title>
+            <p>Sorry, no support - YET. This should in principle be possible
+            since Windows 8. It requires a system-wite speller. We are working
+            on it, but it has turned out to be harder than anticipated. We'll
+            update the page as soon as we have news.</p>
         </section>
 
       <section>
-         <title>Other installation options</title>
-         <ul>
-            <li>Divvun for MacOS X: <a href="userdocs/mac/install-macosx-10.6.html">instructions</a> on how to install
-            and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="userdocs/linux/install-linux.html">instructions</a> on how to install and
-            use the Divvun tools in Linux</li>
-         </ul>
+         <title>Chrome</title>
+            <p>Sorry - no support. Chrome uses Google's own spelling checker,
+            which we don't have access to. And Google does not support the
+            languages we are working on (please proove us wrong, Google!).</p>
+      </section>
+
+      <section>
+         <title>Safari</title>
+            <p>Safari uses the OS-wide spelling service in OSX. See the download
+            options on the page for <a href="">OS-wide spelling checkers</a>.</p>
+      </section>
+
+      <section>
+         <title>Firefox</title>
+            <p>There are actually two sets of Firefox spelling plugins, one
+            made by Tino Didriksen, and another built using <a href="">Mozvoikko</a>. The
+            language coverage is different for the two, with some overlap.</p>
       </section>
    </body>
 </document>
