@@ -44,7 +44,7 @@ See http://forrest.apache.org/docs/linking.html for more info
     <index label="Index" href="index.html" description="Welcome to Divvun.org"/>
   </about>
 
-    <korrektur tab="Korrektur" href="korrektur/" label="Korrektur">
+    <korrektur tab="Proofing" href="proofing/" label="Korrektur">
         <msoff tab="OfficeApps" label="Spellers for office suites">
           <index  label="Download page" href="korrektur.html"/>
           <!--userdocs label="Vegledninger" href="userdocs/">
