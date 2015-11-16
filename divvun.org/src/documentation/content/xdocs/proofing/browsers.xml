@@ -24,14 +24,94 @@
       <section>
          <title>Safari</title>
             <p>Safari uses the OS-wide spelling service in OSX. See the download
-            options on the page for <a href="">OS-wide spelling checkers</a>.</p>
+            options on the page for <a href="oswide.html">OS-wide spelling checkers</a>.</p>
       </section>
 
       <section>
          <title>Firefox</title>
             <p>There are actually two sets of Firefox spelling plugins, one
-            made by Tino Didriksen, and another built using <a href="">Mozvoikko</a>. The
+            made by Tino Didriksen, and another built using <a
+            href="https://github.com/voikko/mozvoikko">Mozvoikko</a>. The
             language coverage is different for the two, with some overlap.</p>
+
+            <p>In the lists below, click the name of the language you want to download.</p>
+
+          <section>
+             <title>Didriksen spellers</title>
+             <table>
+             <tr>
+               <th>Download language: </th>
+               <th>Version: </th>
+               <th>Documentation and source code:</th>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.xpi">Greenlandic</a></td>
+               <td>N/A </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kaz-latest.xpi">Kazakh</a></td>
+               <td>N/A </td>
+               <td><a href="http://wiki.apertium.org/wiki/Kazakh">Kazakh project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kaz/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kir-latest.xpi">Kyrgyz (Kirghiz)</a></td>
+               <td>N/A </td>
+               <td><a href="http://wiki.apertium.org/wiki/Kyrgyz">Kyrgyz project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kir/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tat-latest.xpi">Tatar</a></td>
+               <td>N/A </td>
+               <td><a href="http://wiki.apertium.org/wiki/Tatar">Tatar project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tat/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tyv-latest.xpi">Tuvinian</a></td>
+               <td>N/A </td>
+               <td><a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tyv/">Tuvinian source code</a>.
+                </td>
+             </tr>
+             </table>
+          </section>
+
+          <section>
+             <title>MozVoikko spellers</title>
+             <table>
+             <tr>
+               <th>Download language: </th>
+               <th>Version: </th>
+               <th>Documentation and source code:</th>
+             </tr>
+             <tr>
+               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-kal.xpi">Greenlandic</a></td>
+               <td>N/A </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                </td>
+             </tr>
+             </table>
+          </section>
+
+         <p><strong>Installation:</strong> Double click the xpi file, and follow
+         the instructions.</p>
+
+         <p><strong>Usage:</strong> When writing in Firefox (or another Mozilla
+         application), right-click on the text you are writing, and in the menu
+         that pops up, select the submenu <strong>Language</strong>, and from
+         there select the language you want the spell checker to use.</p>
+
       </section>
    </body>
 </document>
