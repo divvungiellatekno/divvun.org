@@ -32,7 +32,10 @@
             <p>There are actually two sets of Firefox spelling plugins, one
             made by Tino Didriksen, and another built using <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>. The
-            language coverage is different for the two, with some overlap.</p>
+            language coverage is different for the two, with some overlap.
+            Another difference is that the Didriksen spellers <em>only work on
+            Windows</em> (for now), whereas the MozVoikko spellers work on both
+            Windows and OSX.</p>
 
             <p>In the lists below, click the name of the language you want to download.</p>
 
