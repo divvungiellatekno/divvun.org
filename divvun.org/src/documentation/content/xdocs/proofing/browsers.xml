@@ -18,7 +18,7 @@
          <title>Chrome</title>
             <p>Sorry - no support. Chrome uses Google's own spelling checker,
             which we don't have access to. And Google does not support the
-            languages we are working on (please proove us wrong, Google!).</p>
+            languages we are working on (please prove us wrong, Google!).</p>
       </section>
 
       <section>
@@ -46,7 +46,7 @@
              </tr>
              <tr>
                <td><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.xpi">Greenlandic</a></td>
-               <td>N/A </td>
+               <td>Nightly build </td>
                <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
                    and
                    <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
@@ -54,7 +54,7 @@
              </tr>
              <tr>
                <td><a href="http://apertium.projectjj.com/spellers/Apertium-kaz-latest.xpi">Kazakh</a></td>
-               <td>N/A </td>
+               <td>Nightly build </td>
                <td><a href="http://wiki.apertium.org/wiki/Kazakh">Kazakh project documentation</a>
                    and
                    <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kaz/">source code</a>.
@@ -62,7 +62,7 @@
              </tr>
              <tr>
                <td><a href="http://apertium.projectjj.com/spellers/Apertium-kir-latest.xpi">Kyrgyz (Kirghiz)</a></td>
-               <td>N/A </td>
+               <td>Nightly build </td>
                <td><a href="http://wiki.apertium.org/wiki/Kyrgyz">Kyrgyz project documentation</a>
                    and
                    <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kir/">source code</a>.
@@ -70,7 +70,7 @@
              </tr>
              <tr>
                <td><a href="http://apertium.projectjj.com/spellers/Apertium-tat-latest.xpi">Tatar</a></td>
-               <td>N/A </td>
+               <td>Nightly build </td>
                <td><a href="http://wiki.apertium.org/wiki/Tatar">Tatar project documentation</a>
                    and
                    <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tat/">source code</a>.
@@ -78,7 +78,7 @@
              </tr>
              <tr>
                <td><a href="http://apertium.projectjj.com/spellers/Apertium-tyv-latest.xpi">Tuvinian</a></td>
-               <td>N/A </td>
+               <td>Nightly build </td>
                <td><a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tyv/">Tuvinian source code</a>.
                 </td>
              </tr>
