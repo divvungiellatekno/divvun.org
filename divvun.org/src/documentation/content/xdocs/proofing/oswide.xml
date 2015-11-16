@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>OS-wide spelling checkers</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux</meta>
+   </header>
+   <body>
+
+      <section>
+         <title>Windows</title>
+
+         <p>There is work going on to develop an OS-wide speller for Windows.
+         The page will be updated as soon as we have new information.</p>
+
+      </section>
+
+      <section>
+         <title>OSX</title>
+
+         <table>
+         <tr>
+           <th>Language:</th>
+           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th>Version </th>
+           <th>Documentation and source code:</th>
+         </tr>
+         <tr>
+           <td>Finnish</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>Greenlandic</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td><img src="images/Beta-Stamp.png"
+                height="30"/>Kven</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+           </td>
+         </tr>
+         </table>
+
+         <p><strong>Installation:</strong> Move the downloaded zip file to
+         <code>~/Library/Services/</code>, and double-click the file. Finally,
+         double-click the resulting file, or log out and back in. To verify that
+         the speller is working, open <strong>System Preferences > Keyboard >
+         Text</strong>, and verify that your language is listed in the menu
+         <strong>Spelling</strong> with <strong>«(MacVoikko)»</strong>
+         after the language name. If not, restart your computer.</p>
+
+         <p><strong>Usage:</strong> In applications using the system spelling
+         checker services (most apps), just open the spelling checker dialog
+         (<strong>Edit > Spelling and Grammar > Show Spelling and Grammar</strong>), and select
+         your language in the language menu. If you always want to spell check
+         in this language, you can make it the default spell checking language
+         in System Preferences.</p>
+
+      </section>
+
+      <section>
+         <title>Linux</title>
+
+         <p>OS-wide spellers for Linux have to be built from source, but most of
+         the required packages are available as standard, or easily isntallable
+         for the various distributions. Further instructions can be found
+         <a href="#">here</a>, together with links to source tarballs for the
+         supported languages.</p>
+         
+      </section>
+
+   </body>
+</document>

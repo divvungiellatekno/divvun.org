@@ -99,10 +99,10 @@ See http://forrest.apache.org/docs/linking.html for more info
           <index label="Browser spelling checkers" href="browsers.html"/>
         </browsers>
 
-        <beta tab="OSWide" description="Beta releases and prerelease versions" label="Beta and prerelease">
-          <entry1 label="Download" href="beta.html"/>
+        <oswide tab="OSWide" description="Beta releases and prerelease versions" label="Beta and prerelease">
+          <entry1 label="Download" href="oswide.html"/>
           <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
-        </beta>
+        </oswide>
 
         <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
           <indesign label="OpenOffice" href="otherapps.html"/>
