@@ -109,13 +109,20 @@
              </table>
           </section>
 
-         <p><strong>Installation:</strong> Double click the xpi file, and follow
-         the instructions.</p>
+         <p><strong>Installation:</strong> Double click the downloaded xpi file,
+         and follow the instructions.</p>
 
          <p><strong>Usage:</strong> When writing in Firefox (or another Mozilla
          application), right-click on the text you are writing, and in the menu
          that pops up, select the submenu <strong>Language</strong>, and from
          there select the language you want the spell checker to use.</p>
+
+         <img src="userdocs/firefox/images/LanguageMenu_OSX.png"/>
+
+         <warning label="NOTE">As seen in the screen shot above, Firefox does
+         not know the name of many languages. In these cases only the <a
+         href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
+         639</a> language code is listed in the menu.</warning>
 
       </section>
    </body>
