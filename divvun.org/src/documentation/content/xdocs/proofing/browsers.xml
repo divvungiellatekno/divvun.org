@@ -114,8 +114,9 @@
 
          <p><strong>Usage:</strong> When writing in Firefox (or another Mozilla
          application), right-click on the text you are writing, and in the menu
-         that pops up, select the submenu <strong>Language</strong>, and from
-         there select the language you want the spell checker to use.</p>
+         that pops up, select the submenu <strong>Languages</strong>, and from
+         there select the language you want the spell checker to use. You will
+         get red underlines under misspelled words.</p>
 
          <img src="userdocs/firefox/images/LanguageMenu_OSX.png"/>
 
