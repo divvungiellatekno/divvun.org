@@ -29,7 +29,7 @@
          <tr>
            <td>Finnish</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">For MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
@@ -41,7 +41,7 @@
          <tr>
            <td>Greenlandic</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/zips/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
@@ -54,7 +54,7 @@
            <td><img src="images/Beta-Stamp.png"
                 height="30"/>Kven</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">For MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
@@ -86,7 +86,7 @@
          <title>Linux</title>
 
          <p>OS-wide spellers for Linux have to be built from source, but most of
-         the required packages are available as standard, or easily isntallable
+         the required packages are available as standard, or easily installable
          for the various distributions. Further instructions can be found
          <a href="#">here</a>, together with links to source tarballs for the
          supported languages.</p>
