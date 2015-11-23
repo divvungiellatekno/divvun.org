@@ -9,7 +9,7 @@
         <section>
             <title>Internet Explorer / Edge</title>
             <p>Sorry, no support - YET. It requires a <a
-            href="oswide.html">system-wide speller</a>, which should in
+            href="oswide.html">OS-wide speller</a>, which should in
             principle be possible since Windows 8. We are working
             on it, but it has turned out to be harder than anticipated. We'll
             update the page as soon as we have news.</p>
@@ -125,6 +125,13 @@
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
          639</a> language code is listed in the menu.</warning>
 
+          <section>
+             <title>Firefox on Linux</title>
+             <p>The MozVoikko speller is available on Linux, but presently
+             without support for our speller lexicons. Support should appear in
+             most distributions later, but that may take some time. In the
+             meantime, you can build directly from source.</p>
+          </section>
       </section>
    </body>
 </document>
