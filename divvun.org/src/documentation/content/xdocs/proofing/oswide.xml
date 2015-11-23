@@ -18,6 +18,11 @@
 
       <section>
          <title>OSX</title>
+         <p><img src="images/Beta-Stamp.png" height="30"/>The OSX system-wide
+         spellers are still beta quality. The main remaining issue is related to
+         installing multiple languages - <a
+         href="mailto:feedback@divvun.no">please ask us</a> for advice if you
+         want spelling checkers for multiple languages.</p>
 
          <table>
          <tr>
@@ -41,7 +46,7 @@
          <tr>
            <td>Greenlandic</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/zips/kl_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">For MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
@@ -65,9 +70,14 @@
          </tr>
          </table>
 
-         <p><strong>Installation:</strong> Move the downloaded zip file to
-         <code>~/Library/Services/</code>, and double-click the file. Finally,
-         double-click the resulting file, or log out and back in. To verify that
+         <p><strong>Installation:</strong> Move the downloaded file to
+         <code>~/Library/Services/</code>: open a new Finder window, choose the
+         menu item <strong>Go > Go to folder ...</strong>, type
+         <code>~/Library/Services/</code> and press enter. Then move the
+         downloaded file into this folder. Double-click the file after you have
+         moved it, or log out and back in.</p>
+
+         <p>To verify that
          the speller is working, open <strong>System Preferences > Keyboard >
          Text</strong>, and verify that your language is listed in the menu
          <strong>Spelling</strong> with <strong>«(MacVoikko)»</strong>
