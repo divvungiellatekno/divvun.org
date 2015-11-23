@@ -42,7 +42,7 @@ which will be used to configure the chosen Forrest skin.
     (if the skin supports it) -->
   <disable-compliance-links>true</disable-compliance-links>
 <!-- Render mailto: links unrecognisable by spam harvesters? -->
-  <obfuscate-mail-links>true</obfuscate-mail-links>
+  <obfuscate-mail-links>false</obfuscate-mail-links>
   <obfuscate-mail-value>.at.</obfuscate-mail-value>
 <!-- Disable the javascript facility to change the font size -->
   <disable-font-script>true</disable-font-script>
