@@ -90,8 +90,14 @@ make
 sudo make install</source>
             </li>
 
-            <li>Download the tarball for your language in the list below, unpack
-                and run the following commands:
+            <li>Download the language source code tarball for your language:
+                <ul>
+                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
+                </ul>
+            </li>
+            <li>Unpack and run the following commands:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
@@ -99,13 +105,6 @@ make
 sudo make install</source>
                 <p>Replace <code>YOURLANGUAGE</code> with the name of the language
                 directory you just unpacked.</p>
-
-                <p>Language tarballs:</p>
-                <ul>
-                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
-                </ul>
 
             </li>
          </ol>

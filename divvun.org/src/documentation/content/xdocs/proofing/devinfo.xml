@@ -3,8 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Beta Proofing Tools for LibreOffice</title>
-      <meta name="description">Saami speller, Saami spell checker</meta>
+      <title>Developer info</title>
    </header>
    <body>
 
@@ -34,12 +33,12 @@
       </section>
 
       <section>
-         <title>For developers</title>
+         <title>Source code access</title>
 
-         <p>The source code for each language is available at the links behind each
-         download link,
-         and instructions for how to build each language can be found by
-         following the instructions <a href="/doc/infra/GettingStarted.html">here.</a></p>
+         <p>The source code repository for each language is found behind the
+         links after each download link, and instructions for how to build each
+         language can be found by following the instructions <a
+         href="/doc/infra/GettingStarted.html">here.</a></p>
 
       </section>
 
