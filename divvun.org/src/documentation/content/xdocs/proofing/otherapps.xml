@@ -58,8 +58,9 @@
                   More possible locations are listed <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
                   >here</a>, look for the heading «Search order for dictionary
-                  files». Remember to always put the zhfst files in a directory
-                  named «3» within those directories mentioned on that page.
+                  files». Remember to always put the <code>.zhfst</code> files
+                  in a directory named «3» within those directories mentioned on
+                  that page.
               </li>
               <li>Log out and log back in</li>
             </ol>
