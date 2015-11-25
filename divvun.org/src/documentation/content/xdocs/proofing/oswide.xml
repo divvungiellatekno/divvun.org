@@ -17,8 +17,8 @@
       </section>
 
       <section>
-         <title>OSX</title>
-         <p><img src="images/Beta-Stamp.png" height="30"/>The OSX system-wide
+         <title><icon src="images/Beta-Stamp.png" height="30"/>OSX</title>
+         <p>The OSX system-wide
          spellers are still beta quality. The main remaining issue is related to
          installing multiple languages - <a
          href="mailto:feedback@divvun.no">please ask us</a> for advice if you
