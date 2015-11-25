@@ -39,7 +39,7 @@
                    </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/fkv.zhfst">Kven<img src="images/Beta-Stamp.png" height="30"/></a></td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/fkv.zhfst">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
                   <td>N/A </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
                       and
@@ -83,20 +83,20 @@
             <li>Download the <a
                 href="">giella core tarball</a>, which contains prerequisites for all
                 languages. After the download, unpack and do the following:
-                <pre>
+                <source>
 cd gtcore
 ./configure
 make
-sudo make install</pre>
+sudo make install</source>
             </li>
 
             <li>Download the tarball for your language in the list below, unpack
                 and run the following commands:
-                <pre>
+                <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
-sudo make install</pre>
+sudo make install</source>
                 <p>Replace <code>YOURLANGUAGE</code> with the name of the language
                 directory you just unpacked.</p>
 
@@ -104,7 +104,7 @@ sudo make install</pre>
                 <ul>
                   <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30"/></a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
                 </ul>
 
             </li>
