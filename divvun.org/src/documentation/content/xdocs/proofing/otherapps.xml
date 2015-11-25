@@ -3,59 +3,70 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Downloads</title>
+      <title>Other installation options</title>
    </header>
    <body>
         <section>
-            <title>Download Divvun</title>
-            <table>
-            <tr><td>
-            <ul>
-              <li class="Download"><a
-              href="http://divvun.no/static_files/smi.oxt"><icon
-                alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" /><icon
-                alt="Right arrow" height="18" width="18"
-                src="images/arrow-right-icon.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/Galaxy_OOo3_main_256.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/LibreOfficeIcon.png"/><icon
-                alt="Windows" height="32" width="32"
-                src="images/windows.png" /><icon
-                alt="MacOSX" height="32" width="32"
-                src="images/mac.png" /><icon
-                alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+            <title>Multiple languages</title>
+
+            <p>When installing the spellers listed on the other tabs, you get
+            one language as part of the installation. For now, you can't install
+            more than one such speller at a time. If you want to install
+            additional languages, follow the instructions below.</p>
+
+            <ol>
+              <li>Download zhfst files
+                <table>
+                <tr>
+                  <th>Download language: </th>
+                  <th>Version: </th>
+                  <th>Documentation and source code:</th>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/fi.zhfst">Finnish</a></td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
+                      and
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
+                   </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/kl.zhfst">Greenlandic</a></td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+                      and
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                   </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/fkv.zhfst">Kven<img src="images/Beta-Stamp.png" height="30"/></a></td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
+                      and
+                  <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+                  </td>
+                </tr>
+                </table>
               </li>
-            </ul></td>
-            <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="Linux" height="12" width="12"
-                src="images/Linux_Icon_256.png" />Linux instructions</a>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="MacOSX" height="12" width="12"
-                src="images/mac.png" />MacOSX instructions</a>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
-                alt="Windows" height="12" width="12"
-                src="images/windows.png" />Windows instructions</a>
-            </td>
-            <td>
-            <br/><a href="userdocs/videos/ooo-video.html">
-              <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>Instructional videos</a></td>
-            </tr>
-            <tr>
-            <td colspan="4"><p class="line"/></td>
-            </tr>
-            </table>
+              <li>Move the downloaded zhfst file(s) to one of the directories
+                  searched by the spellers:
+                  <ul>
+                    <li>Windows: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                  </ul>
+                  More possible locations are listed <a
+                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
+                  >here</a>, look for the heading «Search order for dictionary
+                  files». Remember to always put the zhfst files in a directory
+                  named «3» within those directories mentioned on that page.
+              </li>
+            </ol>
+
         </section>
 
       <section>
-         <title>Other installation options</title>
+         <title>Build spellers from source</title>
          <ul>
             <li>Divvun for MacOS X: <a href="userdocs/mac/install-macosx-10.6.html">instructions</a> on how to install
             and use the Divvun tools in Mac OS X</li>
