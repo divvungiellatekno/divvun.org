@@ -56,8 +56,7 @@
             </td>
          </tr>
          <tr>
-           <td><img src="images/Beta-Stamp.png"
-                height="30"/>Kven</td>
+           <td>Kven<img src="images/Beta-Stamp.png" height="30"/></td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">For MacOSX</a></li>
            </ul></td>
@@ -69,6 +68,11 @@
            </td>
          </tr>
          </table>
+
+         <p>Languages marked with <img src="images/Beta-Stamp.png" height="30"/>
+         are under development and will contain known errors and often a very
+         limited lexicon. Use carefully! Don't trust the speller! They are still
+         considered good enough to provide useful help when writing.</p>
 
          <p><strong>Installation:</strong> Move the downloaded file to
          <code>~/Library/Services/</code>: open a new Finder window, choose the
@@ -97,9 +101,9 @@
 
          <p>OS-wide spellers for Linux have to be built from source, but most of
          the required packages are available as standard, or easily installable
-         for the various distributions. Further instructions can be found
-         <a href="#">here</a>, together with links to source tarballs for the
-         supported languages.</p>
+         for the various distributions. Further instructions can be found <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
+         together with links to source tarballs for the supported languages.</p>
          
       </section>
 
