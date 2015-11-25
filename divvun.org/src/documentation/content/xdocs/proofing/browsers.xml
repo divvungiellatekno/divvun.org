@@ -118,7 +118,7 @@
          there select the language you want the spell checker to use. You will
          get red underlines under misspelled words.</p>
 
-         <img src="userdocs/firefox/images/LanguageMenu_OSX.png"/>
+         <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
          <warning label="NOTE">As seen in the screen shot above, Firefox does
          not know the name of many languages. In these cases only the <a
