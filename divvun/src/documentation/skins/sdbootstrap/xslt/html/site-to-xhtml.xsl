@@ -288,17 +288,17 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         <xsl:choose>
             <xsl:when test="//skinconfig/headings/@type='underlined'">
                 <h2 class="underlined_10">
-                    <xsl:value-of select="h1"/>
+                    <xsl:apply-templates select="(h1/title/*|h1/title/text())"/>
                 </h2>
             </xsl:when>
             <xsl:when test="//skinconfig/headings/@type='boxed'">
                 <h2 class="boxed">
-                    <xsl:value-of select="h1"/>
+                    <xsl:apply-templates select="(h1/title/*|h1/title/text())"/>
                 </h2>
             </xsl:when>
             <xsl:otherwise>
                 <h2 class="h3">
-                    <xsl:value-of select="h1"/>
+                    <xsl:apply-templates select="(h1/title/*|h1/title/text())"/>
                 </h2>
             </xsl:otherwise>
         </xsl:choose>
@@ -308,17 +308,17 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         <xsl:choose>
             <xsl:when test="//skinconfig/headings/@type='underlined'">
                 <h3 class="underlined_5">
-                    <xsl:value-of select="h2"/>
+                    <xsl:apply-templates select="(h2/title/*|h2/title/text())"/>
                 </h3>
             </xsl:when>
             <xsl:when test="//skinconfig/headings/@type='boxed'">
                 <h3 class="boxed">
-                    <xsl:value-of select="h2"/>
+                    <xsl:apply-templates select="(h2/title/*|h2/title/text())"/>
                 </h3>
             </xsl:when>
             <xsl:otherwise>
                 <h3 class="h4">
-                    <xsl:value-of select="h2"/>
+                    <xsl:apply-templates select="(h2/title/*|h2/title/text())"/>
                 </h3>
             </xsl:otherwise>
         </xsl:choose>

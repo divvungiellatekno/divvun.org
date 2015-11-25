@@ -109,7 +109,7 @@ Section handling
     <xsl:apply-templates select="@id"/>
 <!-- generate a title element, level 1 -> h3, level 2 -> h4 and so on... -->
     <xsl:element name="{concat('h',$sectiondepth + 2)}">
-      <xsl:value-of select="title"/>
+      <xsl:apply-templates select="title"/>
       <xsl:if test="$notoc='true' and $sectiondepth = 3">
         <span style="float: right"><a href="#{@id}-menu">^</a>
         </span>

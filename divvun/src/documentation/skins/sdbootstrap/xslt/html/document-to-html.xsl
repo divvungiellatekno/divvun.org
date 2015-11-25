@@ -100,7 +100,7 @@ imported document-to-html.xsl for details.
       <xsl:when test="$level=1">
         <div class="skinconf-heading-{$level}">
           <h1>
-            <xsl:value-of select="title"/>
+            <xsl:apply-templates select="title"/>
           </h1>
         </div>
         <div class="section">
@@ -110,7 +110,7 @@ imported document-to-html.xsl for details.
       <xsl:when test="$level=2">
         <div class="skinconf-heading-{$level}">
           <h2>
-            <xsl:value-of select="title"/>
+            <xsl:apply-templates select="title"/>
           </h2>
         </div>
         <xsl:apply-templates select="*[not(self::title)]"/>
@@ -118,7 +118,7 @@ imported document-to-html.xsl for details.
 <!-- If a faq, answer sections will be level 3 (1=Q/A, 2=part) -->
       <xsl:when test="$level=3 and $notoc='true'">
         <h4 class="faq">
-          <xsl:value-of select="title"/>
+          <xsl:apply-templates select="title"/>
         </h4>
         <div align="right"><a href="#{@id}-menu">^</a>
         </div>
@@ -128,13 +128,13 @@ imported document-to-html.xsl for details.
       </xsl:when>
       <xsl:when test="$level=3">
         <h4>
-          <xsl:value-of select="title"/>
+          <xsl:apply-templates select="title"/>
         </h4>
         <xsl:apply-templates select="*[not(self::title)]"/>
       </xsl:when>
       <xsl:otherwise>
         <h5>
-          <xsl:value-of select="title"/>
+          <xsl:apply-templates select="title"/>
         </h5>
         <xsl:apply-templates select="*[not(self::title)]"/>
       </xsl:otherwise>
