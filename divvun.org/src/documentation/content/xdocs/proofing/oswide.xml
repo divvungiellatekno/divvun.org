@@ -17,7 +17,7 @@
       </section>
 
       <section>
-         <title><icon src="images/Beta-Stamp.png" height="30"/>OSX</title>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX</title>
          <p>The OSX system-wide
          spellers are still beta quality. The main remaining issue is related to
          installing multiple languages - <a
@@ -47,7 +47,7 @@
             </td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30"/></a></td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
            <td>N/A </td>
            <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
                and
@@ -56,10 +56,11 @@
          </tr>
          </table>
 
-         <p>Languages marked with <img src="images/Beta-Stamp.png" height="30"/>
-         are under development and will contain known errors and often a very
-         limited lexicon. Use carefully! Don't trust the speller! They are still
-         considered good enough to provide useful help when writing.</p>
+         <p>Languages marked with <img src="images/Beta-Stamp.png" height="30"
+         alt="BETA"/> are under development and will contain known errors and
+         often a very limited lexicon. Use carefully! Don't trust the speller!
+         They are still considered good enough to provide useful help when
+         writing.</p>
 
          <p><strong>Installation:</strong> Move the downloaded file to
          <code>~/Library/Services/</code>: open a new Finder window, choose the
