@@ -51,7 +51,7 @@
               <li>Move the downloaded zhfst file(s) to one of the directories
                   searched by the spellers:
                   <ul>
-                    <li>Windows: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>Windows: no fixed location, see link below</li>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
@@ -61,18 +61,54 @@
                   files». Remember to always put the zhfst files in a directory
                   named «3» within those directories mentioned on that page.
               </li>
+              <li>Log out and log back in</li>
             </ol>
 
         </section>
 
       <section>
          <title>Build spellers from source</title>
-         <ul>
-            <li>Divvun for MacOS X: <a href="userdocs/mac/install-macosx-10.6.html">instructions</a> on how to install
-            and use the Divvun tools in Mac OS X</li>
-            <li>Divvun for Linux: <a href="userdocs/linux/install-linux.html">instructions</a> on how to install and
-            use the Divvun tools in Linux</li>
-         </ul>
+
+         <p>It is possible to build your own spellers directly from source, and
+         as part of that also modify the source to fit your needs. Do as
+         follows:</p>
+
+         <ol>
+            <li>Follow the instructions <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">here</a>
+                to make sure you have all tools required to build your own
+                speller.</li>
+
+            <li>Download the <a
+                href="">giella core tarball</a>, which contains prerequisites for all
+                languages. After the download, unpack and do the following:
+                <pre>
+cd gtcore
+./configure
+make
+sudo make install</pre>
+            </li>
+
+            <li>Download the tarball for your language in the list below, unpack
+                and run the following commands:
+                <pre>
+cd YOURLANGUAGE
+./configure --with-hfst --enable-spellers
+make
+sudo make install</pre>
+                <p>Replace <code>YOURLANGUAGE</code> with the name of the language
+                directory you just unpacked.</p>
+
+                <p>Language tarballs:</p>
+                <ul>
+                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30"/></a></li>
+                </ul>
+
+            </li>
+         </ol>
+
       </section>
    </body>
 </document>
