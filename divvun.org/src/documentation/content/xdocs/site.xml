@@ -94,20 +94,17 @@ See http://forrest.apache.org/docs/linking.html for more info
           </uservids-->
         </msoff>
 
-        <browsers tab="Browsers" description="Download files from divvun.no"
+        <browsers tab="Browsers" description="Proofing tools for web browsers"
                   label="Proofing tools for web browsers" >
           <index label="Browser spelling checkers" href="browsers.html"/>
         </browsers>
 
-        <oswide tab="OSWide" description="Beta releases and prerelease versions" label="Beta and prerelease">
-          <entry1 label="Download" href="oswide.html"/>
-          <entry2 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
+        <oswide tab="OSWide" description="Spelling checkers for the whole operating system" label="OS-wide spellers">
+          <index label="OS-wide spellers" href="oswide.html"/>
         </oswide>
 
-        <otherapps tab="OtherApps" description="Download files from divvun.no" label="Last ned for andre program" >
-          <indesign label="OpenOffice" href="otherapps.html"/>
-          <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
-          <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
+        <otherapps tab="OtherApps" description="Other installation options" label="Other installation options" >
+          <indesign label="Other installations" href="otherapps.html"/>
           <!--userdocs label="Vegledninger" href="userdocs/">
             <maclo label="OpenOffice and LibreOffice" >
                 <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
@@ -135,7 +132,7 @@ See http://forrest.apache.org/docs/linking.html for more info
         </otherapps>
 
         <devs tab="DevInfo" description="Developer info and source code links" label="Developer info">
-          <entry1 label="Download" href="devinfo.html"/>
+          <index label="Developer info" href="devinfo.html"/>
         </devs>
 
     </korrektur>
