@@ -26,17 +26,12 @@
 
          <table>
          <tr>
-           <th>Language:</th>
-           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
-           <th>Version </th>
+           <th>Download language: </th>
+           <th>Version: </th>
            <th>Documentation and source code:</th>
          </tr>
          <tr>
-           <td>Finnish</td>
-           <td><ul>
-                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">For MacOSX</a></li>
-           </ul></td>
-           <td> </td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">Finnish</a></td>
            <td>N/A </td>
            <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
                and
@@ -44,11 +39,7 @@
             </td>
          </tr>
          <tr>
-           <td>Greenlandic</td>
-           <td><ul>
-                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">For MacOSX</a></li>
-           </ul></td>
-           <td> </td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">Greenlandic</a></td>
            <td>N/A </td>
            <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
                and
@@ -56,11 +47,7 @@
             </td>
          </tr>
          <tr>
-           <td>Kven<img src="images/Beta-Stamp.png" height="30"/></td>
-           <td><ul>
-                <li><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">For MacOSX</a></li>
-           </ul></td>
-           <td> </td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30"/></a></td>
            <td>N/A </td>
            <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
                and
