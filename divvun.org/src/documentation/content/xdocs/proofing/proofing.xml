@@ -8,7 +8,7 @@
     <body>
 
       <p>This page contains download links for spelling checkers for some of the
-      most popular office suites that we support. Languages marked with <img
+      most popular office suites that we support. Languages marked with <img alt="BETA"
       src="images/Beta-Stamp.png" height="30"/> are under development and will
       contain known errors and often a very limited lexicon. Use on your own
       risk! See the project pages for further details. See the <a
@@ -75,7 +75,7 @@
             </td>
          </tr>
          <tr>
-           <td><img src="images/Beta-Stamp.png"
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
                 height="30"/>Kven</td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
