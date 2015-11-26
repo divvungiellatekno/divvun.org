@@ -81,7 +81,8 @@
                 speller.</li>
 
             <li>Download the <a
-                href="">giella core tarball</a>, which contains prerequisites for all
+                href="https://sourceforge.net/projects/apertium/files/giella-core/
+                ">giella core tarball</a>, which contains prerequisites for all
                 languages. After the download, unpack and do the following:
                 <source>
 cd gtcore
