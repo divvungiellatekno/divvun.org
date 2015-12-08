@@ -38,36 +38,6 @@
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>Bagádamvideo</a></td>
             </tr>
-            <tr><td>
-            <ul>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/MSOfficeDivvunTools.exe"><icon
-                alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" /><icon
-                alt="Right arrow" height="18" width="18"
-                src="images/arrow-right-icon.png"/><icon
-                alt="Office" height="27" width="27"
-                src="images/MSOffice-icon.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/windows.png"/><br/>Divvun MS Officeij — Windows XP</a>
-              </li>
-            </ul></td>
-            <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-                     · <a href="userdocs/win/index-msoff-2013-xp.html">Office 2013-bágadus</a>
-                     - <a href="sysadmininfo.html">Diedos vige</a>
-              <br/>· <a href="userdocs/win/index-msoff-2010-xp.html">Office 2010-bágadus</a>
-                     - <a href="sysadmininfo.html">Diedos vige</a>
-              <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2007-bágadus</a>
-              <br/>· <a href="userdocs/win/index-msoff-2007-xp.html">Office 2003-bágadus</a>
-            </td>
-            <td>
-              <br/><a href="userdocs/videos/win-msoffice-video.html">
-              <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>Bagádamvideo</a></td>
-            </tr>
             <tr>
             <td colspan="4"><p class="line"/></td>
             </tr>
