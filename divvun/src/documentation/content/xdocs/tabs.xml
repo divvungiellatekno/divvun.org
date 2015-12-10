@@ -20,7 +20,7 @@
         <tab id="TechDoc" href="http://divvun.no/doc/index.html" label="Developer documentation"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
-        <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"      />
+        <tab dir="office"    id="MSOffice"     label="Office Apps"  indexfile="korrektur.html"      />
         <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"      />
         <tab dir="korrektur" id="Beta"         label="Beta"         indexfile="libreofficebeta.html"/>
     </tab>
