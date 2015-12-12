@@ -131,6 +131,19 @@ which will be used to configure the chosen Forrest skin.
     font-size:     80% ;
 }
 
+h3.h4 {
+    margin-left: 1em;
+}
+
+h3.h4 + table {
+    margin-left: 2em;
+    margin-bottom: 1em;
+}
+
+h3.h4 + table + p {
+    margin-left: 1em;
+}
+
 @media screen and (max-width:767px) {
     .group-logo .logoImage,
     .nav-sidebar,
