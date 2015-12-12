@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>Browser spelling checkers</title>
+   </header>
+   <body>
+        <section>
+            <title>Internet Explorer / Edge</title>
+            <p>Sorry, no support - YET. It requires an <a
+            href="oswide.html">OS-wide speller</a>, which should in
+            principle be possible since Windows 8. We are working
+            on it, but it has turned out to be harder than anticipated. We'll
+            update the page as soon as we have news.</p>
+        </section>
+
+      <section>
+         <title>Chrome</title>
+            <p>Sorry - no support. Chrome uses Google's own spelling checker,
+            which we don't have access to. And Google does not support the
+            languages we are working on (please prove us wrong, Google!).</p>
+      </section>
+
+      <section>
+         <title>Safari</title>
+            <p>Safari uses the OS-wide spelling service in OSX. See the download
+            options on the page for <a href="oswide.html">OS-wide spelling checkers</a>.</p>
+      </section>
+
+      <section>
+         <title>Firefox</title>
+            <p>There are actually two sets of Firefox spelling plugins, one
+            made by Tino Didriksen, and another built using <a
+            href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
+            The Didriksen spellers <em>only work on
+            Windows</em> (for now), whereas the MozVoikko spellers work on both
+            Windows and OSX. The
+            language coverage is also different, with some overlap.
+            </p>
+
+            <p>In the lists below, click the name of the language you want to download.</p>
+
+          <section>
+             <title>Didriksen spellers</title>
+             <table>
+             <tr>
+               <th>Download language: </th>
+               <th>Version: </th>
+               <th>Documentation and source code:</th>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.xpi">Greenlandic</a></td>
+               <td>Nightly build </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kaz-latest.xpi">Kazakh</a></td>
+               <td>Nightly build </td>
+               <td><a href="http://wiki.apertium.org/wiki/Kazakh">Kazakh project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kaz/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kir-latest.xpi">Kyrgyz (Kirghiz)</a></td>
+               <td>Nightly build </td>
+               <td><a href="http://wiki.apertium.org/wiki/Kyrgyz">Kyrgyz project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kir/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tat-latest.xpi">Tatar</a></td>
+               <td>Nightly build </td>
+               <td><a href="http://wiki.apertium.org/wiki/Tatar">Tatar project documentation</a>
+                   and
+                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tat/">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tyv-latest.xpi">Tuvinian</a></td>
+               <td>Nightly build </td>
+               <td><a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tyv/">Tuvinian source code</a>.
+                </td>
+             </tr>
+             </table>
+          </section>
+
+          <section>
+             <title>MozVoikko spellers</title>
+             <table>
+             <tr>
+               <th>Download language: </th>
+               <th>Version: </th>
+               <th>Documentation and source code:</th>
+             </tr>
+             <tr>
+               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-kal.xpi">Greenlandic</a></td>
+               <td>N/A </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                </td>
+             </tr>
+             </table>
+          </section>
+
+         <p><strong>Installation:</strong> Double click the downloaded xpi file,
+         and follow the instructions.</p>
+
+         <p><strong>Usage:</strong> When writing in Firefox (or another Mozilla
+         application), right-click on the text you are writing, and in the menu
+         that pops up, select the submenu <strong>Languages</strong>, and from
+         there select the language you want the spell checker to use. You will
+         get red underlines under misspelled words.</p>
+
+         <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
+
+         <warning label="NOTE">As seen in the screen shot above, Firefox does
+         not know the name of many languages. In these cases only the <a
+         href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
+         639</a> language code is listed in the menu.</warning>
+
+          <section>
+             <title>Firefox on Linux</title>
+             <p>The MozVoikko speller is available on Linux, but presently
+             without support for our speller lexicons. Support should appear in
+             most distributions later, but that may take some time. In the
+             meantime, you can build directly from source.</p>
+          </section>
+      </section>
+   </body>
+</document>
