@@ -25,7 +25,9 @@
 
       <section>
          <title>Firefox</title>
-            <p>There are actually two sets of Firefox spelling plugins, one
+            <p>Firefox treng eigne stavekontrollar, som ein installerer som
+            utvidingar til Firefox. Og det finst faktisk to slike utvidingar for
+            samisk: ein laga av Tino Didriksen i samarbeid med Divvun og Apertium
             made by Tino Didriksen, and another built using <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             The Didriksen spellers <em>only work on
