@@ -8,24 +8,26 @@
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Sorry, no support - YET. It requires an <a
-            href="oswide.html">OS-wide speller</a>, which should in
-            principle be possible since Windows 8. We are working
-            on it, but it has turned out to be harder than anticipated. We'll
-            update the page as soon as we have news.</p>
+            <p>Beklager, ingen støtte - ENNÅ. Disse nettleserne bruker
+            <a href="oswide.html">stavekontroller installert
+            for hele systemet</a>, som i prinsippet har vært mulig siden
+            Windows 8. Vi jobber med dette, men det har vist seg å være
+            vanskeligere enn ventet. Vi vil oppdatere siden
+            når vi har ny informasjon.</p>
         </section>
 
       <section>
          <title>Chrome</title>
-            <p>Sorry - no support. Chrome uses Google's own spelling checker,
-            which we don't have access to. And Google does not support the
-            languages we are working on (please prove us wrong, Google!).</p>
+            <p>Beklager - ingen støtte. Chrome bruker Googles egen
+            stavekontroll, som vi ikke har tilgang til. Og Google har
+            ingen støtte for samisk.</p>
       </section>
 
       <section>
          <title>Safari</title>
-            <p>Safari uses the OS-wide spelling service in OSX. See the download
-            options on the page for <a href="oswide.html">OS-wide spelling checkers</a>.</p>
+            <p>Safari bruker stavekontrollene som er installert for hele
+            systemet. Installer MacVoikko for ditt språk på siden for <a
+            href="oswide.html">stavekontroller for hele systemet</a>.</p>
       </section>
 
       <section>
