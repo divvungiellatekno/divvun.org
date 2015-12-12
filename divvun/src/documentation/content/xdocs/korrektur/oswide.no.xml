@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+   <header>
+      <title>OS-wide spelling checkers</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux</meta>
+   </header>
+   <body>
+
+      <section>
+         <title>Windows</title>
+
+         <p>There is work going on to develop an OS-wide speller for Windows.
+         The page will be updated as soon as we have new information.</p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX</title>
+         <p>The OSX system-wide
+         spellers are still beta quality. The main remaining issue is related to
+         installing multiple languages - <a
+         href="mailto:feedback@divvun.no">please ask us</a> for advice if you
+         want spelling checkers for multiple languages.</p>
+
+         <table>
+         <tr>
+           <th>Download language: </th>
+           <th>Version: </th>
+           <th>Documentation and source code:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">Finnish</a></td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">Greenlandic</a></td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+           </td>
+         </tr>
+         </table>
+
+         <p>Languages marked with <img src="images/Beta-Stamp.png" height="30"
+         alt="BETA"/> are under development and will contain known errors and
+         often a very limited lexicon. Use carefully! Don't trust the speller!
+         They are still considered good enough to provide useful help when
+         writing.</p>
+
+         <p><strong>Installation:</strong> Move the downloaded file to
+         <code>~/Library/Services/</code>: open a new Finder window, choose the
+         menu item <strong>Go > Go to folder ...</strong>, type
+         <code>~/Library/Services/</code> and press enter. Then move the
+         downloaded file into this folder. Double-click the file after you have
+         moved it, or log out and back in.</p>
+
+         <p>To verify that
+         the speller is working, open <strong>System Preferences > Keyboard >
+         Text</strong>, and verify that your language is listed in the menu
+         <strong>Spelling</strong> with <strong>«(MacVoikko)»</strong>
+         after the language name. If not, restart your computer.</p>
+
+         <p><strong>Usage:</strong> In applications using the system spelling
+         checker services (most apps), just open the spelling checker dialog
+         (<strong>Edit > Spelling and Grammar > Show Spelling and Grammar</strong>), and select
+         your language in the language menu. If you always want to spell check
+         in this language, you can make it the default spell checking language
+         in System Preferences.</p>
+
+      </section>
+
+      <section>
+         <title>Linux</title>
+
+         <p>OS-wide spellers for Linux have to be built from source, but most of
+         the required packages are available as standard, or easily installable
+         for the various distributions. Further instructions can be found <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
+         together with links to source tarballs for the supported languages.</p>
+         
+      </section>
+
+   </body>
+</document>

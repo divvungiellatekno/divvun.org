@@ -20,9 +20,12 @@
         <tab id="TechDoc" href="http://divvun.no/doc/index.html" label="Developer documentation"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
-        <tab dir="office"    id="MSOffice"     label="Office Apps"  indexfile="korrektur.html"      />
+        <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"      />
+        <tab dir="korrektur" id="Browsers"     label="Browsers"     indexfile="browsers.html" />
+        <tab dir="korrektur" id="OSWide"       label="OSWide"       indexfile="oswide.html"  />
         <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"      />
-        <tab dir="korrektur" id="Beta"         label="Beta"         indexfile="libreofficebeta.html"/>
+        <tab dir="korrektur" id="AndreSprak"   label="AndreSprak"   indexfile="otherlangs.html"      />
+        <tab dir="korrektur" id="DevInfo"      label="DevInfo"      indexfile="devinfo.html"/>
     </tab>
     <tab dir="keyboards/"    id="Tastatur"     label="Tastatur"     indexfile="index.html"       />
     <tab dir="tale/"         id="Tale"         label="Tale"         indexfile="tale.html"        />

@@ -102,6 +102,7 @@
               </keyboards>
               <rem08      label="Avinstaller Divvun" href="remove-msoff-2008-nob.html" />
             </mac>
+            <LO_userguide label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
           </userdocs>
           <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
             <win label="Windows Installation" href="win-msoffice-video.html" />
@@ -110,6 +111,15 @@
           <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
         </msoff>
+
+        <browsers tab="Browsers" description="Proofing tools for web browsers"
+                  label="Proofing tools for web browsers" >
+          <index label="Browser spelling checkers" href="browsers.html"/>
+        </browsers>
+
+        <oswide tab="OSWide" description="Spelling checkers for the whole operating system" label="OS-wide spellers">
+          <index label="OS-wide spellers" href="oswide.html"/>
+        </oswide>
 
         <otherapps tab="AndreProgram" description="Download files from divvun.no" label="Last ned for andre program" >
           <indesign label="InDesign og OpenOffice" href="otherapps.html"/>
@@ -141,10 +151,15 @@
           </uservids>
         </otherapps>
 
-        <beta tab="Beta" description="Beta releases and prerelease versions" label="Beta and prerelease">
-          <entry1 label="Download" href="libreofficebeta.html"/>
-          <entry1 label="LibreOffice User Guide" href="userdocs/win/install-use-Voikko-LO4-win8.html" />
-        </beta>
+        <devinfo tab="AndreSprak" description="Spellers for other languages"
+            label="ForOtherLangs">
+          <index label="Download" href="otherlangs.html"/>
+        </devinfo>
+
+        <devinfo tab="DevInfo" description="Developer information" label="Developer information">
+          <index label="Download" href="devinfo.html"/>
+        </devinfo>
+
     </korrektur>
 
     <tastatur tab="Tastatur" label="Tastatur">
