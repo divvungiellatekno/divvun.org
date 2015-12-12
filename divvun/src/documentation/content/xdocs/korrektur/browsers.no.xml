@@ -17,13 +17,6 @@
         </section>
 
       <section>
-         <title>Chrome</title>
-            <p>Beklager - ingen støtte. Chrome bruker Googles egen
-            stavekontroll, som vi ikke har tilgang til. Og Google har
-            ingen støtte for samisk.</p>
-      </section>
-
-      <section>
          <title>Safari</title>
             <p>Safari bruker stavekontrollene som er installert for hele
             systemet. Installer MacVoikko for ditt språk på siden for <a
@@ -135,5 +128,13 @@
              meantime, you can build directly from source.</p>
           </section>
       </section>
+
+      <section>
+         <title>Chrome</title>
+            <p>Beklager - ingen støtte. Chrome bruker Googles egen
+            stavekontroll, som vi ikke har tilgang til. Og Google har
+            ingen støtte for samisk.</p>
+      </section>
+
    </body>
 </document>
