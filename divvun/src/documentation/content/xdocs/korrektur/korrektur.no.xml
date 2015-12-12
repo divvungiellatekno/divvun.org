@@ -7,40 +7,103 @@
         <meta name="description">samisk stavekontroll</meta>
     </header>
     <body>
+        <note label="17.12.2015">Divvun 4.0, med støtte for 64-bits MS Office, og ei
+            lang rekke språklige rettinger og nye ord for nordsamisk, lulesamisk
+            og sørsamisk! Last ned ved å klikke på en av lenkene nedenfor!
+        </note>
         <section>
-            <title>Last ned Divvun-verktøyene</title>
-            <table>
-            <tr>
-            <td>
-            <ul>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/msofficedivvuntools.msi"><icon
-                alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" /><icon
-                alt="Right arrow" height="18" width="18"
-                src="images/arrow-right-icon.png"/><icon
-                alt="Office" height="27" width="27"
-                src="images/MSOffice-icon.png"/><icon
+            <title>Rettskrivningsverktøy for Windows<icon
                 alt="Windows" height="27" width="27"
-                src="images/windows.png"/><br/>Divvun for MS Office — Windows 7 og 8</a>
-              </li>
-            </ul></td>
-            <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-                     · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-vegledning</a>
-              <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-vegledning</a>
-              <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-vegledning</a>
-            </td>
-            <td>
-              <br/><a href="userdocs/videos/win-msoffice-video.html">
-              <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
-            </tr>
-            <tr>
-            <td colspan="4"><p class="line"/></td>
-            </tr>
+                src="images/Win10.png"/></title>
+            <section>
+                <title>Divvun-verktøy for MS Office<icon
+                    alt="Windows" height="27" width="27"
+                    src="images/MSOffice-icon.png"/></title>
+                <table>
+                <tr>
+                <td>
+                <ul>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For nordsamisk</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For lulesamisk</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For sørsamisk</a>
+                  </li>
+                </ul></td>
+                <td>
+                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                </td>
+                <td>
+                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-vegledning</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-vegledning</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-vegledning</a>
+                </td>
+                <td>
+                  <a href="userdocs/videos/win-msoffice-video.html">
+                  <icon alt="Instructions" height="48" width="48"
+                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                </tr>
+                </table>
+            </section>
+
+            <section>
+                <title>Divvun-verktøy for <a
+                    href="http://libreoffice.org">LibreOffice<icon
+                    alt="Windows" height="27" width="27"
+                    src="images/LibreOfficeIcon.png"/></a></title>
+                <table>
+                <tr>
+                <td>
+                <ul>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For nordsamisk</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For lulesamisk</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    For sørsamisk</a>
+                  </li>
+                </ul></td>
+                <td>
+                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                </td>
+                <td>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                </td>
+                <td> <!-- No instruction videos for Linux yet --> </td>
+                </tr>
+                </table>
+            </section>
+        </section>
+
+        <section>
+            <title>Rettskrivningsverktøy for OSX<icon
+                alt="Windows" height="27" width="27"
+                src="images/mac.png"/></title>
+
+            <table>
             <tr><td>
             <ul>
               <li class="Download"><a
@@ -50,9 +113,7 @@
                 alt="Right arrow" height="18" width="18"
                 src="images/arrow-right-icon.png"/><icon
                 alt="Windows" height="27" width="27"
-                src="images/MSOffice-icon.png"/><icon
-                alt="MacOSX" height="27" width="27"
-                src="images/mac.png" /><br/>Divvun for MS Office — MacOS X</a>
+                src="images/MSOffice-icon.png"/><br/>Divvun for MS Office</a>
               </li>
             </ul></td>
             <td>
@@ -61,7 +122,6 @@
             <td>
               <br/>· <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
               <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
-              <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2004-vegledning</a>
             </td>
             <td>
             <br/><a href="userdocs/videos/mac-video.html">
@@ -69,6 +129,14 @@
                 src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
             </tr>
             </table>
+        </section>
+
+        <section>
+            <title>Rettskrivningsverktøy for Linux<icon
+                alt="Windows" height="27" width="27"
+                src="images/Linux_Icon_256.png"/></title>
+            <p>Divvun-verktøyene kan installeres på Linux ved å følge
+            instruksjonene <a href="oswide.html">på denne siden</a>.</p>
         </section>
     </body>
 </document>
