@@ -17,13 +17,6 @@
         </section>
 
       <section>
-         <title>Safari</title>
-            <p>Safari bruker stavekontrollene som er installert for hele
-            systemet. Installer MacVoikko for ditt språk på siden for <a
-            href="oswide.html">stavekontroller for hele systemet</a>.</p>
-      </section>
-
-      <section>
          <title>Firefox</title>
             <p>Firefox behøver egne stavekontroller, som man installerer som
             utvidelser i Firefox. Og det finnes faktisk to slike utvidelser for
@@ -36,98 +29,122 @@
             fungerer på både Windows og OSX.
             </p>
 
-            <p>In the lists below, click the name of the language you want to download.</p>
-
           <section>
-             <title>Didriksen spellers</title>
+             <title>Didriksen-stavekontroller</title>
              <table>
              <tr>
-               <th>Download language: </th>
-               <th>Version: </th>
-               <th>Documentation and source code:</th>
+               <th>Språk: </th>
+               <th>Versjon: </th>
+               <th>Dokumentasjon og kildekode:</th>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.xpi">Greenlandic</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
-                   and
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <td><a
+               href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.xpi"
+               ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Nordsamisk </a></td>
+               <td>Nattlig bygg </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
                 </td>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kaz-latest.xpi">Kazakh</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Kazakh">Kazakh project documentation</a>
-                   and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kaz/">source code</a>.
+               <td><a
+               href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.xpi"
+               ><icon alt="Last ned lulesamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Lulesamisk </a></td>
+               <td>Nattlig bygg </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
                 </td>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kir-latest.xpi">Kyrgyz (Kirghiz)</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Kyrgyz">Kyrgyz project documentation</a>
-                   and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kir/">source code</a>.
-                </td>
-             </tr>
-             <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tat-latest.xpi">Tatar</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Tatar">Tatar project documentation</a>
-                   and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tat/">source code</a>.
-                </td>
-             </tr>
-             <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tyv-latest.xpi">Tuvinian</a></td>
-               <td>Nightly build </td>
-               <td><a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tyv/">Tuvinian source code</a>.
+               <td><a
+               href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.xpi"
+               ><icon alt="Last ned sørsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Sørsamisk </a></td>
+               <td>Nattlig bygg </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
                 </td>
              </tr>
              </table>
           </section>
 
           <section>
-             <title>MozVoikko spellers</title>
+             <title>MozVoikko-stavekontroller</title>
              <table>
              <tr>
-               <th>Download language: </th>
-               <th>Version: </th>
-               <th>Documentation and source code:</th>
+               <th>Språk: </th>
+               <th>Versjon: </th>
+               <th>Dokumentasjon og kildekode:</th>
              </tr>
              <tr>
-               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-kal.xpi">Greenlandic</a></td>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
+               ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+               />Nordsamisk </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
-                   and
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
+               ><icon alt="Last ned lulesamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Lulesamisk </a></td>
+               <td>N/A </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
+               ><icon alt="Last ned sørsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Sørsamisk </a></td>
+               <td>N/A </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                   og
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
                 </td>
              </tr>
              </table>
           </section>
 
-         <p><strong>Installation:</strong> Double click the downloaded xpi file,
-         and follow the instructions.</p>
+         <p><strong>Installering:</strong> Dobbeltklikk den nedlasta xpi-fila,
+         og følg instruksjonene.</p>
 
-         <p><strong>Usage:</strong> When writing in Firefox (or another Mozilla
-         application), right-click on the text you are writing, and in the menu
-         that pops up, select the submenu <strong>Languages</strong>, and from
-         there select the language you want the spell checker to use. You will
-         get red underlines under misspelled words.</p>
+         <p><strong>Bruk:</strong> Når du skriver i Firefox (eller et annet
+         Mozilla-program), høyre-klikker du på teksten din, og i menyen som
+         dukker opp velger du undermenyen <strong>Languages</strong>. Fra
+         denne menyen velger du det språket som du vil ha stavekontroll for. Du
+         får da røde streker under feilstavede ord.</p>
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
-         <warning label="NOTE">As seen in the screen shot above, Firefox does
-         not know the name of many languages. In these cases only the <a
+         <warning label="MERK">Som det framgår av skjermbildet over, kjenner ikke
+         Firefox til navnet på mange språk. I slike tilfeller viser Firefox <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
-         639</a> language code is listed in the menu.</warning>
+         639</a>-koden for språket.</warning>
 
           <section>
-             <title>Firefox on Linux</title>
-             <p>The MozVoikko speller is available on Linux, but presently
-             without support for our speller lexicons. Support should appear in
-             most distributions later, but that may take some time. In the
-             meantime, you can build directly from source.</p>
+             <title>Firefox på Linux</title>
+             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
+             bygge den selv. Nærmere instruksjoner finnes på siden for å
+             <a href="oswide.html">installere stavekontrollen for hele
+             operativsystemet</a>.</p>
           </section>
       </section>
 
@@ -136,6 +153,13 @@
             <p>Beklager - ingen støtte. Chrome bruker Googles egen
             stavekontroll, som vi ikke har tilgang til. Og Google har
             ingen støtte for samisk.</p>
+      </section>
+
+      <section>
+         <title>Safari</title>
+            <p>Safari bruker stavekontrollene som er installert for hele
+            systemet. Installer MacVoikko for ditt språk på siden for <a
+            href="oswide.html">stavekontroller for hele systemet</a>.</p>
       </section>
 
    </body>
