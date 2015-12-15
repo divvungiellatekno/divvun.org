@@ -7,9 +7,11 @@
         <meta name="description">Saemien staeriedæjja</meta>
     </header>
     <body>
-        <note label="Saernie!"> Noerhtesaemien tekste-soptsestæmman  
-        6.5.2015 bæjhkoehtovvi! <a href="tale/tale.html">Lohkh vielie
-        daesnie!</a></note>
+      <note label="NYTT! 17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
+          64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
+          for nordsamisk, lulesamisk og sørsamisk! <a
+          href="korrektur/korrektur.html">Les mer her!</a>
+      </note>
 
       <ul class="col-sm-12 nobullet">
         <li class="col-sm-4">
