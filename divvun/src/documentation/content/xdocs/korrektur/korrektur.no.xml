@@ -7,7 +7,7 @@
         <meta name="description">samisk stavekontroll</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 finnes tilgjenelig, med støtte for
+        <note label="17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
             64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
             for nordsamisk, lulesamisk og sørsamisk! Last ned ved å klikke på en
             av lenkene nedenfor!
@@ -20,24 +20,30 @@
                 <title>Divvun-verktøy for MS Office<icon
                     alt="Windows" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
+
+        <warning label="NB!">Husk å avinstallere den gamle versjonen! Pga store
+        endringer i den underliggende teknologien har vi ikke fått på plass
+        automatisk avinstallering ennå, så inntil videre må man avinstallere
+        manuelt.</warning>
+
                 <table>
                 <tr>
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Nordsamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-smj.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lulesamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sma.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Sørsamisk</a>
@@ -69,19 +75,19 @@
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Nordsamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lulesamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Sørsamisk</a>
@@ -157,19 +163,19 @@
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Nordsamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lulesamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msofficedivvuntools.msi"
+                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Sørsamisk</a>
