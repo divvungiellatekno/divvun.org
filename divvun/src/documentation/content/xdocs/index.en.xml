@@ -7,10 +7,10 @@
         <meta name="description">Saami speller, Saami spell checker</meta>
     </header>
     <body>
-      <note label="NYTT! 17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
-          64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
-          for nordsamisk, lulesamisk og sørsamisk! <a
-          href="korrektur/korrektur.html">Les mer her!</a>
+      <note label="NEWS! 17.12.2015">Divvun 4.0 is available for download, with support for
+          64-bits MS Office, and a large bunch of liguistic corrections and new words for
+          North Sámi, Julev Sámi and South Sámi! <a
+          href="korrektur/korrektur.html">Read more here!</a>
       </note>
 
       <ul class="col-sm-12 nobullet">
