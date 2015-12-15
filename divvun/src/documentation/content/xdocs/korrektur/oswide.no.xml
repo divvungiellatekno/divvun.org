@@ -3,95 +3,119 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>OS-wide spelling checkers</title>
-      <meta name="description">Windows, OSX, MacOSX, Linux</meta>
+      <title>Stavekontroller i hele systemet</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
    </header>
    <body>
 
       <section>
-         <title>Windows</title>
+         <title>Windows<icon alt="Windows" height="27" width="27"
+                src="images/Win10.png"/></title>
 
-         <p>There is work going on to develop an OS-wide speller for Windows.
-         The page will be updated as soon as we have new information.</p>
+         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
+         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
+         snart vi har mer informasjon.</p>
 
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX</title>
-         <p>The OSX system-wide
-         spellers are still beta quality. The main remaining issue is related to
-         installing multiple languages - <a
-         href="mailto:feedback@divvun.no">please ask us</a> for advice if you
-         want spelling checkers for multiple languages.</p>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+                alt="Windows" height="27" width="27"
+                src="images/mac.png"/></title>
+
+         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
+         viktigste gjenstående, åpne saken er knyttet til installering av mange
+         språk. Vi har <a
+         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
+         man kan installere flere språk samtidig. Språklig er disse
+         stavekontrollene like gode som Word-stavekontrollen.</p>
 
          <table>
          <tr>
-           <th>Download language: </th>
-           <th>Version: </th>
-           <th>Documentation and source code:</th>
+           <th>Språk: </th>
+           <th>Versjon: </th>
+           <th>Dokumentasjon og kildekode:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">Finnish</a></td>
+           <td><a
+           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
+           ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Nordsamisk </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
-               and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
-            </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+               og
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           </td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">Greenlandic</a></td>
+           <td><a
+           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
+           ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Lulesamisk </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
-               and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
-            </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+               og
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           </td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
+           <td><a
+           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
+           ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Sørsamisk </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
-               and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+               og
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
            </td>
          </tr>
          </table>
 
-         <p>Languages marked with <img src="images/Beta-Stamp.png" height="30"
-         alt="BETA"/> are under development and will contain known errors and
-         often a very limited lexicon. Use carefully! Don't trust the speller!
-         They are still considered good enough to provide useful help when
-         writing.</p>
+         <p><strong>Installering:</strong> Flytt den nedlasta fila til
+         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
+         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
+         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
+         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
+         har flytta den, eller logg ut og inn igjen.</p>
 
-         <p><strong>Installation:</strong> Move the downloaded file to
-         <code>~/Library/Services/</code>: open a new Finder window, choose the
-         menu item <strong>Go > Go to folder ...</strong>, type
-         <code>~/Library/Services/</code> and press enter. Then move the
-         downloaded file into this folder. Double-click the file after you have
-         moved it, or log out and back in.</p>
+         <p>For å bekrefte at stavekontrollen fungerer, åpne
+         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
+         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <strong>«(MacVoikko)»</strong>
+         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
 
-         <p>To verify that
-         the speller is working, open <strong>System Preferences > Keyboard >
-         Text</strong>, and verify that your language is listed in the menu
-         <strong>Spelling</strong> with <strong>«(MacVoikko)»</strong>
-         after the language name. If not, restart your computer.</p>
+         <img alt="OSX Systemvalg > Tastatur med MacVoikko"
+            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Usage:</strong> In applications using the system spelling
-         checker services (most apps), just open the spelling checker dialog
-         (<strong>Edit > Spelling and Grammar > Show Spelling and Grammar</strong>), and select
-         your language in the language menu. If you always want to spell check
-         in this language, you can make it the default spell checking language
-         in System Preferences.</p>
+         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
+         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
+         programmer) kan du bare åpne stavekontrollvinduet:
+         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
+         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
+         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
+         det til standardspråk for stavekontrollen i <strong>Systemvalg >
+         Tastatur > Tekst</strong>.</p>
+
+         <img alt="OSX stavekontrolldialog"
+            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
 
       </section>
 
       <section>
          <title>Linux</title>
 
-         <p>OS-wide spellers for Linux have to be built from source, but most of
-         the required packages are available as standard, or easily installable
-         for the various distributions. Further instructions can be found <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
-         together with links to source tarballs for the supported languages.</p>
+         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
+         alle program vil benytte denne.
+         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
+         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
+         via de vanlige pakkerepositoriene.</p>
+         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
+         du <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
+         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
          
       </section>
 
