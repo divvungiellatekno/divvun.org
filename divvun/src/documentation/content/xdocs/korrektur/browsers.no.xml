@@ -39,11 +39,11 @@
              </tr>
              <tr>
                <td><a
-               href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.xpi"
+                    href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
                     />Nordsamisk </a></td>
-               <td>Nattlig bygg </td>
+               <td>N/A </td>
                <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
                    og
                    <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
@@ -51,11 +51,11 @@
              </tr>
              <tr>
                <td><a
-               href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.xpi"
+                    href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
                     />Lulesamisk </a></td>
-               <td>Nattlig bygg </td>
+               <td>N/A </td>
                <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
                    og
                    <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
@@ -63,11 +63,11 @@
              </tr>
              <tr>
                <td><a
-               href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.xpi"
+                    href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
                ><icon alt="Last ned sørsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
                     />Sørsamisk </a></td>
-               <td>Nattlig bygg </td>
+               <td>N/A </td>
                <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
                    og
                    <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
