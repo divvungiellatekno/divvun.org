@@ -3,8 +3,8 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroller i hele systemet</title>
-      <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
+      <title>Tjállemdárkastusá ålles vuogádagán</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux, tjállemdárkastus</meta>
    </header>
    <body>
 
@@ -12,9 +12,9 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>Mij lip barggamin åttjudittjat tjállemdárkastusáv majt doajmmá
+         ålles Windowsin, valla lij muhtem gássjelisvuoda. Ådåstuhttep dáv 
+         bielev nav ruvva gå ienep diedojt adnep.</p>
 
       </section>
 
@@ -23,29 +23,29 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
-         viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         <p>Tjállemdárkastusájn ålles OSX:j le vilá betakvalitiehtta. Ájnnasamos
+         ássje mij la báhtsám adná dahkamuháv åttjudimijn moadda gielajt.
+         språk. Miján le <a
+         href="otherapps.html">sierra bielle</a> bagádusáj gåktu åttjudit
+         åttjudit sajájduhttet moadda gielajt sæmmi bále. Gielalattjat li dá
+         tjállemdárkastusá sæmmi buorre gå Word-tjállemdárkastus.</p>
 
          <table>
          <tr>
-           <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Giella: </th>
+           <th>Versjåvnnå: </th>
+           <th>Dokumentasjåvnnå og gálldokåvddå:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Nuorttasáme </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasábmáj</a>
+               ja
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
            </td>
          </tr>
          <tr>
@@ -53,11 +53,11 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsáme </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsábmáj</a>
+               ja
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
            </td>
          </tr>
          <tr>
@@ -65,38 +65,39 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Oarjjelsáme </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsáme</a>
+               ja
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Sajájduhttem:</strong> Jåde viettjadum fijlav máhppaj
+         <code>~/Bibliotek/Services/</code> návti: Rabá ådå Finder-vinndegav, 
+         maná
+         fálluj <strong>Gå > Gå til mappe ...</strong>, tjálesta
+         <code>~/Bibliotek/Services/</code> ja dieddela enter. Dan maŋŋela
+         máhtá jåhtet viettjadum fijlav dán máhppaj. Dieddela fijlav guokti
+         maŋŋelakkuj gå la jåhtåm dav, jali låggi ålgus ja sisi vasten.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <p>Duodastittjat jus tjállemdárkastus doajmmá, rabá
+         <strong>Systemvalg... > Tastatur > Tekst</strong>, ja gehtja jut
+         giellat le listan fálon <strong>Stavekontroll</strong>, ja jut tjuodtju
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
+         giela namá duogen. Jus ij, álgada dáhtámásjijnav ådåsit.</p>
 
          <img alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
+         <p><strong>Addnem:</strong> Prográmmajn ma tjállemdárkastusáv addni
+         (ienemus prográmma, valla ij MS Word, Firefow ja muhtem ieme prográmma)
+         máhtá dåssju tjállemdárkastusvinndegav rahpat:
          <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
+         grammatikk</strong>. Ja de vállji gielat giellafálon.
+         Jus agev sidá tjállemdárkastusáv dán giellaj adnet máhtá dahkat dav
+         tjállemdárkastusá standarddagiellan dánna:<strong>Systemvalg >
          Tastatur > Tekst</strong>.</p>
 
          <img alt="OSX stavekontrolldialog"
@@ -107,15 +108,15 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         <p>Tjállemdárkastusáv mij doajmmá ålles Linuxin le gájkka majt dárbaha, 
+         divna prográmma sjaddi dáv adnuj válldet.
+         Viertti dal ájn iesj tjállemdárkastusáv tsieggit, valla lip barggamin
+         åttjutjit dárbulasj páhkij, namálattjat iehtjama giellamodellaj, sadjihij
+         dábálasj páhkkarepositåvråj baktu.</p>
+         <p>Bagádusájt gåktu tjállemdárkastusájt Linuxin tsieggit gávna
+         gávna <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">dánna</a>,
+         gálldokåvddåpáhke juohkka giellaj gávna <a href="otherapps.html">dánna</a>.</p>
          
       </section>
 

@@ -3,28 +3,27 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Sáme duollatjállemnævo</title>
-        <meta name="description">sáme tjállemdárkastus</meta>
+        <title>Sáme duollatjállemdárkastus</title>
+        <meta name="description">sáme duollatjállemdárkastus</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
-            64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
-            for nordsamisk, lulesamisk og sørsamisk! Last ned ved å klikke på en
-            av lenkene nedenfor!
+        <note label="17.12.2015">Divvun 4.0, majt doajmmá
+            64-bits MS Officen, ja gånnå li moadda gielalasj divvoma ja ådå bágo, 
+            la almoduvvam nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj! 
+            Dieddela sválldasav vuollelin ja viettja dav!     
         </note>
         <section>
-            <title>Rettskrivningsverktøy for Windows<icon
+            <title>Duollatjállemnævo Windowsij<icon
                 alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
             <section>
-                <title>Divvun-verktøy for MS Office<icon
+                <title>Divvun-nævo MS Officij<icon
                     alt="Windows" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Husk å avinstallere den gamle versjonen! Pga store
-        endringer i den underliggende teknologien har vi ikke fått på plass
-        automatisk avinstallering ennå, så inntil videre må man avinstallere
-        manuelt.</warning>
+        <warning label="NB!">Mujte gádodit oabme versjåvnåv! Vuodulasj
+        teknologijja la ålov rievddam ja danen ep la ájn automatalasj gádodimev
+        åttjudam, navti vaj viertti vilá manualalattjat dav dahkat.</warning>
 
                 <table>
                 <tr>
@@ -34,40 +33,40 @@
                     href="http://divvun.no/static_files/msis/Divvun-sme.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Nuorttasáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-smj.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julevsáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-sma.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Oarjjelsáme</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-vegledning</a>
+                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-bagádus</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-bagádus</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-bagádus</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Bagádallamvideoa</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
-                    href="http://libreoffice.org">LibreOffice<icon
+                <title>Divvun-nævo <a
+                    href="http://libreoffice.org">LibreOfficij<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
                 <table>
@@ -78,54 +77,54 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Nuorttasáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julevsáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Oarjjelsáme</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bagádus</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
                 </table>
 
-                <p>Vil du installere flere spåk samtidig for LibreOffice? Følg
-                <a href="">disse instruksjonene</a>.</p>
+                <p>Sidá gus åttjudit ienep gielajt sæmmi bále LibreOfficij? Tjuovo
+                <a href="">dájt bagádusájt</a>.</p>
 
             </section>
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for OSX<icon
+            <title>Duollatjállemnævo OSX:j<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
                 <section>
-                    <title>Divvun-verktøy for MS Office<icon
+                    <title>Divvun-nævo MS Officij<icon
                         alt="Windows" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 for MS Office på OSX <strong>er ikke
-            tilgjengelig ennå</strong> pga uventede problemer. Vi arbeider med å
-            løse dem og vil oppdatere siden så fort den nye versjonen er
-            ferdig. Nedenfor kan du laste ned den gamle versjonen. NB! Den
-            gamle versjonen <strong>fungerer ikke med MS Office 2015!</strong>
-            Divvun 4.0 for LibreOffice fungerer utmerket (se lenger ned), og det
-            samme gjør MacVoikko (mer info <a href="oswide.html">her</a>).
+        <note label="Notér!">Divvun 4.9 MS Officij OSX:n <strong>vuordek
+            gássjelisvuodaj diehti</strong> ij ájn uddni gávnnu.Mij lip daj
+            gássjelisvuodaj barggamin ja ådåstuhttet bielev nav ruvva gå
+            ådå versjåvnnå l gárves. Vuollelin máhtá viettjat oabme versjåvnåv.
+            NB! Oabme versjåvnnå<strong> ij MS OFFICE 2015:n dåjma!</strong>
+            Divvun 4.0 LibreOfficij doajmmá riek buoragijt (gehtja vuollelin),
+            ja sæmmi aj MacVoikko (ienep diedo) <a href="oswide.html">dánna</a>).
         </note>
 
                 <table>
@@ -135,27 +134,27 @@
                     href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
                     alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Last ned alle tre språk</a>
+                    Viettja divna gålmå giela</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
+                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-bagádus</a>
+                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-bagádus</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/mac-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Bagádusvideoa</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
-                    href="http://libreoffice.org">LibreOffice<icon
+                <title>Divvun-nævo <a
+                    href="http://libreoffice.org">LibreOfficij<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
                 <table>
@@ -166,44 +165,44 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Nuorttasáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julevsáme</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Oarjjelsáme</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bagádus</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
                 </table>
 
-                <p>Vil du installere flere spåk samtidig for LibreOffice? Følg
-                <a href="">disse instruksjonene</a>.</p>
+                <p>Sidá gus åttjudit ienep gielajt sæmmi bále LibreOfficij?  Tjuovo
+                <a href="">dájt bagádusájt</a>.</p>
 
             </section>
 
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for Linux<icon
+            <title>Duollatjállemnævo Linuxij<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>Divvun-verktøyene kan installeres på Linux ved å følge
-            instruksjonene <a href="oswide.html">på denne siden</a>.</p>
+            <p>Divvun-nævojt åttjuda Linuxij jus tjuovo 
+            bagádusájt <a href="oswide.html">dán bielen</a>.</p>
         </section>
     </body>
 </document>
