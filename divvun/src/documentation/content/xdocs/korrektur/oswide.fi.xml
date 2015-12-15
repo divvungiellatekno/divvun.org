@@ -3,8 +3,8 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroller i hele systemet</title>
-      <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
+      <title>Oikoluku koko järjestelmässä</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux, oikoluku</meta>
    </header>
    <body>
 
@@ -12,9 +12,8 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>Työskentelemme oikoluvun saamiseksi koko Windowsille,
+          mutta se on aiheuttanut haasteita. Päivitämme sivua kun meillä on enemmän tietoa.</p>
 
       </section>
 
@@ -23,27 +22,25 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
-         viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         <p>Oikoluku koko OSX:lle on betalaatua. Tärkein avoin kysymys liittyy asennukseen monien
+          kielien kanssa. Meillä on <a
+         href="otherapps.html">oma sivu</a> ohjeilla miten asentaa useita kieliä samanaikaisesti.
+         Kielellisesti nämä oikoluvut ovat yhtä hyviä kuin Word-oikoluvut.</p>
 
          <table>
          <tr>
-           <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Kieli: </th>
+           <th>Versio: </th>
+           <th>Dokumentointi ja lähdekoodi:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Pohjoissaame</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektidokumentaatio</a>
                og
                <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
            </td>
@@ -53,11 +50,11 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Luulajansaame</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektidokumentaatio</a>
                og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">lähdekoodi</a>.
            </td>
          </tr>
          <tr>
@@ -65,41 +62,40 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Eteläsaame</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektidokumentaatio</a>
                og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">lähdekoodi</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Asentaminen:</strong> Siirrä ladattu tiedosto
+         <code>~/Kirjasto/Services/</code> näin: avaa uusi Finder-ikkuna, mene
+         menuun <strong>Siirry > Siirry kansioon ...</strong>, kirjoita
+         <code>~/Kirjasto/Services/</code> ja paina enter. Tämän jälkeen voit
+         siirtää ladatun tiedoston tähän kansioon. Kaksoisnapsauta tiedostoa,
+         kun olet siirtänyt sen, tai kirjaudu ulos ja uudelleen sisään.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <p>Varmistaaksesi että oikoluku toimii, avaa
+         <strong>Järjestelmäasetukset... > Näppäimistö > Teksti</strong>, ja tarkista
+         että kielesi löytyy menun listalta <strong>Oikeinkirjoitus</strong>,
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
+         kielen takana. Jos ei, uudelleenkäynnistä kone.</p>
 
-         <img alt="OSX Systemvalg > Tastatur med MacVoikko"
+         <img alt="OSX Järjestelmäasetukset > MacVoikko Näppäimistö"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.</p>
+         <p><strong>Käyttö:</strong> Ohjelmissa jotka käyttävät järjestelmäoikolukua
+         (useimmat ohjelmat, mutta ei MS Word, Firefox ja jotkin muut tavalliset
+         ohjelmat) voit vain avata oikolukuikkunan:
+         <strong>Muokkaa > Oikeinkirjoitus ja kielioppi > Näytä oikeinkirjoitus ja
+         kielioppi</strong>. Valitse kielesi valikosta.
+         Voit valita haluamasi kielen oletuskieleksi oikeinkirjoituksessa <strong>
+         Järjestelmäasetukset > Näppäimistö > Teksti</strong>.</p>
 
-         <img alt="OSX stavekontrolldialog"
+         <img alt="OSX oikolukudialogi"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
 
       </section>
@@ -107,15 +103,14 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         <p>Kaikki ohjelmat käyttävät järjestelmän oikolukua.
+         Toistaiseksi oikolukuohjelma tulee kääntää itse, mutta pyrimme saamaan
+          kaikki tarvittavat paketit, myös meidän omat kielimallit, tavanomaisten
+          paketointirepositorien kautta .</p>
+         <p>Ohjeet läydät
+         <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">täältä</a>,
+         lähdekoodit kielille löydät <a href="otherapps.html">täältä</a>.</p>
          
       </section>
 

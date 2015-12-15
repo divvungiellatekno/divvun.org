@@ -7,203 +7,198 @@
         <meta name="description">saamen kielten korjausohjelmat</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
-            64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
-            for nordsamisk, lulesamisk og sørsamisk! Last ned ved å klikke på en
-            av lenkene nedenfor!
+        <note label="17.12.2015">Divvun 4.0 on saatavilla, mukana tuki
+            64-bittiselle MS Officelle, ja pitkä lista kielellisiä korjauksia ja uusia sanoja
+            pohjois-, luulaja- ja eteläsaamelle! Lataa alla olevista linkeistä!
         </note>
         <section>
-            <title>Rettskrivningsverktøy for Windows<icon
+            <title>Oikeinkirjoitusohjelma Windowsille<icon
                 alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
             <section>
-                <title>Divvun-verktøy for MS Office<icon
+                <title>Divvun-ohjelma MS Officelle<icon
                     alt="Windows" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Husk å avinstallere den gamle versjonen! Pga store
-        endringer i den underliggende teknologien har vi ikke fått på plass
-        automatisk avinstallering ennå, så inntil videre må man avinstallere
-        manuelt.</warning>
+        <warning label="NB!">Muista poistaa aiempi versio! Suurien teknologisten
+            muutosten takia emme ole saaneet automaattista poistamista, joten 
+            ohjelma tulee poistaa manuaalisesti.</warning>
 
                 <table>
                 <tr>
                 <td>
                 <ul>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/msis/Divvun-sme.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Pohjoissaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/msis/Divvun-smj.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Luulajansaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/msis/Divvun-sma.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Eteläsaame</a>
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon alt="Ohjeet" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-vegledning</a>
+                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-ohjeet</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-ohjeet</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-ohjeet</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Ohjevideot</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
-                    href="http://libreoffice.org">LibreOffice<icon
+                <title>Divvun-ohjelma <a
+                    href="http://libreoffice.org">LibreOfficelle<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
                 <table>
                 <tr>
                 <td>
                 <ul>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Pohjoissaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Luulajansaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Eteläsaame</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-Ohjeet</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
                 </table>
 
-                <p>Vil du installere flere spåk samtidig for LibreOffice? Følg
-                <a href="">disse instruksjonene</a>.</p>
+                <p>Asennatko useampia kieliä LibreOfficeen? Seuraa
+                <a href="">näitä ohjeita</a>.</p>
 
             </section>
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for OSX<icon
+            <title>Oikeinkirjoitusohjelma OSX:lle<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
                 <section>
-                    <title>Divvun-verktøy for MS Office<icon
+                    <title>Divvun-ohjelma MS Officelle<icon
                         alt="Windows" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 for MS Office på OSX <strong>er ikke
-            tilgjengelig ennå</strong> pga uventede problemer. Vi arbeider med å
-            løse dem og vil oppdatere siden så fort den nye versjonen er
-            ferdig. Nedenfor kan du laste ned den gamle versjonen. NB! Den
-            gamle versjonen <strong>fungerer ikke med MS Office 2015!</strong>
-            Divvun 4.0 for LibreOffice fungerer utmerket (se lenger ned), og det
-            samme gjør MacVoikko (mer info <a href="oswide.html">her</a>).
+        <note label="Notér!">Divvun 4.0 MS Officelle OSX:llä <strong>ei ole
+            vielä saatavilla</strong> odottamattomien ongelmien takia. Työskentelemme
+            jotta saamme päivitettyä ne sivuille niin pian kuin mahdollista. Alta
+            voit ladata vanhan version. HOX! Vanha versio <strong>ei toimi MS Office 2015:ssa!</strong>
+            Divvun 4.0 LibreOfficele toimii moitteettomasti (katso alta), kuten myös MacVoikko (enemmän tietoa <a href="oswide.html">täältä</a>).
         </note>
 
                 <table>
                 <tr><td>
                 <ul>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
                     alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Last ned alle tre språk</a>
+                    Lataa kaikki kolme kieltä</a>
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon alt="Ohjeet" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
+                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-ohjeet</a>
+                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-ohjeet</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/mac-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Ohjevideot</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
-                    href="http://libreoffice.org">LibreOffice<icon
+                <title>Divvun-ohjelma <a
+                    href="http://libreoffice.org">LibreOfficelle<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
                 <table>
                 <tr>
                 <td>
                 <ul>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    Pohjoissaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Luulajansaame</a>
                   </li>
-                  <li class="Download"><a
+                  <li class="Lataa"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    Eteläsaame</a>
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon alt="Ohjeet" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-ohjeet</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
                 </table>
 
-                <p>Vil du installere flere spåk samtidig for LibreOffice? Følg
-                <a href="">disse instruksjonene</a>.</p>
+                <p>Asennatko useampia kieliä samanaikaisesti LibreOfficelle? Seuraa
+                <a href="">näitä ohjeita</a>.</p>
 
             </section>
 
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for Linux<icon
+            <title>Oikeinkirjoitusohjelma Linuxille<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>Divvun-verktøyene kan installeres på Linux ved å følge
-            instruksjonene <a href="oswide.html">på denne siden</a>.</p>
+            <p>Divvun-ohjelmat saa asennettua Linuxille seuraamalla näitä ohjeita <a href="oswide.html">samalla sivulla</a>.</p>
         </section>
     </body>
 </document>
