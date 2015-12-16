@@ -8,33 +8,31 @@
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Ij dåjma - ÁJN. Dá næhttalågåna bruvkkuji
-            <a href="oswide.html">tjállemdárkastusájt ma doajmmi
-            ålles vuogádagán</a>, ja la læhkám vejulasj Windows 8 rájes.
-            Barggap dájna, valla le læhkám gássjelap dan vuordijma.
-            Ådåstuhttet bielev gå miján li ådå diedo.</p>
+            <p>Vájválattjat ij dåjma - ÁJN. Dá næhttalågåna adnuj válldi
+            <a href="oswide.html">tjállemdárkastusájt ma sajájduhteduvvi
+            ålles vuogádagán</a>, ja dát la muojon læhkám vejulasj Windows 8 rájes.
+            Barggap dájna, valla le læhkám gássjelap dan álgos jáhkijma.
+            Ådåstuhttep bielev gå miján li ådå diedo.</p>
         </section>
 
       <section>
          <title>Firefox</title>
             <p>Firefox dárbaj sierra tjállemdárkastusájt majt sajájduhttá
-            vijdedibmen Firefoxan. Ja gávnnu guokta dákkir vijdedime
-            sámegiellaj: Akta majt <a href="http://tinodidriksen.com">Tino
-            Didriksen</a> iaktan Divvunin og Apertiumajn le stiellim, ja 
-            akta <a
-            href="https://github.com/voikko/mozvoikko">Mozvoikko</a> vuodon.
+            vijdedibmen Firefoxan. Ja gávnnuji guovte dákkir vijdedime
+            sámegiellaj: Avtav majt <a href="http://tinodidriksen.com">Tino
+            Didriksen</a> aktan Divvunin og Apertiumajn le ásadam, ja 
+            nuppev gånnå <a
+            href="https://github.com/voikko/mozvoikko">Mozvoikko</a> la vuodon.
             Didriksen-tjállemdárkastusá <em>doajmmi dåssju
             Windowsin</em> (gåjt dal ájn), madin MozVoikko-tjállemdárkastusá
-            doajmmi sihke Windowsin ja OSX:n. Med MozVoikko kan man <a
-            href="">installere flere
-            språk</a>, men bare på OSX.
+            sihke Windowsin ja OSX:n doajmmi. MozVoikkon máhttá  <a
+            href="">sajájduhttet ienep gielajt</a>, valla dåssju OSX:n.
             </p>
 
           <warning label="Windows-brukere"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
-             Det er for tilfellet ikke mulig å installere flere språk
-             samtidig.</warning>
+             Ij la jur dálla vejulasj sajájduhttet ienep gielajt sæmmi bále.</warning>
 
           <section>
              <title>Didriksen-tjállemdárkastusá</title>
@@ -42,7 +40,7 @@
              <tr>
                <th>Giella: </th>
                <th>Versjåvnnå: </th>
-               <th>Dokumentasjåvnnå og gálldokåvddå:</th>
+               <th>Dokumentasjåvnnå ja gálldokåvddå:</th>
              </tr>
              <tr>
                <td><a
@@ -130,19 +128,19 @@
              </table>
           </section>
 
-         <p><strong>Sajájduhttem:</strong> Dieddela guokti viettjadum xpi-fijlav,
+         <p><strong>Sajájduhttem:</strong> Dieddela viettjadum xpi-fijlav guokti,
          ja tjuovo bagádusájt.</p>
 
-         <p><strong>Bruk:</strong> Gå tjálá Firefoxan (jali ietjá
+         <p><strong>Adno:</strong> Gå tjálá Firefoxan (jali ietjá
          Mozilla-prográmman), oalges-dieddela tevstav, ja fálon majt
-         ihtá vállji vuollása fálov <strong>Languages</strong>. Dán
-         fálos vállji gielav masi tjállemdárkastusáv darbaha. Oadtjo
-         de ruoppsis sáhtsojt boastotjáledum bágoj vuolen.</p>
+         ihtá vállji vuollásasj fálov <strong>Languages</strong>. Dán
+         fálon vállji gielav masi tjállemdárkastusáv dárbaha. De ihti
+         ruoppsis sáhtso tjállemvigij vuollelin.</p>
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
          <warning label="MERK">Dagu vuojnná sjærmmagåvån badjelin, de ij
-         Firefox dåbdå moatte gielaj namájt. De farra Firefox vuoset giela <a
+         Firefox dåbdå måttij gielaj namájt. De farra Firefox vuoset giela <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
          639</a>-kåvdåv.</warning>
 
@@ -151,14 +149,14 @@
              <p>MozVoikko-tjállemdárkastusá gávnnuji Linuxij, valla viertti
              dajt iesj tsieggit. Lagáp bagádusá gávnná bielen gånnå
              <a href="oswide.html">sajájduhttá tjállemdárkastusáv ålles
-             operatijvavuogáhkaj</a>.</p>
+             operatijvavuogádahkaj</a>.</p>
           </section>
       </section>
 
       <section>
          <title>Chrome</title>
-            <p>Vájválattjat ij dåjma. Chrome Google ietjas
-            tjállemdárkastusáv adná, masi mij ep besa. Ja Googlein ij la
+            <p>Vájválattjat ij dåjma. Chrome bruvkku Google ietjas
+            tjállemdárkastusáv, masi mij ep besa. Ja Googlen ij la
             makkirak doarjjo sámegielajda.</p>
       </section>
 
