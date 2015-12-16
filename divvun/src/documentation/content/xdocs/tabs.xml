@@ -14,10 +14,10 @@
     -->
 <!-- The id attribute in the tab tag has to match the tab attribute in site.xml -->
     <tab dir="" id="Ruoktu" label="Divvun" indexfile="index.html">
-        <tab dir="about/" id="AboutUs" label="Om Divvun"   indexfile="about_divvun.html"/>
+        <tab dir="about/"  id="AboutUs" label="Om Divvun"   indexfile="about_divvun.html"/>
         <tab dir="events/" id="Events"  label="Arrangement" indexfile="events.html"/>
-        <tab label="Giellatekno" href="http://giellatekno.uit.no"/>
-        <tab id="TechDoc" href="http://divvun.no/doc/index.html" label="Developer documentation"/>
+        <tab label="Giellatekno"             href="http://giellatekno.uit.no"/>
+        <tab label="Developer documentation" href="http://divvun.no/doc/index.html"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
         <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"      />
