@@ -12,9 +12,9 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Mij lip barggamin åttjudittjat tjállemdárkastusáv majt doajmmá
-         ålles Windowsin, valla lij muhtem gássjelisvuoda. Ådåstuhttep dáv
-         bielev nav ruvva gå ienep diedojt adnep.</p>
+         <p>Mij lip barggamin åttjudittjat tjállemdárkastusáv mij doajmmá
+         ålles Windowsin, valla li muhtem gássjelisvuoda. Ådåstuhttep dáv
+         bielev nav ruvva gå miján li ienep diedoj.</p>
 
       </section>
 
@@ -23,27 +23,27 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Tjállemdárkastusájn ålles OSX:j le vilá betakvalitiehtta. Ájnnasamos
-         ássje mij la báhtsám adná dahkamuháv åttjudimijn moadda gielajt.
-         språk. Miján le <a
-         href="otherapps.html">sierra bielle</a> bagádusáj gåktu åttjudit
-         åttjudit sajájduhttet moadda gielajt sæmmi bále. Gielalattjat li dá
-         tjállemdárkastusá sæmmi buorre gå Word-tjállemdárkastus.</p>
+         <p>OSX-tjállemdárkastusá li vilá betakvalitiehtas. Ájnnasamos
+         ássje mij la báhtsám le gåktu sajájduhttet måttijt gielajt.
+         Miján le <a
+         href="otherapps.html">sierra bielle</a> bagádusáj gåktu 
+         sajájduhttet moadda gielajt sæmmi bále. Gielalattjat li dá
+         tjállemdárkastusá sæmmi buorre dagu Word-tjállemdárkastus.</p>
 
          <table>
          <tr>
            <th>Giella: </th>
            <th>Versjåvnnå: </th>
-           <th>Dokumentasjåvnnå og gálldokåvddå:</th>
+           <th>Dokumentasjåvnnå ja gálldokåvddå:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Viettja nuorttasáme tjállemdárkastusáv" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nuorttasáme </a></td>
+                    />Nuorttasámegiella </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasábmáj</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasámegiellaj</a>
                ja
                <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
            </td>
@@ -51,11 +51,11 @@
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Viettja julevsáme tjállemdárkastusáv height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Julevsáme </a></td>
+                    />Julevsámegiella </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsábmáj</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsámegiellaj</a>
                ja
                <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
            </td>
@@ -63,42 +63,40 @@
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Viettja oarjjelsáme tjállemdárkastusáv" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Oarjjelsáme </a></td>
+                    />Oarjjelsámegiella </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsáme</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsámegiellaj</a>
                ja
                <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Sajájduhttem:</strong> Jåde viettjadum fijlav máhppaj
+         <p><strong>Sajájduhttem:</strong> Sirde viettjaduvvam fijlav máhppaj
          <code>~/Bibliotek/Services/</code> návti: Rabá ådå Finder-vinndegav,
-         maná
-         fálluj <strong>Gå > Gå til mappe ...</strong>, tjálesta
-         <code>~/Bibliotek/Services/</code> ja dieddela enter. Dan maŋŋela
-         máhtá jåhtet viettjadum fijlav dán máhppaj. Dieddela fijlav guokti
-         maŋŋelakkuj gå la jåhtåm dav, jali låggi ålgus ja sisi vasten.</p>
+         maná fálluj <strong>Gå > Gå til mappe ...</strong>, tjálesta
+         <code>~/Bibliotek/Services/</code> ja dieddela enter-boalov. De besa
+         sirddet viettjaduvvam fijlav dán máhppaj. Dieddela fijlav guokti
+         maŋŋálakkuj gå la dav sirddám, jali låggi dáhtámasjijnas ålgus ja sisi vasten.</p>
 
          <p>Duodastittjat jus tjállemdárkastus doajmmá, rabá
          <strong>Systemvalg... > Tastatur > Tekst</strong>, ja gehtja jut
-         giellat le listan fálon <strong>Stavekontroll</strong>, ja jut tjuodtju
+         giellat le listan <strong>Stavekontroll</strong>, ja jut tjuodtju
          <strong>«(MacVoikko)»</strong>
-         giela namá duogen. Jus ij, álgada dáhtámásjijnav ådåsit.
+         giela namá duogen. Jus ij, álgada dáhtámasjijnav ådåsit.
          </p>
 
          <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Addnem:</strong> Prográmmajn ma tjállemdárkastusáv addni
-         (ienemus prográmma, valla ij MS Word, Firefow ja muhtem ieme prográmma)
+         <p><strong>Adno:</strong> Prográmmajn ma tjállemdárkastusáv bruvkkuji
+         (ienemus prográmma, valla ij MS Word, Firefox ja muhtem ieme prográmma)
          máhtá dåssju tjállemdárkastusvinndegav rahpat:
          <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
          grammatikk</strong>. Ja de vállji gielat giellafálon.
-         Jus agev sidá tjállemdárkastusáv dán giellaj adnet máhtá dahkat dav
-         tjállemdárkastusá standarddagiellan dánna:<strong>Systemvalg >
+         Máhtá aj biedjat dav tjállemdárkastiddje standárddagiellan: <strong>Systemvalg >
          Tastatur > Tekst</strong>.
        </p>
 
@@ -110,15 +108,15 @@
       <section>
          <title>Linux</title>
 
-         <p>Tjállemdárkastusáv mij doajmmá ålles Linuxin le gájkka majt dárbaha,
+         <p>Vuogádakvijddásasj tjállemdárkastusáv le ájnna majt Linuxij dárbaha,
          divna prográmma sjaddi dáv adnuj válldet.
-         Viertti dal ájn iesj tjállemdárkastusáv tsieggit, valla lip barggamin
-         åttjutjit dárbulasj páhkij, namálattjat iehtjama giellamodellaj, sadjihij
-         dábálasj páhkkarepositåvråj baktu.</p>
+         Dálla viertti iesj tjállemdárkastusáv tsieggit, valla lip barggagoahtám
+         åttjutjit dárbulasj páhkijt, duola dagu iehtjama giellamodellajt, sadjihij
+         dábálasj páhkkagálduj baktu.</p>
          <p>Bagádusájt gåktu tjállemdárkastusájt Linuxin tsieggit gávna
          gávna <a
          href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">dánna</a>,
-         gálldokåvddåpáhke juohkka giellaj gávna <a href="otherapps.html">dánna</a>.</p>
+         gálldokåvddåpáhkka juohkka giellaj gávna <a href="otherapps.html">dánna</a>.</p>
 
       </section>
 
