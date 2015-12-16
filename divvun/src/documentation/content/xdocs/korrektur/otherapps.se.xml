@@ -1,13 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-          "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="se">
-    <header>
-        <title>Vieččahahtti fiillat</title>
-    </header>
-    <body>
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+   <header>
+      <title>Andre installasjonsalternativ</title>
+   </header>
+   <body>
+
+      <section>
+         <title>Installer flere språk</title>
+
+            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
+            får du ett språk som del av pakka. Det er ikke mulig enda å
+            installere flere slike pakker samtidig for samme program. Dersom
+            du har bruk for flere av våre språk parallelt, kan du følge
+            instruksjonene nedenfor.</p>
+
+            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
+            men det blir arbeidet med å finne en løsning.
+            </warning>
+
+            <ol>
+              <li>Last ned en eller flere zhfst-filer:
+                <table>
+                <tr>
+                  <th>Språk: </th>
+                  <th>Versjon: </th>
+                  <th>Dokumentasjon og kildekode:</th>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  </td>
+                </tr>
+                </table>
+              </li>
+              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+                  <ul>
+                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                  </ul>
+                  Det er flere mulige steder man kan legge filene, de er
+                  beskrevet <a
+                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
+                  >her</a>. Let etter overskriften «Search order for dictionary
+                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
+                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+              </li>
+              <li>Logg ut og logg inn igjen</li>
+            </ol>
+
+            <p>Om du behøver andre språk enn samiske, finnes det flere
+            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+
+      </section>
+
+      <section>
+         <title>Bygg din egen stavekontroll</title>
+
+         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
+         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
+         følger:</p>
+
+         <ol>
+            <li>Følg instruksjonene <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
+                for å sikre at du har alle program og verktøy du behøver.</li>
+
+            <li>Last ned <a
+                href="https://sourceforge.net/projects/apertium/files/giella-core/
+                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
+                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
+                et terminalvindu:
+                <source>
+cd gtcore
+./configure
+make
+sudo make install</source>
+            </li>
+
+            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
+                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
+                forrige punkt):
+                <!--ul>
+                  <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
+                </ul-->
+                <source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+            </li>
+            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+                <source>
+cd YOURLANGUAGE
+./configure --with-hfst --enable-spellers
+make
+sudo make install</source>
+                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
+                du nettopp sjekket ut.</p>
+
+            </li>
+         </ol>
+
+         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
+         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
+         for Windows er begrenset.</p>
+
+      </section>
+
         <section>
-            <title>Viečča Divvun-reaidduid</title>
+            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+
+            <warning label="NB!">Hunspell-filene og de andre filene man kan
+            laste ned her er gamle
+            og ikke aktivt holdt ved like. De kan likevel være et alternativ
+            for enkelte program som ikke kan bruke annet.</warning>
+
             <table>
             <tr><td>
             <ul>
@@ -19,21 +149,19 @@
                 src="images/arrow-right-icon.png"/><icon
                 alt="Windows" height="27" width="27"
                 src="images/Galaxy_OOo3_main_256.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/LibreOfficeIcon.png"/><icon
                 alt="Windows" height="32" width="32"
-                src="images/windows.png" /><icon
+                src="images/Win10.png" /><icon
                 alt="MacOSX" height="32" width="32"
                 src="images/mac.png" /><icon
                 alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png" /><br/>Divvun OpenOfficii ja LibreOfficii </a>
+                src="images/Linux_Icon_256.png" /><br/>Divvun OpenOfficii</a>
               </li>
             </ul></td>
             <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+                · <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Linux" height="12" width="12"
                 src="images/Linux_Icon_256.png" />Linux-bagadallan</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
@@ -44,13 +172,11 @@
                 src="images/windows.png" />Windows-bagadallan</a>
             </td>
             <td>
-            <br/><a href="userdocs/videos/ooo-video.html">
+                <a href="userdocs/videos/ooo-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>bagadallanvideot</a></td>
             </tr>
-            <tr>
-            <td colspan="4"><p class="line"/></td>
-            </tr>
+
             <tr><td>
             <ul>
               <li class="Download"><a
@@ -62,31 +188,36 @@
                 alt="MacOSX" height="27" width="27"
                 src="images/InDesign-icon.png" /><icon
                 alt="MacOSX" height="27" width="27"
-                src="images/mac.png" /><br/>Divvun InDesign CS3, CS5.5 — MacOS X:i</a>
+                src="images/mac.png" /><icon
+                alt="Windows" height="32" width="32"
+                src="images/Win10.png" /><br/>Divvun InDesign CS3, CS5.5+ — MacOS X:i</a>
               </li>
             </ul></td>
             <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-            <br/><br/>
             <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bagadallan</a></td>
             <td>
             </td>
             </tr>
+
+            <tr><td>
+            <ul>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/smi.zip"><icon
+                alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Hunspell-filer for alle operativsystem</a>
+              </li>
+            </ul></td>
+            </tr>
             </table>
+
+            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
+            katalog slik det enkelte program krever det.</p>
+
         </section>
 
-      <section>
-         <title>Eará sajáiduhttineavttut</title>
-         <ul>
-            <li>Divvun olles MacOS X:i <a href="userdocs/mac/install-macosx-10.6.html">dokumeanta</a> mii čájeha mo
-            sajáiduhttá ja geavaha Divvuma olles Mac OS X:s</li>
-            <li>Divvun olles Linuxii: <a href="userdocs/linux/install-linux.html">dokumeanta</a> mii čájeha mo
-            sajáiduhttá ja geavaha Divvuma olles Linuxis</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-govva</a> maid boaldá
-            sajáiduhttin-cd:n buot golmma operatiivavuogádahkii</li>
-         </ul>
-      </section>
-	</body>
+   </body>
 </document>
