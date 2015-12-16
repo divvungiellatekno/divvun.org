@@ -35,6 +35,8 @@
   <message key="Events">Arrangement</message>
   <message key="Korrektur">Oikolukuvälineet</message>
     <message key="MSOffice">MS Office:lle</message>
+    <message key="Browsers">Selaimille</message>
+    <message key="OSWide">Koko järjestelmässä</message>
     <message key="AndreProgram">Muille ohjelmoille</message>
     <message key="Beta">Beta-versiot</message>
   <message key="Tastatur">Näppäimistöt</message>
