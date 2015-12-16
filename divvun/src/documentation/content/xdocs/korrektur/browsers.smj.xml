@@ -17,7 +17,6 @@
 
       <section>
          <title>Firefox</title>
-<<<<<<< .mine
             <p>Firefox dárbaj sierra tjállemdárkastusájt majt sajájduhttá
             vijdedibmen Firefoxan. Ja gávnnu guokta dákkir vijdedime
             sámegiellaj: Akta majt <a href="http://tinodidriksen.com">Tino
@@ -26,20 +25,9 @@
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a> vuodon.
             Didriksen-tjállemdárkastusá <em>doajmmi dåssju
             Windowsin</em> (gåjt dal ájn), madin MozVoikko-tjállemdárkastusá
-            doajmmi sihke Windowsin ja OSX:n.
-=======
-            <p>Firefox behøver egne stavekontroller, som man installerer som
-            utvidelser i Firefox. Og det finnes faktisk to slike utvidelser for
-            samisk: en laget av <a href="http://tinodidriksen.com">Tino
-            Didriksen</a> i samarbeid med Divvun og Apertium, og en annen bygd
-            på <a
-            href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
-            Didriksen-stavekontrollene <em>fungerer bare for
-            Windows</em> (inntil videre), mens MozVoikko-stavekontrollene
-            fungerer på både Windows og OSX. Med MozVoikko kan man <a
+            doajmmi sihke Windowsin ja OSX:n. Med MozVoikko kan man <a
             href="">installere flere
             språk</a>, men bare på OSX.
->>>>>>> .r126731
             </p>
 
           <warning label="Windows-brukere"><icon
