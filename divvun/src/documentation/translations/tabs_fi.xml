@@ -31,15 +31,15 @@
   <message key="TTS">TTS</message>
   <message key="Wiki">Wiki</message>
 
-  <message key="AboutUs">Om oss</message>
-  <message key="Events">Arrangement</message>
+  <message key="AboutUs">Meistä</message>
+  <message key="Events">Tapahtumat</message>
   <message key="Korrektur">Oikolukuvälineet</message>
     <message key="MSOffice">MS Office:lle</message>
     <message key="Browsers">Selaimille</message>
     <message key="OSWide">Koko järjestelmässä</message>
     <message key="AndreProgram">Muille ohjelmoille</message>
-    <message key="AndreSprak">For andre språk</message>
-    <message key="DevInfo">Utviklerinformasjon</message>
+    <message key="AndreSprak">Muille kielille</message>
+    <message key="DevInfo">Tiedot kehittäjille</message>
   <message key="Tastatur">Näppäimistöt</message>
   <message key="Tale">Puhesynteesi</message>
   <message key="Ordbøker">Sanakirjat</message>
