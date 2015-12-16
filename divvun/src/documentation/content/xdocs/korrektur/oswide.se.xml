@@ -11,7 +11,7 @@
       <section>
          <title>Windows<icon alt="Windows" height="27" width="27" src="images/Win10.png"/></title>
 
-         <p>Mii leat ráhkadišgoahtán čállindárkkisteami mii doaibmá olles Windowis, muhto mii eat leat nagodan čoavdit visot teknihkalaš čuolmmaid. Mii ođasmahttit dán siiddu go leat eanet dieđut.</p>
+         <p>Mii leat ráhkadišgoahtán čállindárkkisteami mii doaibmá olles Windowsis, muhto mii eat leat nagodan čoavdit visot teknihkalaš čuolmmaid. Mii ođasmahttit dán siiddu go leat eanet dieđut.</p>
 
       </section>
 
@@ -49,15 +49,15 @@
          </tr>
          </table>
 
-         <p><strong>Sájáiduhttin:</strong> Sirdde vižžon fiilla <code>~/Bibliotek/Services/</code>-máhppii dán lahkái: Raba ođđa Finder-láse, mana <strong>Gå > Gå til mappe ...</strong>-fállui. Čális <code>~/Bibliotek/Services/</code> ja deaddil Enter-boalu. Dalle lea vejolaš loktet vižžon fiilla dán lášii. Go leat dan dahkan duppalcoahkkal fiilla, dahje olggos- ja sisačálit iežat dihtoris.</p>
+         <p><strong>Sajáiduhttin:</strong> Sirdde vižžon fiilla <code>~/Bibliotek/Services/</code>-máhppii dán lahkái: Raba ođđa Finder-láse, mana <strong>Gå > Gå til mappe ...</strong>-fállui. Čális <code>~/Bibliotek/Services/</code> ja deaddil Enter-boalu. Dalle lea vejolaš loktet vižžon fiilla dán lásii. Go leat dan dahkan duppalcoahkkal fiilla, dahje olggos- ja sisačálit iežat dihtoris.</p>
 
-         <p>Jus háliidat dárkkistit ahte čállindárkkisteaddji doaibmá nugo háliidat, raba <strong>Systemvalg... > Tastatur > Tekst</strong>, ja dárkkis ahte du giella lea mielde listtus <strong>Stavekontroll</strong>-fálus, ja ahte <strong>«(MacVoikko)»</strong> oidno giela nama duohken. Jus dát ii oidno, vuolggát dihtora ođđasit johtui.
+         <p>Jus háliidat dárkkistit ahte čállindárkkisteaddji doaibmá nugo háliidat, raba <strong>Systemvalg... > Tastatur > Tekst</strong>, ja dárkkis ahte du giella lea mielde listtus <strong>Stavekontroll</strong>-fálus, ja ahte <strong>«(MacVoikko)»</strong> oidno giela nama duohken. Jus dát ii oidno, vuolggahat dihtora ođđasit johtui.
          </p>
 
          <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Geavahus:</strong> Prográmmain mat geavahit vuogádatčállindárkkisteaddji (eanáš prográmmat erret MS Word, Firefox ja muhtin eará dábálaš prográmma) sáhtát dušše rahpat čállindárkkistanláse: <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
+         <p><strong>Geavahus:</strong> Prográmmain mat geavahit vuogádatčállindárkkisteaddji (eanaš prográmmat earret MS Word, Firefox ja muhtin eará dábálaš prográmma) sáhtát dušše rahpat čállindárkkistanláse: <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
          grammatikk</strong>. Dasto válljet iežat giela giellafálus. Sáhtát maid bidjat dán giela standárdagiellan čállindárkkisteaddjis <strong>Systemvalg >
          Tastatur > Tekst</strong>-molssaeavttus.
        </p>
@@ -70,9 +70,9 @@
       <section>
          <title>Linux</title>
 
-         <p>Vuogádatviidosaš čállindárkkisteaddji lea buot maid dárbbašat Linuxis, visot prográmmat (erret Google Chrome ja Chromium) geavahit dan. Dál fertet ieš hukset dan. Mii leat ráhkadišgoahtán páhkaid, maiddái min giellamálliide, mat šaddet olámuttus dábálaš páhkkagálduin.</p>
+         <p>Vuogádatviidosaš čállindárkkisteaddji lea buot maid dárbbašat Linuxis, visot prográmmat (earret Google Chrome ja Chromium) geavahit dan. Muhto fertet ieš hukset dan. Mii leat ráhkadišgoahtán páhkaid, maiddái min iežamet giellamálliide, mat šaddet olámuttus dábálaš páhkkagálduin.</p>
          <p><a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">Dás</a> gávnnat bagadusaid mo hukse čállindárkkistanreadduid Linuxii, gáldokodapahkaid iešguđet gielaide gávnnat <a href="otherapps.html">dás</a>.</p>
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">Dás</a> gávnnat bagadusaid mo hukse čállindárkkistanreaidduid Linuxii. Gáldokodapáhkaid iešguđet gielaide gávnnat <a href="otherapps.html">dás</a>.</p>
 
       </section>
 
