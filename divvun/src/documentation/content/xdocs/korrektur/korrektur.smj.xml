@@ -7,13 +7,13 @@
         <meta name="description">sáme duollatjállemdárkastus</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0, majt doajmmá
-            64-bits MS Officen, ja gånnå li moadda gielalasj divvoma ja ådå bágo, 
-            la almoduvvam nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj! 
+        <note label="17.12.2015">Divvun 4.0 la almoduvvam. Doajmmá
+            64-bits MS Officen, ja danna li moatte gielalasj divádusá ja ådå bágo, 
+            nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj!.
             Dieddela sválldasav vuollelin ja viettja dav!     
         </note>
         <section>
-            <title>Duollatjállemnævo Windowsij<icon
+            <title>Duollatjállemdárkastus Windowsij<icon
                 alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
             <section>
@@ -21,9 +21,9 @@
                     alt="MS Office" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Mujte gádodit oabme versjåvnåv! Vuodulasj
-        teknologijja la ålov rievddam ja danen ep la ájn automatalasj gádodimev
-        åttjudam, navti vaj viertti vilá manualalattjat dav dahkat.</warning>
+        <warning label="NB!">Mujte gádodit oabme versjåvnåv! Stuor
+        teknologalasj rievddadusáj diehti ep la ájn automáhtalasj gádodimev
+        sadjihin, danen viertti dav vilá iesj dahkat.</warning>
 
                 <table>
                 <tr>
@@ -33,19 +33,19 @@
                     href="http://divvun.no/static_files/msis/Divvun-sme.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasáme</a>
+                    Nuorttasámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-smj.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsáme</a>
+                    Julevsámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-sma.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsáme</a>
+                    Oarjjelsámegiella</a>
                   </li>
                 </ul></td>
                 <td>
@@ -77,19 +77,19 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasáme</a>
+                    Nuorttasámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsáme</a>
+                    Julevsámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsáme</a>
+                    Oarjjelsámegiella</a>
                   </li>
                 </ul></td>
                 <td>
@@ -102,14 +102,14 @@
                 </tr>
                 </table>
 
-                <p>Det är för tillfället inte möjligt att installera flera språk
-                på en gång i LibreOffice för Windows.</p>
+                <p>Ij la LibreOfficij Windowsin jur dálla vejulasj sajájduhttet ienep 
+                gielajt sæmmi bále.</p>
 
             </section>
         </section>
 
         <section>
-            <title>Duollatjállemnævo OSX:j<icon
+            <title>Duollatjállemdárkastus OSX:j<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
@@ -118,13 +118,13 @@
                         alt="Windows" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="Notér!">Divvun 4.9 MS Officij OSX:n <strong>vuordek
-            gássjelisvuodaj diehti</strong> ij ájn uddni gávnnu.Mij lip daj
-            gássjelisvuodaj barggamin ja ådåstuhttet bielev nav ruvva gå
+        <note label="Notér!">Divvun 4.0 MS Officij OSX:n ij ájn uddni gávnnu <strong>vuordek
+            gássjelisvuodaj diehti</strong>. Mij lip dájt
+            gássjelisvuodajt tjoavddemin ja ådåstuhttep dáv bielev nav ruvva gå
             ådå versjåvnnå l gárves. Vuollelin máhtá viettjat oabme versjåvnåv.
             NB! Oabme versjåvnnå<strong> ij MS OFFICE 2015:n dåjma!</strong>
             Divvun 4.0 LibreOfficij doajmmá riek buoragijt (gehtja vuollelin),
-            ja sæmmi aj MacVoikko (ienep diedo) <a href="oswide.html">dánna</a>).
+            ja sæmmi aj MacVoikko (ienep diedo gávna <a href="oswide.html">dánna</a>).
         </note>
 
                 <table>
@@ -165,19 +165,19 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasáme</a>
+                    Nuorttasámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsáme</a>
+                    Julevsámegiella</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsáme</a>
+                    Oarjjelsámegiella</a>
                   </li>
                 </ul></td>
                 <td>
@@ -190,7 +190,7 @@
                 </tr>
                 </table>
 
-                <p>Sidá gus åttjudit ienep gielajt sæmmi bále LibreOfficij?  Tjuovo
+                <p>Sidá gus LibreOfficij sajájduhttet ienep gielajt sæmmi bále?  Tjuovo
                 <a href="">dájt bagádusájt</a>.</p>
 
             </section>
@@ -198,7 +198,7 @@
         </section>
 
         <section>
-            <title>Duollatjállemnævo Linuxij<icon
+            <title>Duollatjállemdárkastus Linuxij<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
             <p>Divvun-nævojt åttjuda Linuxij jus tjuovo 
