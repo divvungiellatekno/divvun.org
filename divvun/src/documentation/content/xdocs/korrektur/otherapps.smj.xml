@@ -8,16 +8,16 @@
    <body>
 
       <section>
-         <title>Sajajduhte måttijt gielajt</title>
+         <title>Sajájduhte måttijt gielajt</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>Ga sajájduhtá tjállemdárkastusájt ma li dáj ietjá bielijn nammaduvvam,
+            oadtjo avtav gielav oassen páhkes. Ij la ájn vejulasj sajájduhttet
+            ienep dáhkkir páhkijt sæmmi bále sæmmi prográmmaj. Jus dujna la
+            dárbbo moatte gielajt aktan adnet, máhtá tjuovvot
+            bagádusájt vuollelin..</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="NB!">Ij la ájn vejulasj dáv dahkat Windowsin,
+            valla barggap tjuovddusijn.
             </warning>
 
             <ol>
@@ -62,15 +62,15 @@
                   Dåhkki aj ietjá sajijda fijlajt biedjat, da li
                   tjielggiduvvam <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >dánna</a>. Åhtså bajelttjálav «Search order for dictionary
-                  files». Mujte <code>.zhfst</code>-fijla viertti agev biejaduvvat
-                  katalåvggåj gåhtjoduvvam «3» katalåvgåj sinna ma li dan bielen tjielggiduvvam.
+                  >dánna</a>. Åhtså bajelttjállagav «Search order for dictionary
+                  files». Mujte <code>.zhfst</code>-fijla vierttiji agev biejaduvvat
+                  katalåvggåj gåhtjoduvvam «3» katalåvgåjn ma li dan bielen tjielggiduvvam.
               </li>
               <li>Låggi ålgus ja sisi vasten</li>
             </ol>
 
-            <p>Jus dárbaha ietjá gielajt dan sámegielajt, gávna ienep
-             gielajt dánna: <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p>Jus dárbaha ietjá gielajt ietján gå sámegielajt, gávna dajt
+            dánna: <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
@@ -84,11 +84,11 @@
          <ol>
             <li>Tjuovo bagádusájt <a
                 href="http://divvun.no/doc/infra/GettingStarted.html">dánna</a>
-                duodastittjat dujna li divna dárbulasjprográmma ja vædtsaga.</li>
+                duodastittjat dujna li divna dárbulasj prográmma ja vædtsaga.</li>
 
             <li>Viettja <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarpáhkev</a>, divnaj gielaj dárbulasj ressursaj
+                ">giella core-tarpáhkev</a>, gånnå divnaj gielaj dárbulasj ressursa li.
                 Gå la dav viedtjam, viertti návti terminállavinndegin dahkat dav
                 jåhtuj biejatjit:
                 <source>
@@ -112,7 +112,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nuorttasámegiella
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsámegiella
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Oarjjelsámegiella</source>
             </li>
-            <li>Tjálesta tjuovvuvasj kommánndujt terminállavinndegij biejatjit jåhtuj:
+            <li>Tjálesta tjuovvovasj kommánndujt terminállavinndegij biejatjit gájkka jåhtuj:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
@@ -130,11 +130,11 @@ sudo make install</source>
       </section>
 
         <section>
-            <title>OpenOffice, InDesign ja ietjá prográmma ma adnuj válddi Hunspell-fijlajt</title>
+            <title>OpenOffice, InDesign ja ietjá prográmma ma adnuj válldi Hunspell-fijlajt</title>
 
             <warning label="NB!">Hunspell-fijlajt ja dajt ietjá fijlajt majt
             dánna máhttá viettjat li oabme
-            ja ælla aktijvalattjat ájmon bisoduvvam. Soajttá huoman dåhkki dajt alternatijvvan
+            ja ælla aktijvalattjat ájmon bisoduvvam. Soajttá huoman dåhkki alternatijvvan
             ietjá prográmmajda majn ælla ietjá vejulasjvuoda.</warning>
 
             <table>
