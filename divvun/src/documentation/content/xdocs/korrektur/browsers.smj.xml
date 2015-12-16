@@ -3,21 +3,31 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroll for nettlesere</title>
+      <title>Duollatjállemdárkastus næhttalågånijda</title>
    </header>
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Beklager, ingen støtte - ENNÅ. Disse nettleserne bruker
-            <a href="oswide.html">stavekontroller installert
-            for hele systemet</a>, som i prinsippet har vært mulig siden
-            Windows 8. Vi jobber med dette, men det har vist seg å være
-            vanskeligere enn ventet. Vi vil oppdatere siden
-            når vi har ny informasjon.</p>
+            <p>Ij dåjma - ÁJN. Dá næhttalågåna bruvkkuji
+            <a href="oswide.html">tjállemdárkastusájt ma doajmmi
+            ålles vuogádagán</a>, ja la læhkám vejulasj Windows 8 rájes.
+            Barggap dájna, valla le læhkám gássjelap dan vuordijma.
+            Ådåstuhttet bielev gå miján li ådå diedo.</p>
         </section>
 
       <section>
          <title>Firefox</title>
+<<<<<<< .mine
+            <p>Firefox dárbaj sierra tjállemdárkastusájt majt sajájduhttá
+            vijdedibmen Firefoxan. Ja gávnnu guokta dákkir vijdedime
+            sámegiellaj: Akta majt <a href="http://tinodidriksen.com">Tino
+            Didriksen</a> iaktan Divvunin og Apertiumajn le stiellim, ja 
+            akta <a
+            href="https://github.com/voikko/mozvoikko">Mozvoikko</a> vuodon.
+            Didriksen-tjállemdárkastusá <em>doajmmi dåssju
+            Windowsin</em> (gåjt dal ájn), madin MozVoikko-tjállemdárkastusá
+            doajmmi sihke Windowsin ja OSX:n.
+=======
             <p>Firefox behøver egne stavekontroller, som man installerer som
             utvidelser i Firefox. Og det finnes faktisk to slike utvidelser for
             samisk: en laget av <a href="http://tinodidriksen.com">Tino
@@ -29,6 +39,7 @@
             fungerer på både Windows og OSX. Med MozVoikko kan man <a
             href="">installere flere
             språk</a>, men bare på OSX.
+>>>>>>> .r126731
             </p>
 
           <warning label="Windows-brukere"><icon
@@ -38,23 +49,23 @@
              samtidig.</warning>
 
           <section>
-             <title>Didriksen-stavekontroller</title>
+             <title>Didriksen-tjállemdárkastusá</title>
              <table>
              <tr>
-               <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Giella: </th>
+               <th>Versjåvnnå: </th>
+               <th>Dokumentasjåvnnå og gálldokåvddå:</th>
              </tr>
              <tr>
                <td><a
                     href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Nuorttasáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
                 </td>
              </tr>
              <tr>
@@ -62,11 +73,11 @@
                     href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
                 </td>
              </tr>
              <tr>
@@ -74,34 +85,34 @@
                     href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
                ><icon alt="Last ned sørsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Oarjjelsáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
                 </td>
              </tr>
              </table>
           </section>
 
           <section>
-             <title>MozVoikko-stavekontroller</title>
+             <title>MozVoikko-tjállemdárkastusá</title>
              <table>
              <tr>
-               <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Giella: </th>
+               <th>Versjåvnnå: </th>
+               <th>Dokumentasjåvnnå ja gálldokåvddå:</th>
              </tr>
              <tr>
                <td><a
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-               />Nordsamisk </a></td>
+               />Nuorttasáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
                 </td>
              </tr>
              <tr>
@@ -109,11 +120,11 @@
                href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
                 </td>
              </tr>
              <tr>
@@ -121,53 +132,53 @@
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
                ><icon alt="Last ned sørsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Oarjjelsáme </a></td>
                <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsámegiellaj</a>
+                   ja
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
                 </td>
              </tr>
              </table>
           </section>
 
-         <p><strong>Installering:</strong> Dobbeltklikk den nedlasta xpi-fila,
-         og følg instruksjonene.</p>
+         <p><strong>Sajájduhttem:</strong> Dieddela guokti viettjadum xpi-fijlav,
+         ja tjuovo bagádusájt.</p>
 
-         <p><strong>Bruk:</strong> Når du skriver i Firefox (eller et annet
-         Mozilla-program), høyre-klikker du på teksten din, og i menyen som
-         dukker opp velger du undermenyen <strong>Languages</strong>. Fra
-         denne menyen velger du det språket som du vil ha stavekontroll for. Du
-         får da røde streker under feilstavede ord.</p>
+         <p><strong>Bruk:</strong> Gå tjálá Firefoxan (jali ietjá
+         Mozilla-prográmman), oalges-dieddela tevstav, ja fálon majt
+         ihtá vállji vuollása fálov <strong>Languages</strong>. Dán
+         fálos vállji gielav masi tjállemdárkastusáv darbaha. Oadtjo
+         de ruoppsis sáhtsojt boastotjáledum bágoj vuolen.</p>
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
-         <warning label="MERK">Som det framgår av skjermbildet over, kjenner ikke
-         Firefox til navnet på mange språk. I slike tilfeller viser Firefox <a
+         <warning label="MERK">Dagu vuojnná sjærmmagåvån badjelin, de ij
+         Firefox dåbdå moatte gielaj namájt. De farra Firefox vuoset giela <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
-         639</a>-koden for språket.</warning>
+         639</a>-kåvdåv.</warning>
 
           <section>
-             <title>Firefox på Linux</title>
-             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
-             bygge den selv. Nærmere instruksjoner finnes på siden for å
-             <a href="oswide.html">installere stavekontrollen for hele
-             operativsystemet</a>.</p>
+             <title>Firefox Linuxin</title>
+             <p>MozVoikko-tjállemdárkastusá gávnnuji Linuxij, valla viertti
+             dajt iesj tsieggit. Lagáp bagádusá gávnná bielen gånnå
+             <a href="oswide.html">sajájduhttá tjállemdárkastusáv ålles
+             operatijvavuogáhkaj</a>.</p>
           </section>
       </section>
 
       <section>
          <title>Chrome</title>
-            <p>Beklager - ingen støtte. Chrome bruker Googles egen
-            stavekontroll, som vi ikke har tilgang til. Og Google har
-            ingen støtte for samisk.</p>
+            <p>Vájválattjat ij dåjma. Chrome Google ietjas
+            tjállemdárkastusáv adná, masi mij ep besa. Ja Googlein ij la
+            makkirak doarjjo sámegielajda.</p>
       </section>
 
       <section>
          <title>Safari</title>
-            <p>Safari bruker stavekontrollene som er installert for hele
-            systemet. Installer MacVoikko for ditt språk på siden for <a
-            href="oswide.html">stavekontroller for hele systemet</a>.</p>
+            <p>Safari bruvkku tjállemdárkastusájt ma doajmmi ålles
+            vuogádagán. Sajájduhte MacVoikko ietjat giellaj bielen gånnå <a
+            href="oswide.html">sajájduhttá tjállemdárkastusájt ålles vuogádahkaj</a>.</p>
       </section>
 
    </body>
