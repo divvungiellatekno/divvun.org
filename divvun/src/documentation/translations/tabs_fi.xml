@@ -38,7 +38,8 @@
     <message key="Browsers">Selaimille</message>
     <message key="OSWide">Koko järjestelmässä</message>
     <message key="AndreProgram">Muille ohjelmoille</message>
-    <message key="Beta">Beta-versiot</message>
+    <message key="AndreSprak">For andre språk</message>
+    <message key="DevInfo">Utviklerinformasjon</message>
   <message key="Tastatur">Näppäimistöt</message>
   <message key="Tale">Puhesynteesi</message>
   <message key="Ordbøker">Sanakirjat</message>

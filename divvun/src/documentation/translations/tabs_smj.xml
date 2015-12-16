@@ -34,9 +34,12 @@
   <message key="AboutUs">Mijá birra</message>
   <message key="Events">Ásadime</message>
   <message key="Korrektur">Korrektuvrra</message>
-    <message key="MSOffice">MS Office</message>
-    <message key="AndreProgram">Ietjá prográmma</message>
-    <message key="Beta">Beta-versjåvnå</message>
+    <message key="MSOffice">For skole og kontor</message>
+    <message key="Browsers">For nettlesere</message>
+    <message key="OSWide">For hele datamaskinen</message>
+    <message key="AndreProgram">Andre installasjonsalternativ</message>
+    <message key="AndreSprak">For andre språk</message>
+    <message key="DevInfo">Utviklerinformasjon</message>
   <message key="Tastatur">Tastatuvra</message>
   <message key="Tale">Tevstas-hållaj</message>
   <message key="Ordbøker">Báhkogirje</message>
