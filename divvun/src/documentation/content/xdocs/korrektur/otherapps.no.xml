@@ -3,11 +3,125 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
    <header>
-      <title>Nedlastbare filer</title>
+      <title>Andre installasjonsalternativ</title>
    </header>
    <body>
+
+      <section>
+         <title>Installer flere språk</title>
+
+            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
+            får du ett språk som del av pakka. Det er ikke mulig enda å
+            installere flere slike pakker samtidig for samme program. Dersom
+            du har bruk for flere av våre språk parallelt, kan du følge
+            instruksjonene nedenfor.</p>
+
+            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
+            men det blir arbeidet med å finne en løsning.
+            </warning>
+
+            <ol>
+              <li>Last ned en eller flere zhfst-filer:
+                <table>
+                <tr>
+                  <th>Språk: </th>
+                  <th>Versjon: </th>
+                  <th>Dokumentasjon og kildekode:</th>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  </td>
+                </tr>
+                <tr>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                      og
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  </td>
+                </tr>
+                </table>
+              </li>
+              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+                  <ul>
+                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                  </ul>
+                  Det er flere mulige steder man kan legge filene, de er
+                  beskrevet <a
+                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
+                  >her</a>. Let etter overskriften «Search order for dictionary
+                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
+                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+              </li>
+              <li>Logg ut og logg inn igjen</li>
+            </ol>
+
+      </section>
+
+      <section>
+         <title>Bygg din egen stavekontroll</title>
+
+         <p>It is possible to build your own spellers directly from source, and
+         as part of that also modify the source to fit your needs. Do as
+         follows:</p>
+
+         <ol>
+            <li>Follow the instructions <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">here</a>
+                to make sure you have all tools required to build your own
+                speller.</li>
+
+            <li>Download the <a
+                href="https://sourceforge.net/projects/apertium/files/giella-core/
+                ">giella core tarball</a>, which contains prerequisites for all
+                languages. After the download, unpack and do the following:
+                <source>
+cd gtcore
+./configure
+make
+sudo make install</source>
+            </li>
+
+            <li>Download the language source code tarball for your language:
+                <ul>
+                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
+                </ul>
+            </li>
+            <li>Unpack and run the following commands:
+                <source>
+cd YOURLANGUAGE
+./configure --with-hfst --enable-spellers
+make
+sudo make install</source>
+                <p>Replace <code>YOURLANGUAGE</code> with the name of the language
+                directory you just unpacked.</p>
+
+            </li>
+         </ol>
+
+      </section>
+
         <section>
-            <title>Last ned Divvun</title>
+            <title>OpenOffice, InDesign og andre program som forstår Hunspell-filer</title>
+            <warning label="NB!">Hunspell-filene man kan laste ned her er gamle
+            og ikke aktivt holdt ved like. De kan likevel være et alternativ
+            dersom ingenting annet fungerer.</warning>
+
             <table>
             <tr><td>
             <ul>
@@ -19,14 +133,12 @@
                 src="images/arrow-right-icon.png"/><icon
                 alt="Windows" height="27" width="27"
                 src="images/Galaxy_OOo3_main_256.png"/><icon
-                alt="Windows" height="27" width="27"
-                src="images/LibreOfficeIcon.png"/><icon
                 alt="Windows" height="32" width="32"
-                src="images/windows.png" /><icon
+                src="images/Win10.png" /><icon
                 alt="MacOSX" height="32" width="32"
                 src="images/mac.png" /><icon
                 alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice &amp; LibreOffice </a>
+                src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice </a>
               </li>
             </ul></td>
             <td>
@@ -77,16 +189,5 @@
             </table>
         </section>
 
-      <section>
-         <title>Andre installeringsalternativ</title>
-         <ul>
-            <li>Divvun for hele MacOS X: <a href="userdocs/mac/install-macosx-10.6.html">instruksjoner</a> for hvordan
-            man installerer og bruker Divvun-verktøyene i hele Mac OS X</li>
-            <li>Divvun for hele Linux: <a href="userdocs/linux/install-linux.html">instruksjoner</a> for hvordan man
-            installerer og bruker Divvun-verktøyene i hele Linux</li>
-            <li><a href="http://divvun.no/static_files/DivvunToolsCD.iso">ISO-image</a> for å brenne en installerings-cd
-            for alle tre operativsystemene</li>
-         </ul>
-      </section>
    </body>
 </document>
