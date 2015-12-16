@@ -137,11 +137,22 @@ h3.h4 {
 
 h3.h4 + table {
     margin-left: 2em;
-    margin-bottom: 1em;
+}
+
+h3.h4 + div + table {
+    margin-left: 2em;
 }
 
 h3.h4 + table + p {
-    margin-left: 1em;
+    margin-left: 2em;
+}
+
+h3.h4 + p {
+    margin-left: 2em;
+}
+
+table {
+    margin-bottom: 1em;
 }
 
 @media screen and (max-width:767px) {
