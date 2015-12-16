@@ -3,94 +3,90 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
    <header>
-      <title>Andre installasjonsalternativ</title>
+      <title>Muut asennusvaihtoehdot</title>
    </header>
    <body>
 
       <section>
-         <title>Installer flere språk</title>
+         <title>Asenna useita kieliä</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>Kun asennat oikolukuohjelmia jotka mainitaan muilla sivuilla täällä,
+            saat kielen osana pakettia. Ei ole vielä mahdollista asentaa useita
+            tälläisia paketteja samanaikaisesti samaan ohjelmaan. Jos on tarvetta
+            useammille kielille samanaikaisesti, seuraa alla olevia ohjeita.</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="NB!">Tämä ei ole vielä mahdollista Windowsilla.
             </warning>
 
             <ol>
-              <li>Last ned en eller flere zhfst-filer:
+              <li>Lataa yksi tai useampi zhfst-tiedosto:
                 <table>
                 <tr>
-                  <th>Språk: </th>
-                  <th>Versjon: </th>
-                  <th>Dokumentasjon og kildekode:</th>
+                  <th>Kieli: </th>
+                  <th>Versio: </th>
+                  <th>Dokumentointi ja lähdekoodi:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Pohjoissaame</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektidokumentaatio</a>
+                      ja
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">lähdekoodi</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Luulajansaame</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektidokumentaatio</a>
+                      ja
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">lähdekoodi</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Eteläsaame</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">PProjektidokumentaatio</a>
+                      ja
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">lähdekoodi</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Siirrä ladatut zhfst-tiedostot yhteen seuraavista kansioista:
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
+                    <li>OSX: <code>$HOME/Kirjasto/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det er flere mulige steder man kan legge filene, de er
-                  beskrevet <a
+                  Tiedostot voi siirtää useampaan paikkaan, nämä ovat
+                  tarkennettu <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >her</a>. Let etter overskriften «Search order for dictionary
-                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
-                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+                  >täällä</a>. Etsi «Search order for dictionary
+                  files». Muista aina laittaa <code>.zhfst</code>-tiedostot
+                  kansioon «3» kansiossa tarkennettu sivulla.
               </li>
-              <li>Logg ut og logg inn igjen</li>
+              <li>Uudelleenkirjaudu sisään</li>
             </ol>
 
-            <p>Om du behøver andre språk enn samiske, finnes det flere
-            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p>Jos tarvitset muita kieliä kuin saame, löydät muita
+            kieliä <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
-         <title>Bygg din egen stavekontroll</title>
+         <title>Käännä oma oikolukuohjelma</title>
 
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <p>Voit kääntää oman oikolukuohjelman lähdekoodista,
+         ja sen osana muokata lähdekoodia tarpeidesi mukaan. Tee seuraavasti:</p>
 
          <ol>
-            <li>Følg instruksjonene <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
-                for å sikre at du har alle program og verktøy du behøver.</li>
+            <li>Seuraa ohjeita<a
+                href="http://divvun.no/doc/infra/GettingStarted.html">täältä</a>
+                varmistaaksesi että sinulla on tarvittavat ohjelmat.</li>
 
-            <li>Last ned <a
+            <li>Lataa <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+                ">giella core-tar</a>, joka sisältää tarvittavat resurssit
+                kaikille kielille. Latauksen jälkeen pura pakkaus ja aja komennot:
                 <source>
 cd gtcore
 ./configure
@@ -99,49 +95,44 @@ sudo make install</source>
             </li>
 
             <li><!-- Last ned kildekode-tarballen for språket ditt: -->
-                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
-                forrige punkt):
+                Lataa kielesi lähdekoodi erilliseen kansioon (ts.
+                iei <code>gtcore</code>-kansioon:
                 <!--ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
                 </ul-->
                 <source>
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Phjoissaame
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Luulajansaame
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Eteläsaame</source>
             </li>
-            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+            <li>Pura ja aja seuraavat komennot:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
-                du nettopp sjekket ut.</p>
+                <p>Vaihda <code>YOURLANGUAGE</code> juuri lataamaasi kielikoodiin.</p>
 
             </li>
          </ol>
 
-         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</p>
+         <p>Yllä olevat ohjeet ja komennot toimivat komentoriviympäristössä modernissa
+          käyttöjärjestelmässä. Windows-tuki on rajallinen.</p>
 
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+            <title>OpenOffice, InDesign ja muut ohjelmat jotka käyttävät Hunspell-tiedostoja</title>
 
-            <warning label="NB!">Hunspell-filene og de andre filene man kan
-            laste ned her er gamle
-            og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            for enkelte program som ikke kan bruke annet.</warning>
+            <warning label="NB!">Hunspell-tiedostot ja muut tiedostot jotka voi ladata
+            täältä ovat vanhoja, eivätkä ole päivitetty. Ne ovat kuitenkin vaihtoehto jos ei löydy muuta.</warning>
 
             <table>
             <tr><td>
             <ul>
-              <li class="Download"><a
+              <li class="Lataa"><a
               href="http://divvun.no/static_files/smi.oxt"><icon
                 alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" /><icon
@@ -154,27 +145,27 @@ sudo make install</source>
                 alt="MacOSX" height="32" width="32"
                 src="images/mac.png" /><icon
                 alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png" /><br/>Divvun for OpenOffice </a>
+                src="images/Linux_Icon_256.png" /><br/>Divvun OpenOfficelle </a>
               </li>
             </ul></td>
             <td>
-              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Ohjeet" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
                 · <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Linux" height="12" width="12"
-                src="images/Linux_Icon_256.png" />Linux-vegledning</a>
+                src="images/Linux_Icon_256.png" />Linux-ohjeet</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="MacOSX" height="12" width="12"
-                src="images/mac.png" />MacOSX-vegledning</a>
+                src="images/mac.png" />MacOSX-ohjeet</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Windows" height="12" width="12"
-                src="images/windows.png" />Windows-vegledning</a>
+                src="images/windows.png" />Windows-ohjeet</a>
             </td>
             <td>
                 <a href="userdocs/videos/ooo-video.html">
               <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                src="images/Movie-icon.png"/>Ohjevideot</a></td>
             </tr>
 
             <tr><td>
@@ -190,32 +181,32 @@ sudo make install</source>
                 alt="MacOSX" height="27" width="27"
                 src="images/mac.png" /><icon
                 alt="Windows" height="32" width="32"
-                src="images/Win10.png" /><br/>Divvun for InDesign CS3, CS5.5+ — MacOS X</a>
+                src="images/Win10.png" /><br/>Divvun InDesign CS3:lle, CS5.5+:lle — MacOS X</a>
               </li>
             </ul></td>
             <td>
               <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-            <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Vegledning</a></td>
+            <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Ohjeet</a></td>
             <td>
             </td>
             </tr>
 
             <tr><td>
             <ul>
-              <li class="Download"><a
+              <li class="Lataa"><a
                 href="http://divvun.no/static_files/smi.zip"><icon
                 alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Hunspell-filer for alle operativsystem</a>
+                Hunspell-tiedostot kaikille käyttöjärjestelmille</a>
               </li>
             </ul></td>
             </tr>
             </table>
 
-            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
-            katalog slik det enkelte program krever det.</p>
+            <p>Pura Hunspell-pakkaus, ja sijoita aff- og dic-filene oikeaan
+            kansioon.</p>
 
         </section>
 
