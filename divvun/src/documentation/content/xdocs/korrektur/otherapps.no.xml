@@ -69,6 +69,9 @@
               <li>Logg ut og logg inn igjen</li>
             </ol>
 
+            <p>Om du behøver andre språk enn samiske, finnes det flere
+            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+
       </section>
 
       <section>
@@ -128,10 +131,12 @@ sudo make install</source>
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som forstår Hunspell-filer</title>
-            <warning label="NB!">Hunspell-filene man kan laste ned her er gamle
+            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+
+            <warning label="NB!">Hunspell-filene og de andre filene man kan
+            laste ned her er gamle
             og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            dersom ingenting annet fungerer.</warning>
+            for enkelte program som ikke kan bruke annet.</warning>
 
             <table>
             <tr><td>
@@ -153,10 +158,10 @@ sudo make install</source>
               </li>
             </ul></td>
             <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-              <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
+                · <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Linux" height="12" width="12"
                 src="images/Linux_Icon_256.png" />Linux-vegledning</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
@@ -167,13 +172,11 @@ sudo make install</source>
                 src="images/windows.png" />Windows-vegledning</a>
             </td>
             <td>
-            <br/><a href="userdocs/videos/ooo-video.html">
+                <a href="userdocs/videos/ooo-video.html">
               <icon alt="Instructions" height="48" width="48"
                 src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
             </tr>
-            <tr>
-            <td colspan="4"><p class="line"/></td>
-            </tr>
+
             <tr><td>
             <ul>
               <li class="Download"><a
@@ -185,19 +188,35 @@ sudo make install</source>
                 alt="MacOSX" height="27" width="27"
                 src="images/InDesign-icon.png" /><icon
                 alt="MacOSX" height="27" width="27"
-                src="images/mac.png" /><br/>Divvun for InDesign CS3, CS5.5 — MacOS X</a>
+                src="images/mac.png" /><icon
+                alt="Windows" height="32" width="32"
+                src="images/Win10.png" /><br/>Divvun for InDesign CS3, CS5.5+ — MacOS X</a>
               </li>
             </ul></td>
             <td>
-              <br/><icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-            <br/><br/>
             <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Vegledning</a></td>
             <td>
             </td>
             </tr>
+
+            <tr><td>
+            <ul>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/smi.zip"><icon
+                alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Hunspell-filer for alle operativsystem</a>
+              </li>
+            </ul></td>
+            </tr>
             </table>
+
+            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
+            katalog slik det enkelte program krever det.</p>
+
         </section>
 
    </body>
