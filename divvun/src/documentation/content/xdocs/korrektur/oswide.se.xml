@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="se">
    <header>
-      <title>Stavekontroller i hele systemet</title>
-      <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
+      <title>Čállindárkkistanreaiddut olles vuogádahkii</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux, čállindárkkisteapmi</meta>
    </header>
    <body>
 
       <section>
-         <title>Windows<icon alt="Windows" height="27" width="27"
-                src="images/Win10.png"/></title>
+         <title>Windows<icon alt="Windows" height="27" width="27" src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>Mii leat ráhkadišgoahtán čállindárkkisteami mii doaibmá olles Windowis, muhto mii leat nágodan čoavdit visot teknihkalaš čoalmmaid. Mii ođasmahttit dán siiddu go leat eanet dieđut.</p>
 
       </section>
 
@@ -23,82 +20,46 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
-         viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         <p>Čállindárkkisteaddjit olles OSX:i doibmet bures gielalaččat (seamma dásis go Windowsis), muhto teknihkalaččat mii eat leat čoavdán mo álkit sajáiduhttá máŋga giela oktanaga. <a href="otherapps.html">Sierra siiddus</a> gávnnat bagadusaid mo sáhttá sajáiduhttit máŋga giela oktanaga.</p>
 
          <table>
          <tr>
-           <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Giella:</th>
+           <th>Veršuvdna:</th>
+           <th>Dokumentašuvdna ja gáldokoda:</th>
          </tr>
          <tr>
            <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
-           <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Davvisámegiella</a></td>
+           <td>Ii olámuttus</td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
            </td>
          </tr>
          <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
-           <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Julevsámegiella</a></td>
+           <td>Ii olámuttus</td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
            </td>
          </tr>
          <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
-           <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"><icon alt="Last ned nordsamisk" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Lullisámegiella</a></td>
+           <td>Ii olámuttus</td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Sájáiduhttin:</strong> Sirdde vižžon fiilla <code>~/Bibliotek/Services/</code>-máhppii dán lahkái: Raba ođđa Finder-láse, mana <strong>Gå > Gå til mappe ...</strong>-fállui. Čális <code>~/Bibliotek/Services/</code> ja deaddil Enter-boalu. Dalle lea vejolaš loktet vižžon fiilla dán lášii.Go leat dan dahkan duppalcoahkkal fiilla, dahje olggos- ja sisačálit iežat dihtoris.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
-         <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.
+         <p>Jus háliidat dárkkistit ahte čállindárkkisteaddji doaibmá nugo háliidat, raba <strong>Systemvalg... > Tastatur > Tekst</strong>, ja dárkkis ahte du giella lea mielde listtus <strong>Stavekontroll</strong>-fálus, ja ahte <strong>«(MacVoikko)»</strong> oidno giela nama duohken. Jus dát ii oidno, vuolggát dihtora johtui ođđasit.
          </p>
 
          <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.
+         <p><strong>Geavahus:</strong> Prográmmain mat geavahit vuogádatčállindárkkisteaddji (eanáš prográmmat erret MS Word, Firefox ja muhtin eará dábálaš prográmma) sáhtát dušše rahpat čállindárkkistanláse: <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
+         grammatikk</strong>. Dasto válljet iežat giela giellafálus. Sáhtát maid bidjat dán giela standárdagiellan čállindárkkisteaddjis <strong>Systemvalg >
+         Tastatur > Tekst</strong>-molssaeavttus.
        </p>
 
          <figure alt="OSX stavekontrolldialog"
@@ -109,15 +70,9 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         <p>Vuogádatviidosaš čállindárkkisteaddji lea buot maid dárbbašat Linuxis, visot prográmmat (erret Google Chrome ja Chromium) geavahit dan. Dál fertet ieš hukset dan. Mii leat ráhkadišgoahtán páhkaid, maiddái min giellamálliide, mat šaddet olámuttus dábálaš páhkkagálduin.</p>
+         <p><a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">Dás</a> gávnnat bagadusaid mo hukse čállindárkkistanreadduid Linuxii, gáldokodapahkaid iešguđet gielaide gávnnat <a href="otherapps.html">dás</a>.</p>
 
       </section>
 
