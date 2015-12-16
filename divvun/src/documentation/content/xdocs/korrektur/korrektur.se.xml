@@ -7,7 +7,7 @@
         <meta name="description">sámi čállindárkkisteaddji</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 lea olámuttus dál. Stuorimus teknihkalaš ođas lea ahte dat doaibmá maiddái 64-bits MS Offices. Gielalaččat das leat ollu ođđa sánit davvi-, julev- ja lullisámegillii ja maid eará gielalaš divvumat. Gávnnat viežžanliŋkka dás vuolábealde.
+        <note label="17.12.2015">Divvun 4.0 lea olámuttus dál. Stuorimus teknihkalaš ođas lea ahte dat doaibmá maiddái 64-bits MS Offices. Gielalaččat das leat máŋga buorideami ja ođđa sánit davvi-, julev- ja lullisámegillii. Gávnnat viežžanliŋkkaid dás vuolábealde.
         </note>
         <section>
             <title>Čállindárkkisteapmi Windowsii<icon
@@ -101,7 +101,7 @@
                         alt="OS X" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 MS Officii OSX:s <strong>ii leat olámuttus vel</strong> teknihkalaš váttisvuođaid dihte. Mii leat čoavdimin daid ja ođasmahttit dán siiddu dalán go ođđa veršuvdna lea válmmas. Boares lea vieččahahtti dás vuolábealde. FUOM! Dát boares veršuvdna <strong>ii doaimma MS Office 2015:s</strong>. Divvun 4.0 LibreOfficii doaibmá nugo galgá (geahča dás vuollelis), ja dan bargá MacVoikko maid (eanet dieđuid gávnnat <a href="oswide.html">dás</a>).
+        <note label="Notér!">Divvun 4.0 MS Officii OSX:s <strong>ii leat olámuttus vel</strong> teknihkalaš váttisvuođaid dihte. Mii leat čoavdimin daid ja ođasmahttit dán siiddu dalán go ođđa veršuvnna lea gárvvis. Boares veršuvdna lea vieččahahtti dás vuolábealde. FUOM! Dát boares veršuvdna <strong>ii doaimma MS Office 2015:s</strong>. Divvun 4.0 LibreOfficii doaibmá nugo galgá (geahča dás vuollelis), ja dan bargá MacVoikko maid (eanet dieđuid gávnnat <a href="oswide.html">dás</a>).
         </note>
 
                 <table>
@@ -160,7 +160,7 @@
 
         <section>
             <title>Čállindárkkistanreaiddut Linuxii<icon alt="Windows" height="27" width="27" src="images/Linux_Icon_256.png"/></title>
-            <p>Sáhttá sajáiduhttit Divvun-reaidduid Linuxii jus čuovvu <a href="oswide.html">dáid bagadusaid</a>.</p>
+            <p>Sáhttát sajáiduhttit Divvun-reaidduid Linuxii jus čuovut <a href="oswide.html">dáid bagadusaid</a>.</p>
         </section>
     </body>
 </document>
