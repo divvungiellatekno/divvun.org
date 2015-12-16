@@ -13,20 +13,10 @@
 
       <section>
          <title>Firefox</title>
-            <p>Firefox dárbbaša sierra čállindárkkisteddjiid, mat leat Firefox-lasáhusat. Gávdnojit guokte dákkár lasáhusa sámegielaid várás: nubbi maid <a href="http://tinodidriksen.com">Tino
-            Didriksen</a> lea ráhkadan ovttas Divvumiin ja Apertiumaub, ja nubbi man vuođđu lea <a
-            href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
-            Didriksen-čállindárkkisteaddjit <em>doibmet dušše Windowsis</em> (dássážii), MozVoikko-čállindárkkisteaddjit doibmet sihke Windowsis ja OS X:s.
-            Med MozVoikko kan man <a
-            href="">installere flere
-            språk</a>, men bare på OSX.
+            <p>Firefox dárbbaša sierra čállindárkkisteddjiid, mat leat Firefox-lasáhusat. Gávdnojit guokte dákkár lasáhusa sámegielaid várás: nubbi maid <a href="http://tinodidriksen.com">Tino Didriksen</a> lea ráhkadan ovttas Divvumiin ja Apertiumain, ja nubbi man vuođđu lea <a href="https://github.com/voikko/mozvoikko">Mozvoikko</a>. Didriksen-čállindárkkisteaddjit <em>doibmet dušše Windowsis</em> (dássážii), MozVoikko-čállindárkkisteaddjit doibmet sihke Windowsis ja OS X:s. OSX:s lea vejolaš <a href="">sajáiduhttit máŋga giela oktanaga</a> MozVoikkoi.
             </p>
 
-          <warning label="Windows-brukere"><icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/>
-             Det er for tilfellet ikke mulig å installere flere språk
-             samtidig.</warning>
+          <warning label="Windows-geavaheaddjit"><icon alt="Windows" height="27" width="27" src="images/Win10.png"/>Ii leat vejolaš sajáiduhtti máŋga giela oktanaga.</warning>
 
           <section>
              <title>Didriksen-čállindárkkisteaddjit</title>
@@ -37,33 +27,21 @@
                	<th>Dokumentašuvdna ja gáldokoda:</th>
              </tr>
              <tr>
-               <td><a
-                    href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
-               ><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Davvisámegiella</a></td>
+               <td><a href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Davvisámegiella</a></td>
                <td>Ii olámuttus</td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prošeaktadokumentašuvdna davvisámi čállindárkkisteaddji várás</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
                 </td>
              </tr>
              <tr>
-               <td><a
-                    href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
-               ><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Julevsámegiella</a></td>
+               <td><a href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Julevsámegiella</a></td>
                <td>Ii olámuttus</td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">>Prošeaktadokumentašuvdna julevsámi čállindárkkisteaddji várás</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
                 </td>
              </tr>
              <tr>
-               <td><a
-                    href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
-               ><icon alt="Viečča lullisámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Lullisámegiella</a></td>
+               <td><a href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"><icon alt="Viečča lullisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Lullisámegiella</a></td>
                <td>Ii olámuttus</td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prošeaktadokumentašuvdna lullisámi čállindárkkisteaddji várás</a> ja  <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja  <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
                 </td>
              </tr>
              </table>
@@ -78,33 +56,21 @@
                	<th>Dokumentašuvdna ja gáldokoda:</th>
              </tr>
              <tr>
-               <td><a
-               href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
-               ><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-               />Davvisámegiella</a></td>
+               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Davvisámegiella</a></td>
                <td>Ii olámuttus</td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prošeaktadokumentašuvdna davvisámi čállindárkkisteaddji várás</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
                 </td>
              </tr>
              <tr>
-               <td><a
-               href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
-               ><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Julevsámegiella</a></td>
+               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Julevsámegiella</a></td>
                <td>Ii olámuttus</td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prošeaktadokumentašuvdna julevsámi čállindárkkisteaddji várás</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
                 </td>
              </tr>
              <tr>
-               <td><a
-               href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
-               ><icon alt="Viečča lullisámi čállindárkkisteaddji" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Lullisámegiella</a></td>
-               <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prošeaktadokumentašuvdna lullisámi čállindárkkisteaddji várás</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
+               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"><icon alt="Viečča lullisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Lullisámegiella</a></td>
+               <td>Ii olámuttus</td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
                 </td>
              </tr>
              </table>
@@ -133,8 +99,7 @@
 
       <section>
          <title>Safari</title>
-            <p>Safari geavaha <a
-            href="oswide.html">vuogádatviidosaš čállindárkkisteaddji</a>. Sajáiduhte MozVoikko, de lea vejolaš dárkkistit sámegiela, maid.</p>
+            <p>Safari geavaha <a href="oswide.html">vuogádatviidosaš čállindárkkisteaddji</a>. Sajáiduhte MozVoikko, de lea vejolaš dárkkistit sámegiela maid.</p>
       </section>
 
    </body>
