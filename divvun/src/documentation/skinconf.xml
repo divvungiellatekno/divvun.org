@@ -135,19 +135,11 @@ h3.h4 {
     margin-left: 1em;
 }
 
-h3.h4 + table {
+h3.h4 ~ table {
     margin-left: 2em;
 }
 
-h3.h4 + div + table {
-    margin-left: 2em;
-}
-
-h3.h4 + table + p {
-    margin-left: 2em;
-}
-
-h3.h4 + p {
+h3.h4 ~ p {
     margin-left: 2em;
 }
 
