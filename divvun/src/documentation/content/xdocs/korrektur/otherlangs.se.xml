@@ -1,58 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="se">
    <header>
-      <title>Korrekturverktøy for andre språk</title>
-      <meta name="description">speller, spell checker, kven, minority languages</meta>
+      <title>Čállindárkkistanreaiddut eará gielaide</title>
+      <meta name="description">čállindárkkisteaddji, čállindárkkisteapmi, kvena, minoritehtagielat, unnitlogugielat</meta>
    </header>
    <body>
 
       <section>
-         <title>Korrekturverktøy for kvensk<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
+         <title>Kvena čállindárkkisteaddji<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
 
-         <p>De kvenske korrekturverktøyene er under utvikling, og den språklige
-         kvaliteten vil variere. Bruk verktøyene med et kritisk øye, og
-         oppdater ofte!</p>
+         <p>Kvena čállindárkkisteaddji rievdaduvvo dávjá ja danne das lea molsašuddi kvalitehta. Veardit dárkilit vástádusaid maid reaiddut addet ja ođasmahte daid dávjá.</p>
 
          <table>
          <tr>
-           <th>Last ned: </th>
-           <th>Beskrivelse:</th>
+           <th>Viečča:</th>
+           <th>Válddahus:</th>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Utvidelse for LibreOffice (Windows) med kvensk stavekontroll</td>
+           <td>Lasáhus LibreOfficii (Windowsis) oktan kvena čállindárkkisteddjiin</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Utvidelse for LibreOffice (OSX) med kvensk stavekontroll</td>
+           <td>Lasáhus LibreOfficii (OSX:s) oktan kvena čállindárkkisteddjiin</td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Utvidelse for Firefox og andre Mozilla-program med kvensk stavekontroll</td>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows ja OSX)</a> </td>
+           <td>Lasáhus Firefoxii ja eará Mozilla-prográmmaide oktan kvena čállindárkkisteddjiin</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Kvensk stavekontroll for hele OSX</td>
+           <td>Kvena čállindárkkisteaddji olles OSX:i</td>
          </tr>
          </table>
 
-         <p>Det kvenske prosjektet har en egen <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
-         >prosjektside</a>, og kildekoden for kvensk kan man finne <a
-         href="https://victorio.uit.no/langtech/trunk/langs/fkv">her</a>.
+         <p>Kvenagiela prošeavttas lea sierra <a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">prošeaktašiidu</a>, ja kvena gáldokoda gávdno <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">dás</a>.
          </p>
 
       </section>
 
       <section>
-         <title>Korrekturverktøy for andre språk</title>
+         <title>Čállindárkkisteaddjit eará gielaide</title>
 
-         <p>Divvun-gruppen har et eget nettsted med korrekturverktøy for
-         ikke-samiske språk, utviklet i samarbeid med flere organisasjoner.
-         Gå til <a href="http://divvun.org/">divvun.org</a> for mer informasjon
-         og for å laste ned korrekturverktøyene.</p>
+         <p>Divvun-joavkkus lea sierra neahttabáiki mas leat čállindárkkisteaddjit ii-sámi gielaide, mat leat ovdánahtton ovttasbargun eará organisašuvnnaiguin. Mana <a href="http://divvun.org/">divvun.org</a>:i gos gávnnat eanet dieđuid ja vieččahahtti čállindárkkisteddjiid.</p>
 
       </section>
 
