@@ -74,20 +74,20 @@
       <section>
          <title>Bygg din egen stavekontroll</title>
 
-         <p>It is possible to build your own spellers directly from source, and
-         as part of that also modify the source to fit your needs. Do as
-         follows:</p>
+         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
+         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
+         følger:</p>
 
          <ol>
-            <li>Follow the instructions <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">here</a>
-                to make sure you have all tools required to build your own
-                speller.</li>
+            <li>Følg instruksjonene <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
+                for å sikre at du har alle program og verktøy du behøver.</li>
 
-            <li>Download the <a
+            <li>Last ned <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core tarball</a>, which contains prerequisites for all
-                languages. After the download, unpack and do the following:
+                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
+                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
+                et terminalvindu:
                 <source>
 cd gtcore
 ./configure
@@ -95,24 +95,35 @@ make
 sudo make install</source>
             </li>
 
-            <li>Download the language source code tarball for your language:
-                <ul>
-                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
-                </ul>
+            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
+                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
+                forrige punkt):
+                <!--ul>
+                  <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
+                  <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
+                </ul-->
+                <source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
             </li>
-            <li>Unpack and run the following commands:
+            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Replace <code>YOURLANGUAGE</code> with the name of the language
-                directory you just unpacked.</p>
+                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
+                du nettopp sjekket ut.</p>
 
             </li>
          </ol>
+
+         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
+         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
+         for Windows er begrenset.</p>
 
       </section>
 
