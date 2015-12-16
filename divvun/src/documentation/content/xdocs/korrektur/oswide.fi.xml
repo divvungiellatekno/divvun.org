@@ -82,10 +82,11 @@
          <strong>Järjestelmäasetukset... > Näppäimistö > Teksti</strong>, ja tarkista
          että kielesi löytyy menun listalta <strong>Oikeinkirjoitus</strong>,
          <strong>«(MacVoikko)»</strong>
-         kielen takana. Jos ei, uudelleenkäynnistä kone.</p>
-
+         kielen takana. Jos ei, uudelleenkäynnistä kone.
          <img alt="OSX Järjestelmäasetukset > MacVoikko Näppäimistö"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
+         </p>
+
 
          <p><strong>Käyttö:</strong> Ohjelmissa jotka käyttävät järjestelmäoikolukua
          (useimmat ohjelmat, mutta ei MS Word, Firefox ja jotkin muut tavalliset
@@ -93,10 +94,11 @@
          <strong>Muokkaa > Oikeinkirjoitus ja kielioppi > Näytä oikeinkirjoitus ja
          kielioppi</strong>. Valitse kielesi valikosta.
          Voit valita haluamasi kielen oletuskieleksi oikeinkirjoituksessa <strong>
-         Järjestelmäasetukset > Näppäimistö > Teksti</strong>.</p>
-
+         Järjestelmäasetukset > Näppäimistö > Teksti</strong>.
          <img alt="OSX oikolukudialogi"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
+       </p>
+
 
       </section>
 
@@ -111,7 +113,7 @@
          <a
          href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">täältä</a>,
          lähdekoodit kielille löydät <a href="otherapps.html">täältä</a>.</p>
-         
+
       </section>
 
    </body>

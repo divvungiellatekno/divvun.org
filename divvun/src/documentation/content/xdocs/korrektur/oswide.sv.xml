@@ -85,10 +85,11 @@
          <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
          ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
-
+         bak språknavnet. Om ikke, start datamaskina på nytt.
          <img alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
+         </p>
+
 
          <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
          (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
@@ -97,10 +98,11 @@
          grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
          Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
          det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.</p>
-
+         Tastatur > Tekst</strong>.
          <img alt="OSX stavekontrolldialog"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
+       </p>
+
 
       </section>
 
@@ -116,7 +118,7 @@
          du <a
          href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
          kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
-         
+
       </section>
 
    </body>

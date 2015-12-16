@@ -13,7 +13,7 @@
                 src="images/Win10.png"/></title>
 
          <p>Mij lip barggamin åttjudittjat tjállemdárkastusáv majt doajmmá
-         ålles Windowsin, valla lij muhtem gássjelisvuoda. Ådåstuhttep dáv 
+         ålles Windowsin, valla lij muhtem gássjelisvuoda. Ådåstuhttep dáv
          bielev nav ruvva gå ienep diedojt adnep.</p>
 
       </section>
@@ -75,7 +75,7 @@
          </table>
 
          <p><strong>Sajájduhttem:</strong> Jåde viettjadum fijlav máhppaj
-         <code>~/Bibliotek/Services/</code> návti: Rabá ådå Finder-vinndegav, 
+         <code>~/Bibliotek/Services/</code> návti: Rabá ådå Finder-vinndegav,
          maná
          fálluj <strong>Gå > Gå til mappe ...</strong>, tjálesta
          <code>~/Bibliotek/Services/</code> ja dieddela enter. Dan maŋŋela
@@ -86,10 +86,11 @@
          <strong>Systemvalg... > Tastatur > Tekst</strong>, ja gehtja jut
          giellat le listan fálon <strong>Stavekontroll</strong>, ja jut tjuodtju
          <strong>«(MacVoikko)»</strong>
-         giela namá duogen. Jus ij, álgada dáhtámásjijnav ådåsit.</p>
-
+         giela namá duogen. Jus ij, álgada dáhtámásjijnav ådåsit.
          <img alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
+         </p>
+
 
          <p><strong>Addnem:</strong> Prográmmajn ma tjállemdárkastusáv addni
          (ienemus prográmma, valla ij MS Word, Firefow ja muhtem ieme prográmma)
@@ -98,17 +99,18 @@
          grammatikk</strong>. Ja de vállji gielat giellafálon.
          Jus agev sidá tjállemdárkastusáv dán giellaj adnet máhtá dahkat dav
          tjállemdárkastusá standarddagiellan dánna:<strong>Systemvalg >
-         Tastatur > Tekst</strong>.</p>
-
+         Tastatur > Tekst</strong>.
          <img alt="OSX stavekontrolldialog"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
+       </p>
+
 
       </section>
 
       <section>
          <title>Linux</title>
 
-         <p>Tjállemdárkastusáv mij doajmmá ålles Linuxin le gájkka majt dárbaha, 
+         <p>Tjállemdárkastusáv mij doajmmá ålles Linuxin le gájkka majt dárbaha,
          divna prográmma sjaddi dáv adnuj válldet.
          Viertti dal ájn iesj tjállemdárkastusáv tsieggit, valla lip barggamin
          åttjutjit dárbulasj páhkij, namálattjat iehtjama giellamodellaj, sadjihij
@@ -117,7 +119,7 @@
          gávna <a
          href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">dánna</a>,
          gálldokåvddåpáhke juohkka giellaj gávna <a href="otherapps.html">dánna</a>.</p>
-         
+
       </section>
 
    </body>
