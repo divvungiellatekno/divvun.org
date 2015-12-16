@@ -26,8 +26,16 @@
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             Didriksen-stavekontrollene <em>fungerer bare for
             Windows</em> (inntil videre), mens MozVoikko-stavekontrollene
-            fungerer på både Windows og OSX.
+            fungerer på både Windows og OSX. Med MozVoikko kan man <a
+            href="">installere flere
+            språk</a>, men bare på OSX.
             </p>
+
+          <warning label="Windows-brukere"><icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/>
+             Det er for tilfellet ikke mulig å installere flere språk
+             samtidig.</warning>
 
           <section>
              <title>Didriksen-stavekontroller</title>
@@ -138,6 +146,16 @@
          Firefox til navnet på mange språk. I slike tilfeller viser Firefox <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
          639</a>-koden for språket.</warning>
+
+          <section>
+             <title>Windows-brukere <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/MSOffice-icon.png"/></title>
+             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
+             bygge den selv. Nærmere instruksjoner finnes på siden for å
+             <a href="oswide.html">installere stavekontrollen for hele
+             operativsystemet</a>.</p>
+          </section>
 
           <section>
              <title>Firefox på Linux</title>

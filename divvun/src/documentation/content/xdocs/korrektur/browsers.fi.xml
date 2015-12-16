@@ -22,8 +22,16 @@
             toinen <a href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             Didriksen oikoluku <em>toimii ainoastaan Windowsissa</em> (nyt),
             kuntaas MozVoikko toimii sekä Windowsissa ja OSX:ssä. Kielikattaus on
-            myös erinlainen, limittäisyydellä.
+            myös erinlainen, limittäisyydellä. Med MozVoikko kan man <a
+            href="">installere flere
+            språk</a>, men bare på OSX.
             </p>
+
+          <warning label="Windows-brukere"><icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/>
+             Det er for tilfellet ikke mulig å installere flere språk
+             samtidig.</warning>
 
           <section>
              <title>Didriksen-oikoluku</title>

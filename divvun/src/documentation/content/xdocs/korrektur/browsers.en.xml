@@ -37,9 +37,16 @@
             Windows</em> (for now), whereas the MozVoikko spellers work on both
             Windows and OSX. The
             language coverage is also different, with some overlap.
+            Med MozVoikko kan man <a
+            href="">installere flere
+            språk</a>, men bare på OSX.
             </p>
 
-            <p>In the lists below, click the name of the language you want to download.</p>
+          <warning label="Windows-brukere"><icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/>
+             Det er for tilfellet ikke mulig å installere flere språk
+             samtidig.</warning>
 
           <section>
              <title>Didriksen spellers</title>

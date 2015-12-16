@@ -17,7 +17,16 @@
             Didriksen</a> lea ráhkadan ovttas Divvumiin ja Apertiumaub, ja nubbi man vuođđu lea <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             Didriksen-čállindárkkisteaddjit <em>doibmet dušše Windowsis</em> (dássážii), MozVoikko-čállindárkkisteaddjit doibmet sihke Windowsis ja OS X:s.
+            Med MozVoikko kan man <a
+            href="">installere flere
+            språk</a>, men bare på OSX.
             </p>
+
+          <warning label="Windows-brukere"><icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/>
+             Det er for tilfellet ikke mulig å installere flere språk
+             samtidig.</warning>
 
           <section>
              <title>Didriksen-čállindárkkisteaddjit</title>
