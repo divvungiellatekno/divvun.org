@@ -83,10 +83,10 @@
          että kielesi löytyy menun listalta <strong>Oikeinkirjoitus</strong>,
          <strong>«(MacVoikko)»</strong>
          kielen takana. Jos ei, uudelleenkäynnistä kone.
-         <img alt="OSX Järjestelmäasetukset > MacVoikko Näppäimistö"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
          </p>
 
+         <figure alt="OSX Järjestelmäasetukset > MacVoikko Näppäimistö"
+            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
          <p><strong>Käyttö:</strong> Ohjelmissa jotka käyttävät järjestelmäoikolukua
          (useimmat ohjelmat, mutta ei MS Word, Firefox ja jotkin muut tavalliset
@@ -95,10 +95,10 @@
          kielioppi</strong>. Valitse kielesi valikosta.
          Voit valita haluamasi kielen oletuskieleksi oikeinkirjoituksessa <strong>
          Järjestelmäasetukset > Näppäimistö > Teksti</strong>.
-         <img alt="OSX oikolukudialogi"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
        </p>
 
+         <figure alt="OSX oikolukudialogi"
+            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
 
       </section>
 

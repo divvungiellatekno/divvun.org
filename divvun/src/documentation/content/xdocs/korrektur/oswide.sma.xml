@@ -86,10 +86,10 @@
          ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
          <strong>«(MacVoikko)»</strong>
          bak språknavnet. Om ikke, start datamaskina på nytt.
-         <img alt="OSX Systemvalg > Tastatur med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
          </p>
 
+         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
+            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
          <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
          (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
@@ -99,10 +99,10 @@
          Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
          det til standardspråk for stavekontrollen i <strong>Systemvalg >
          Tastatur > Tekst</strong>.
-         <img alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
        </p>
 
+         <figure alt="OSX stavekontrolldialog"
+            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
 
       </section>
 

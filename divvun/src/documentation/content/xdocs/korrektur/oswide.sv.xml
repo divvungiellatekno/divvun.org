@@ -85,10 +85,10 @@
          <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
          ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.
-         <img alt="OSX Systemvalg > Tastatur med MacVoikko"
+         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
+
+         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-         </p>
 
 
          <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
@@ -98,10 +98,10 @@
          grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
          Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
          det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.
-         <img alt="OSX stavekontrolldialog"
+         Tastatur > Tekst</strong>.</p>
+
+         <figure alt="OSX stavekontrolldialog"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-       </p>
 
 
       </section>
