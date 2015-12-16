@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroller i hele systemet</title>
+      <title>Staeriedæjjah abpe systeemesne</title>
       <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
    </header>
    <body>
@@ -12,9 +12,8 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>Barkeminie libie staeriedæjjine mij edtja abpe Windowisnie juhtedh,
+         badth ij leah aelhkie. Jienebh bïevnesh båetieh dan bealan.</p>
 
       </section>
 
@@ -23,29 +22,27 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
+         <p>Staeriedæjjah OSXasse leah annje betakvaliteete. Den
          viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         språk. Mijjen lea <a
+         href="otherapps.html">sjïere bielie</a> Gusnie bïhkedassh leah guktie sijjiedehtedh versjovnem gusnie gellie gïelh mealtan. daej staeriedæjjaj gïele lea seamma hijven goh Word-staeriedæjja.</p>
 
          <table>
          <tr>
-           <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Gïele: </th>
+           <th>Versjovne: </th>
+           <th>Dokumentasjovne jïh gaaltije:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Noerhtesaemien </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Dokumentasjovne noerhtesaemiengïelese</a>
+               jïh
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
            </td>
          </tr>
          <tr>
@@ -53,11 +50,11 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsaemien </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Dokumentasjovne julevsaemiengïelese</a>
+               jïh
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
            </td>
          </tr>
          <tr>
@@ -65,39 +62,35 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Åarjelsaemien</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Dokumentasjovne åarjelsaemiengïelese</a>
+               jïh
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Sijjiedehtedh:</strong> Sirtieh dam fijlem maam leah veedtjeme
+         <code>~/Bibliotek/Services/</code> naemhtie: Rïhpesth aktem orre Finder-klaasem, Mïnnh
+         læstose <strong>Mïnnh > Mappesne ...</strong>, tjaeleih dellie
+         <code>~/Bibliotek/Services/</code> diedtieh enter. Dan mænngan maahtah, dam fijlem maam leah veedtjeme, bïejedh dan mappese. Guektien aejkien diedtieh dam fijlem, mænngan goh la særteme dam jallh loggedh olkese jïh viht gåatan tjaangedh.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <p>Guktie åadtjodh daejredh mejtie staeriedæjja jåhta guktie ussjedamme, rïhpesth 
+         <strong>Systemvalg... > Tastatur> Tekst</strong>, Vuartesjh mejtie dov gïele lea mealtan dennie læstosne
+        <strong>Stavekontroll</strong>, med
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.
+         gïelenommen duekesne. jis ij, ikth vielie maskinam aelkiehtidh.
          </p>
 
          <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
+         <p><strong>Utnieh:</strong> Programmine gusnie systemstaeriedæjja lea åtnosne 
+         (jeenemes programmine lea, mohte ij leah MS Wordesne, Firefoxesne jïh naan vielie sïejhme programmine) maahtah barre staeriedæjjaklaasem rïhpestidh:
          <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
+         grammatikk</strong>. Dan mænngan dellie gïelem dehtie læstoste veeljh.
+         Jis sijht barre ketede dam gïelem utnedh daennie staeriedæjjesne, maahtah sïejhtemgïeline darjodh staeriedæjjesne. daesnie <strong>Systemvalg >
          Tastatur > Tekst</strong>.
        </p>
 
@@ -109,15 +102,12 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         <p>Staeriedæjjah mah juhtieh Linuxine, lea gaajhke maam desnie daarpesjh.Gaajhkh programmh dam utnieh. 
+         Dan raajan tjoeverh jïjtje staeriedæjjam bigkedh. Mijjieh libie barkeminie åadtjodh gaajhkide paagkide mah leah daerpies, (inklusive våre egne språkmodeller, tilgjengelige
+         via de vanlige pakkerepositoriene.)</p>
+         <p>Guktie staeriedæjjam Linuxinie bigkedh, daesnie gaavnh: <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">daesnie</a>,
+         gaaltijekovdepaagketjh gaajhkide gïelide daesnie gaavnh<a href="otherapps.html">her</a>.</p>
 
       </section>
 
