@@ -16,37 +16,23 @@
         </section>
 
       <section>
-         <title>Chrome</title>
-            <p>Sorry - no support. Chrome uses Google's own spelling checker,
-            which we don't have access to. And Google does not support the
-            languages we are working on (please prove us wrong, Google!).</p>
-      </section>
-
-      <section>
-         <title>Safari</title>
-            <p>Safari uses the OS-wide spelling service in OSX. See the download
-            options on the page for <a href="oswide.html">OS-wide spelling checkers</a>.</p>
-      </section>
-
-      <section>
          <title>Firefox</title>
-            <p>There are actually two sets of Firefox spelling plugins, one
-            made by Tino Didriksen, and another built using <a
+            <p>Firefox needs its own proofing tools, which are installed as
+            extensions in Firefox. There are actually two sets of Firefox
+            spelling plugins, one made by <a href="http://tinodidriksen.com">Tino
+            Didriksen</a>, and another built using <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             The Didriksen spellers <em>only work on
             Windows</em> (for now), whereas the MozVoikko spellers work on both
-            Windows and OSX. The
-            language coverage is also different, with some overlap.
-            Med MozVoikko kan man <a
-            href="">installere flere
-            språk</a>, men bare på OSX.
+            Windows and OSX. Using MozVoikko, one can <a
+            href="">install multiple languages</a>, but only on OSX.
             </p>
 
-          <warning label="Windows-brukere"><icon
+          <warning label="Windows users"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
-             Det er for tilfellet ikke mulig å installere flere språk
-             samtidig.</warning>
+             It is at the moment not possible to install multiple languages in
+             parallel.</warning>
 
           <section>
              <title>Didriksen spellers</title>
@@ -57,41 +43,39 @@
                <th>Documentation and source code:</th>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.xpi">Greenlandic</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+               <td><a
+                    href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
+               ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Nordsamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
                    and
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
                 </td>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kaz-latest.xpi">Kazakh</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Kazakh">Kazakh project documentation</a>
+               <td><a
+                    href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
+               ><icon alt="Last ned lulesamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Lulesamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
                    and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kaz/">source code</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
                 </td>
              </tr>
              <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-kir-latest.xpi">Kyrgyz (Kirghiz)</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Kyrgyz">Kyrgyz project documentation</a>
+               <td><a
+                    href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
+               ><icon alt="Last ned sørsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Sørsamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
                    and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-kir/">source code</a>.
-                </td>
-             </tr>
-             <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tat-latest.xpi">Tatar</a></td>
-               <td>Nightly build </td>
-               <td><a href="http://wiki.apertium.org/wiki/Tatar">Tatar project documentation</a>
-                   and
-                   <a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tat/">source code</a>.
-                </td>
-             </tr>
-             <tr>
-               <td><a href="http://apertium.projectjj.com/spellers/Apertium-tyv-latest.xpi">Tuvinian</a></td>
-               <td>Nightly build </td>
-               <td><a href="https://svn.code.sf.net/p/apertium/svn/languages/apertium-tyv/">Tuvinian source code</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
                 </td>
              </tr>
              </table>
@@ -106,11 +90,39 @@
                <th>Documentation and source code:</th>
              </tr>
              <tr>
-               <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-kal.xpi">Greenlandic</a></td>
-               <td>N/A </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
+               ><icon alt="Last ned nordsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+               />Nordsamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
                    and
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
+               ><icon alt="Last ned lulesamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Lulesamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
+                </td>
+             </tr>
+             <tr>
+               <td><a
+               href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
+               ><icon alt="Last ned sørsamisk" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                    />Sørsamisk </a></td>
+               <td>4.0 </td>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
+                   and
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
                 </td>
              </tr>
              </table>
@@ -134,11 +146,24 @@
 
           <section>
              <title>Firefox on Linux</title>
-             <p>The MozVoikko speller is available on Linux, but presently
-             without support for our speller lexicons. Support should appear in
-             most distributions later, but that may take some time. In the
-             meantime, you can build directly from source.</p>
+             <p>The MozVoikko speller is available on Linux, but you have to
+             build it yourself. Further instructions can be found on the page
+             for <a href="oswide.html">installing spellers OS wide</a>.</p>
           </section>
       </section>
+
+      <section>
+         <title>Chrome</title>
+            <p>Sorry - no support. Chrome uses Google's own spelling checker,
+            which we don't have access to. And Google does not support the
+            languages we are working on (please prove us wrong, Google!).</p>
+      </section>
+
+      <section>
+         <title>Safari</title>
+            <p>Safari uses the OS-wide spelling service in OSX. See the download
+            options on the page for <a href="oswide.html">OS-wide spelling checkers</a>.</p>
+      </section>
+
    </body>
 </document>
