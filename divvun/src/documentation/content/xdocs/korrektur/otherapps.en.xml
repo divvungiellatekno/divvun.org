@@ -29,7 +29,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">North Sámi</a> </td>
-                  <td>N/A </td>
+                  <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
                       and
                       <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
@@ -37,7 +37,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julev Sámi</a> </td>
-                  <td>N/A </td>
+                  <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
                       and
                       <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
@@ -45,7 +45,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">South Sámi</a> </td>
-                  <td>N/A </td>
+                  <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
                       and
                       <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
