@@ -7,24 +7,25 @@
         <meta name="description">Saami speller, Saami spell checker</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 er tilgjengelig, med støtte for
-            64-bits MS Office, og ei lang rekke språklige rettinger og nye ord
-            for nordsamisk, lulesamisk og sørsamisk! Last ned ved å klikke på en
-            av lenkene nedenfor!
-        </note>
+      <note label="NEWS! 17.12.2015">Divvun 4.0 is available for download, with
+          support for 64-bits MS Office, and a large bunch of liguistic
+          corrections and new words for North Sámi, Julev Sámi and South Sámi!
+          Download by clicking one of the links below!
+      </note>
+
         <section>
-            <title>Rettskrivningsverktøy for Windows<icon
+            <title>Proofing tools for Windows<icon
                 alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
             <section>
-                <title>Divvun-verktøy for MS Office<icon
+                <title>For MS Office<icon
                     alt="MS Office" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Husk å avinstallere den gamle versjonen! Pga store
-        endringer i den underliggende teknologien har vi ikke fått på plass
-        automatisk avinstallering ennå, så inntil videre må man avinstallere
-        manuelt.</warning>
+        <warning label="NB!">Remember to uninstall the old version! Due to large
+        changes in the underlying technologhy, we have not yet had time to add
+        automatic uninstallation of the old version. For the time being you have
+        to uninstall manually.</warning>
 
                 <table>
                 <tr>
@@ -34,39 +35,39 @@
                     href="http://divvun.no/static_files/msis/Divvun-sme.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    North Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-smj.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julev Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-sma.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    South Sámi</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-vegledning</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-vegledning</a>
+                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013 user guides</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html"  >Office 2010 user guides</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html"  >Office 2007 user guides</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Instructional videos</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
+                <title>Proofing tools for <a
                     href="http://libreoffice.org">LibreOffice<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
@@ -78,26 +79,26 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    North Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julev Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    South Sámi</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice user guide</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
@@ -110,22 +111,22 @@
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for OSX<icon
+            <title>Proofing tools for OSX<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
                 <section>
-                    <title>Divvun-verktøy for MS Office<icon
+                    <title>For MS Office<icon
                         alt="Windows" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 for MS Office på OSX <strong>er ikke
-            tilgjengelig ennå</strong> pga uventede problemer. Vi arbeider med å
-            løse dem og vil oppdatere siden så fort den nye versjonen er
-            ferdig. Nedenfor kan du laste ned den gamle versjonen. NB! Den
-            gamle versjonen <strong>fungerer ikke med MS Office 2015!</strong>
-            Divvun 4.0 for LibreOffice fungerer utmerket (se lenger ned), og det
-            samme gjør MacVoikko (mer info <a href="oswide.html">her</a>).
+        <note label="Note!">Divvun proofing tools 4.0 for MS Office on OSX
+            <strong>is not yet available</strong> due to unexpected problems. We
+            are working on them, and will update this page as soon as the new
+            version is ready. Below you can download the old version. NB! The
+            old version <strong>does NOT work in MS Office 2015!</strong>
+            Divvun 4.0 for LibreOffice works well (see further down), and so
+            does MacVoikko (more info <a href="oswide.html">here</a>).
         </note>
 
                 <table>
@@ -135,26 +136,26 @@
                     href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
                     alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Last ned alle tre språk</a>
+                    Download all three languages</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
+                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011 user guide</a>
+                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008 user guide</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/mac-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Instructional videos</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>Divvun-verktøy for <a
+                <title>Proofing tools for <a
                     href="http://libreoffice.org">LibreOffice<icon
                     alt="Windows" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
@@ -166,44 +167,45 @@
                     href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk</a>
+                    North Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk</a>
+                    Julev Sámi</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk</a>
+                    South Sámi</a>
                   </li>
                 </ul></td>
                 <td>
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-vegledning</a>
+                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice user guide</a>
                 </td>
                 <td> <!-- No instruction videos for LibreOffice yet --> </td>
                 </tr>
                 </table>
 
-                <p>Vil du installere flere spåk samtidig for LibreOffice? Følg
-                <a href="">disse instruksjonene</a>.</p>
+                <p>Do you want to install more than one language in LibreOffice?
+                Follow
+                <a href="">these instructions</a>.</p>
 
             </section>
 
         </section>
 
         <section>
-            <title>Rettskrivningsverktøy for Linux<icon
+            <title>Proofing tools for Linux<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>Divvun-verktøyene kan installeres på Linux ved å følge
-            instruksjonene <a href="oswide.html">på denne siden</a>.</p>
+            <p>The Divvun proofing tools can be installed on Linux by following
+            the instructions <a href="oswide.html">on this page</a>.</p>
         </section>
     </body>
 </document>
