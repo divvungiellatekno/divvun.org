@@ -10,13 +10,13 @@
       <section>
          <title>Sajáiduhttit eanet gielaid</title>
 
-            <p>Go sajáiduhttát čállindárkkisteddjiid namahuvvon min eará siidduin, de okta giella čuovvu mielde páhkas. Ii leat vel vejolaš sajáiduhttit máŋga diekkár páhka oktanaga seamma prográmmii. Jus háliidat čállindárkkisteddjiid máŋga gielaide oktanaga, čuovo bagadusaid dás vuolábealde.</p>
+            <p>Go sajáiduhttát čállindárkkisteddjiid namahuvvon min eará siidduin, de okta giella čuovvu mielde páhkas. Ii leat vel vejolaš sajáiduhttit máŋga diekkár páhka oktanaga seamma prográmmii. Jus háliidat čállindárkkisteddjiid máŋgga gillii oktanaga, čuovo bagadusaid dás vuolábealde.</p>
 
-            <warning label="FUOM!">Ii leat vejolaš dán bargat Windowsis áiddo dál, muhto mii leat čoavdigoahtán dan.
+            <warning label="FUOM!">Ii leat vejolaš dán bargat Windowsis aiddo dál, muhto mii leat čoavdigoahtán dan.
             </warning>
 
             <ol>
-              <li>Viečča ovtta dahje eanet zhfst-fiilla:
+              <li>Viežžal ovtta dahje eanet zhfst-fiillaid:
                 <table>
                 <tr>
                   <th>Giella:</th>
@@ -43,12 +43,12 @@
                 </tr>
                 </table>
               </li>
-              <li>Sirdde vižžon zhfst-fiillaid okta dáin máhpain:
+              <li>Sirdde vižžon zhfst-fiillaid oktii dáin máhpain:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Lea vejolaš sirdit zhfst-fiillaid <a href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README">eará máhpaide</a> jus dan háliida. Oza bajilčála «Search order for dictionary files». Muitte ahte álo fertet bidjat <code>.zhfst</code>-fiillaid máhppii man namma lea «3» daid máhpaid siskkobealde man bagadus namuha.
+                  Lea vejolaš sirdit zhfst-fiillaid <a href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README">eará máhpaide</a> jus dan háliida. Oza bajilčállaga «Search order for dictionary files». Muitte ahte álo fertet bidjat <code>.zhfst</code>-fiillaid máhppii man namma lea «3» daid máhpaid siskkobealde man bagadus namuha.
               </li>
               <li>Olggos- ja sisačálit iežat dihtoris</li>
             </ol>
@@ -58,11 +58,11 @@
       </section>
 
       <section>
-         <title>Beaivválaš ođasmahttimat - váras čállindárkkisteddjiid</title>
+         <title>Ođđa čállindárkkisteaddjit juohke beaivvi</title>
 
-            <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija. Dat sisttisdollet gielalaš rievdademiid mat leat dáhkon dan rádjái. Jus háliidat geahččalit áibbas váras čállindárkkisteddjiid, de sáhtát viežžat dáid.</p>
+            <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija. Dat sisttisdollet gielalaš rievdademiid mat leat dahkkon dan rádjái. Jus háliidat geahččalit áibbas ođđa čállindárkkisteddjiid, de sáhtát viežžat dáid.</p>
 
-            <p><strong>FUOM!</strong> Mii eat leat iskan dáid veršuvnnaid dárkilit, ja danne eat sáhtte dáhkidit ahte dat doibmet nugo galget dahje eai heaitte doaibmamis. Jus šaddet váttisvuođat dáiguin, váldde váras veršuvnna eret ja sajáiduhtte ođđasamos almmulaš veršuvnna fas.</p>
+            <p><strong>FUOM!</strong> Mii eat leat iskan dáid veršuvnnaid dárkilit, ja danne eat sáhte dáhkidit ahte dat doibmet nugo galget dahje eai heaitte doaibmamis. Jus šaddet váttisvuođat daiguin, váldde ođđa veršuvnna eret ja sajáiduhtte ođđasamos almmolaš veršuvnna fas.</p>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Davvisámegiella</a></li>
@@ -70,7 +70,7 @@
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Lullisámegiella</a></li>
             </ul>
 
-            <p>Sáhtát ieš oaidnit guđe veršuvnnat ja gielat leat olámuttus <a
+            <p>Sáhtát ieš oaidnit guđet veršuvnnat ja gielat leat olámuttus <a
             href="http://apertium.projectjj.com/spellers/">beaivválaš ođasmahttimiid viežžanmáhpas</a>.</p>
 
       </section>
@@ -80,12 +80,12 @@
 
          <note>Bagadusaid ja gohččumiid maid gávnnat vuolábealde eaktuda ahte gohččunlinnjábirrasat Macas dahje Linuxis leat oahppásat dutnje. Windowsis dát bagadusat eai dáidde doaibmat bures.</note>
 
-         <p>Lea vejolaš hukset alddát čállindárkkisteaddji min gáldofiillain ja maid heivehit gáldofiillaid iežat dárbbuide. Daga ná:</p>
+         <p>Lea vejolaš hukset iežat čállindárkkisteaddji min gáldofiillain ja maid heivehit gáldofiillaid iežat dárbbuide. Daga ná:</p>
 
          <ol>
             <li>Čuovo bagadusaid maid gávnnat <a href="http://divvun.no/doc/infra/GettingStarted.html">dás</a> sihkkarastin dihte ahte dus leat buot prográmmat ja reaiddut maid dárbbašat.</li>
 
-            <li>Vieččat <a href="https://sourceforge.net/projects/apertium/files/giella-core/">giella core-tarpáhka</a>, mas leat resurssat maid dárbbašat juohke gillii. Maŋŋágo viežžan lea geargan, páhkke olggos páhka sisdoalu ja čále dán terminalláses:
+            <li>Vieččat <a href="https://sourceforge.net/projects/apertium/files/giella-core/">giella core-tarpáhka</a>, mas leat resurssat maid dárbbašat juohke gillii. Maŋŋágo viežžan lea geargan, páhkke olggos páhka sisdoalu ja čále dán terminálalásii:
                 <source>
 cd gtcore
 ./configure
@@ -105,7 +105,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Davvisámegiela
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsámegiela
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Lullisámegiella</source>
             </li>
-            <li>Vuoje dáid gohččumiid terminalláses:
+            <li>Vuoje dáid gohččumiid terminálaláses:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
@@ -198,7 +198,7 @@ sudo make install</source>
             </tr>
             </table>
 
-            <p>Páhkke olggos Hunspell-páhka, ja sirdde aff- ja dic-fiillaid rievttes máhppii nugo prográmmat dáhtut.</p>
+            <p>Páhkke olggos Hunspell-páhka, ja sirdde aff- ja dic-fiillaid rievttes máhppii nugo prográmmat dáhttot.</p>
 
         </section>
 
