@@ -102,6 +102,10 @@
       <section>
          <title>Bygg din egen stavekontroll</title>
 
+         <note>Instruksjonene og kommandoene nedenfor forutsetter grunnleggende
+         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
+         for Windows er begrenset.</note>
+
          <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
          og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
          følger:</p>
@@ -148,10 +152,6 @@ sudo make install</source>
 
             </li>
          </ol>
-
-         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</p>
 
       </section>
 

@@ -102,6 +102,10 @@
       <section>
          <title>Tsieggi ietjat tjállemdárkastusáv</title>
 
+         <note>Dá bagádusá ja kommánndu vuollelin gájbbedij vuodulasj máhtudagáv
+         kommánndulinnjabirrasij ådåájggásasj operatijvavuogádagájn. Ij heva 
+         dåjma Windowsin.</note>
+
          <p>Le vejulasj njuolgga gálldofijlajs allasit tjállemdárkastusáv
          tsieggit ja dan láhkáj gálldofijlajt hiebadit ietjat dárboj milta.
          Dagá návti:</p>
@@ -147,10 +151,6 @@ sudo make install</source>
 
             </li>
          </ol>
-
-         <p>Dá bagádusá ja kommánndu badjelin gájbbedij vuodulasj máhtudagáv
-         kommánndulinnjabirrasij ådåájggásasj operatijvavuogádagájn. Ij heva 
-         dåjma Windowsin.</p>
 
       </section>
 

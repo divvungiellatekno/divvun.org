@@ -100,6 +100,9 @@
       <section>
          <title>Käännä oma oikolukuohjelma</title>
 
+         <note>Yllä olevat ohjeet ja komennot toimivat komentoriviympäristössä modernissa
+          käyttöjärjestelmässä. Windows-tuki on rajallinen.</note>
+
          <p>Voit kääntää oman oikolukuohjelman lähdekoodista,
          ja sen osana muokata lähdekoodia tarpeidesi mukaan. Tee seuraavasti:</p>
 
@@ -142,9 +145,6 @@ sudo make install</source>
 
             </li>
          </ol>
-
-         <p>Yllä olevat ohjeet ja komennot toimivat komentoriviympäristössä modernissa
-          käyttöjärjestelmässä. Windows-tuki on rajallinen.</p>
 
       </section>
 

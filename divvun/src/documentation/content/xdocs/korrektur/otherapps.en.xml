@@ -101,6 +101,10 @@
       <section>
          <title>Build your own speller</title>
 
+         <note>The Instructions and commands below presupposes basic knowledge
+         about the shell environment in modern operating systems. Support
+         for Windows is limited.</note>
+
          <p>It is possible to build your own spellers directly from source, and
          as part of that also modify the source to fit your needs. Do as
          follows:</p>
@@ -146,10 +150,6 @@ sudo make install</source>
 
             </li>
          </ol>
-
-         <p>The Instructions and commands above presupposes basic knowledge
-         about the shell environment in modern operating systems. Support
-         for Windows is limited.</p>
 
       </section>
 
