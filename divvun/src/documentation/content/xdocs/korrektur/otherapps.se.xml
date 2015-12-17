@@ -1,121 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="se">
    <header>
-      <title>Andre installasjonsalternativ</title>
+      <title>Eará sajáiduhttinmolssaeavttut</title>
    </header>
    <body>
 
       <section>
-         <title>Installer flere språk</title>
+         <title>Sajáiduhttit eanet gielaid</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>Go sajáiduhttát čállindárkkisteddjiid namahuvvon min eará siidduin, de okta giella čuovvu mielde páhkas. Ii leat vel vejolaš sajáiduhttit máŋga diekkár páhka oktanaga seamma prográmmii. Jus háliidat čállindárkkisteddjiid máŋga gielaide oktanaga, čuovo bagadusaid dás vuolábealde.</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="FUOM!">Ii leat vejolaš dán bargat Windowsis áiddo dál, muhto mii leat čoavdigoahtán dan.
             </warning>
 
             <ol>
-              <li>Last ned en eller flere zhfst-filer:
+              <li>Viečča ovtta dahje eanet zhfst-fiilla:
                 <table>
                 <tr>
-                  <th>Språk: </th>
-                  <th>Versjon: </th>
-                  <th>Dokumentasjon og kildekode:</th>
+                  <th>Giella:</th>
+                  <th>Veršuvdna</th>
+                  <th>Dokumentašuvdna ja gáldokoda:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Davvisámegiella</a> </td>
+                  <td>4.0</td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julevsámegiella</a> </td>
+                  <td>4.0</td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Lullisámegiella</a> </td>
+                  <td>4.0</td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja  <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Sirdde vižžon zhfst-fiillaid okta dáin máhpain:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det er flere mulige steder man kan legge filene, de er
-                  beskrevet <a
-                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >her</a>. Let etter overskriften «Search order for dictionary
-                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
-                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+                  Lea vejolaš sirdit zhfst-fiillaid <a href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README">eará máhpaide</a> jus dan háliida. Oza bajilčála «Search order for dictionary files». Muitte ahte álo fertet bidjat <code>.zhfst</code>-fiillaid máhppii man namma lea «3» daid máhpaid siskkobealde man bagadus namuha.
               </li>
-              <li>Logg ut og logg inn igjen</li>
+              <li>Olggos- ja sisačálit iežat dihtoris</li>
             </ol>
 
-            <p>Om du behøver andre språk enn samiske, finnes det flere
-            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p>Jus dárbbašat eará gielaid go sámigielaid, de gávnnat daid <a href="http://divvun.org/">divvun.org</a>:s.</p>
 
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Beaivválaš ođasmahttimat - váras čállindárkkisteddjiid</title>
 
-            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
+            <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija. Dat sisttisdollet gielalaš rievdademiid mat leat dáhkon dan rádjái. Jus háliidat geahččalit áibbas váras čállindárkkisteddjiid, de sáhtát viežžat dáid.</p>
 
-            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
-            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
-            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</p>
+            <p><strong>FUOM!</strong> Mii eat leat iskan dáid veršuvnnaid dárkilit, ja danne eat sáhtte dáhkidit ahte dat doibmet nugo galget dahje eai heaitte doaibmamis. Jus šaddet váttisvuođat dáiguin, váldde váras veršuvnna eret ja sajáiduhtte ođđasamos almmulaš veršuvnna fas.</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Davvisámegiella</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Julevsámegiella</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Lullisámegiella</a></li>
             </ul>
 
-            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
-            å gå til <a
-            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
-            for nattlige bygg</a>.</p>
+            <p>Sáhtát ieš oaidnit guđe veršuvnnat ja gielat leat olámuttus <a
+            href="http://apertium.projectjj.com/spellers/">beaivválaš ođasmahttimiid viežžanmáhpas</a>.</p>
 
       </section>
 
       <section>
-         <title>Bygg din egen stavekontroll</title>
+         <title>Hukse iežat čállindárkkisteaddji</title>
 
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <note>Bagadusaid ja gohččumiid maid gávnnat vuolábealde eaktuda ahte gohččunlinnjábirrasat Macas dahje Linuxis leat oahppásat dutnje. Windowsis dát bagadusat eai dáidde doaibmat bures.</note>
+
+         <p>Lea vejolaš hukset alddát čállindárkkisteaddji min gáldofiillain ja maid heivehit gáldofiillaid iežat dárbbuide. Daga ná:</p>
 
          <ol>
-            <li>Følg instruksjonene <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
-                for å sikre at du har alle program og verktøy du behøver.</li>
+            <li>Čuovo bagadusaid maid gávnnat <a href="http://divvun.no/doc/infra/GettingStarted.html">dás</a> sihkkarastin dihte ahte dus leat buot prográmmat ja reaiddut maid dárbbašat.</li>
 
-            <li>Last ned <a
-                href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+            <li>Vieččat <a href="https://sourceforge.net/projects/apertium/files/giella-core/">giella core-tarpáhka</a>, mas leat resurssat maid dárbbašat juohke gillii. Maŋŋágo viežžan lea geargan, páhkke olggos páhka sisdoalu ja čále dán terminalláses:
                 <source>
 cd gtcore
 ./configure
@@ -124,44 +94,33 @@ sudo make install</source>
             </li>
 
             <li><!-- Last ned kildekode-tarballen for språket ditt: -->
-                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
-                forrige punkt):
+            	Mana olggos gtcore-máhpas ja viečča iežat giela máhpa svn:s dán láhkai:
                 <!--ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
                 </ul-->
                 <source>
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Davvisámegiela
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsámegiela
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Lullisámegiella</source>
             </li>
-            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+            <li>Vuoje dáid gohččumiid terminalláses:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
-                du nettopp sjekket ut.</p>
+                <p><code>YOURLANGUAGE</code> lea sme, smj dahje sma maid easka leat viežžan.</p>
 
             </li>
          </ol>
-
-         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</p>
-
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+            <title>OpenOffice, InDesign ja eará prográmmat mat geavahit Hunspell-fiillaid</title>
 
-            <warning label="NB!">Hunspell-filene og de andre filene man kan
-            laste ned her er gamle
-            og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            for enkelte program som ikke kan bruke annet.</warning>
+            <warning label="FUOM!">Hunspell-fiillat ja eará fiillat mat leat vieččahahttit dás vuolábealde leat boarrásat ja mii eat ođasmahte daid aktiivvalaččat.</warning>
 
             <table>
             <tr><td>
@@ -188,18 +147,18 @@ sudo make install</source>
             <td>
                 · <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Linux" height="12" width="12"
-                src="images/Linux_Icon_256.png" />Linux-bagadallan</a>
+                src="images/Linux_Icon_256.png" />Linux-bagadus</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="MacOSX" height="12" width="12"
-                src="images/mac.png" />MacOSX-bagadallan</a>
+                src="images/mac.png" />MacOSX-bagadus</a>
               <br/>· <a href="userdocs/mac/install-OOo-3.html"><icon
                 alt="Windows" height="12" width="12"
-                src="images/windows.png" />Windows-bagadallan</a>
+                src="images/windows.png" />Windows-bagadus</a>
             </td>
             <td>
                 <a href="userdocs/videos/ooo-video.html">
               <icon alt="Instructions" height="48" width="48"
-                src="images/Movie-icon.png"/>bagadallanvideot</a></td>
+                src="images/Movie-icon.png"/>bagadusvideot</a></td>
             </tr>
 
             <tr><td>
@@ -222,7 +181,7 @@ sudo make install</source>
               <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-            <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bagadallan</a></td>
+            <br/>· <a href="userdocs/mac/install-indesign-CS3.html">Bagadus</a></td>
             <td>
             </td>
             </tr>
@@ -233,14 +192,13 @@ sudo make install</source>
                 href="http://divvun.no/static_files/smi.zip"><icon
                 alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Hunspell-filer for alle operativsystem</a>
+                Hunspell-fiillat buot vuogádagaide</a>
               </li>
             </ul></td>
             </tr>
             </table>
 
-            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
-            katalog slik det enkelte program krever det.</p>
+            <p>Páhkke olggos Hunspell-páhka, ja sirdde aff- ja dic-fiillaid rievttes máhppii nugo prográmmat dáhtut.</p>
 
         </section>
 
