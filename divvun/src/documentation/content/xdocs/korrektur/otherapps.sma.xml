@@ -3,123 +3,83 @@
           "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-      <title>Andre installasjonsalternativ</title>
+      <title>Jeatjhlaakan sijjiedehtedh</title>
    </header>
    <body>
 
       <section>
-         <title>Installer flere språk</title>
+         <title>Gellie gïelh sijjiedehtedh</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p> Gosse edtjh staeriedimmiedïrregem sijjiedehtedh guktie daejnie sæjrojne tjaalasovveme, dle barre aktem gïelem åadtjoeh. Ij leah annje nuepie gellie paagkah seammasïenten sijjiedehtedh seamma programmese. Jis daarpesjh gellie gïelh, tjoeverh daejtie bïhkedasside lohkedh.</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="NB!">Ij gåaredh dam  Windowisnie darjodh, mijjieh libie dejnie aaj barkedminie.
             </warning>
 
             <ol>
-              <li>Last ned en eller flere zhfst-filer:
+              <li>Veedtjelh aktem jallh jienebh zhfst-fijlh:
                 <table>
                 <tr>
-                  <th>Språk: </th>
-                  <th>Versjon: </th>
-                  <th>Dokumentasjon og kildekode:</th>
+                  <th>Gïele: </th>
+                  <th>Versjovne: </th>
+                  <th>Dokumentasjovne jïh gaaltijekovde:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Noerhtesaemien</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Noerhtesaemien prosjeektedokumentasjovne</a>
+                      jïh
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julevsaemien</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsaemien prosjeektedokumentasjovne</a>
+                      jïh
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
-                  <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Åarjelsaemien</a> </td>
+                  <td>N/A </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Åarjelsaemien prosjeektedokumentasjovne</a>
+                      jïh
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Sirtieh dejtie zhfst-fijlide aktede katalogese:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det er flere mulige steder man kan legge filene, de er
-                  beskrevet <a
+                  dejtie fijlide maahtah jeatjah sæjjan aaj bïejedh, dan bïjre maahath daesnie lohkedh <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >her</a>. Let etter overskriften «Search order for dictionary
-                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
-                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+                  >daesnie</a>. Ohtsedh dam bijjietjaalegem «Search order for dictionary
+                  files». Mujhtieh iktesh tjoeverh tsagkedh dejtie fijlide <code>.zhfst</code>-filene
+                  aktene katalogese, man nomme lea  «3» 
               </li>
-              <li>Logg ut og logg inn igjen</li>
+              <li>Loggh olkese jïh dle sïjse vihth</li>
             </ol>
 
-            <p>Om du behøver andre språk enn samiske, finnes det flere
-            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p> Jis daarpesjh jeatjah gïelh, dle daesnie gååvnesieh <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Bigkieh jïjtjedh staeriedimmieprogrammem</title>
 
-            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
-
-            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
-            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
-            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</p>
-
-            <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
-            </ul>
-
-            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
-            å gå til <a
-            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
-            for nattlige bygg</a>.</p>
-
-      </section>
-
-      <section>
-         <title>Bygg din egen stavekontroll</title>
-
-         <note>Instruksjonene og kommandoene nedenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</note>
-
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <p> Gåarede aaj jïjtjedh staeriedimmieprogrammem bigkedh dejstie gaaltije fijlijste, dle tjoeverh sjïehtesjdih dejtie gaaltijekovdide dov daerpiesvoetide. Darjoeh dle naemhtie:</p>
 
          <ol>
-            <li>Følg instruksjonene <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
-                for å sikre at du har alle program og verktøy du behøver.</li>
+            <li>Bïhkedassh <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">daesnie</a>
+                jis edtjh vuartasjidh gaajhke dovne lea mealtan.</li>
 
-            <li>Last ned <a
+            <li>Veedtjelh <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+                ">giella core-tarballen</a>, Mesnie gaajhkh dah ressursh mah daerpies leah mealtan gaajhkine gïeline. Gosse veedtjeme, vaeltieh olkese jïh dle naemhtie darjoeh:
                 <source>
 cd gtcore
 ./configure
@@ -137,31 +97,29 @@ sudo make install</source>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
                 </ul-->
                 <source>
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Noerhtesaemien
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsaemien
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Åarjelsaemien</source>
             </li>
-            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+            <li>Vaeltieh daejtie stïllemidie jïh vuejehteh dle dejtie daennie terminalklaasesne:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
-                du nettopp sjekket ut.</p>
+                <p>Målsoeh <code>YOURLANGUAGE</code> nommine mij lea dennie dov gïelekatalogesne.</p>
 
             </li>
          </ol>
 
+         <p>Bïhkedassh jïh stïllemh mah leah bijjelen, krïebpesjieh almetjh maehtieh  dejtie utnedh daenbeajjetje operativsystemesne. Ij daate dam Windowsem man hijvenlaakan dåarjoeh.</p>
+
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+            <title>OpenOffice, InDesign jïh jeatjah programmh mah og andre Hunspell-fijlh nuhtjieh</title>
 
-            <warning label="NB!">Hunspell-filene og de andre filene man kan
-            laste ned her er gamle
-            og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            for enkelte program som ikke kan bruke annet.</warning>
+            <warning label="NB!">Hunspell-fijlh jïh jeatjah filjh mejtie maahtah daestie veedtjedh, leah båeries. Maahtah læjhkan dejtie såemies programmide utnedh, jis eah jeatjah gååvnesh.</warning>
 
             <table>
             <tr><td>
@@ -233,14 +191,13 @@ sudo make install</source>
                 href="http://divvun.no/static_files/smi.zip"><icon
                 alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Hunspell-filer for alle operativsystem</a>
+                Hunspell-fijlh gaajhkide operativsystemidie</a>
               </li>
             </ul></td>
             </tr>
             </table>
 
-            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
-            katalog slik det enkelte program krever det.</p>
+            <p>Veedtjelh dam Hunspell-paahkem, jïh bïejh aff- jïh dic-fijlide rïektes katalogese, guktie programme krïebpesje.</p>
 
         </section>
 
