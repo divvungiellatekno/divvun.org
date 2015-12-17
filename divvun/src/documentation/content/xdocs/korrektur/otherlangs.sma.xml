@@ -3,17 +3,16 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>staeriedimmiedïrregh jeatjah gïelide</title>
+      <title>Staeriedimmiedïrregh jeatjah gïelide</title>
       <meta name="description">speller, spell checker, kven, minority languages</meta>
    </header>
    <body>
 
       <section>
-         <title>Korrekturverktøy for kvensk<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
+         <title>Staeriedimmiedïrregh kveenengïelese<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
 
-         <p>De kvenske korrekturverktøyene er under utvikling, og den språklige
-         kvaliteten vil variere. Bruk verktøyene med et kritisk øye, og
-         oppdater ofte!</p>
+         <p>Kveenengïelen staeriedimmiefïrregh leah båetiemisnie, dannasinie ij leah dïhte gïelebarkoe daejnie dïrreginie annje eevre riejries.
+!</p>
 
          <table>
          <tr>
@@ -22,37 +21,35 @@
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Utvidelse for LibreOffice (Windows) med kvensk stavekontroll</td>
+           <td>Vijriedidh LibreOfficasse (Windows) kveenengïelen staeriedimmiedïrreginie</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Utvidelse for LibreOffice (OSX) med kvensk stavekontroll</td>
+           <td>Vijriedidh LibreOfficasse (OSX) kveenengïelen staeriedimmiedïrreginie</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Utvidelse for Firefox og andre Mozilla-program med kvensk stavekontroll</td>
+           <td>Vijriedidh Firefox jïh jeatjah Mozilla-programmh gusnie kveenen staeriedimmiedïrregh.</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Kvensk stavekontroll for hele OSX</td>
+           <td>Kveenen staeriedimmiedïrrege OSX:asse</td>
          </tr>
          </table>
 
-         <p>Det kvenske prosjektet har en egen <a
+         <p>Kveenengïeleprosjekten lea aaj jïjtse sæjroe<a
          href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
-         >prosjektside</a>, og kildekoden for kvensk kan man finne <a
-         href="https://victorio.uit.no/langtech/trunk/langs/fkv">her</a>.
+         >prosjektesæjroe</a>, gaaltijekovde kveenengïelse<a
+         href="https://victorio.uit.no/langtech/trunk/langs/fkv">daesnie gaavnah</a>.
          </p>
 
       </section>
 
       <section>
-         <title>Korrekturverktøy for andre språk</title>
+         <title>Staeriedimmiedïrregh jeatjah gïelide</title>
 
-         <p>Divvun-gruppen har et eget nettsted med korrekturverktøy for
-         ikke-samiske språk, utviklet i samarbeid med flere organisasjoner.
-         Gå til <a href="http://divvun.org/">divvun.org</a> for mer informasjon
-         og for å laste ned korrekturverktøyene.</p>
+         <p>Divvundåehkien lea jïjtse nedtesæjroe staeriedimmiedïrregidie jeatjah gïelide, aktesi organisjasjovnigujmie vyökeme.
+         Mïnnh <a href="http://divvun.org/">divvun.org</a> dle åadtjoeh vielie bïevnesh dïrregi bïjre jïh aaj dejtie veedtjedh.</p>
 
       </section>
 
