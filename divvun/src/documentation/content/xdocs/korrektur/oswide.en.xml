@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroller i hele systemet</title>
+      <title>Spellers throughout the operating system</title>
       <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
    </header>
    <body>
@@ -12,9 +12,8 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>There is work going on to develop an OS-wide speller for Windows.
+         The page will be updated as soon as we have new information.</p>
 
       </section>
 
@@ -23,29 +22,28 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
-         viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         <p>The OSX system-wide spellers are still beta quality. The main
+         remaining issue is related to installing multiple languages. We have <a
+         href="otherapps.html">a separate page</a> with instructions for how to
+         install multiple languages in parallel. Linguistically these spellers
+         are as good as the Word spelling checkers.</p>
 
          <table>
          <tr>
-           <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Language: </th>
+           <th>Version: </th>
+           <th>Documentation and source code:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />North Sámi </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
            </td>
          </tr>
          <tr>
@@ -53,11 +51,11 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julev Sámi </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
            </td>
          </tr>
          <tr>
@@ -65,40 +63,39 @@
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
            ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />South Sámi </a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Installation:</strong> Move the downloaded file to
+         <code>~/Library/Services/</code> as follows: open a new Finder window,
+         choose the menu item <strong>Go > Go to folder…</strong>, type
+         <code>~/Library/Services/</code> and press enter. Then move the
+         downloaded file into this folder. Double-click the file after you have
+         moved it, or log out and back in.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <p>To verify that the speller is working, open
+         <strong>System Preferences > Keyboard > Text</strong>, and verify that
+         your language is listed in the menu <strong>Spelling</strong>, with
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.
+         after the language name. If not, restart your computer.
          </p>
 
          <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.
+         <p><strong>Usage:</strong> IIn applications using the system spelling
+         checker services (most apps, but not MS Word, Firefox and a few other
+         common applications) just open the spelling checker dialog:
+         <strong>Edit > Spelling and Grammar > Show Spelling and Grammar</strong>.
+         Select your language in the language menu. If you always want to spell
+         check in this language, you can make it the default spell checking
+         language in <strong>System Preferences > Keyboard > Text</strong>.
        </p>
 
          <figure alt="OSX stavekontrolldialog"
@@ -109,15 +106,16 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         <p>The OS wide spelling checker is really all you need in Linux,
+         all applications will use it.
+         For the time being you have to build it yourself, but we are working
+         to get all necessary packages, including our own language models,
+         available through the usual package repositories.</p>
+
+         <p>Instructions for how to build spellers for Linux can be found <a
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
+         source code for each language can be found <a
+         href="otherapps.html">here</a>.</p>
 
       </section>
 
