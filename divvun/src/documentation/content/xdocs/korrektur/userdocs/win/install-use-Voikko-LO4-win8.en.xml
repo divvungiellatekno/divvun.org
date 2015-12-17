@@ -19,20 +19,6 @@
 		<section>
 			<title>Install the spellchecker</title>
 
-			<warning>The spelling checkers for <a
-			href="http://libreoffice.org/">LibreOffice</a> are still
-			<strong>BETA</strong> quality. We appreciate all and any <a
-			href="mailto:feedback@divvun.no">feedback</a>!</warning>
-
-			<note>
-				These installation instructions are written for the Divvun
-				spelling checkers produced with Voikko and Hfst for
-				<em>LibreOffice.org 4.1+</em>. There is a separate <a
-				href="../mac/install-OOo-3.html">installation instruction for
-				Divvun built for Hunspell</a> when used with
-				LibreOffice 3.x and OpenOffice.org 2.x.
-			</note>
-
 			<p>Sami (and other) spelling checkers for LibreOffice can be
 			downloaded <a href="/korrektur/libreofficebeta.html">here</a>. The downloaded
 			spellchecker extension looks like this (the name may vary):<br/>

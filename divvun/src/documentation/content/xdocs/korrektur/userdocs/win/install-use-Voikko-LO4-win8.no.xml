@@ -19,20 +19,6 @@
 		<section>
 			<title>Installer stavekontrollene</title>
 
-			<warning>Stavekontrollene for <a
-			href="http://libreoffice.org/">LibreOffice</a> er fremdeles av
-			<strong>BETA</strong>-kvalitet. Vi tar gjerne i mot alle slags <a
-			href="mailto:feedback@divvun.no">tilbakemeldinger</a>!</warning>
-
-			<note>
-				Disse installasjoninstruksene er for Divvun-stavekontrollene
-				produsert med Voikko og Hfst for <em>LibreOffice.org 4.1+</em>.
-				Vi har en separat <a
-				href="../mac/install-OOo-3.html">installasjonsinstruks for
-				Divvun produsert for Hunspell</a> til bruk i lag med
-				LibreOffice 3.x og OpenOffice.org 2.x.
-			</note>
-
 			<p>Samiske (og andre) stavekontroller for LibreOffice kan lastes
 			ned <a href="/korrektur/libreofficebeta.html">her</a>. Det nedlastede
 			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
