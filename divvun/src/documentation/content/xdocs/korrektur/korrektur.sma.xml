@@ -115,7 +115,7 @@
                         src="images/MSOffice-icon.png"/></title>
 
         <note label="Notér!">Divvun 4.0 MS Officasse OSX:sne <strong> Eah leah annje riejries </strong> dannasinie dåeroesmoerh leah. Barkeminie libie dejgujmie, jïh sïjhtijibie orrestehtedh dejtie bielide gosse gaervies dejgujmie. Vuelelen maahtah veedtjedh dam båeries versjovnem. NB! Båeries versjovne <strong>ij juhtieh MS Office 2015:ine!</strong>
-            Divvun 4.0 LibreOfficasse hijvenlaakan jåhta (Vuartesjh vuelelen), seammalaakan dejnie MacVoikkojne (Vielie bïevnesh<a href="oswide.html">her</a>).
+            Divvun 4.0 LibreOfficasse hijvenlaakan jåhta (Vuartesjh vuelelen), seammalaakan dejnie MacVoikkojne (Vielie bïevnesh <a href="oswide.html">daesnie</a>).
         </note>
 
                 <table>
@@ -192,7 +192,8 @@
             <title>Staeriedimmieïrregh Linuxasse<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>Divvundïrregidie Linuxasse maahtah naemhtie sijjiedehtedh. Lohkh daejtie bïhkedasside<a href="oswide.html">på denne siden</a>.</p>
+            <p>Divvundïrregidie Linuxasse maahtah naemhtie sijjiedehtedh. Lohkh
+            daejtie bïhkedasside <a href="oswide.html">på denne siden</a>.</p>
         </section>
     </body>
 </document>
