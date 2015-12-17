@@ -10,8 +10,8 @@
             <title>Internet Explorer / Edge</title>
             <p>Gaatesjen, Ibie ANNJE maehtieh dam dåarjeldih. Dah nedtelohkijh daejtie nuhtjieh
             <a href="oswide.html">staeriedimmiedïrregh mah leah abpe systeemese.  
-            </a>, mij lea gåaradamme 
-            Windows 8:den raejeste. Barkeminie libie dejnie, men geerve hov lea orreme. orrestehtijibie dam sæjroem gosse orre bïevnesh båetieh.</p>
+            </a>, mij lea gåaradamme joe 
+            Windows 8:den raejeste bïejedh. Barkeminie libie dejnie, men geerve hov lea orreme. orrestehtijibie dam sæjroem gosse orre bïevnesh båetieh.</p>
         </section>
 
       <section>
@@ -28,16 +28,15 @@
           <warning label="Windows-brukere"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
-             Det er for tilfellet ikke mulig å installere flere språk
-             samtidig.</warning>
+             Ij gåaredh gellie gïelh seammasïenten sijjiedehtedh.</warning>
 
           <section>
-             <title>Didriksen-stavekontroller</title>
+             <title>Didriksen-staeriedæjjah</title>
              <table>
              <tr>
-               <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Gïele: </th>
+               <th>Versjovne: </th>
+               <th>Dokumentasjovne jïh gaaltijekovde:</th>
              </tr>
              <tr>
                <td><a
@@ -133,32 +132,26 @@
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
-         <warning label="MERK">Som det framgår av skjermbildet over, kjenner ikke
-         Firefox til navnet på mange språk. I slike tilfeller viser Firefox <a
+         <warning label="MERK">Guktie vuajnah skjeermesne, ij Firefox dabth dejtie gïelen nommide. Firefox vuesehte dellie <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
-         639</a>-koden for språket.</warning>
+         639</a>-Gïelen kovde.</warning>
 
           <section>
-             <title>Firefox på Linux</title>
-             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
-             bygge den selv. Nærmere instruksjoner finnes på siden for å
-             <a href="oswide.html">installere stavekontrollen for hele
-             operativsystemet</a>.</p>
+             <title>Firefox Linuxisnie</title>
+             <p>MozVoikko-staeriedæjja lea gietskesne Linuxisnie, badth tjoeverh jïjtje dam bïgkedh. Bïhkedassh guktie daesnie gaavnh: 
+             <a href="oswide.html"> Staeriedæjjam abpe OS.ese sijjiedehtedh</a>.</p>
           </section>
       </section>
 
       <section>
          <title>Chrome</title>
-            <p>Beklager - ingen støtte. Chrome bruker Googles egen
-            stavekontroll, som vi ikke har tilgang til. Og Google har
-            ingen støtte for samisk.</p>
+            <p>Gaatesjen -ibie dam aannje dåarjelh. Chrome åtna dam Googlessen staeriedæjjam, maam ibie jaksh. Google ij saemien gïelem dåarjelh. </p>
       </section>
 
       <section>
          <title>Safari</title>
-            <p>Safari bruker stavekontrollene som er installert for hele
-            systemet. Installer MacVoikko for ditt språk på siden for <a
-            href="oswide.html">stavekontroller for hele systemet</a>.</p>
+            <p>Safari åtna gaajhkide staeriedæjjide mah leah sijjiedahteme abpe systeemese. bïejh dle MacVoikkom dan dov gïelese.  <a
+            href="oswide.html">staeriedæjjah abpe systeemese</a>.</p>
       </section>
 
    </body>
