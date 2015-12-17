@@ -3,119 +3,117 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Andre installasjonsalternativ</title>
+      <title>Other installation options</title>
    </header>
    <body>
 
       <section>
-         <title>Installer flere språk</title>
+         <title>Install multiple languages</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>When installing the spellers listed under the other tabs, you get
+            one language as part of the installation. For now, you can't install
+            more than one such speller at a time. If you want to install
+            additional languages, follow the instructions below.</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="NB!">It is not possible to do this on Windows yet,
+            but we are working on finding a solution.
             </warning>
 
             <ol>
-              <li>Last ned en eller flere zhfst-filer:
+              <li>Download one or more zhfst files:
                 <table>
                 <tr>
-                  <th>Språk: </th>
-                  <th>Versjon: </th>
-                  <th>Dokumentasjon og kildekode:</th>
+                  <th>Language: </th>
+                  <th>Version: </th>
+                  <th>Documentation and source code:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">North Sámi</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
+                      and
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julev Sámi</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
+                      and
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">South Sámi</a> </td>
                   <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
+                      and
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Move the downloaded zhfst file(s) to one of the directories searched by the spellers:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det er flere mulige steder man kan legge filene, de er
-                  beskrevet <a
+                  More possible locations are listed <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >her</a>. Let etter overskriften «Search order for dictionary
-                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
-                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+                  >here</a>. Look for the heading «Search order for dictionary
+                  files». Remember to always put the <code>.zhfst</code> files
+                  in a directory named «3» within those directories mentioned on
+                  that page.
               </li>
-              <li>Logg ut og logg inn igjen</li>
+              <li>Log out and log back in</li>
             </ol>
 
-            <p>Om du behøver andre språk enn samiske, finnes det flere
-            språk på <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p>If you need other languages than the Sámi ones, you can find more
+            languages on <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Nightly builds - latest and greatest</title>
 
-            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
+            <p>The spelling checkers for MS Office on Windows are rebuilt every
+            night with our latest linguistic updates. If you want to try out the
+            very latest code you can download these.</p>
 
-            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
-            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
-            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</p>
+            <warning label="NB!">These versions are not properly tested, and we
+            do not guarantee that they work properly, nor that they won't crash.
+            Use on your own risk! If there are problems, just uninstall, and
+            then reinstall the latest official version anew.</warning>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">North Sámi</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Julev Sámi</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">South Sámi</a></li>
             </ul>
 
-            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
-            å gå til <a
-            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
-            for nattlige bygg</a>.</p>
+            <p>There are more languages in the nightly build directory. Have a
+            look by going to <a
+            href="http://apertium.projectjj.com/spellers/">the download directory
+            for nightly builds</a>.</p>
 
       </section>
 
       <section>
-         <title>Bygg din egen stavekontroll</title>
+         <title>Build your own speller</title>
 
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <p>It is possible to build your own spellers directly from source, and
+         as part of that also modify the source to fit your needs. Do as
+         follows:</p>
 
          <ol>
-            <li>Følg instruksjonene <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
-                for å sikre at du har alle program og verktøy du behøver.</li>
+            <li>Follow the instructions <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">here</a>
+                to make sure you have all tools required to build your own speller.</li>
 
-            <li>Last ned <a
+            <li>Download the <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+                ">giella core tarball</a>, which contains prerequisites for all
+                languages. After the download, unpack and do the following:
                 <source>
 cd gtcore
 ./configure
@@ -124,44 +122,44 @@ sudo make install</source>
             </li>
 
             <li><!-- Last ned kildekode-tarballen for språket ditt: -->
-                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
-                forrige punkt):
+                Check out the source code for your language in a separate
+                catalogue (that is, not within the <code>gtcore</code> catalogue
+                you just created in the previous step):
                 <!--ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
                 </ul-->
                 <source>
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # North Sámi
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julev Sámi
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # South Sámi</source>
             </li>
-            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+            <li>Unpack and run the following commands in a terminal window:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
-                du nettopp sjekket ut.</p>
+                <p>Replace <code>YOURLANGUAGE</code>with the name of the
+                language directory you just unpacked.</p>
 
             </li>
          </ol>
 
-         <p>Instruksjonene og kommandoene ovenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</p>
+         <p>The Instructions and commands above presupposes basic knowledge
+         about the shell environment in modern operating systems. Support
+         for Windows is limited.</p>
 
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+            <title>OpenOffice, InDesign and other applications using Hunspell files</title>
 
-            <warning label="NB!">Hunspell-filene og de andre filene man kan
-            laste ned her er gamle
-            og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            for enkelte program som ikke kan bruke annet.</warning>
+            <warning label="NB!">The Hunspell files and the other files one can
+            download below are old and not actively maintained. They can still
+            be an alternative for applications not accepting anything
+            else.</warning>
 
             <table>
             <tr><td>
@@ -239,8 +237,9 @@ sudo make install</source>
             </tr>
             </table>
 
-            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
-            katalog slik det enkelte program krever det.</p>
+            <p><strong>Instructions:</strong> Unpack the Hunspell download, and
+            move the <code>aff</code> and <code>dic</code> files to the correct
+            directory as required by each application.</p>
 
         </section>
 
