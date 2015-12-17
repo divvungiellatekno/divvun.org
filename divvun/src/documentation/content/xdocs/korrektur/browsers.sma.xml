@@ -3,32 +3,26 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroll for nettlesere</title>
+      <title>Staeriedimmiedïrrege nedtelohkijidie</title>
    </header>
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Beklager, ingen støtte - ENNÅ. Disse nettleserne bruker
-            <a href="oswide.html">stavekontroller installert
-            for hele systemet</a>, som i prinsippet har vært mulig siden
-            Windows 8. Vi jobber med dette, men det har vist seg å være
-            vanskeligere enn ventet. Vi vil oppdatere siden
-            når vi har ny informasjon.</p>
+            <p>Gaatesjen, Ibie ANNJE maehtieh dam dåarjeldih. Dah nedtelohkijh daejtie nuhtjieh
+            <a href="oswide.html">staeriedimmiedïrregh mah leah abpe systeemese.  
+            </a>, mij lea gåaradamme 
+            Windows 8:den raejeste. Barkeminie libie dejnie, men geerve hov lea orreme. orrestehtijibie dam sæjroem gosse orre bïevnesh båetieh.</p>
         </section>
 
       <section>
          <title>Firefox</title>
-            <p>Firefox behøver egne stavekontroller, som man installerer som
-            utvidelser i Firefox. Og det finnes faktisk to slike utvidelser for
-            samisk: en laget av <a href="http://tinodidriksen.com">Tino
-            Didriksen</a> i samarbeid med Divvun og Apertium, og en annen bygd
-            på <a
-            href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
-            Didriksen-stavekontrollene <em>fungerer bare for
-            Windows</em> (inntil videre), mens MozVoikko-stavekontrollene
-            fungerer på både Windows og OSX. Med MozVoikko kan man <a
-            href="">installere flere
-            språk</a>, men bare på OSX.
+            <p>Firefox jïjtse staeriedimmiedïrregh daarpesje, som man installerer som
+            utvidelser i Firefox. Gååvnesieh göökte dagkerh virjiedimmieh saemiengïelese: akte, maam  <a href="http://tinodidriksen.com">Tino
+            Didriksen</a> Divvuninie Apertiumine ektine dorjeme, jïh mubpie mij lea  <a
+            href="https://github.com/voikko/mozvoikko">Mozvoikkojne</a> bïgkesovveme. 
+            Didriksen-staeriedimmiedïrregh <em> barre 
+            Windowsinie juhtieh</em> (inntil videre), mens MozVoikko-staeriedimmiedïrregh dovne Windowsinie jïh OSX:ine juhtieh. MozVoikkojne maahta  <a
+            href="">gellie gïelh sijjiedehtedh</a>, badth ajve dennie OSX:esne.
             </p>
 
           <warning label="Windows-brukere"><icon
@@ -50,11 +44,11 @@
                     href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Noerhtesaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Noerhtesaemien prosjeektedokumentasjovne</a>
+                   jïh
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
                 </td>
              </tr>
              <tr>
@@ -62,11 +56,11 @@
                     href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsaemien prosjeektedokumentasjovne</a>
+                   jïh
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
                 </td>
              </tr>
              <tr>
@@ -74,34 +68,33 @@
                     href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
                ><icon alt="Last ned sørsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Åarjelsaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Åarjelsaemien prosjeektedokumentasjovne</a>
+                   jïh                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
                 </td>
              </tr>
              </table>
           </section>
 
           <section>
-             <title>MozVoikko-stavekontroller</title>
+             <title>MozVoikko-staeriedæjjah</title>
              <table>
              <tr>
-               <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Gïele: </th>
+               <th>Versjovne: </th>
+               <th>Dokumentasjovne jïh gaaltijekovde:</th>
              </tr>
              <tr>
                <td><a
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-               />Nordsamisk </a></td>
+               />Noerhtesaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Noerhtesaemien prosjeektedokumentasjovne</a>
+                   jïh
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
                 </td>
              </tr>
              <tr>
@@ -109,11 +102,11 @@
                href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Julevsaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsaemien prosjeektedokumentasjovne</a>
+                   jïh 
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
                 </td>
              </tr>
              <tr>
@@ -121,24 +114,22 @@
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
                ><icon alt="Last ned sørsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Åarjelsaemien </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-                   og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Åarjelsaemien prosjeektedokumentasjovne</a>
+                   jïh 
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
                 </td>
              </tr>
              </table>
           </section>
 
-         <p><strong>Installering:</strong> Dobbeltklikk den nedlasta xpi-fila,
-         og følg instruksjonene.</p>
+         <p><strong>Sijjiedehteme:</strong> Guektien aejkien diedtedh xpi-fijlem, maam leah veedtjeme jïh darjoeh dam: 
+         </p>
 
-         <p><strong>Bruk:</strong> Når du skriver i Firefox (eller et annet
-         Mozilla-program), høyre-klikker du på teksten din, og i menyen som
-         dukker opp velger du undermenyen <strong>Languages</strong>. Fra
-         denne menyen velger du det språket som du vil ha stavekontroll for. Du
-         får da røde streker under feilstavede ord.</p>
+         <p><strong>Bruk:</strong> Gosse Firefoxesne tjaalah ( jallh jeatjah 
+         Mozilla-programmine), åelkiesdiedtelh dam dov teekstem, jïh læstosne, mij jæjhta, edtjh dam nuelielæstoem veeljedh <strong>Languages</strong>. Dehtie læstoste edtjh veeljedh dam gïelem maam sïjhth utnedh staeriedimmiedïrregisnie. 
+. Dellie rööpses sïevh jiejhtieh båajhtoeh baakoeh nualan.</p>
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
