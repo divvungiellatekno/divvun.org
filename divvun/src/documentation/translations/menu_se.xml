@@ -66,6 +66,7 @@
   <message key="Oct-Dec '04">Golg.-Juov. '04</message>
   <message key="Cooperation with UiT">Ovttasbargu UiT:n</message>
   <message key="Cooperation meeting 3.10.2005">Ovttasbargočoahkkin golg. 3.b. 2005</message>
+
   <message key="Downloads">Vieččahahtti fiillat</message>
   <message key="Installation">Sajáiduhttin</message>
   <message key="Usage">Geavaheapmi</message>
@@ -96,6 +97,8 @@
   <message key="Sátni•báhko•baakoe support">sátni.org-veahkki</message>
   <message key="Download log">Viežžanloggat</message>
   <message key="Visit log for satni.org">satni.org galledanlogga</message>
+  <message key="ForOtherLangs">Stavekontroll for andre språk</message>
+
   <message key="PRD: 2005.06.13">PRD: 2005.06.13</message>
   <message key="PRD: 2007.05.29">PRD: 2007.05.29</message>
   <message key="PRD: 2007.12.10">PRD: 2007.12.10</message>
@@ -109,6 +112,7 @@
   <message key="Programme">Prográmma</message>
   <message key="Oslo Contract">Oslokontrákta</message>
   <message key="Hvordan man fyller i kontraktene">Mo dievdá kontrávttaid</message>
+
   <message key="Polderland">Polderland</message>
   <message key="Jun 30">Suoi.30</message>
   <message key="Jun 16">Suoi.16</message>
@@ -219,6 +223,7 @@
   <message key="Sep 12">Čakč. 12</message>
   <message key="Sep  5">Čakč. 5</message>
   <message key="Aug 29">Borg. 29</message>
+
   <message key="Rapport om permanent drift frå Asplan Viak">Rapport om permanent drift frå Asplan Viak</message>
   <message key="Vedlikehald og sørsamiske verkty">Maŧásdoallan ja lullisámi reaiddut</message>
   <message key="21. 8. 2006">21. 8. 2006</message>
