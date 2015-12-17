@@ -121,10 +121,10 @@
           <index label="OS-wide spellers" href="oswide.html"/>
         </oswide>
 
-        <otherapps tab="AndreProgram" description="Download files from divvun.no" label="Last ned for andre program" >
-          <indesign label="InDesign og OpenOffice" href="otherapps.html"/>
-          <macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
-          <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/>
+        <otherapps tab="AndreProgram" description="Andre installeringsalternativ for korrekturverktøy fra Divvun-gruppa" label="Andre installeringsalternativ" >
+          <index label="Andre installeringsvalg" href="otherapps.html"/>
+          <!--macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
+          <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/-->
           <userdocs label="Vegledninger" href="userdocs/">
             <maclo label="OpenOffice and LibreOffice" >
                 <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
