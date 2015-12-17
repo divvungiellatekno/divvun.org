@@ -73,6 +73,31 @@
       </section>
 
       <section>
+         <title>Nattlige bygg - siste nytt</title>
+
+            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
+            de siste språklige endringene vi har gjort. Om du vil prøve siste
+            nytt kan du laste ned disse.</p>
+
+            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
+            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
+            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
+            avinstallere, og installere siste offisielle versjon på nytt.</p>
+
+            <ul>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+            </ul>
+
+            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
+            å gå til <a
+            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
+            for nattlige bygg</a>.</p>
+
+      </section>
+
+      <section>
          <title>Käännä oma oikolukuohjelma</title>
 
          <p>Voit kääntää oman oikolukuohjelman lähdekoodista,
