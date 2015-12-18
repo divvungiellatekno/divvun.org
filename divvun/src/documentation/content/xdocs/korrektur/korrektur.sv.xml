@@ -23,7 +23,7 @@
                     alt="MS Office" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Kom i håg att avinstallera den gamla versionen!
+        <warning label="OBS!">Kom i håg att avinstallera den gamla versionen!
         På grund av stora förändringar i den underliggande teknologin har vi
         inte hunnit med att lägga till automatisk avinstallation än. Tills
         vidare måste man därför avinstallera manuellt.</warning>
@@ -121,11 +121,11 @@
                         alt="Windows" height="27" width="27"
                         src="images/MSOffice-icon.png"/></title>
 
-        <note label="NB!">Divvun 4.0 för MS Office på OSX <strong>är inte
+        <note label="OBS!">Divvun 4.0 för MS Office på OSX <strong>är inte
             tillgänglig ännu</strong> på grund av oväntade problem. Vi arbetar
             med att hitta en lösning och uppdaterar sidan så snabbt den nya
             versionen är klar. Här nedan kan du ladda ner den gamla versionen.
-            NB! Den gamla versionen <strong>fungerar inte med MS Office 2015!</strong>
+            OBS! Den gamla versionen <strong>fungerar inte med MS Office 2015!</strong>
             Divvun 4.0 för LibreOffice fungerar utmärkt (se längre ner), och det
             samma gör MacVoikko (mera info <a href="oswide.html">här</a>).
         </note>
@@ -206,7 +206,7 @@
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
             <p>Divvun-verktygen kan installeras på Linux genom att följa
-            instruktionerna <a href="oswide.html">på denna sidan</a>.</p>
+            instruktionerna <a href="oswide.html">på den här sidan</a>.</p>
         </section>
     </body>
 </document>
