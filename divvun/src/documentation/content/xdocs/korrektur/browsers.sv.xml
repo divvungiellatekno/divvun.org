@@ -8,53 +8,53 @@
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Beklager, ingen støtte - ENNÅ. Disse nettleserne bruker
-            <a href="oswide.html">stavekontroller installert
-            for hele systemet</a>, som i prinsippet har vært mulig siden
-            Windows 8. Vi jobber med dette, men det har vist seg å være
-            vanskeligere enn ventet. Vi vil oppdatere siden
-            når vi har ny informasjon.</p>
+            <p>Tyvärr, inget stöd - ÄN. Dom här webläsarna använder
+            <a href="oswide.html">rättstavning installerad
+            för hela systemet</a>, som i princip har varit möjligt sen
+            Windows 8. Vi arbetar med det, men det har visat sig vara
+            svårare än förväntad. Vi uppdaterar sidan
+            när vi har ny information.</p>
         </section>
 
       <section>
          <title>Firefox</title>
-            <p>Firefox behøver egne stavekontroller, som man installerer som
-            utvidelser i Firefox. Og det finnes faktisk to slike utvidelser for
-            samisk: en laget av <a href="http://tinodidriksen.com">Tino
-            Didriksen</a> i samarbeid med Divvun og Apertium, og en annen bygd
-            på <a
+            <p>Firefox behöver egna rättstavningsverktyg, som man installerar
+            som plugins i Firefox. Det finns även två sådana plugins för
+            samiska: en gjord av <a href="http://tinodidriksen.com">Tino
+            Didriksen</a> i samarbete med Divvun och Apertium, och en annan
+            baserat på <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
-            Didriksen-stavekontrollene <em>fungerer bare for
-            Windows</em> (inntil videre), mens MozVoikko-stavekontrollene
-            fungerer på både Windows og OSX. Med MozVoikko kan man <a
-            href="">installere flere
-            språk</a>, men bare på OSX.
+            Didriksen-rättstavningsutvidgningen <em>fungerar bara för
+            Windows</em> (tills vidare), medan MozVoikko-utvidgningen
+            fungerar på både Windows och OSX. Med MozVoikko kan man <a
+            href="otherapps.html">installera flera
+            språk</a>, men bara på OSX.
             </p>
 
-          <warning label="Windows-brukere"><icon
+          <warning label="Windows-användare"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
-             Det er for tilfellet ikke mulig å installere flere språk
-             samtidig.</warning>
+             Det är för nuvarande inte möjligt att installera flera språk
+             på samma gång.</warning>
 
           <section>
-             <title>Didriksen-stavekontroller</title>
+             <title>Didriksen-rättstavning</title>
              <table>
              <tr>
                <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Version: </th>
+               <th>Dokumentation och källkod:</th>
              </tr>
              <tr>
                <td><a
                     href="http://divvun.no/static_files/xpis/Divvun-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Nordsamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
                 </td>
              </tr>
              <tr>
@@ -62,46 +62,46 @@
                     href="http://divvun.no/static_files/xpis/Divvun-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Lulesamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
                 </td>
              </tr>
              <tr>
                <td><a
                     href="http://divvun.no/static_files/xpis/Divvun-sma.xpi"
-               ><icon alt="Last ned sørsamisk" height="44" width="44"
+               ><icon alt="Last ned sydsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Sydsamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
                 </td>
              </tr>
              </table>
           </section>
 
           <section>
-             <title>MozVoikko-stavekontroller</title>
+             <title>MozVoikko-rättstavning</title>
              <table>
              <tr>
                <th>Språk: </th>
-               <th>Versjon: </th>
-               <th>Dokumentasjon og kildekode:</th>
+               <th>Version: </th>
+               <th>Dokumentation och källkod:</th>
              </tr>
              <tr>
                <td><a
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sme.xpi"
                ><icon alt="Last ned nordsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-               />Nordsamisk </a></td>
+               />Nordsamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
                 </td>
              </tr>
              <tr>
@@ -109,75 +109,66 @@
                href="http://divvun.no/static_files/xpis/Mozvoikko2-smj.xpi"
                ><icon alt="Last ned lulesamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Lulesamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
                 </td>
              </tr>
              <tr>
                <td><a
                href="http://divvun.no/static_files/xpis/Mozvoikko2-sma.xpi"
-               ><icon alt="Last ned sørsamisk" height="44" width="44"
+               ><icon alt="Last ned sydsamisk" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Sydsamiska </a></td>
                <td>4.0 </td>
-               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+               <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
                    og
-                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                   <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
                 </td>
              </tr>
              </table>
           </section>
 
-         <p><strong>Installering:</strong> Dobbeltklikk den nedlasta xpi-fila,
-         og følg instruksjonene.</p>
+         <p><strong>Installation:</strong> Dubbeltklicka den nerladdade xpi-filen,
+         och följ instruktionerna.</p>
 
-         <p><strong>Bruk:</strong> Når du skriver i Firefox (eller et annet
-         Mozilla-program), høyre-klikker du på teksten din, og i menyen som
-         dukker opp velger du undermenyen <strong>Languages</strong>. Fra
-         denne menyen velger du det språket som du vil ha stavekontroll for. Du
-         får da røde streker under feilstavede ord.</p>
+         <p><strong>Användning:</strong> När du skriver i Firefox (eller et annat
+         Mozilla-program), höger-klickar du på din text, och i menyn som
+         dyker upp väljer du undermenyn <strong>Languages</strong>. Från
+         denna meny väljer du det språk som du vill ska användas vid
+         rättstavningsgranskningen. Sen dyker det upp röda streck under
+         felstavade ord.</p>
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
-         <warning label="MERK">Som det framgår av skjermbildet over, kjenner ikke
-         Firefox til navnet på mange språk. I slike tilfeller viser Firefox <a
+         <warning label="NB!">Som det framgår av skärmbilden ovan, känner inte
+         Firefox till namnen på många språk. I sådana fall visar Firefox <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
-         639</a>-koden for språket.</warning>
-
-          <section>
-             <title>Windows-brukere <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/MSOffice-icon.png"/></title>
-             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
-             bygge den selv. Nærmere instruksjoner finnes på siden for å
-             <a href="oswide.html">installere stavekontrollen for hele
-             operativsystemet</a>.</p>
-          </section>
+         639</a>-koden för språket.</warning>
 
           <section>
              <title>Firefox på Linux</title>
-             <p>MozVoikko-stavekontrollen er tilgjengelig på Linux, men man må
-             bygge den selv. Nærmere instruksjoner finnes på siden for å
-             <a href="oswide.html">installere stavekontrollen for hele
+             <p>MozVoikko-rättstavningen finns också för Linux, men man måste
+             själv bygga den. Instruktioner finns på sidan för
+             <a href="oswide.html">installation av rättstavning för hela
              operativsystemet</a>.</p>
           </section>
       </section>
 
       <section>
          <title>Chrome</title>
-            <p>Beklager - ingen støtte. Chrome bruker Googles egen
-            stavekontroll, som vi ikke har tilgang til. Og Google har
-            ingen støtte for samisk.</p>
+            <p>Tyvärr - inget stöd. Chrome använder Googles egen
+            rättstavning, som vi inte kan komma åt att använda. Och Google har
+            inget stöd för samiska.</p>
       </section>
 
       <section>
          <title>Safari</title>
-            <p>Safari bruker stavekontrollene som er installert for hele
-            systemet. Installer MacVoikko for ditt språk på siden for <a
-            href="oswide.html">stavekontroller for hele systemet</a>.</p>
+            <p>Safari använder rättstavning installerad för hela systemet.
+            Installer MacVoikko för ditt språk genom att gå till sidan för <a
+            href="oswide.html">rättstavning för hela systemet</a>.</p>
       </section>
 
    </body>
