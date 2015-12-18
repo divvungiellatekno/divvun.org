@@ -3,16 +3,16 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroll for nettlesere</title>
+      <title>Stavningskontroll för webbläsare</title>
    </header>
    <body>
         <section>
             <title>Internet Explorer / Edge</title>
-            <p>Tyvärr, inget stöd - ÄN. Dom här webläsarna använder
+            <p>Tyvärr, inget stöd - ÄN. Dom här webbläsarna använder
             <a href="oswide.html">rättstavning installerad
             för hela systemet</a>, som i princip har varit möjligt sen
             Windows 8. Vi arbetar med det, men det har visat sig vara
-            svårare än förväntad. Vi uppdaterar sidan
+            svårare än förväntat. Vi uppdaterar sidan
             när vi har ny information.</p>
         </section>
 
@@ -22,7 +22,7 @@
             som plugins i Firefox. Det finns även två sådana plugins för
             samiska: en gjord av <a href="http://tinodidriksen.com">Tino
             Didriksen</a> i samarbete med Divvun och Apertium, och en annan
-            baserat på <a
+            baserad på <a
             href="https://github.com/voikko/mozvoikko">Mozvoikko</a>.
             Didriksen-rättstavningsutvidgningen <em>fungerar bara för
             Windows</em> (tills vidare), medan MozVoikko-utvidgningen
@@ -34,7 +34,7 @@
           <warning label="Windows-användare"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
-             Det är för nuvarande inte möjligt att installera flera språk
+             Det är för närvarande inte möjligt att installera flera språk
              på samma gång.</warning>
 
           <section>
@@ -131,10 +131,10 @@
              </table>
           </section>
 
-         <p><strong>Installation:</strong> Dubbeltklicka den nerladdade xpi-filen,
+         <p><strong>Installation:</strong> Dubbelklicka den nerladdade xpi-filen,
          och följ instruktionerna.</p>
 
-         <p><strong>Användning:</strong> När du skriver i Firefox (eller et annat
+         <p><strong>Användning:</strong> När du skriver i Firefox (eller ett annat
          Mozilla-program), höger-klickar du på din text, och i menyn som
          dyker upp väljer du undermenyn <strong>Languages</strong>. Från
          denna meny väljer du det språk som du vill ska användas vid
