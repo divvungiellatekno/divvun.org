@@ -3,56 +3,56 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Korrekturverktøy for andre språk</title>
-      <meta name="description">speller, spell checker, kven, minority languages</meta>
+      <title>Korrekturverktyg för andra språk</title>
+      <meta name="description">rättstavning, korrektur, kvenska, minoritetsspråk</meta>
    </header>
    <body>
 
       <section>
-         <title>Korrekturverktøy for kvensk<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
+         <title>Korrekturverktyg för kvenska<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></title>
 
-         <p>De kvenske korrekturverktøyene er under utvikling, og den språklige
-         kvaliteten vil variere. Bruk verktøyene med et kritisk øye, og
-         oppdater ofte!</p>
+         <p>De kvenska korrekturverktygen är under konstant utveckling, och den
+         språkliga kvalitén varierar. Använd verktygen med et kritiskt öga, och
+         uppdater ofta!</p>
 
          <table>
          <tr>
-           <th>Last ned: </th>
-           <th>Beskrivelse:</th>
+           <th>Ladda ner: </th>
+           <th>Beskrivning:</th>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Utvidelse for LibreOffice (Windows) med kvensk stavekontroll</td>
+           <td>Plugin för LibreOffice (Windows) med kvensk rättstavning</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Utvidelse for LibreOffice (OSX) med kvensk stavekontroll</td>
+           <td>Plugin för LibreOffice (OSX) med kvensk rättstavning</td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Utvidelse for Firefox og andre Mozilla-program med kvensk stavekontroll</td>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows och OSX)</a> </td>
+           <td>Plugin för Firefox och andra Mozilla-program med kvensk rättstavning</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Kvensk stavekontroll for hele OSX</td>
+           <td>Kvensk rättstavning för hela OSX</td>
          </tr>
          </table>
 
-         <p>Det kvenske prosjektet har en egen <a
+         <p>Det kvenska projektet har en egen <a
          href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
-         >prosjektside</a>, og kildekoden for kvensk kan man finne <a
-         href="https://victorio.uit.no/langtech/trunk/langs/fkv">her</a>.
+         >projektsida</a>, och källkoden för kvenska kan man hitta <a
+         href="https://victorio.uit.no/langtech/trunk/langs/fkv">här</a>.
          </p>
 
       </section>
 
       <section>
-         <title>Korrekturverktøy for andre språk</title>
+         <title>Korrekturverktyg för andra språk</title>
 
-         <p>Divvun-gruppen har et eget nettsted med korrekturverktøy for
-         ikke-samiske språk, utviklet i samarbeid med flere organisasjoner.
-         Gå til <a href="http://divvun.org/">divvun.org</a> for mer informasjon
-         og for å laste ned korrekturverktøyene.</p>
+         <p>Divvun-gruppen har en egen nätsite med korrekturverktyg för
+         icke-samiska språk, utviklade i samarbete med olika organisationer.
+         Gå till <a href="http://divvun.org/">divvun.org</a> för mera information
+         och för att ladda ner korrekturverktygen.</p>
 
       </section>
 
