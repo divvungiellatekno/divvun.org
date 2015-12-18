@@ -3,123 +3,123 @@
           "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
    <header>
-      <title>Andre installasjonsalternativ</title>
+      <title>Andra installationsalternativ</title>
    </header>
    <body>
 
       <section>
-         <title>Installer flere språk</title>
+         <title>Installera flera språk</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>När du installerar stavningskontrollerna nämnda på dom andra sidorna här,
+            så får du ett språk som en del av installationen. Det er ännu inte möjligt att
+            installera flera såna stavningskontroller samtidigt för samma program. Om
+            du har användning för flera av våra språk parallellt, så kan du följa
+            instruktionerna nedanför.</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
+            <warning label="OBS!">Det är inte möjligt att göra det här på Windows ännu
+            men det jobbas på en lösning.
             </warning>
 
             <ol>
-              <li>Last ned en eller flere zhfst-filer:
+              <li>Last ned en eller flera zhfst-filer:
                 <table>
                 <tr>
                   <th>Språk: </th>
-                  <th>Versjon: </th>
-                  <th>Dokumentasjon og kildekode:</th>
+                  <th>Version: </th>
+                  <th>Dokumentation och källkod:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamiska</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
+                      och
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
                   </td>
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-                      og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
+                      och
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sydsamiska</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
                       og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Flytta dom nedlastade zhfst-filerna till en av dom här katalogerna:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det er flere mulige steder man kan legge filene, de er
-                  beskrevet <a
+                  Det är flera möjliga ställen man kan lägga filerna, de är
+                  beskrivet <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >her</a>. Let etter overskriften «Search order for dictionary
-                  files». Husk at du alltid må putte <code>.zhfst</code>-filene
-                  i en katalog kalt «3» inni katalogene beskrevet på den siden.
+                  >här</a>. Leta efter överskriften «Search order for dictionary
+                  files». Kom ihåg att du alltid måste sätta <code>.zhfst</code>-filerna
+                  i en katalog som kallas «3» inne i katalogerna som beskrivs på den sidan.
               </li>
-              <li>Logg ut og logg inn igjen</li>
+              <li>Logga ut och logga in igen</li>
             </ol>
 
-            <p>Om du behøver andre språk enn samiske, finnes det flere
+            <p>Om du behöver andra språk än samiska, så finns det flera
             språk på <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Nattliga byggnationer - det sista och bästa</title>
 
-            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
+            <p>Stavningskontrollerna för MS Office på Windows blir byggda varje natt med
+            dom sista språkliga ändringarna som vi har gjort. Om du vil testa sista
+            nyheterna så kan du lasta ned dom.</p>
 
-            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
-            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
-            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</p>
+            <p><strong>OBS!</strong> Dom här versionerna är inte testade ordentligt,
+            och vi garanterar inte att dom fungerar tillfredsställande, eller inte
+            kraschar. Används på eget ansvar! Får du problem, är det bara att
+            avinstallera, och installera sista officiella versionen på nytt.</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamiska</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamiska</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamiska</a></li>
             </ul>
 
-            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
-            å gå til <a
-            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
-            for nattlige bygg</a>.</p>
+            <p>Du kan själv se vilka versioner och språk som är tillgjängliga genom
+            att gå till <a
+            href="http://apertium.projectjj.com/spellers/">nedlastningskatalogen
+            for nattliga byggnationer</a>.</p>
 
       </section>
 
       <section>
-         <title>Bygg din egen stavekontroll</title>
+         <title>Bygg din egen stavningskontroll</title>
 
-         <note>Instruksjonene og kommandoene nedenfor forutsetter grunnleggende
-         kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
-         for Windows er begrenset.</note>
+         <note>Instruktionerna och kommandona nedanför förutsätter grundläggande
+         kännskap till kommandolinjemiljön i moderna operativsystem. Stödet
+         för Windows är begränsat.</note>
 
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <p>Det är möjligt att bygga sin egen stavningskontroll direkt från källfilerna,
+         och som en del av det att anpassa källfilerna till dina behov. Du gör som
+         sålunda:</p>
 
          <ol>
-            <li>Følg instruksjonene <a
-                href="http://divvun.no/doc/infra/GettingStarted.html">her</a>
-                for å sikre at du har alle program og verktøy du behøver.</li>
+            <li>Följ instruktionerna <a
+                href="http://divvun.no/doc/infra/GettingStarted.html">här</a>
+                för att vara säker på att du har alla program och verktyg som du behöver.</li>
 
-            <li>Last ned <a
+            <li>Lasta ned <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+                ">giella core-tar-arkivet</a>, som innehåller resurser nödvändiga
+                för alla språk. Efter nedlastandet, packa ut och gör följande i
+                ett terminalfönster:
                 <source>
 cd gtcore
 ./configure
@@ -128,27 +128,27 @@ sudo make install</source>
             </li>
 
             <li><!-- Last ned kildekode-tarballen for språket ditt: -->
-                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
-                forrige punkt):
+                Checka ut källkoden för ditt språk i en separat katalog (dvs
+                inte inne i <code>gtcore</code>-katalogen som du skaffat dej i
+                förra punkten):
                 <!--ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
                 </ul-->
                 <source>
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
-svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamiska
+svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamiska
+svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sydsamiska</source>
             </li>
-            <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
+            <li>Packa ut och kör följande kommandon i ett terminalfönster:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
 make
 sudo make install</source>
-                <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
-                du nettopp sjekket ut.</p>
+                <p>Byt ut <code>YOURLANGUAGE</code> med namnet på språkkatalogen
+                som du just checkat ut.</p>
 
             </li>
          </ol>
@@ -156,12 +156,12 @@ sudo make install</source>
       </section>
 
         <section>
-            <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>
+            <title>OpenOffice, InDesign och andra program som använder Hunspell-filer</title>
 
-            <warning label="NB!">Hunspell-filene og de andre filene man kan
-            laste ned her er gamle
-            og ikke aktivt holdt ved like. De kan likevel være et alternativ
-            for enkelte program som ikke kan bruke annet.</warning>
+            <warning label="OBS!">Hunspell-filerna och dom andra filerna man kan
+            lasta ned här är gamla
+            och inte blir inte  underhållna aktivt. Dom kan ändå vara ett alternativ
+            för en del program som inte kan använda annat.</warning>
 
             <table>
             <tr><td>
@@ -233,14 +233,14 @@ sudo make install</source>
                 href="http://divvun.no/static_files/smi.zip"><icon
                 alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Hunspell-filer for alle operativsystem</a>
+                Hunspell-filer för alla operativsystem</a>
               </li>
             </ul></td>
             </tr>
             </table>
 
-            <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
-            katalog slik det enkelte program krever det.</p>
+            <p>Packa ut Hunspell-packen, och sätt aff- og dic-filern< i rätt
+            katalog så som ettvart program kräver.</p>
 
         </section>
 
