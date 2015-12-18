@@ -3,8 +3,8 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
    <header>
-      <title>Stavekontroller i hele systemet</title>
-      <meta name="description">Windows, OSX, MacOSX, Linux, stavekontroll</meta>
+      <title>Stavningskontroller i hela systemet</title>
+      <meta name="description">Windows, OSX, MacOSX, Linux, stavningskontroll</meta>
    </header>
    <body>
 
@@ -12,9 +12,9 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi arbeider med å lage en stavekontroll som fungerer i hele Windows,
-         men det har bydd på noen utfordringer. Vi oppdaterer denne siden så
-         snart vi har mer informasjon.</p>
+         <p>Vi jobbar på en stavningskontroll som fungerar i hela Windows,
+         men det har vart en del utmaningar. Vi uppdaterar den här sidan så
+         fort som vi vet mer.</p>
 
       </section>
 
@@ -23,82 +23,82 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavekontrollene for hele OSX er fortsatt av betakvalitet. Den
-         viktigste gjenstående, åpne saken er knyttet til installering av mange
-         språk. Vi har <a
-         href="otherapps.html">en egen side</a> med instruksjoner for hvordan
-         man kan installere flere språk samtidig. Språklig er disse
-         stavekontrollene like gode som Word-stavekontrollen.</p>
+         <p>Stavningskontroller för hela OSX er fortfarande i betakvalitet. Den
+         viktigaste återstående, öppna saken är knytt till installation av fler
+         än ett språk. Vi har <a
+         href="otherapps.html">en egen sida</a> med instruktioner för hur
+         man kan installera flera språk samtidigt. Språkligt er dom här
+         stavningskontrollerna lika bra som Word-stavningskontrollen.</p>
 
          <table>
          <tr>
            <th>Språk: </th>
-           <th>Versjon: </th>
-           <th>Dokumentasjon og kildekode:</th>
+           <th>Version: </th>
+           <th>Dokumentation och källkod:</th>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Lasta ned nordsamiska" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamisk </a></td>
+                    />Nordsamiska </a></td>
            <td>4.0b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
+               och
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
            </td>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Lasta ned lulesamiska" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamisk </a></td>
+                    />Lulesamiska </a></td>
            <td>4.0b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
+               och
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
            </td>
          </tr>
          <tr>
            <td><a
            href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
+           ><icon alt="Lasta ned sydsamiska" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png"
-                    />Sørsamisk </a></td>
+                    />Sydsamiska </a></td>
            <td>4.0b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
+               och
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
            </td>
          </tr>
          </table>
 
-         <p><strong>Installering:</strong> Flytt den nedlasta fila til
-         <code>~/Bibliotek/Services/</code> slik: åpne et nytt Finder-vindu, gå til
-         menyen <strong>Gå > Gå til mappe ...</strong>, skriv inn
-         <code>~/Bibliotek/Services/</code> og trykk enter. Deretter kan du flytte
-         den nedlasta fila inn i denne mappa. Dobbeltklikk på fila etter at du
-         har flytta den, eller logg ut og inn igjen.</p>
+         <p><strong>Installation:</strong> Flytta den nedlastade filen till
+         <code>~/Bibliotek/Services/</code> så här: öppna ett nytt Finder-fönster, gå till
+         menyn <strong>Gå > Gå till mappen ...</strong>, skriv in
+         <code>~/Bibliotek/Services/</code> och tryck enter. Sen kan du flytta
+         den nedlastade filen in i den här mappen. Dubbelklicka på filen efter att du
+         har flyttat den, eller logga ut och in igen.</p>
 
-         <p>For å bekrefte at stavekontrollen fungerer, åpne
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, og sjekk at språket
-         ditt er med på lista i menyen <strong>Stavekontroll</strong>, med
+         <p>För att bekräfta att stavningskontrollen fungerar, öppna
+         <strong>Systeminställningar... > Tangentbord > Text</strong>, och kolla att ditt
+         språk är med på listan i menyn <strong>Stavning</strong>, med
          <strong>«(MacVoikko)»</strong>
-         bak språknavnet. Om ikke, start datamaskina på nytt.</p>
+         bakom språknamnet. Om inte, starta datorn på nytt.</p>
 
-         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
+         <figure alt="OSX Systeminställningar > Tangentbord med MacVoikko"
             src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
 
 
-         <p><strong>Bruk:</strong> I programmer som bruker systemstavekontrollen
-         (de fleste programmer, men ikke MS Word, Firefox og noen andre vanlige
-         programmer) kan du bare åpne stavekontrollvinduet:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Deretter velger du språket ditt i språkmenyen.
-         Om du alltid vil bruke stavekontrollen på dette språket kan du gjøre
-         det til standardspråk for stavekontrollen i <strong>Systemvalg >
-         Tastatur > Tekst</strong>.</p>
+         <p><strong>Användning:</strong> I program som använder systemstavningskontrollen
+         (dom flesta program, men inte MS Word, Firefox och några andra vanliga
+         program) kan du bara öppna stavningskontrollfönstret:
+         <strong>Redigera > Stavningskontroll och grammatik > Visa stavningskontroll och
+         grammatik</strong>. Så väljer du ditt språk i språkmenyn.
+         Om du alltid vill använda stavningskontrollen på det här språket kan du göra
+         det till standardspråk för stavningskontrollen i <strong>Systeminställningar >
+         Tangentbord > Text</strong>.</p>
 
          <figure alt="OSX stavekontrolldialog"
             src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
@@ -109,15 +109,15 @@
       <section>
          <title>Linux</title>
 
-         <p>En stavekontroll som fungerer i hele Linuxer er alt du behøver der,
-         alle program vil benytte denne.
-         Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
-         alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
-         via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
+         <p>En stavningskontroll som fungerar i hela Linux är allt du behöver där,
+         alla program använder den.
+         Tills vidare måste du bygga stavningskontrollen själv, men vi jobbar på att få
+         alla nödvändiga paket, inklusive våra egna språkmodeller, tillgängliga
+         via dom vanliga pakethanterarna.</p>
+         <p>Instruktioner för hur du bygger stavningskontrollerna för Linux finner
          du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">här</a>,
+         källkod för vart språk finner du <a href="otherapps.html">här</a>.</p>
 
       </section>
 
