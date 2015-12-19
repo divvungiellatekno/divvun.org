@@ -11,17 +11,17 @@
          <title>Installera flera språk</title>
 
             <p>När du installerar stavningskontrollerna nämnda på dom andra sidorna här,
-            så får du ett språk som en del av installationen. Det er ännu inte möjligt att
+            så får du endast ett språk som en del av installationen. Det er ännu inte möjligt att
             installera flera såna stavningskontroller samtidigt för samma program. Om
             du har användning för flera av våra språk parallellt, så kan du följa
             instruktionerna nedanför.</p>
 
-            <warning label="OBS!">Det är inte möjligt att göra det här på Windows ännu
-            men det jobbas på en lösning.
+            <warning label="OBS!">Det är inte möjligt att göra det här på Windows
+            ännu men det jobbas på en lösning.
             </warning>
 
             <ol>
-              <li>Last ned en eller flera zhfst-filer:
+              <li>Ladda ner en eller flera zhfst-filer:
                 <table>
                 <tr>
                   <th>Språk: </th>
@@ -48,23 +48,23 @@
                   <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sydsamiska</a> </td>
                   <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
-                      og
+                      och
                       <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytta dom nedlastade zhfst-filerna till en av dom här katalogerna:
+              <li>Flytta dom nerladdade zhfst-filerna till en av dom här katalogerna:
                   <ul>
                     <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>$HOME/.voikko/3</code></li>
                   </ul>
-                  Det är flera möjliga ställen man kan lägga filerna, de är
-                  beskrivet <a
+                  Det är flera andra möjliga ställen man kan lägga filerna, de är
+                  beskrivna <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
                   >här</a>. Leta efter överskriften «Search order for dictionary
                   files». Kom ihåg att du alltid måste sätta <code>.zhfst</code>-filerna
-                  i en katalog som kallas «3» inne i katalogerna som beskrivs på den sidan.
+                  i en katalog kallad «3» inne i katalogerna som beskrivs på den sidan.
               </li>
               <li>Logga ut och logga in igen</li>
             </ol>
@@ -77,12 +77,12 @@
       <section>
          <title>Nattliga byggnationer - det sista och bästa</title>
 
-            <p>Stavningskontrollerna för MS Office på Windows blir byggda varje natt med
-            dom sista språkliga ändringarna som vi har gjort. Om du vil testa sista
-            nyheterna så kan du lasta ned dom.</p>
+            <p>Rättstavningskontrollerna för MS Office på Windows blir byggda
+            varje natt med dom sista språkliga ändringarna som vi har gjort. Om
+            du vil testa de sista nyheterna så kan du ladda ner dom.</p>
 
             <p><strong>OBS!</strong> Dom här versionerna är inte testade ordentligt,
-            och vi garanterar inte att dom fungerar tillfredsställande, eller inte
+            och vi garanterar inte att de fungerar tillfredsställande, eller inte
             kraschar. Används på eget ansvar! Får du problem, är det bara att
             avinstallera, och installera sista officiella versionen på nytt.</p>
 
@@ -94,20 +94,20 @@
 
             <p>Du kan själv se vilka versioner och språk som är tillgjängliga genom
             att gå till <a
-            href="http://apertium.projectjj.com/spellers/">nedlastningskatalogen
+            href="http://apertium.projectjj.com/spellers/">nerladdningskatalogen
             for nattliga byggnationer</a>.</p>
 
       </section>
 
       <section>
-         <title>Bygg din egen stavningskontroll</title>
+         <title>Bygg din egen rättstavningskontroll</title>
 
          <note>Instruktionerna och kommandona nedanför förutsätter grundläggande
-         kännskap till kommandolinjemiljön i moderna operativsystem. Stödet
+         kännskap till kommandoradsmiljön i moderna operativsystem. Stödet
          för Windows är begränsat.</note>
 
          <p>Det är möjligt att bygga sin egen stavningskontroll direkt från källfilerna,
-         och som en del av det att anpassa källfilerna till dina behov. Du gör som
+         och som en del av det anpassa källfilerna till dina egna behov. Du gör
          sålunda:</p>
 
          <ol>
@@ -115,10 +115,10 @@
                 href="http://divvun.no/doc/infra/GettingStarted.html">här</a>
                 för att vara säker på att du har alla program och verktyg som du behöver.</li>
 
-            <li>Lasta ned <a
+            <li>Ladda ner <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
                 ">giella core-tar-arkivet</a>, som innehåller resurser nödvändiga
-                för alla språk. Efter nedlastandet, packa ut och gör följande i
+                för alla språk. Efter nerladdandet, packa ut och gör följande i
                 ett terminalfönster:
                 <source>
 cd gtcore
@@ -159,8 +159,8 @@ sudo make install</source>
             <title>OpenOffice, InDesign och andra program som använder Hunspell-filer</title>
 
             <warning label="OBS!">Hunspell-filerna och dom andra filerna man kan
-            lasta ned här är gamla
-            och inte blir inte  underhållna aktivt. Dom kan ändå vara ett alternativ
+            ladda ner här är gamla
+            och blir inte  underhållna aktivt. Dom kan ändå vara ett alternativ
             för en del program som inte kan använda annat.</warning>
 
             <table>
@@ -239,8 +239,8 @@ sudo make install</source>
             </tr>
             </table>
 
-            <p>Packa ut Hunspell-packen, och sätt aff- og dic-filern< i rätt
-            katalog så som ettvart program kräver.</p>
+            <p>Packa ut Hunspell-paketet, och sätt aff- og dic-filerna i rätt
+            katalog så som varje enskilt program kräver.</p>
 
         </section>
 
