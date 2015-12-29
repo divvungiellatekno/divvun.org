@@ -75,16 +75,16 @@
       </section>
 
       <section>
-         <title>Nattliga byggnationer - det sista och bästa</title>
+         <title>Nattliga byggen - det sista och bästa</title>
 
             <p>Rättstavningskontrollerna för MS Office på Windows blir byggda
             varje natt med dom sista språkliga ändringarna som vi har gjort. Om
             du vil testa de sista nyheterna så kan du ladda ner dom.</p>
 
-            <p><strong>OBS!</strong> Dom här versionerna är inte testade ordentligt,
+            <warning label="OBS!"> Dom här versionerna är inte testade ordentligt,
             och vi garanterar inte att de fungerar tillfredsställande, eller inte
             kraschar. Används på eget ansvar! Får du problem, är det bara att
-            avinstallera, och installera sista officiella versionen på nytt.</p>
+            avinstallera, och installera sista officiella versionen på nytt.</warning>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamiska</a></li>
@@ -95,7 +95,7 @@
             <p>Du kan själv se vilka versioner och språk som är tillgjängliga genom
             att gå till <a
             href="http://apertium.projectjj.com/spellers/">nerladdningskatalogen
-            for nattliga byggnationer</a>.</p>
+            för nattliga byggen</a>.</p>
 
       </section>
 
