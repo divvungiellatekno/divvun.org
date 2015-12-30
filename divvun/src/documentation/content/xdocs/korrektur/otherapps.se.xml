@@ -60,9 +60,16 @@
       <section>
          <title>Ođđa čállindárkkisteaddjit juohke beaivvi</title>
 
-            <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija. Dat sisttisdollet gielalaš rievdademiid mat leat dahkkon dan rádjái. Jus háliidat geahččalit áibbas ođđa čállindárkkisteddjiid, de sáhtát viežžat dáid.</p>
+            <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija.
+            Dat sisttisdollet gielalaš rievdademiid mat leat dahkkon dan rádjái.
+            Jus háliidat geahččalit áibbas ođđa čállindárkkisteddjiid, de sáhtát
+            viežžat dáid.</p>
 
-            <p><strong>FUOM!</strong> Mii eat leat iskan dáid veršuvnnaid dárkilit, ja danne eat sáhte dáhkidit ahte dat doibmet nugo galget dahje eai heaitte doaibmamis. Jus šaddet váttisvuođat daiguin, váldde ođđa veršuvnna eret ja sajáiduhtte ođđasamos almmolaš veršuvnna fas.</p>
+            <warning label="FUOM!"> Mii eat leat iskan dáid veršuvnnaid dárkilit,
+            ja danne eat sáhte dáhkidit ahte dat doibmet nugo galget dahje eai
+            heaitte doaibmamis. Jus šaddet váttisvuođat daiguin, váldde ođđa
+            veršuvnna eret ja sajáiduhtte ođđasamos almmolaš veršuvnna fas.
+            </warning>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Davvisámegiella</a></li>

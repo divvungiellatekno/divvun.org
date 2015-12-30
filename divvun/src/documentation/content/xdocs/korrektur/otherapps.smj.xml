@@ -81,10 +81,11 @@
             ijá maŋemus gielalasj rievddadimij. Jus lágeda dájt
             ådåsmahteduvvam versjåvnåjt máhtá dajt viedtjat.</p>
 
-            <p><strong>NB!</strong> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
+            <warning label="NB!"> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
             ja danen ep máhte duodastit kvalitiehtav.
             Ane dajt várrogisát! Jus gássjelisvuodajt bukti máhtá dajt
-            vasten gádodit, ja almulasj versjåvnåv ådåsit sajájduhttet.</p>
+            vasten gádodit, ja almulasj versjåvnåv ådåsit sajájduhttet.
+            </warning>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
