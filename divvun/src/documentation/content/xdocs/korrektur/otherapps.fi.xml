@@ -79,10 +79,10 @@
               sisältäen viimeisimmät kielelliset muutokset jotka me ollaan tehty.
               Jos haluat kokeilla viimeisimpiä uutisia voit ladata nämä.</p>
 
-            <p><strong>HOX!</strong> Näitä versioita ei ole testattu perusteellisesti
+            <warning label="HUOMIO!"> Näitä versioita ei ole testattu perusteellisesti
             ja me ei voida varmistaa että ne toimivat tyydyttävästi tai eivät kaadu.
             Käytä omalla vastuulla! Jos kohtaat ongelmia, poista versio ja asenna
-            viimeisin virallinen versio uudelleen.</p>
+            viimeisin virallinen versio uudelleen.</warning>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Pohjoissaame</a></li>

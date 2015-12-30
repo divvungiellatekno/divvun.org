@@ -81,10 +81,10 @@
             de siste språklige endringene vi har gjort. Om du vil prøve siste
             nytt kan du laste ned disse.</p>
 
-            <p><strong>NB!</strong> Disse versjonene er ikke testet skikkelig,
+            <warning label="NB!"> Disse versjonene er ikke testet skikkelig,
             og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
             kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</p>
+            avinstallere, og installere siste offisielle versjon på nytt.</warning>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
