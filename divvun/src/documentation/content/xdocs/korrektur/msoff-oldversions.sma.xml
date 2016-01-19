@@ -7,8 +7,30 @@
    </header>
    <body>
       <section>
+         <title>Divvun 3.x</title>
+         <ul>
+          <li><strong>Divvun 3.0:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+           </ul>
+          </li>
+         </ul>
+      </section>
+      <section>
          <title>Divvun 2.x</title>
          <ul>
+          <li><strong>Divvun 2.3:</strong>
+           <ul>
+            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-2.3.1.msi"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            Windows</a></li>
+            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20130207.dmg"><icon
+            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            MacOS X</a></li>
+           </ul>
+          </li>
           <li><strong>Divvun 2.2:</strong>
            <ul>
             <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
