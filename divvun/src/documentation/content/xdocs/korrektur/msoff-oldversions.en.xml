@@ -91,12 +91,38 @@
       <section>
          <title>Version history</title>
          <section>
-            <title>Divvun 2.3</title>
-            <p>Språklige oppdateringer for nordsamisk:</p>
+            <title>Divvun 4.0 (2015-12-17)</title>
+            <p>Linguistic updates:</p>
             <ul>
-               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
-               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
-               <li>mange andre smårettinger</li>
+               <li>a lot of new words and linguistic updates for North Sámi</li>
+               <li>a lot of new words and linguistic updates for Lule Sámi,
+               including new orthographic decisions for loan word adaption</li>
+               <li>a lot of new words and linguistic updates for South Sámi</li>
+            </ul>
+            <p>Technical updates:</p>
+            <ul>
+               <li>support for 64 bit MS Office</li>
+               <li>support for LibreOffice (Windows, OSX, Linux (has to be built from source))</li>
+               <li>new speller engine completely based on open source code</li>
+               <li>beta of MacVoikko for OS-wide speller support in OSX using
+                   the same speller as in MS Office and LibreOffice</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 3.0 (2013-06-13)</title>
+            <p>Technical updates, Windows only:</p>
+            <ul>
+               <li>support for Windows 8</li>
+               <li>support for MS Office 2013</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.3</title>
+            <p>Linguistic updates for North Sámi:</p>
+            <ul>
+               <li>ca 40 000 new words, from corpora and users</li>
+               <li>adjustments according to new orthographic decisions</li>
+               <li>a number of other smaller changes</li>
             </ul>
          </section>
          <section>

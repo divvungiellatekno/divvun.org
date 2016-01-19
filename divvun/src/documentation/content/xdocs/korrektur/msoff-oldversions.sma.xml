@@ -91,6 +91,32 @@
       <section>
          <title>Versjovnehistovrije</title>
          <section>
+            <title>Divvun 4.0 (2015-12-17)</title>
+            <p>Språklige oppdateringer:</p>
+            <ul>
+               <li>mange nye ord og språklige oppdateringer for nordsamisk</li>
+               <li>mange nye ord og språklige oppdateringer for lulesamisk,
+                   inklusive de nyeste rettskrivingsvedtakene for låneordstilpasning</li>
+               <li>mange nye ord og språklige oppdateringer for sørsamisk</li>
+            </ul>
+            <p>Tekniske oppdateringer:</p>
+            <ul>
+               <li>støtte for 64-bits MS Office</li>
+               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
+               <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
+               <li>beta av MacVoikko for hele OSX med samme stavekontroll
+                   som MS Office og LibreOffice</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 3.0 (2013-06-13)</title>
+            <p>Tekniske oppdateringer, bare Windows:</p>
+            <ul>
+               <li>Støtte for Windows 8</li>
+               <li>Støtte for MS Office 2013</li>
+            </ul>
+         </section>
+         <section>
             <title>Divvun 2.3</title>
             <p>Språklige oppdateringer for nordsamisk:</p>
             <ul>

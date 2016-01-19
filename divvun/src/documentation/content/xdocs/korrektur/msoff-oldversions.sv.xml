@@ -91,12 +91,38 @@
       <section>
          <title>Versionshistoria</title>
          <section>
-            <title>Divvun 2.3</title>
-            <p>Språklige oppdateringer for nordsamisk:</p>
+            <title>Divvun 4.0 (2015-12-17)</title>
+            <p>Språkliga uppdateringar:</p>
             <ul>
-               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
-               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
-               <li>mange andre smårettinger</li>
+               <li>många nya ord och språkliga uppdateringar för nordsamiska</li>
+               <li>många nya ord och språkliga uppdateringar för lulesamiska,
+               inklusiva de nyaste normeringsbestämmelserna för lånordsanpassning</li>
+               <li>många nya ord och språkliga uppdateringar för sydsamiska</li>
+            </ul>
+            <p>Tekniska uppdateringar:</p>
+            <ul>
+               <li>stöd för 64-bitars MS Office</li>
+               <li>stöd för LibreOffice (Windows, OSX, Linux (måste byggas manuellt))</li>
+               <li>ny rättstavningsmotor fullständigt baserad på öppen källkod</li>
+               <li>beta av MacVoikko för hela OSX med samma rättstavningskontroll
+                   som MS Office och LibreOffice</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 3.0 (2013-06-13)</title>
+            <p>Tekniska uppdateringar, enbart Windows:</p>
+            <ul>
+               <li>stöd för Windows 8</li>
+               <li>stöd för MS Office 2013</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 2.3</title>
+            <p>Språkliga uppdateringar för nordsamiska:</p>
+            <ul>
+               <li>ca 40 000 nya ord, från korpus och från användare</li>
+               <li>justeringar gällande nya normeringsbestämmelser</li>
+               <li>många andra smärre rättelser</li>
             </ul>
          </section>
          <section>
