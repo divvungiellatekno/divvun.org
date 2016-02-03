@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="smj">
+    <header>
+        <title>Fjern 4.0, installer 3.0.</title>
+    </header>
+    <body>
+        <section>
+            <title>Fjern 4.0</title>
+            <ol>
+                <li>
+                    Åpne Kontrollpanel
+                </li>
+                <li>
+                    Gå til «Avinstaller program». Velg Divvun (Tino Didriksen Consult) og trykk «Avinstaller»
+                </li>
+            </ol>
+            <figure alt="Fjern 4.0" src="images/remove.4.0.png" width="100%" />
+        </section>
+        <section>
+            <title>Installer 3.0</title>
+            <ol>
+                <li>Hent <a href="/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>Kjør installasjonsprogrammet</li>
+                <li>Åpne Filhåndtereren, gå til «Min datamaskin -> Lokal disk -> Programfiler (x86) -> Divvun»</li>
+                <li>Dobbelttrykk create_hkcu</li>
+            </ol>
+            <figure alt="Aktiver 3.0" src="images/windows-fix-3.0.png" width="100%" />
+        </section>
+    </body>
+</document>

@@ -84,6 +84,7 @@
                 <windoc label="Windows XP" href="enable-keyboard-xp.html" />
               </keyboards>
               <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
+              <remove_fix label="Fiks 3.0" href="fix-3.0.html"/>
             </win>
             <mac label="MacOSX" href="mac/">
               <msoff11 label="Divvun og MS Office 2011">

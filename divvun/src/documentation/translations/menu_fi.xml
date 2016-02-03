@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="fi">
+  <message key="Fiks 3.0">Fix 3.0</message>
   <message key="About">About Divvun</message>
   <message key="Davvisámegiella">Koti</message>
   <message key="Álgosiidu">Aloitussivu</message>

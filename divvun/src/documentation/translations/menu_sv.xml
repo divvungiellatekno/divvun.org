@@ -16,6 +16,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="sv">
+  <message key="Fiks 3.0">Fixa 3.0</message>
   <message key="About">Om Divvun</message>
   <message key="Davvisámegiella">Hem</message>
   <message key="Álgosiidu">Startsida</message>

@@ -8,9 +8,9 @@
     </header>
     <body>
         <note label="17.12.2015">Divvun 4.0 la almoduvvam. Doajmmá
-            64-bits MS Officen, ja danna li moatte gielalasj divádusá ja ådå bágo, 
+            64-bits MS Officen, ja danna li moatte gielalasj divádusá ja ådå bágo,
             nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj!.
-            Dieddela sválldasav vuollelin ja viettja dav!     
+            Dieddela sválldasav vuollelin ja viettja dav!
         </note>
         <section>
             <title>Duollatjállemdárkastus Windowsij<icon
@@ -21,9 +21,7 @@
                     alt="MS Office" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Mujte gádodit oabme versjåvnåv! Stuor
-        teknologalasj rievddadusáj diehti ep la ájn automáhtalasj gádodimev
-        sadjihin, danen viertti dav vilá iesj dahkat.</warning>
+                <warning label="Problemer med 4.0?"><a href="userdocs/win/fix-3.0.html">Her er løsningen.</a></warning>
 
                 <table>
                 <tr>
@@ -102,7 +100,7 @@
                 </tr>
                 </table>
 
-                <p>Ij la LibreOfficij Windowsin jur dálla vejulasj sajájduhttet ienep 
+                <p>Ij la LibreOfficij Windowsin jur dálla vejulasj sajájduhttet ienep
                 gielajt sæmmi bále.</p>
 
             </section>
@@ -201,7 +199,7 @@
             <title>Duollatjállemdárkastus Linuxij<icon
                 alt="Windows" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
-            <p>Divvun-nævojt åttjuda Linuxij jus tjuovo 
+            <p>Divvun-nævojt åttjuda Linuxij jus tjuovo
             bagádusájt <a href="oswide.html">dán bielen</a>.</p>
         </section>
     </body>

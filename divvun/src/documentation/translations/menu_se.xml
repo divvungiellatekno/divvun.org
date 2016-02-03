@@ -15,6 +15,7 @@
   limitations under the License.
 -->
 <catalogue xml:lang="se">
+  <message key="Fiks 3.0">Divo 3.0</message>
   <message key="About">Dieđut min birra</message>
   <message key="Davvisámegiella">Ruoktu</message>
   <message key="Álgosiidu">Álgosiidu</message>

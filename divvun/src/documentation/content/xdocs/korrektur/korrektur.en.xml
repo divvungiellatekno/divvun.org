@@ -22,10 +22,7 @@
                     alt="MS Office" height="27" width="27"
                     src="images/MSOffice-icon.png"/></title>
 
-        <warning label="NB!">Remember to uninstall the old version! Due to large
-        changes in the underlying technologhy, we have not yet had time to add
-        automatic uninstallation of the old version. For the time being you have
-        to uninstall manually.</warning>
+                <warning label="Problemer med 4.0?"><a href="userdocs/win/fix-3.0.html">Her er løsningen.</a></warning>
 
                 <table>
                 <tr>
