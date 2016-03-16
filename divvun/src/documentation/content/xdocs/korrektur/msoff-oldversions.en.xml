@@ -9,7 +9,7 @@
       <section>
          <title>Divvun 4.x</title>
          <ul>
-          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+          <li><strong>Divvun 4.0.1 for older versions of LibreOffice (4.0+):</strong>
            <ul>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
@@ -156,14 +156,14 @@
          <title>Version history</title>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
-            <p>Språklige oppdateringer: ingen</p>
-            <p>Tekniske oppdateringer:</p>
+            <p>Linguistic updates: none</p>
+            <p>Technical updates:</p>
             <ul>
-               <li>retta fatal feil i stavekontrollen for MS Office</li>
-               <li>stavekontrollen for LibreOffice oppdatert til Voikko 5.0.1,
-                   krever LO 4.4 eller nyere (oppdaterte stavekontroller
-                   basert på Voikko 4.1 (kompatibel med LO 4.0 og nyere) er
-                   tilgjengelige for nedlasting på denne siden).</li>
+               <li>corrected fatal error in the MS Office speller</li>
+               <li>the speller for LibreOffice was updated to use LO-Voikko 5.0.1,
+                   which requires LO 4.4 or newer (updated spellers
+                   using LO-Voikko 4.1 (compatible with LO 4.0 and newer) is
+                   available for download on this page).</li>
             </ul>
          </section>
          <section>
