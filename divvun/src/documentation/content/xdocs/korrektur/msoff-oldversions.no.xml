@@ -168,14 +168,14 @@
                </li>
                <li>LibreOffice-stavekontrollen:
                  <ul>
-                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1,
-                       som krever LO 4.4 eller nyere (oppdaterte
-                       stavekontroller med LO-Voikko 4.1 (kompatibel
-                       med LO 4.0 og nyere) er tilgjengelig for nedlasting på
-                       denne siden).</li>
+                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1.
+                       Denne versjonen krever LO 4.4 eller nyere.
+                       Oppdaterte stavekontroller med LO-Voikko 4.1
+                       (for LO 4.0 – 4.4) er tilgjengelig for
+                       nedlasting på denne siden).</li>
                    <li>på Windows er det nå mulig å legge til flere
-                       stavekontrollenspråk ved å legge .zhfst-filer i
-                       C:\voikko\3\ (bare LO-Voikko 5-baserte stavekontroller).</li>
+                       stavekontrollspråk ved å legge .zhfst-filer i
+                       C:\voikko\3\ (bare for LO 4.4 og nyere).</li>
                  </ul>
                </li>
             </ul>
@@ -191,8 +191,9 @@
             </ul>
             <p>Tekniske oppdateringer:</p>
             <ul>
-               <li>støtte for 64-bits MS Office</li>
-               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
+               <li>fungerer nå på 64-bits MS Office</li>
+               <li>fungerer nå på LibreOffice i Windows og OSX. Linuxversjonen
+                   må bygges manuelt.</li>
                <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
                <li>beta av MacVoikko for hele OSX med samme stavekontroll
                    som MS Office og LibreOffice</li>
@@ -202,8 +203,8 @@
             <title>Divvun 3.0 (2013-06-13)</title>
             <p>Tekniske oppdateringer, bare Windows:</p>
             <ul>
-               <li>Støtte for Windows 8</li>
-               <li>Støtte for MS Office 2013</li>
+               <li>fungerer nå med Windows 8</li>
+               <li>fungerer nå med Office 2013</li>
             </ul>
          </section>
          <section>
@@ -218,7 +219,7 @@
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>støtte for 64-bits Windows</li>
+               <li>fungerer nå med 64-bits Windows</li>
                <li>støtte for masseinstallering på Windows</li>
                <li>andre smårettinger</li>
             </ul>
@@ -227,7 +228,7 @@
             <title>Divvun 2.1</title>
             <ul>
                <li>språklige oppdateringer for sørsamisk</li>
-               <li>støtte for MS Office 2010 for 32-bit Windows</li>
+               <li>fungerer nå med MS Office 2010 på 32-bit Windows</li>
             </ul>
          </section>
          <section>
@@ -235,14 +236,14 @@
             <ul>
                <li>sørsamisk versjon 1</li>
                <li>nytt installeringsprogram</li>
-               <li>støtte for MS Office 2011 for Mac</li>
+               <li>fungerer nå med MS Office 2011 på OSX</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.1</title>
             <ul>
                <li>språklige oppdateringer for nord- og lulesamisk</li>
-               <li>støtte for MS Office 2008 for Mac</li>
+               <li>fungerer nå med MS Office 2008 på OSX</li>
             </ul>
          </section>
          <section>
