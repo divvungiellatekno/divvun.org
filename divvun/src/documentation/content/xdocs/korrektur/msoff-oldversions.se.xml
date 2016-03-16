@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-          "http://forrest.apache.org/dtd/document-v20.dtd">
+"http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
-    <header>
-         <title>Boares veršuvnnat</title>
-    </header>
-    <body>
+   <header>
+        <title>Boares veršuvnnat</title>
+   </header>
+   <body>
       <section>
          <title>Divvun 4.x</title>
          <ul>
-          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+          <li><strong>Divvun 4.0.1 boarrásat LibreOffice (4.0+) veršuvnnaid várás:</strong>
            <ul>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Davvisámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              Julevsámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Lullisámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Davvisámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Julevsámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Lullisámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -156,93 +156,94 @@
          <title>Veršuvdnahistorjá</title>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
-            <p>Språklige oppdateringer: ingen</p>
-            <p>Tekniske oppdateringer:</p>
+            <p>Eai lean gielalaš ođasmahttimat dán veršuvnnas</p>
+            <p>Teknihkalaš ođasmahttimat:</p>
             <ul>
-               <li>MS Office-stavekontrollen:
+               <li>MS Office-čállindárkkisteaddji:
                  <ul>
-                    <li>retta fatal feil knytta til ord skrevet med store
-                    bokstaver eller med stor førstebokstav, og med hakeparentes
-                    og lignende tegn før og etter.</li>
+                    <li>divui roavva meattáhus mii bissehii MS Office.
+                        Dát meattáhus iđii go čálii sániid mas ledje stuorra
+                        bustávat sáni álggus ja mat ledje roahkeruođuid dahje
+                        sullásaš mearkkaid siskkobealde.</li>
                  </ul>
                </li>
-               <li>LibreOffice-stavekontrollen:
+               <li>LibreOffice-čállindárkkisteaddji:
                  <ul>
-                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1,
-                       som krever LO 4.4 eller nyere (oppdaterte
-                       stavekontroller med LO-Voikko 4.1 (kompatibel
-                       med LO 4.0 og nyere) er tilgjengelig for nedlasting på
-                       denne siden).</li>
-                   <li>på Windows er det nå mulig å legge til flere
-                       stavekontrollenspråk ved å legge .zhfst-filer i
-                       C:\voikko\3\ (bare LO-Voikko 5-baserte stavekontroller).</li>
+                   <li>čállindárkkisteaddji ođasmahtton LO-Voikko 5.0.1-veršuvdnii.
+                       Dat gáibida LO 4.4 dahje ođđasat veršuvnna. Ođasmahtton
+                       čállindárkkisteddjit mas lea LO-Voikko 4.1 (mii heive
+                       LO 4.0 – 4.4 veršuvnnaide) lea viežžan láhkai dán siiddus.</li>
+                   <li>Windowsis lea vejolaš lasihit ođđa giela
+                       čállindárkkisteaddjái jus coggá .zhfst-fiillaid
+                       C:\voikko\3\-máhppii. Dát doaibmá dušše LO 4.4:in
+                       ja ođđasat veršuvnnaiguin.</li>
                  </ul>
                </li>
             </ul>
          </section>
          <section>
             <title>Divvun 4.0 (2015-12-17)</title>
-            <p>Språklige oppdateringer:</p>
+            <p>Gielalaš ođasmahttimat:</p>
             <ul>
-               <li>mange nye ord og språklige oppdateringer for nordsamisk</li>
-               <li>mange nye ord og språklige oppdateringer for lulesamisk,
-                   inklusive de nyeste rettskrivingsvedtakene for låneordstilpasning</li>
-               <li>mange nye ord og språklige oppdateringer for sørsamisk</li>
+               <li>ollu ođđa sánit ja gielalaš ođasmahttimat davvisámegillii</li>
+               <li>ollu ođđa sánit ja gielalaš ođasmahttimat julevsámegillii,
+                   maddái ođđasamos loatnasániid riektačállinnjuolggadusat</li>
+               <li>ollu ođđa sánit ja gielalaš ođasmahttimat lullisámegillii</li>
             </ul>
-            <p>Tekniske oppdateringer:</p>
+            <p>Teknihkalaš ođasmahttimat:</p>
             <ul>
-               <li>støtte for 64-bits MS Office</li>
-               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
-               <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
-               <li>beta av MacVoikko for hele OSX med samme stavekontroll
-                   som MS Office og LibreOffice</li>
+               <li>doaibmá dál 64-bihttát MS Office</li>
+               <li>doaibmá dál LibreOffices, Windows, OSX:s ja Linuxis</li>
+               <li>ođđa čállindárkkistanmohtor, mii geavaha rabas gáldokoda</li>
+               <li>MacVoikko betaveršuvdna olles OSX:i mas lea seamma
+                   čállindárkkistanmohtor go MS Office ja LibreOffice</li>
             </ul>
          </section>
          <section>
             <title>Divvun 3.0 (2013-06-13)</title>
-            <p>Tekniske oppdateringer, bare Windows:</p>
+            <p>Teknihkalaš ođasmahttimat, dušše Windowsii</p>
             <ul>
-               <li>Støtte for Windows 8</li>
-               <li>Støtte for MS Office 2013</li>
+               <li>doaibmá dál Windows 8:s</li>
+               <li>doaibmá dál MS Office 2013:s</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.3</title>
-            <p>Språklige oppdateringer for nordsamisk:</p>
+            <p>Gielalaš ođasmahttimat for nordsamisk:</p>
             <ul>
-               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
-               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
-               <li>mange andre smårettinger</li>
+               <li>sullii 40 000 ođđa sáni, vižžon korpusis ja geavaheddjiin</li>
+               <li>muddemat ođđa riektačállinnjuolggadusaid ektui</li>
+               <li>ollu smávit muddemat</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>doarju 64-bits Windows</li>
-               <li>doarju automáhtalaš sajáiduhttima Windowsii</li>
-               <li>eará smávit divvomat</li>
+               <li>doaibmá dál 64-bihttát Windowsis</li>
+               <li>doaibmá dál moanamášensajáiduhttinvugiin Windowsis</li>
+               <li>eará smávit muddemat</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.1</title>
             <ul>
                <li>lullisámegiela ođasmahttin</li>
-               <li>doarju MS Office 2010 32-bits Windowsis</li>
+               <li>doaibmá dál MS Office 2010:s 32-bihttát Windowsis</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.0 (2010-12-08)</title>
             <ul>
-               <li>vuosttaš lullisámegiela veršuvdna</li>
+               <li>vuosttaš lullisámigiela veršuvdna</li>
                <li>ođđa sajáiduhttinprográmma</li>
-               <li>doarju MS Office 2011 MacOS X:s</li>
+               <li>doaibmá dál MS Office 2011:s OSX:s</li>
             </ul>
          </section>
          <section>
             <title>Divvun 1.1</title>
             <ul>
-               <li>davvi- ja julevsámegielaid ođasmahttimat</li>
-               <li>doarju MS Office 2008 MacOS X:s</li>
+               <li>davvi- ja julevsámegielaid ođasmahttimat </li>
+               <li>doaibmá dál MS Office 2008:s OSX:s</li>
             </ul>
          </section>
          <section>
