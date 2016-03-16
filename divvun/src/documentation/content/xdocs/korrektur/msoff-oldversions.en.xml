@@ -15,42 +15,42 @@
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Northern Sámi — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              Lule Sámi — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Southern Sámi — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Northern Sámi — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Lule Sámi — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Southern Sámi — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -159,11 +159,24 @@
             <p>Linguistic updates: none</p>
             <p>Technical updates:</p>
             <ul>
-               <li>corrected fatal error in the MS Office speller</li>
-               <li>the speller for LibreOffice was updated to use LO-Voikko 5.0.1,
-                   which requires LO 4.4 or newer (updated spellers
-                   using LO-Voikko 4.1 (compatible with LO 4.0 and newer) is
-                   available for download on this page).</li>
+               <li>MS Office speller:
+                 <ul>
+                    <li>corrected fatal error related to words in all caps or
+                    initial upper case when surrounded by square brackets and
+                    similar chars.</li>
+                 </ul>
+               </li>
+               <li>LibreOffice speller:
+                 <ul>
+                   <li>the speller was updated to use LO-Voikko 5.0.1,
+                       which requires LO 4.4 or newer (updated spellers
+                       using LO-Voikko 4.1 (compatible with LO 4.0 and newer) is
+                       available for download on this page).</li>
+                   <li>on Windows, is is now possible to add additional
+                       languages by storing .zhfst files in C:\voikko\3\
+                       (LO-Voikko 5 based spellers only).</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>
