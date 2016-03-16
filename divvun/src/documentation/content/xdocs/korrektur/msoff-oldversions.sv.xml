@@ -15,42 +15,42 @@
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Nordsamiska — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              Lulesamiska — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Sydsamiska — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Nordsamiska — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Lulesamiska — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Ladda ner" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Sydsamiska — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -159,11 +159,25 @@
             <p>Språkliga uppdateringar: inga</p>
             <p>Tekniska uppdateringar:</p>
             <ul>
-               <li>korrigerade fatalt fel i rättstavningen för MS Office</li>
-               <li>rättstavningen för LibreOffice uppdaterad till Voikko 5.0.1,
-                   kräver LO 4.4 eller nyare (uppdaterade rättstavningsverktyg
-                   baserade på Voikko 4.1 (kompatibel med LO 4.0 och nyare) är
-                   tillgängliga för nerladdning på denna sidan).</li>
+               <li>MS Office-spellern:
+                 <ul>
+                    <li>korrigerade fatalt fel koplat till ord skrivna i versaler
+                    eller med stor förbokstav och på samma gång med hakparentes
+                    och liknande tecken före och efter.</li>
+                 </ul>
+               </li>
+               <li>LibreOffice-spellern:
+                 <ul>
+                   <li>rättstavningen uppdaterad till Voikko 5.0.1,
+                       kräver LO 4.4 eller nyare (uppdaterade
+                       rättstavningsverktyg baserade på Voikko 4.1 (kompatibel
+                       med LO 4.0 och nyare) är tillgängliga för nerladdning på
+                       denna sidan).</li>
+                   <li>under Windows är det nu möjligt att lägga till flera
+                       rättstavningsspråk genom att lägga .zhfst-filer i
+                       C:\voikko\3\ (enbart LO-Voikko 5-baserade spellers).</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>
