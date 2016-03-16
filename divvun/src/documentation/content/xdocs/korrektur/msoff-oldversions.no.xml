@@ -178,11 +178,9 @@
             <p>Tekniske oppdateringer:</p>
             <ul>
                <li>støtte for 64-bits MS Office</li>
-               <li>støtte for LibreOffice (Windows, OSX <icon alt="Windows" height="27" width="27"
-              src="images/mac.png"/>, Linux (må bygges manuelt))</li>
+               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
                <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
-               <li>beta av MacVoikko for hele OSX <icon alt="Windows" height="27" width="27"
-              src="images/mac.png"/> med samme stavekontroll
+               <li>beta av MacVoikko for hele OSX med samme stavekontroll
                    som MS Office og LibreOffice</li>
             </ul>
          </section>
@@ -206,10 +204,8 @@
          <section>
             <title>Divvun 2.2</title>
             <ul>
-               <li>støtte for 64-bits Windows <icon alt="Windows" height="27" width="27"
-              src="images/Win10.png"/></li>
-               <li>støtte for masseinstallering på Windows <icon alt="Windows" height="27" width="27"
-              src="images/Win10.png"/></li>
+               <li>støtte for 64-bits Windows</li>
+               <li>støtte for masseinstallering på Windows</li>
                <li>andre smårettinger</li>
             </ul>
          </section>
@@ -217,8 +213,7 @@
             <title>Divvun 2.1</title>
             <ul>
                <li>språklige oppdateringer for sørsamisk</li>
-               <li>støtte for MS Office 2010 for 32-bit Windows <icon alt="Windows" height="27" width="27"
-              src="images/Win10.png"/></li>
+               <li>støtte for MS Office 2010 for 32-bit Windows</li>
             </ul>
          </section>
          <section>
