@@ -172,7 +172,7 @@
                        which requires LO 4.4 or newer (updated spellers
                        using LO-Voikko 4.1 (compatible with LO 4.0 and newer) is
                        available for download on this page).</li>
-                   <li>on Windows, is is now possible to add additional
+                   <li>on Windows, it is now possible to add additional
                        languages by storing .zhfst files in C:\voikko\3\
                        (LO-Voikko 5 based spellers only).</li>
                  </ul>
