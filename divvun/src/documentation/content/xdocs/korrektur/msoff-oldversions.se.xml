@@ -159,11 +159,25 @@
             <p>Språklige oppdateringer: ingen</p>
             <p>Tekniske oppdateringer:</p>
             <ul>
-               <li>retta fatal feil i stavekontrollen for MS Office</li>
-               <li>stavekontrollen for LibreOffice oppdatert til Voikko 5.0.1,
-                   krever LO 4.4 eller nyere (oppdaterte stavekontroller
-                   basert på Voikko 4.1 (kompatibel med LO 4.0 og nyere) er
-                   tilgjengelige for nedlasting på denne siden).</li>
+               <li>MS Office-stavekontrollen:
+                 <ul>
+                    <li>retta fatal feil knytta til ord skrevet med store
+                    bokstaver eller med stor førstebokstav, og med hakeparentes
+                    og lignende tegn før og etter.</li>
+                 </ul>
+               </li>
+               <li>LibreOffice-stavekontrollen:
+                 <ul>
+                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1,
+                       som krever LO 4.4 eller nyere (oppdaterte
+                       stavekontroller med LO-Voikko 4.1 (kompatibel
+                       med LO 4.0 og nyere) er tilgjengelig for nedlasting på
+                       denne siden).</li>
+                   <li>på Windows er det nå mulig å legge til flere
+                       stavekontrollenspråk ved å legge .zhfst-filer i
+                       C:\voikko\3\ (bare LO-Voikko 5-baserte stavekontroller).</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>
