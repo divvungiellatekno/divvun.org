@@ -178,6 +178,13 @@
                        C:\voikko\3\ (bare for LO 4.4 og nyere).</li>
                  </ul>
                </li>
+               <li>MacVoikko-stavekontrollen:
+                 <ul>
+                    <li>byttet komprimeringsprogram tilbake til zip; den forrige
+                    komprimeringen var inkompatibel med libvoikko, og
+                    gjorde at MacVoikko ikke fungerte.</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>

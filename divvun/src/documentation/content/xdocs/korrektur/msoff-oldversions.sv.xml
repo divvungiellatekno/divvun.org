@@ -178,6 +178,13 @@
                        C:\voikko\3\ (enbart LO-Voikko 5-baserade spellers).</li>
                  </ul>
                </li>
+               <li>MacVoikko-spellern:
+                 <ul>
+                    <li>böt komprimeringsprogram tillbaka til zip; den tidigare
+                    komprimeringen var inkompatibel med libvoikko, och
+                    gjorde att MacVoikko inte fungerade.</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>

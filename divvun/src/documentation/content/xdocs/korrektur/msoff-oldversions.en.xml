@@ -177,6 +177,13 @@
                        (LO-Voikko 5 based spellers only).</li>
                  </ul>
                </li>
+               <li>MacVoikko speller:
+                 <ul>
+                    <li>switched compression tool back to zip; the previous
+                    compression tool was incompatible with libvoikko, and
+                    caused MacVoikko to crash.</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>

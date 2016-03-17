@@ -179,6 +179,13 @@
                        ja ođđasat veršuvnnaiguin.</li>
                  </ul>
                </li>
+               <li>MacVoikko-čállindárkkisteaddji:
+                 <ul>
+                    <li>byttet komprimeringsprogram tilbake til zip; den forrige
+                    komprimeringen var inkompatibel med libvoikko, og
+                    gjorde at MacVoikko ikke fungerte.</li>
+                 </ul>
+               </li>
             </ul>
          </section>
          <section>
