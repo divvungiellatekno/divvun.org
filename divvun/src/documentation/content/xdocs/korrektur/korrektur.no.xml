@@ -22,8 +22,10 @@
                     src="images/Win10.png"/></title>
 
                 <warning label="Problemer med 4.0?">Prøv 4.0.1 her nedenfor. Om
-                det fortsatt er problem, så <a href="userdocs/win/fix-3.0.html"
-                >er en temporær løsning her.</a></warning>
+                du fortsatt har problem, så <a
+                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
+                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
+                >her.</a></warning>
 
                 <table>
                 <tr>
@@ -85,7 +87,7 @@
                     href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
                     alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Divvun 3.0 på alle tre språk</a>
+                    Divvun 3.0 for alle tre språk</a>
                   </li>
                 </ul></td>
                 <td>
