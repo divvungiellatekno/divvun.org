@@ -7,21 +7,28 @@
         <meta name="description">sáme duollatjállemdárkastus</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 la almoduvvam. Doajmmá
-            64-bits MS Officen, ja danna li moatte gielalasj divádusá ja ådå bágo,
-            nuorttasámegiellaj, julevsámegiellaj ja oarjjelsámegiellaj!.
-            Dieddela sválldasav vuollelin ja viettja dav!
-        </note>
-        <section>
-            <title>Duollatjállemdárkastus Windowsij<icon
-                alt="Windows" height="27" width="27"
-                src="images/Win10.png"/></title>
-            <section>
-                <title>Divvun-nævo MS Officij<icon
-                    alt="MS Office" height="27" width="27"
-                    src="images/MSOffice-icon.png"/></title>
 
-                <warning label="Problemer med 4.0?"><a href="userdocs/win/fix-3.0.html">Her er løsningen.</a></warning>
+        <note label="18.03.2016">Divvun 4.0.1 er tilgjengelig, med rettelser for
+            en alvorlig feil i MS Office, og med ny versjon for LibreOffice
+            basert på LibreOffice-voikko 5.0. Også MacVoikko er oppdatert med en
+            bugfiks.
+        </note>
+
+        <section>
+            <title>Duollatjállemdárkastus Officij<icon
+                alt="MS Office" height="27" width="27"
+                src="images/MSOffice-icon.png"/></title>
+
+            <section>
+                <title>Windows <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/></title>
+
+                <warning label="Problemer med 4.0?">Prøv 4.0.1 her nedenfor. Om
+                du fortsatt har problemer, så <a
+                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
+                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
+                >her.</a></warning>
 
                 <table>
                 <tr>
@@ -63,58 +70,9 @@
             </section>
 
             <section>
-                <title>Divvun-nævo <a
-                    href="http://libreoffice.org">LibreOfficij<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasámegiella</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsámegiella</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsámegiella</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bagádus</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
-
-                <p>Ij la LibreOfficij Windowsin jur dálla vejulasj sajájduhttet ienep
-                gielajt sæmmi bále.</p>
-
-            </section>
-        </section>
-
-        <section>
-            <title>Duollatjállemdárkastus OSX:j<icon
-                alt="Windows" height="27" width="27"
-                src="images/mac.png"/></title>
-
-                <section>
-                    <title>Divvun-nævo MS Officij<icon
-                        alt="Windows" height="27" width="27"
-                        src="images/MSOffice-icon.png"/></title>
+                <title>OSX<icon
+                    alt="OSX" height="27" width="27"
+                    src="images/mac.png"/></title>
 
         <note label="Notér!">Divvun 4.0 MS Officij OSX:n ij ájn uddni gávnnu <strong>vuordek
             gássjelisvuodaj diehti</strong>. Mij lip dájt
@@ -122,7 +80,7 @@
             ådå versjåvnnå l gárves. Vuollelin máhtá viettjat oabme versjåvnåv.
             NB! Oabme versjåvnnå<strong> ij MS OFFICE 2015:n dåjma!</strong>
             Divvun 4.0 LibreOfficij doajmmá riek buoragijt (gehtja vuollelin),
-            ja sæmmi aj MacVoikko (ienep diedo gávna <a href="oswide.html">dánna</a>).
+            ja sæmmi aj <a href="oswide.html">MacVoikko</a>.
         </note>
 
                 <table>
@@ -149,49 +107,61 @@
                 </tr>
                 </table>
             </section>
+        </section>
 
-            <section>
-                <title>Divvun-nævo <a
-                    href="http://libreoffice.org">LibreOfficij<icon
+        <section>
+            <title>Divvun-nævo <a
+                href="http://libreoffice.org">LibreOfficij<icon
+                alt="Windows" height="27" width="27"
+                src="images/LibreOfficeIcon.png"/></a></title>
+
+            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
                     alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasámegiella</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsámegiella</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsámegiella</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bagádus</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
+                    src="images/Win10.png"/> og OSX <icon
+                        alt="Windows" height="27" width="27"
+                        src="images/mac.png"/>.</p>
 
-                <p>Sidá gus LibreOfficij sajájduhttet ienep gielajt sæmmi bále?  Tjuovo
-                <a href="">dájt bagádusájt</a>.</p>
+            <warning label="NB!">Stavekontrollene nedenfor <strong>krever
+            LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
+            eldre versjon av LibreOffice, kan du laste ned stavekontroller for
+            eldre versjoner <a href="msoff-oldversions.html">på denne
+            siden.</a></warning>
 
-            </section>
+            <table>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Nuorttasámegiella</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Julevsámegiella</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Oarjjelsámegiella</a>
+              </li>
+            </ul></td>
+            <td>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td>
+                <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bagádus</a>
+            </td>
+            <td> <!-- No instruction videos for LibreOffice yet --> </td>
+            </tr>
+            </table>
+
+            <p>Sidá gus LibreOfficij sajájduhttet ienep gielajt sæmmi bále?  Tjuovo
+            <a href="">dájt bagádusájt</a>.</p>
 
         </section>
 
