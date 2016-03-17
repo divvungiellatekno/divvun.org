@@ -69,19 +69,19 @@
                 </table>
             </section>
 
-                <section>
-                    <title>OSX <icon
-                        alt="OSX" height="27" width="27"
-                        src="images/mac.png"/></title>
+            <section>
+                <title>OSX <icon
+                    alt="OSX" height="27" width="27"
+                    src="images/mac.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 for MS Office på OSX <strong>er ikke
-            tilgjengelig ennå</strong> pga uventede problemer. Vi arbeider med å
-            løse dem og vil oppdatere siden så fort den nye versjonen er
-            ferdig. Nedenfor kan du laste ned den gamle versjonen. NB! Den
-            gamle versjonen <strong>fungerer ikke med MS Office 2015!</strong>
-            Divvun 4.0 for LibreOffice fungerer utmerket (se lenger ned), og det
-            samme gjør <a href="oswide.html">MacVoikko</a>.
-        </note>
+            <note label="Notér!">Divvun 4.0 for MS Office på OSX <strong>er ikke
+                tilgjengelig ennå</strong> pga uventede problemer. Vi arbeider med å
+                løse dem og vil oppdatere siden så fort den nye versjonen er
+                ferdig. Nedenfor kan du laste ned den gamle versjonen. NB! Den
+                gamle versjonen <strong>fungerer ikke med MS Office 2015!</strong>
+                Divvun 4.0 for LibreOffice fungerer utmerket (se lenger ned), og det
+                samme gjør <a href="oswide.html">MacVoikko</a>.
+            </note>
 
                 <table>
                 <tr><td>
