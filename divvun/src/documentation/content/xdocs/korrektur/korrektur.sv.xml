@@ -8,22 +8,27 @@
     </header>
     <body>
 
-      <note label="NYHET! 17.12.2015">Divvun 4.0 är tillgänglig, med stöd för
-          64-bitars MS Office, och en lång rad språkliga rättelser och nya ord
-          för nordsamiska, lulesamiska og sydsamiska! Ladda ner genom att
-          klicka på en av länkarna nedanför!
-      </note>
+        <note label="18.03.2016">Divvun 4.0.1 er tillgänglig, med rättelser för
+            ett alvarligt fel i MS Office, och med ny version för LibreOffice
+            baserad på LibreOffice-voikko 5.0. Också MacVoikko är uppdaterad med
+            en bugfix.
+        </note>
 
         <section>
-            <title>Rättstavningsverktyg för Windows<icon
-                alt="Windows" height="27" width="27"
-                src="images/Win10.png"/></title>
-            <section>
-                <title>För MS Office<icon
-                    alt="MS Office" height="27" width="27"
-                    src="images/MSOffice-icon.png"/></title>
+            <title>Rättstavningsverktyg för MS Office<icon
+                alt="MS Office" height="27" width="27"
+                src="images/MSOffice-icon.png"/></title>
 
-                <warning label="Problemer med 4.0?"><a href="userdocs/win/fix-3.0.html">Här är lösningen.</a></warning>
+            <section>
+                <title>Windows <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/></title>
+
+                <warning label="Problem med 4.0?">Prova 4.0.1 här nedanför. Om
+                du fortfarande har problem, så <a
+                href="mailto:feedback@divvun.no">säg till</a>. En temporär
+                lösning är beskriven <a href="userdocs/win/fix-3.0.html"
+                >här.</a></warning>
 
                 <table>
                 <tr>
@@ -64,59 +69,10 @@
                 </table>
             </section>
 
-            <section>
-                <title>Divvun-verktyg för <a
-                    href="http://libreoffice.org">LibreOffice<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamiska</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamiska</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Sydsamiska</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-handledning</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
-
-                <p>Det är för tillfället inte möjligt att installera flera språk
-                på en gång i LibreOffice för Windows.</p>
-
-            </section>
-        </section>
-
         <section>
-            <title>Rättstavningsverktyg för OSX<icon
+            <title>OSX<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
-
-                <section>
-                    <title>För MS Office<icon
-                        alt="Windows" height="27" width="27"
-                        src="images/MSOffice-icon.png"/></title>
 
         <note label="OBS!">Divvun 4.0 för MS Office på OSX <strong>är inte
             tillgänglig ännu</strong> på grund av oväntade problem. Vi arbetar
@@ -124,7 +80,7 @@
             versionen är klar. Här nedan kan du ladda ner den gamla versionen.
             OBS! Den gamla versionen <strong>fungerar inte med MS Office 2015!</strong>
             Divvun 4.0 för LibreOffice fungerar utmärkt (se längre ner), och det
-            samma gör MacVoikko (mera info <a href="oswide.html">här</a>).
+            samma gör <a href="oswide.html">MacVoikko</a>.
         </note>
 
                 <table>
@@ -151,50 +107,62 @@
                 </tr>
                 </table>
             </section>
+        </section>
 
-            <section>
-                <title>Divvun-verktyg för <a
-                    href="http://libreoffice.org">LibreOffice<icon
+        <section>
+            <title>Rättstavningsverktyg för <a
+                href="http://libreoffice.org">LibreOffice<icon
+                alt="Windows" height="27" width="27"
+                src="images/LibreOfficeIcon.png"/></a></title>
+
+            <p>Rättstavningsverktygen för LibreOffice fungerar både på Windows <icon
                     alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamiska</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamiska</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Sydsamiska</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-handledning</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
+                    src="images/Win10.png"/> och OSX <icon
+                        alt="Windows" height="27" width="27"
+                        src="images/mac.png"/>.</p>
 
-                <p>Behöver du installera flera spåk på samma gång för LibreOffice?
-                Gör enligt
-                <a href="">dessa instruktioner</a>.</p>
+            <warning label="NB!">Rättstavningsverktygen nedenför <strong>kräver
+            LibreOffice 4.4 eller nyare</strong>. Om du är beroende av en
+            äldre version av LibreOffice, kan du ladda ner rättstavning för
+            äldre versioner <a href="msoff-oldversions.html">på denna
+            sidan.</a></warning>
 
-            </section>
+            <table>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Nordsamiska</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Lulesamiska</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Sydsamiska</a>
+              </li>
+            </ul></td>
+            <td>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td>
+                <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-handledning</a>
+            </td>
+            <td> <!-- No instruction videos for LibreOffice yet --> </td>
+            </tr>
+            </table>
+
+            <p>Behöver du installera flera spåk på samma gång för LibreOffice?
+            Gör enligt
+            <a href="">dessa instruktioner</a>.</p>
 
         </section>
 
