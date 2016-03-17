@@ -7,22 +7,28 @@
         <meta name="description">Saami speller, Saami spell checker</meta>
     </header>
     <body>
-      <note label="NEWS! 17.12.2015">Divvun 4.0 is available for download, with
-          support for 64-bits MS Office, and a large bunch of liguistic
-          corrections and new words for North Sámi, Julev Sámi and South Sámi!
-          Download by clicking one of the links below!
-      </note>
+
+        <note label="18.03.2016">Divvun 4.0.1 has been released, with bug fixes
+            for a serious error in the MS Office tools, and with a new version
+            for LibreOffice based on LibreOffice-voikko 5.0. Even MacVoikko has
+            been updated with a bug fix.
+        </note>
 
         <section>
-            <title>Proofing tools for Windows<icon
-                alt="Windows" height="27" width="27"
-                src="images/Win10.png"/></title>
-            <section>
-                <title>For MS Office<icon
-                    alt="MS Office" height="27" width="27"
-                    src="images/MSOffice-icon.png"/></title>
+            <title>Proofing tools for MS Office<icon
+                alt="MS Office" height="27" width="27"
+                src="images/MSOffice-icon.png"/></title>
 
-                <warning label="Problems with 4.0?"><a href="userdocs/win/fix-3.0.html">Here is the solution.</a></warning>
+            <section>
+                <title>Windows<icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/></title>
+
+                <warning label="Problems with 4.0?">Try 4.0.1 available below.
+                If you still have problems, please <a
+                href="mailto:feedback@divvun.no">tell us</a>. A temporary
+                solution is described <a href="userdocs/win/fix-3.0.html"
+                >here.</a></warning>
 
                 <table>
                 <tr>
@@ -51,9 +57,9 @@
                   <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
-                         · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013 user guides</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html"  >Office 2010 user guides</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html"  >Office 2007 user guides</a>
+                       · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013 user guides</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010 user guides</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007 user guides</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
@@ -64,67 +70,19 @@
             </section>
 
             <section>
-                <title>Proofing tools for <a
-                    href="http://libreoffice.org">LibreOffice<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    North Sámi</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice user guide</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
+                <title>OSX<icon
+                    alt="OSX" height="27" width="27"
+                    src="images/mac.png"/></title>
 
-                <p>It is at the moment not possible to install multiple
-                languages at the same time in LibreOffice for Windows.</p>
-
-            </section>
-        </section>
-
-        <section>
-            <title>Proofing tools for OSX<icon
-                alt="Windows" height="27" width="27"
-                src="images/mac.png"/></title>
-
-                <section>
-                    <title>For MS Office<icon
-                        alt="Windows" height="27" width="27"
-                        src="images/MSOffice-icon.png"/></title>
-
-        <note label="Note!">Divvun proofing tools 4.0 for MS Office on OSX
-            <strong>is not yet available</strong> due to unexpected problems. We
-            are working on them, and will update this page as soon as the new
-            version is ready. Below you can download the old version. NB! The
-            old version <strong>does NOT work in MS Office 2015!</strong>
-            Divvun 4.0 for LibreOffice works well (see further down), and so
-            does MacVoikko (more info <a href="oswide.html">here</a>).
-        </note>
+                <note label="Note!">Divvun proofing tools 4.0 for MS Office on
+                    OSX <strong>is not yet available</strong> due to unexpected
+                    problems. We are working on them, and will update this page
+                    as soon as the new version is ready. Below you can download
+                    the old version. NB! The old version <strong>does NOT work
+                    in MS Office 2015!</strong> Divvun 4.0 for LibreOffice works
+                    well (see further down), and so does <a
+                    href="oswide.html">MacVoikko</a>.
+                </note>
 
                 <table>
                 <tr><td>
@@ -151,29 +109,44 @@
                 </table>
             </section>
 
+        </section>
+
             <section>
                 <title>Proofing tools for <a
                     href="http://libreoffice.org">LibreOffice<icon
-                    alt="Windows" height="27" width="27"
+                    alt="LibreOffice" height="27" width="27"
                     src="images/LibreOfficeIcon.png"/></a></title>
+
+                <p>The proofing tools for LibreOffice works on both Windows <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/> and OSX <icon
+                        alt="OSX" height="27" width="27"
+                        src="images/mac.png"/>.</p>
+
+                <note label="NB!">The proofing tools below <strong>require
+                LibreOffice 4.4 or newer</strong>. If you are dependent upon an
+                older version of LibreOffice, you can download prooging tools
+                for older versions <a href="msoff-oldversions.html">on this
+                page.</a></note>
+
                 <table>
                 <tr>
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
+                    href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     North Sámi</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
+                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Julev Sámi</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
+                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     South Sámi</a>
@@ -191,15 +164,13 @@
 
                 <p>Do you want to install more than one language in LibreOffice?
                 Follow
-                <a href="">these instructions</a>.</p>
-
-            </section>
+                <a href="otherapps.html">these instructions</a>.</p>
 
         </section>
 
         <section>
             <title>Proofing tools for Linux<icon
-                alt="Windows" height="27" width="27"
+                alt="Linux" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
             <p>The Divvun proofing tools can be installed on Linux by following
             the instructions <a href="oswide.html">on this page</a>.</p>
