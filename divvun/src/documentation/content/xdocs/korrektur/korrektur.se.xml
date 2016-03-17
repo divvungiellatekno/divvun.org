@@ -168,8 +168,11 @@
         </section>
 
         <section>
-            <title>Čállindárkkistanreaiddut Linuxii<icon alt="Windows" height="27" width="27" src="images/Linux_Icon_256.png"/></title>
-            <p>Sáhtát sajáiduhttit Divvun-reaidduid Linuxii jus čuovut <a href="oswide.html">dáid bagadusaid</a>.</p>
+            <title>Čállindárkkistanreaiddut Linuxii<icon
+                alt="Linux" height="27" width="27"
+                src="images/Linux_Icon_256.png"/></title>
+            <p>Sáhtát sajáiduhttit Divvun-reaidduid Linuxii jus čuovut
+            <a href="oswide.html">dáid bagadusaid</a>.</p>
         </section>
     </body>
 </document>

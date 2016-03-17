@@ -36,19 +36,19 @@
                 <ul>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-sme.msi"
-                    ><icon alt="Download" height="44" width="44"
+                    ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Nordsamisk</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-smj.msi"
-                    ><icon alt="Download" height="44" width="44"
+                    ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lulesamisk</a>
                   </li>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/msis/Divvun-sma.msi"
-                    ><icon alt="Download" height="44" width="44"
+                    ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Sørsamisk</a>
                   </li>
@@ -88,7 +88,7 @@
                 <ul>
                   <li class="Download"><a
                     href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
-                    alt="Download" height="44" width="44"
+                    alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Divvun 3.0 for alle tre språk</a>
                   </li>
@@ -133,19 +133,19 @@
             <ul>
               <li class="Download"><a
                 href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
-                ><icon alt="Download" height="44" width="44"
+                ><icon alt="Last ned" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
                 Nordsamisk</a>
               </li>
               <li class="Download"><a
                 href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
-                ><icon alt="Download" height="44" width="44"
+                ><icon alt="Last ned" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
                 Lulesamisk</a>
               </li>
               <li class="Download"><a
                 href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
-                ><icon alt="Download" height="44" width="44"
+                ><icon alt="Last ned" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
                 Sørsamisk</a>
               </li>
@@ -167,7 +167,7 @@
 
         <section>
             <title>Rettskrivningsverktøy for Linux<icon
-                alt="Windows" height="27" width="27"
+                alt="Linux" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
             <p>Divvun-verktøyene kan installeres for LibreOffice på Linux ved å
             følge instruksjonene <a href="oswide.html">på denne siden</a>.</p>
