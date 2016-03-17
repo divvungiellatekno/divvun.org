@@ -112,20 +112,20 @@
         <section>
             <title>Divvun-nævo <a
                 href="http://libreoffice.org">LibreOfficij<icon
-                alt="Windows" height="27" width="27"
+                alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
             <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> og OSX <icon
-                        alt="Windows" height="27" width="27"
+                        alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <warning label="NB!">Stavekontrollene nedenfor <strong>krever
+            <note label="NB!">Stavekontrollene nedenfor <strong>krever
             LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
             eldre versjon av LibreOffice, kan du laste ned stavekontroller for
             eldre versjoner <a href="msoff-oldversions.html">på denne
-            siden.</a></warning>
+            siden.</a></note>
 
             <table>
             <tr>
@@ -161,7 +161,7 @@
             </table>
 
             <p>Sidá gus LibreOfficij sajájduhttet ienep gielajt sæmmi bále?  Tjuovo
-            <a href="">dájt bagádusájt</a>.</p>
+            <a href="otherapps.html">dájt bagádusájt</a>.</p>
 
         </section>
 

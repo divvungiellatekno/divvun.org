@@ -112,20 +112,20 @@
         <section>
             <title>Rättstavningsverktyg för <a
                 href="http://libreoffice.org">LibreOffice<icon
-                alt="Windows" height="27" width="27"
+                alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
             <p>Rättstavningsverktygen för LibreOffice fungerar både på Windows <icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> och OSX <icon
-                        alt="Windows" height="27" width="27"
+                        alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <warning label="NB!">Rättstavningsverktygen nedenför <strong>kräver
+            <note label="NB!">Rättstavningsverktygen nedenför <strong>kräver
             LibreOffice 4.4 eller nyare</strong>. Om du är beroende av en
             äldre version av LibreOffice, kan du ladda ner rättstavning för
             äldre versioner <a href="msoff-oldversions.html">på denna
-            sidan.</a></warning>
+            sidan.</a></note>
 
             <table>
             <tr>
@@ -161,8 +161,7 @@
             </table>
 
             <p>Behöver du installera flera spåk på samma gång för LibreOffice?
-            Gör enligt
-            <a href="">dessa instruktioner</a>.</p>
+            Gör enligt <a href="otherapps.html">dessa instruktioner</a>.</p>
 
         </section>
 
