@@ -7,18 +7,28 @@
         <meta name="description">Saemien staeriedæjja</meta>
     </header>
     <body>
-        <note label="17.12.2015">Divvun 4.0 lea daesnie, mij 64-bits MS Officem dåarjele, jïjnjem libie staeriedamme jïh orre noerhtesaemien, julevsaemien jïh åarjelsaemien  baakoeh programmese lissiehtamme! Veedtjelh amma daestie!
-        </note>
-        <section>
-            <title>Staeriedimmieprogramme Windowsasse<icon
-                alt="Windows" height="27" width="27"
-                src="images/Win10.png"/></title>
-            <section>
-                <title>Divvun-dïrregh MS Officasse<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/MSOffice-icon.png"/></title>
 
-                <warning label="Problemer med 4.0?"><a href="userdocs/win/fix-3.0.html">Her er løsningen.</a></warning>
+        <note label="18.03.2016">Divvun 4.0.1 er tilgjengelig, med rettelser for
+            en alvorlig feil i MS Office, og med ny versjon for LibreOffice
+            basert på LibreOffice-voikko 5.0. Også MacVoikko er oppdatert med en
+            bugfiks.
+        </note>
+
+        <section>
+            <title>Divvun-dïrregh MS Officasse<icon
+                alt="MS Office" height="27" width="27"
+                src="images/MSOffice-icon.png"/></title>
+
+            <section>
+                <title>Windows<icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Win10.png"/></title>
+
+                <warning label="Problemer med 4.0?">Prøv 4.0.1 her nedenfor. Om
+                du fortsatt har problemer, så <a
+                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
+                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
+                >her.</a></warning>
 
                 <table>
                 <tr>
@@ -60,62 +70,19 @@
             </section>
 
             <section>
-                <title>Divvundïrregh <a
-                    href="http://libreoffice.org">LibreOffice<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Noerhtesaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Juelvsaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Åarjelsaemien</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice-bïhkedassh</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
+                <title>Staeriedimmiedïrregh OSX:asse<icon
+                    alt="OSX" height="27" width="27"
+                    src="images/mac.png"/></title>
 
-                <p>Daarpesjh gellie gïelh LibreOfficasse?
-                <a href="">bïhkedassh</a>.</p>
-
-            </section>
-        </section>
-
-        <section>
-            <title>Staeriedimmiedïrregh OSX:asse<icon
-                alt="Windows" height="27" width="27"
-                src="images/mac.png"/></title>
-
-                <section>
-                    <title>Divvundïrregh MS Officasse<icon
-                        alt="Windows" height="27" width="27"
-                        src="images/MSOffice-icon.png"/></title>
-
-        <note label="Notér!">Divvun 4.0 MS Officasse OSX:sne <strong> Eah leah annje riejries </strong> dannasinie dåeroesmoerh leah. Barkeminie libie dejgujmie, jïh sïjhtijibie orrestehtedh dejtie bielide gosse gaervies dejgujmie. Vuelelen maahtah veedtjedh dam båeries versjovnem. NB! Båeries versjovne <strong>ij juhtieh MS Office 2015:ine!</strong>
-            Divvun 4.0 LibreOfficasse hijvenlaakan jåhta (Vuartesjh vuelelen), seammalaakan dejnie MacVoikkojne (Vielie bïevnesh <a href="oswide.html">daesnie</a>).
-        </note>
+                <note label="Notér!">Divvun 4.0 MS Officasse OSX:sne <strong>Eah
+                leah annje riejries </strong> dannasinie dåeroesmoerh leah.
+                Barkeminie libie dejgujmie, jïh sïjhtijibie orrestehtedh dejtie
+                bielide gosse gaervies dejgujmie. Vuelelen maahtah veedtjedh dam
+                båeries versjovnem. NB! Båeries versjovne <strong>ij juhtieh MS
+                Office 2015:ine!</strong> Divvun 4.0 LibreOfficasse hijvenlaakan
+                jåhta (Vuartesjh vuelelen), seammalaakan dejnie <a
+                href="oswide.html">MacVoikkojne</a>.
+                </note>
 
                 <table>
                 <tr><td>
@@ -141,49 +108,61 @@
                 </tr>
                 </table>
             </section>
+        </section>
 
-            <section>
-                <title>Divvundïrregh <a
-                    href="http://libreoffice.org">LibreOffice<icon
+        <section>
+            <title>Divvundïrregh <a
+                href="http://libreoffice.org">LibreOffice<icon
+                alt="LibreOffice" height="27" width="27"
+                src="images/LibreOfficeIcon.png"/></a></title>
+
+            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
                     alt="Windows" height="27" width="27"
-                    src="images/LibreOfficeIcon.png"/></a></title>
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Noerhtesaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Åarjelsaemien</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                    <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOfficebïhkedassh</a>
-                </td>
-                <td> <!-- No instruction videos for LibreOffice yet --> </td>
-                </tr>
-                </table>
+                    src="images/Win10.png"/> og OSX <icon
+                        alt="OSX" height="27" width="27"
+                        src="images/mac.png"/>.</p>
 
-                <p>Sïjhth gellie gïelh seammasïenten LibreOfficasse sijjiedehtedh? Dåeredh dle
-                <a href="">daejtie bïhkedasside</a>.</p>
+            <note label="NB!">Stavekontrollene nedenfor <strong>krever
+            LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
+            eldre versjon av LibreOffice, kan du laste ned stavekontroller for
+            eldre versjoner <a href="msoff-oldversions.html">på denne
+            siden.</a></note>
 
-            </section>
+            <table>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Noerhtesaemien</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Julevsaemien</a>
+              </li>
+              <li class="Download"><a
+                href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Åarjelsaemien</a>
+              </li>
+            </ul></td>
+            <td>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td>
+                <a href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOfficebïhkedassh</a>
+            </td>
+            <td> <!-- No instruction videos for LibreOffice yet --> </td>
+            </tr>
+            </table>
+
+            <p>Sïjhth gellie gïelh seammasïenten LibreOfficasse sijjiedehtedh? Dåeredh dle
+            <a href="otherapps.html">daejtie bïhkedasside</a>.</p>
 
         </section>
 
