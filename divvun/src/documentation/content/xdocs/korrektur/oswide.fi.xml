@@ -109,10 +109,9 @@
          Toistaiseksi oikolukuohjelma tulee kääntää itse, mutta pyrimme saamaan
           kaikki tarvittavat paketit, myös meidän omat kielimallit, tavanomaisten
           paketointirepositorien kautta .</p>
-         <p>Ohjeet läydät
-         <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">täältä</a>,
-         lähdekoodit kielille löydät <a href="otherapps.html">täältä</a>.</p>
+
+         <p>Ohjeet läydät <a
+         href="otherapps.html#Käännä+oma+oikolukuohjelma">täältä</a>.</p>
 
       </section>
 

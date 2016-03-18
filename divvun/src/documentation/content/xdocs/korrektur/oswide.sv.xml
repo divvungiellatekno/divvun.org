@@ -114,10 +114,10 @@
          Tills vidare måste du bygga stavningskontrollen själv, men vi jobbar på att få
          alla nödvändiga paket, inklusive våra egna språkmodeller, tillgängliga
          via dom vanliga pakethanterarna.</p>
-         <p>Instruktioner för hur du bygger stavningskontrollerna för Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">här</a>,
-         källkod för vart språk finner du <a href="otherapps.html">här</a>.</p>
+
+         <p>Instruktioner och källkod för hur du bygger stavningskontrollerna
+         för Linux hittar du <a
+         href="otherapps.html#Bygg+din+egen+rättstavningskontroll">här</a>.</p>
 
       </section>
 

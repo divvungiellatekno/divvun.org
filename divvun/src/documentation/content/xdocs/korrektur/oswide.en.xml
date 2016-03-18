@@ -113,9 +113,7 @@
          available through the usual package repositories.</p>
 
          <p>Instructions for how to build spellers for Linux can be found <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
-         source code for each language can be found <a
-         href="otherapps.html">here</a>.</p>
+         href="otherapps.html#Build+your+own+speller">here</a>.</p>
 
       </section>
 

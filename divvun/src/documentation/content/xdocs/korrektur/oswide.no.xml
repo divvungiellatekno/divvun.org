@@ -114,10 +114,10 @@
          Inntil videre må du bygge stavekontrollen selv, men vi jobber med å få
          alle nødvendige pakker, inklusive våre egne språkmodeller, tilgjengelige
          via de vanlige pakkerepositoriene.</p>
-         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux finner
-         du <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">her</a>,
-         kildekodepakker for hvert språk finner du <a href="otherapps.html">her</a>.</p>
+
+         <p>Instruksjoner for hvordan du bygger stavekontrollene for Linux
+         finner du <a
+         href="otherapps.html#Bygg+din+egen+stavekontroll">her</a>.</p>
 
       </section>
 
