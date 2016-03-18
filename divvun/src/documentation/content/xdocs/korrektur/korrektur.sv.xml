@@ -9,7 +9,7 @@
     <body>
 
         <note label="18.03.2016">Divvun 4.0.1 er tillgänglig, med rättelser för
-            ett alvarligt fel i MS Office, och med ny version för LibreOffice
+            ett allvarligt fel i MS Office, och med ny version för LibreOffice
             baserad på LibreOffice-voikko 5.0. Också MacVoikko är uppdaterad med
             en bugfix.
         </note>
@@ -121,7 +121,7 @@
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <note label="NB!">Rättstavningsverktygen nedenför <strong>kräver
+            <note label="NB!">Rättstavningsverktygen nedanför <strong>kräver
             LibreOffice 4.4 eller nyare</strong>. Om du är beroende av en
             äldre version av LibreOffice, kan du ladda ner rättstavning för
             äldre versioner <a href="msoff-oldversions.html">på denna
