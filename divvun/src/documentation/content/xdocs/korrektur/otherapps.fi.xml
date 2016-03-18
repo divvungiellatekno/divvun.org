@@ -10,13 +10,13 @@
       <section>
          <title>Asenna useita kieliä</title>
 
-            <p>Kun asennat oikolukuohjelmia jotka mainitaan muilla sivuilla täällä,
-            saat kielen osana pakettia. Ei ole vielä mahdollista asentaa useita
-            tälläisia paketteja samanaikaisesti samaan ohjelmaan. Jos on tarvetta
-            useammille kielille samanaikaisesti, seuraa alla olevia ohjeita.</p>
+            <p>For å installere flere språk laster du ned og installerer
+            selve språkfilene (såkalte zhfst-filer).</p>
 
-            <warning label="NB!">Tämä ei ole vielä mahdollista Windowsilla.
-            </warning>
+            <note label="HUOMIO!">Beskrivelsen nedenfor gjelder ikke <a
+            href="korrektur.html#Oikeinkirjoitusohjelma+MS+Officelle">
+            retteprogrammene for MS Office</a> - der installerer man hele
+            programmet for hvert språk.</note>
 
             <ol>
               <li>Lataa yksi tai useampi zhfst-tiedosto:
@@ -27,7 +27,10 @@
                   <th>Dokumentointi ja lähdekoodi:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Pohjoissaame</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Pohjoissaame</a> </td>
                   <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektidokumentaatio</a>
                       ja
@@ -35,7 +38,10 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Luulajansaame</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Luulajansaame</a> </td>
                   <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektidokumentaatio</a>
                       ja
@@ -43,7 +49,10 @@
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Eteläsaame</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Eteläsaame</a> </td>
                   <td>4.0 </td>
                   <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">PProjektidokumentaatio</a>
                       ja
@@ -54,8 +63,11 @@
               </li>
               <li>Siirrä ladatut zhfst-tiedostot yhteen seuraavista kansioista:
                   <ul>
-                    <li>OSX: <code>$HOME/Kirjasto/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   Tiedostot voi siirtää useampaan paikkaan, nämä ovat
                   tarkennettu <a
@@ -73,21 +85,31 @@
       </section>
 
       <section>
-         <title>Yölliset käännökset - viimeisimmät uutiset</title>
+         <title>Yölliset käännökset</title>
 
             <p>Oikolukuohjelmat MS Office For Windowsille rakennetaan joka yö
-              sisältäen viimeisimmät kielelliset muutokset jotka me ollaan tehty.
-              Jos haluat kokeilla viimeisimpiä uutisia voit ladata nämä.</p>
+              sisältäen viimeisimmät kielelliset muutokset jotka me ollaan tehty.</p>
 
             <warning label="HUOMIO!"> Näitä versioita ei ole testattu perusteellisesti
             ja me ei voida varmistaa että ne toimivat tyydyttävästi tai eivät kaadu.
             Käytä omalla vastuulla! Jos kohtaat ongelmia, poista versio ja asenna
             viimeisin virallinen versio uudelleen.</warning>
 
+            <p>Lataa:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Pohjoissaame</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Luulajansaame</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Eteläsaame</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Pohjoissaame</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Luulajansaame</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Eteläsaame</a></li>
             </ul>
 
             <p>Näet saatavilla olevat versiot ja kielet kun menet <a

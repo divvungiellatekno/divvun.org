@@ -10,10 +10,13 @@
       <section>
          <title>Gellie gïelh sijjiedehtedh</title>
 
-            <p> Gosse edtjh staeriedimmiedïrregem sijjiedehtedh guktie daejnie sæjrojne tjaalasovveme, dle barre aktem gïelem åadtjoeh. Ij leah annje nuepie gellie paagkah seammasïenten sijjiedehtedh seamma programmese. Jis daarpesjh gellie gïelh, tjoeverh daejtie bïhkedasside lohkedh.</p>
+            <p>For å installere flere språk laster du ned og installerer
+            selve språkfilene (såkalte zhfst-filer).</p>
 
-            <warning label="NB!">Ij gåaredh dam  Windowisnie darjodh, mijjieh libie dejnie aaj barkedminie.
-            </warning>
+            <note label="OBS!">Beskrivelsen nedenfor gjelder ikke <a
+            href="korrektur.html#Staeriedimmiedïrregh+MS+Officasse">
+            retteprogrammene for MS Office</a> - der installerer man hele
+            programmet for hvert språk.</note>
 
             <ol>
               <li>Veedtjelh aktem jallh jienebh zhfst-fijlh:
@@ -24,35 +27,53 @@
                   <th>Dokumentasjovne jïh gaaltijekovde:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Noerhtesaemien</a> </td>
-                  <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Noerhtesaemien prosjeektedokumentasjovne</a>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Noerhtesaemien</a> </td>
+                  <td>4.0 </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                  >Prosjeektedokumentasjovne</a>
                       jïh
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
+                      >gaaltijekovde</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julevsaemien</a> </td>
-                  <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsaemien prosjeektedokumentasjovne</a>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julevsaemien</a> </td>
+                  <td>4.0 </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                  >Prosjeektedokumentasjovne</a>
                       jïh
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
+                      >gaaltijekovde</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Åarjelsaemien</a> </td>
-                  <td>N/A </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Åarjelsaemien prosjeektedokumentasjovne</a>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Åarjelsaemien</a> </td>
+                  <td>4.0 </td>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                  >Prosjeektedokumentasjovne</a>
                       jïh
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
+                      >gaaltijekovde</a>.
                   </td>
                 </tr>
                 </table>
               </li>
               <li>Sirtieh dejtie zhfst-fijlide aktede katalogese:
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   dejtie fijlide maahtah jeatjah sæjjan aaj bïejedh, dan bïjre maahath daesnie lohkedh <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
@@ -68,21 +89,31 @@
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Nattlige bygg</title>
 
             <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
+            de siste språklige endringene vi har gjort.</p>
 
             <warning label="NB!"> Disse versjonene er ikke testet skikkelig,
             og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
             kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
             avinstallere, og installere siste offisielle versjon på nytt.</warning>
 
+            <p>Veedtjelh:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Noerhtesaemien</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julevsaemien</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Åarjelsaemien</a></li>
             </ul>
 
             <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved

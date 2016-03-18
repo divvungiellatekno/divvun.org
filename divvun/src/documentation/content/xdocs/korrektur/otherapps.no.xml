@@ -10,15 +10,13 @@
       <section>
          <title>Installer flere språk</title>
 
-            <p>Når du installerer stavekontrollene nevnt på de andre sidene her,
-            får du ett språk som del av pakka. Det er ikke mulig enda å
-            installere flere slike pakker samtidig for samme program. Dersom
-            du har bruk for flere av våre språk parallelt, kan du følge
-            instruksjonene nedenfor.</p>
+            <p>For å installere flere språk laster du ned og installerer
+            selve språkfilene (såkalte zhfst-filer).</p>
 
-            <warning label="NB!">Det er ikke mulig å gjøre dette på Windows ennå
-            men det blir arbeidet med å finne en løsning.
-            </warning>
+            <note label="OBS!">Beskrivelsen nedenfor gjelder ikke <a
+            href="korrektur.html#Rettskrivningsverktøy+for+MS+Office">
+            retteprogrammene for MS Office</a> - der installerer man hele
+            programmet for hvert språk.</note>
 
             <ol>
               <li>Last ned en eller flere zhfst-filer:
@@ -29,35 +27,54 @@
                   <th>Dokumentasjon og kildekode:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Nordsamisk</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjektdokumentasjon for nordsamisk</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                  >Prosjektdokumentasjon</a>
                       og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
+                      >kildekode</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lulesamisk</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjektdokumentasjon for lulesamisk</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                  >Prosjektdokumentasjon</a>
                       og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">kildekode</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
+                      >kildekode</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sørsamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Sørsamisk</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjektdokumentasjon for sørsamisk</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                  >Prosjektdokumentasjon</a>
                       og
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">kildekode</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
+                      >kildekode</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger:
+              <li>Flytt de nedlastede zhfst-filene til en av følgende kataloger
+              (lag dem om de mangler):
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   Det er flere mulige steder man kan legge filene, de er
                   beskrevet <a
@@ -75,21 +92,31 @@
       </section>
 
       <section>
-         <title>Nattlige bygg - siste nytt</title>
+         <title>Nattlige bygg</title>
 
             <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort. Om du vil prøve siste
-            nytt kan du laste ned disse.</p>
+            de siste språklige endringene vi har gjort.</p>
 
             <warning label="NB!"> Disse versjonene er ikke testet skikkelig,
             og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
             kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
             avinstallere, og installere siste offisielle versjon på nytt.</warning>
 
+            <p>Last ned:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Nordsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lulesamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Sørsamisk</a></li>
             </ul>
 
             <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
@@ -106,9 +133,9 @@
          kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
          for Windows er begrenset.</note>
 
-         <p>Det er mulig å bygge sin egen stavekontroll rett fra kildefilene,
-         og som en del av det å tilpasse kildefilene til dine behov. Du gjør som
-         følger:</p>
+         <p>Det er mulig å bygge din egen stavekontroll rett fra kildefilene,
+         og som en del av det å tilpasse kildefilene til dine egne behov. Du
+         gjør som følger:</p>
 
          <ol>
             <li>Følg instruksjonene <a

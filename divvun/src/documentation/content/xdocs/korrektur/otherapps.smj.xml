@@ -10,15 +10,13 @@
       <section>
          <title>Sajájduhte måttijt gielajt</title>
 
-            <p>Ga sajájduhtá tjállemdárkastusájt ma li dáj ietjá bielijn nammaduvvam,
-            oadtjo avtav gielav oassen páhkes. Ij la ájn vejulasj sajájduhttet
-            ienep dáhkkir páhkijt sæmmi bále sæmmi prográmmaj. Jus dujna la
-            dárbbo moatte gielajt aktan adnet, máhtá tjuovvot
-            bagádusájt vuollelin..</p>
+            <p>For å installere flere språk laster du ned og installerer
+            selve språkfilene (såkalte zhfst-filer).</p>
 
-            <warning label="NB!">Ij la ájn vejulasj dáv dahkat Windowsin,
-            valla barggap tjuovddusijn.
-            </warning>
+            <note label="OBS!">Beskrivelsen nedenfor gjelder ikke <a
+            href="korrektur.html?locale=smj#Duollatjállemdárkastus+Officij">
+            retteprogrammene for MS Office</a> - der installerer man hele
+            programmet for hvert språk.</note>
 
             <ol>
               <li>Viettja avtav jali ienep zhfst-fijlajt:
@@ -29,35 +27,54 @@
                   <th>Dokumentasjåvnnå ja giellakåvddå:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nuorttasámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Nuorttasámegiella</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasámegiellaj</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                  >Prosjæktadokumentasjåvnnå</a>
                       ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
+                      >gálldokåvddå</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julevsámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julevsámegiella</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsámegiellaj</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                  >Prosjæktadokumentasjåvnnå</a>
                       ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
+                      >gálldokåvddå</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Oarjjelsámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Oarjjelsámegiella</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsámegiellaj</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                  >Prosjæktadokumentasjåvnnå</a>
                       ja
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
+                      >gálldokåvddå</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Sirde viettjaduvvam zhfst-fijlajt tjuovvovasj katalåvgåjda:
+              <li>Sirde viettjaduvvam zhfst-fijlajt tjuovvovasj katalåvgåjda
+              (lag dem om de mangler):
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   Dåhkki aj ietjá sajijda fijlajt biedjat, da li
                   tjielggiduvvam <a
@@ -78,8 +95,7 @@
          <title>Ådå tjállemdárkastusá juohkka biejve</title>
 
             <p>MS Office/Windows-tjállemdárkastusá ådåstuhteduvvi juohkka 
-            ijá maŋemus gielalasj rievddadimij. Jus lágeda dájt
-            ådåsmahteduvvam versjåvnåjt máhtá dajt viedtjat.</p>
+            ijá maŋemus gielalasj rievddadimij.</p>
 
             <warning label="NB!"> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
             ja danen ep máhte duodastit kvalitiehtav.
@@ -87,10 +103,21 @@
             vasten gádodit, ja almulasj versjåvnåv ådåsit sajájduhttet.
             </warning>
 
+            <p>Last ned:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamisk</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Nordsamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lulesamisk</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Sørsamisk</a></li>
             </ul>
 
             <p>Máhtá iesj gávnnat makkir versjåvnå ja giela li sadjihin

@@ -10,15 +10,13 @@
       <section>
          <title>Installera flera språk</title>
 
-            <p>När du installerar stavningskontrollerna nämnda på dom andra sidorna här,
-            så får du endast ett språk som en del av installationen. Det er ännu inte möjligt att
-            installera flera såna stavningskontroller samtidigt för samma program. Om
-            du har användning för flera av våra språk parallellt, så kan du följa
-            instruktionerna nedanför.</p>
+            <p>För att installera flera språk laddar du ner och installerar
+            själva språkfilerna (såkallade zhfst-filer).</p>
 
-            <warning label="OBS!">Det är inte möjligt att göra det här på Windows
-            ännu men det jobbas på en lösning.
-            </warning>
+            <note label="OBS!">Beskrivningen nedan gäller inte <a
+            href="korrektur.html?locale=sv#Rättstavningsverktyg+för+MS+Office">
+            rättstavningsprogrammen för MS Office</a> - där installerar man hela
+            programmet för varje språk.</note>
 
             <ol>
               <li>Ladda ner en eller flera zhfst-filer:
@@ -29,41 +27,60 @@
                   <th>Dokumentation och källkod:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Nordsamiska</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Nordsamiska</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                  >Projektdokumentation</a>
                       och
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
+                      >källkod</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Lulesamisk</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lulesamisk</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                  >Projektdokumentation</a>
                       och
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
+                      >källkod</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Sydsamiska</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Sydsamiska</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                  >Projektdokumentation</a>
                       och
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
+                      >källkod</a>.
                   </td>
                 </tr>
                 </table>
               </li>
-              <li>Flytta dom nerladdade zhfst-filerna till en av dom här katalogerna:
+              <li>Flytta de nerladdade zhfst-filerna till en av de här katalogerna
+              (skapa katalogerna om de inte finns):
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   Det är flera andra möjliga ställen man kan lägga filerna, de är
                   beskrivna <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
                   >här</a>. Leta efter överskriften «Search order for dictionary
-                  files». Kom ihåg att du alltid måste sätta <code>.zhfst</code>-filerna
+                  files». Kom ihåg att du alltid måste lägga <code>.zhfst</code>-filerna
                   i en katalog kallad «3» inne i katalogerna som beskrivs på den sidan.
               </li>
               <li>Logga ut och logga in igen</li>
@@ -75,21 +92,34 @@
       </section>
 
       <section>
-         <title>Nattliga byggen - det sista och bästa</title>
+         <title>Nattliga byggen</title>
 
             <p>Rättstavningskontrollerna för MS Office på Windows blir byggda
-            varje natt med dom sista språkliga ändringarna som vi har gjort. Om
-            du vil testa de sista nyheterna så kan du ladda ner dom.</p>
+            varje natt med dom sista språkliga ändringarna som vi har gjort.</p>
 
             <warning label="OBS!"> Dom här versionerna är inte testade ordentligt,
             och vi garanterar inte att de fungerar tillfredsställande, eller inte
             kraschar. Används på eget ansvar! Får du problem, är det bara att
-            avinstallera, och installera sista officiella versionen på nytt.</warning>
+            avinstallera, och installera sista officiella version på nytt.</warning>
+
+            <p>Ladda ner:</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Nordsamiska</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Lulesamiska</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Sørsamiska</a></li>
+              <li><a
+              href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Nordsamiska</a></li>
+              <li><a
+              href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Lulesamiska</a></li>
+              <li><a
+              href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Sydsamiska</a></li>
             </ul>
 
             <p>Du kan själv se vilka versioner och språk som är tillgjängliga genom
@@ -103,7 +133,7 @@
          <title>Bygg din egen rättstavningskontroll</title>
 
          <note>Instruktionerna och kommandona nedanför förutsätter grundläggande
-         kännskap till kommandoradsmiljön i moderna operativsystem. Stödet
+         kunnskap om kommandoradsmiljön i moderna operativsystem. Stödet
          för Windows är begränsat.</note>
 
          <p>Det är möjligt att bygga sin egen stavningskontroll direkt från källfilerna,
@@ -159,8 +189,8 @@ sudo make install</source>
             <title>OpenOffice, InDesign och andra program som använder Hunspell-filer</title>
 
             <warning label="OBS!">Hunspell-filerna och dom andra filerna man kan
-            ladda ner här är gamla
-            och blir inte  underhållna aktivt. Dom kan ändå vara ett alternativ
+            ladda ner här är gamla och blir inte aktivt underhållna. Dom kan
+            ändå vara ett alternativ
             för en del program som inte kan använda annat.</warning>
 
             <table>

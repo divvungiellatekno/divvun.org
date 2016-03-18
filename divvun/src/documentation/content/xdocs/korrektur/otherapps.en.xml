@@ -10,14 +10,13 @@
       <section>
          <title>Install multiple languages</title>
 
-            <p>When installing the spellers listed under the other tabs, you get
-            one language as part of the installation. For now, you can't install
-            more than one such speller at a time. If you want to install
-            additional languages, follow the instructions below.</p>
+            <p>To install multiple languages you download and install separate
+            language files (so-called zhfst files).</p>
 
-            <warning label="NB!">It is not possible to do this on Windows yet,
-            but we are working on finding a solution.
-            </warning>
+            <note label="NB!">The receipt below does not apply for <a
+            href="korrektur.html#Proofing+tools+for+MS+Office">
+            the MS Office proofing tools</a>. For those, you install the complete
+            proofing tool for every language.</note>
 
             <ol>
               <li>Download one or more zhfst files:
@@ -28,35 +27,53 @@
                   <th>Documentation and source code:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">North Sámi</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  North Sámi</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                      >Project documentation</a>
                       and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sme"
+                      >source code</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julev Sámi</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julev Sámi</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                      >Project documentation</a>
                       and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/smj"
+                      >source code</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">South Sámi</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  South Sámi</a> </td>
                   <td>4.0 </td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                      >Project documentation</a>
                       and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
+                      <a href="https://victorio.uit.no/langtech/trunk/langs/sma"
+                      >source code</a>.
                   </td>
                 </tr>
                 </table>
               </li>
               <li>Move the downloaded zhfst file(s) to one of the directories searched by the spellers:
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
                   More possible locations are listed <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
@@ -69,26 +86,36 @@
             </ol>
 
             <p>If you need other languages than the Sámi ones, you can find more
-            languages on <a href="http://divvun.org/">divvun.org</a>.</p>
+            on <a href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
-         <title>Nightly builds - latest and greatest</title>
+         <title>Nightly builds</title>
 
             <p>The spelling checkers for MS Office on Windows are rebuilt every
-            night with our latest linguistic updates. If you want to try out the
-            very latest code you can download these.</p>
+            night with our latest linguistic updates.</p>
 
             <warning label="NB!">These versions are not properly tested, and we
             do not guarantee that they work properly, nor that they won't crash.
             Use on your own risk! If there are problems, just uninstall, and
             then reinstall the latest official version anew.</warning>
 
+            <p>Download:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">North Sámi</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Julev Sámi</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">South Sámi</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  North Sámi</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julev Sámi</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  South Sámi</a></li>
             </ul>
 
             <p>There are more languages in the nightly build directory. Have a

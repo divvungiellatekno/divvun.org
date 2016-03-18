@@ -10,10 +10,13 @@
       <section>
          <title>Sajáiduhttit eanet gielaid</title>
 
-            <p>Go sajáiduhttát čállindárkkisteddjiid namahuvvon min eará siidduin, de okta giella čuovvu mielde páhkas. Ii leat vel vejolaš sajáiduhttit máŋga diekkár páhka oktanaga seamma prográmmii. Jus háliidat čállindárkkisteddjiid máŋgga gillii oktanaga, čuovo bagadusaid dás vuolábealde.</p>
+            <p>For å installere flere språk laster du ned og installerer
+            selve språkfilene (såkalte zhfst-filer).</p>
 
-            <warning label="FUOM!">Ii leat vejolaš dán bargat Windowsis aiddo dál, muhto mii leat čoavdigoahtán dan.
-            </warning>
+            <note label="FUOM!">Beskrivelsen nedenfor gjelder ikke <a
+            href="korrektur.html#Čállindárkkistanreaiddut+MS+Officii">
+            retteprogrammene for MS Office</a> - der installerer man hele
+            programmet for hvert språk.</note>
 
             <ol>
               <li>Viežžal ovtta dahje eanet zhfst-fiillaid:
@@ -24,36 +27,60 @@
                   <th>Dokumentašuvdna ja gáldokoda:</th>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst">Davvisámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Davvisámegiella</a> </td>
                   <td>4.0</td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html"
+                  >Prošeaktadokumentašuvdna</a> ja <a
+                  href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst">Julevsámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julevsámegiella</a> </td>
                   <td>4.0</td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html"
+                  >Prošeaktadokumentašuvdna</a> ja <a
+                  href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
                   </td>
                 </tr>
                 <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst">Lullisámegiella</a> </td>
+                  <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lullisámegiella</a> </td>
                   <td>4.0</td>
-                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja  <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
+                  <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html"
+                  >Prošeaktadokumentašuvdna</a> ja  <a
+                  href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
                   </td>
                 </tr>
                 </table>
               </li>
               <li>Sirdde vižžon zhfst-fiillaid oktii dáin máhpain:
                   <ul>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
+                    <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
+                    (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
+                    Settings\Application Data\voikko\3</code>)</li>
+                    <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
+                    <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
-                  Lea vejolaš sirdit zhfst-fiillaid <a href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README">eará máhpaide</a> jus dan háliida. Oza bajilčállaga «Search order for dictionary files». Muitte ahte álo fertet bidjat <code>.zhfst</code>-fiillaid máhppii man namma lea «3» daid máhpaid siskkobealde man bagadus namuha.
+                  Lea vejolaš sirdit zhfst-fiillaid <a
+                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
+                  >eará máhpaide</a> jus dan háliida. Oza bajilčállaga «Search
+                  order for dictionary files». Muitte ahte álo fertet bidjat
+                  <code>.zhfst</code>-fiillaid máhppii man namma lea «3» daid
+                  máhpaid siskkobealde man bagadus namuha.
               </li>
               <li>Olggos- ja sisačálit iežat dihtoris</li>
             </ol>
 
-            <p>Jus dárbbašat eará gielaid go sámigielaid, de gávnnat daid <a href="http://divvun.org/">divvun.org</a>:s.</p>
+            <p>Jus dárbbašat eará gielaid go sámigielaid, de gávnnat daid <a
+            href="http://divvun.org/">divvun.org</a>:s.</p>
 
       </section>
 
@@ -61,9 +88,7 @@
          <title>Ođđa čállindárkkisteaddjit juohke beaivvi</title>
 
             <p>MS Office/Windows-čállindárkkisteaddjit huksejuvvojit juohke ija.
-            Dat sisttisdollet gielalaš rievdademiid mat leat dahkkon dan rádjái.
-            Jus háliidat geahččalit áibbas ođđa čállindárkkisteddjiid, de sáhtát
-            viežžat dáid.</p>
+            Dat sisttisdollet gielalaš rievdademiid mat leat dahkkon dan rádjái.</p>
 
             <warning label="FUOM!"> Mii eat leat iskan dáid veršuvnnaid dárkilit,
             ja danne eat sáhte dáhkidit ahte dat doibmet nugo galget dahje eai
@@ -71,10 +96,21 @@
             veršuvnna eret ja sajáiduhtte ođđasamos almmolaš veršuvnna fas.
             </warning>
 
+            <p>Last ned:</p>
+
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi">Davvisámegiella</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi">Julevsámegiella</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi">Lullisámegiella</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Davvisámegiella</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Julevsámegiella</a></li>
+              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+                  alt="Download" height="44" width="44"
+                  src="images/Crystal_Clear_app_download_manager.png" />
+                  Lullisámegiella</a></li>
             </ul>
 
             <p>Sáhtát ieš oaidnit guđet veršuvnnat ja gielat leat olámuttus <a
