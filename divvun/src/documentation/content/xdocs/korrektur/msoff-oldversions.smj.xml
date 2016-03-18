@@ -9,48 +9,48 @@
       <section>
          <title>Divvun 4.x</title>
          <ul>
-          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+          <li><strong>Divvun 4.0.1 LibreOffice (4.0+) oames versjåvnåjda:</strong>
            <ul>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Nuorttasámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              Julevsámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Oarjjelsámegiella — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Nuorttasámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Julevsámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Oarjjelsámegiella — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -156,61 +156,54 @@
          <title>Versjåvnnåhiståvrrå</title>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
-            <p>Språklige oppdateringer: ingen</p>
-            <p>Tekniske oppdateringer:</p>
+            <p>Gielalasj ådåsmahttema: Ij nágin</p>
+            <p>Teknihkalasj ådåsmahttema:</p>
             <ul>
-               <li>MS Office-stavekontrollen:
+               <li>MS Office-tjállemdárkastusán:
                  <ul>
-                    <li>retta fatal feil knytta til ord skrevet med store
-                    bokstaver eller med stor førstebokstav, og med hakeparentes
-                    og lignende tegn før og etter.</li>
+                    <li>divvom stuor vigev mij li tjanáduvvam bágojda stuor bokstávajn jali stuor åvddåbokstávajn, ja majn lidjin parantiessa jali sæmmilágásj mærkka åvddåla ja maŋŋela.</li>
                  </ul>
                </li>
-               <li>LibreOffice-stavekontrollen:
+               <li>LibreOffice-tjállemdárkastusán:
                  <ul>
-                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1,
-                       som krever LO 4.4 eller nyere (oppdaterte
-                       stavekontroller med LO-Voikko 4.1 (kompatibel
-                       med LO 4.0 og nyere) er tilgjengelig for nedlasting på
-                       denne siden).</li>
-                   <li>på Windows er det nå mulig å legge til flere
-                       stavekontrollenspråk ved å legge .zhfst-filer i
-                       C:\voikko\3\ (bare LO-Voikko 5-baserte stavekontroller).</li>
+                   <li>tjállemdárkastus ådåsmahteduvvam LO-Voikko 5.0.1-versjåvnnåj,
+                       mij gájbbet LO 4.4 jali ådåsap versjåvnåv (ådåsmahteduvvam
+                       tjállemdárkastusá LO-Voikko 4.1 (doajmmá
+                       LO 4.0:jn ja ådåsap versjåvnåjn), dåhkki viedtjat dán bieles.</li>
+                   <li>Windowsin le dálla vejulasj lasedit ienep gielajt tjállemdárkastussaj. Tjoahkki .zhfst-fijlajt 
+                       C:\voikko\3\-máhppaj (dåssju tjállemdárkastusá majn li LO-Voikko 5 vuodon).</li>
                  </ul>
                </li>
-               <li>MacVoikko-stavekontrollen:
+               <li>MacVoikko-tjállemdárkastusá:
                  <ul>
-                    <li>byttet komprimeringsprogram tilbake til zip; den forrige
-                    komprimeringen var inkompatibel med libvoikko, og
-                    gjorde at MacVoikko ikke fungerte.</li>
+                    <li>målssum komprimierimprográmmav ruoptus zipaj; åvdep komprimierim ittjij dåjma libvoikkujn, ja danen ittjij MacVoikko dåjma.</li>
                  </ul>
                </li>
             </ul>
          </section>
          <section>
             <title>Divvun 4.0 (2015-12-17)</title>
-            <p>Språklige oppdateringer:</p>
+            <p>Gielealasj ådåsmahttema:</p>
             <ul>
-               <li>mange nye ord og språklige oppdateringer for nordsamisk</li>
-               <li>mange nye ord og språklige oppdateringer for lulesamisk,
-                   inklusive de nyeste rettskrivingsvedtakene for låneordstilpasning</li>
-               <li>mange nye ord og språklige oppdateringer for sørsamisk</li>
+               <li>moadda ådå bágo ja gielalasj ådåsmahttema nuorttasámegiellaj</li>
+               <li>moadda ådå bágo ja gielalasj ådåsmahttema julevsámegiellaj,
+                   aj ådåsamos duollatjállemmærrádusájda luojkasbágoj gáktuj</li>
+               <li>moadda ådå bágo ja gielalasj ådåsmahttema oarjjelsámegiellaj</li>
             </ul>
-            <p>Tekniske oppdateringer:</p>
+            <p>Teknihkalasj ådåsmahttema:</p>
             <ul>
-               <li>støtte for 64-bits MS Office</li>
-               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
-               <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
-               <li>beta av MacVoikko for hele OSX med samme stavekontroll
-                   som MS Office og LibreOffice</li>
+               <li>doajmmá 64-bits MS Officen</li>
+               <li>doajmmá LibreOfficen (Windows, OSX, Linux (viertti manualalattjat tsieggit))</li>
+               <li>ådå tjállemdárkastusmotåvrrå majn le ållu rabás gálldokåvddå vuodon</li>
+               <li>MacVoikko beta-versjåvnnå ålles OSX:j sæmmi tjállemdárkastusájn dagu MS Officej og LibreOfficej</li>
             </ul>
          </section>
          <section>
             <title>Divvun 3.0 (2013-06-13)</title>
-            <p>Tekniske oppdateringer, bare Windows:</p>
+            <p>Teknihkalasj ådåsmahttema, dåssju Windows:</p>
             <ul>
-               <li>Støtte for Windows 8</li>
-               <li>Støtte for MS Office 2013</li>
+               <li>Doajmmá Windows 8:n</li>
+               <li>Doajmmá MS Office 2013:n</li>
             </ul>
          </section>
          <section>
