@@ -12,7 +12,7 @@
 
             <p>Sajájduhtátjit måttijt gielajt viertti viedtjat ja sajájduhttet jur giellafijlajt (gåhtjoduvvam zhfst-fijla).</p>
 
-            <note label="OBS!">Dát tjielggidus ij gåbtjå <a
+            <note label="HUOM!">Dát tjielggidus ij gåbtjå <a
             href="korrektur.html?locale=smj#Duollatjállemdárkastus+Officij">
             tjállemdárkastusájt MS Officej</a> - danna sajájduhtá ålles 
             prográmmav iesjguhtik giellaj.</note>
@@ -96,27 +96,27 @@
             <p>MS Office/Windows-tjállemdárkastusá ådåstuhteduvvi juohkka 
             ijá maŋemus gielalasj rievddadimij.</p>
 
-            <warning label="NB!"> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
+            <warning label="Huomaha!"> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
             ja danen ep máhte duodastit kvalitiehtav.
             Ane dajt várrogisát! Jus gássjelisvuodajt bukti máhtá dajt
             vasten gádodit, ja almulasj versjåvnåv ådåsit sajájduhttet.
             </warning>
 
-            <p>Last ned:</p>
+            <p>Viettja:</p>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
-                  Nordsamisk</a></li>
+                  Nuorttasámegiella</a></li>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
-                  Lulesamisk</a></li>
+                  Julevsámegiella</a></li>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
-                  Sørsamisk</a></li>
+                  Oarjjelsámegiella</a></li>
             </ul>
 
             <p>Máhtá iesj gávnnat makkir versjåvnå ja giela li sadjihin

@@ -21,7 +21,7 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/></title>
 
-                <warning label="Problemer med 4.0?">Gæhttjala 4.0.1 dánna vuollelin. Jus
+                <warning label="Gássjelisvuoda 4.0-versjåvnåjn?">Gæhttjala 4.0.1 dánna vuollelin. Jus
                 dujna vilá li gássjelisvuoda, diedesta <a
                 href="mailto:feedback@divvun.no"></a>. Båddåsasj
                 tjoavdos le <a href="userdocs/win/fix-3.0.html"
@@ -71,7 +71,7 @@
                     alt="OSX" height="27" width="27"
                     src="images/mac.png"/></title>
 
-        <note label="Notér!">Divvun 4.0 MS Officij OSX:n ij ájn uddni gávnnu <strong>vuordek
+        <note label="Huomaha!">Divvun 4.0 MS Officij OSX:n ij ájn uddni gávnnu <strong>vuordek
             gássjelisvuodaj diehti</strong>. Mij lip dájt
             gássjelisvuodajt tjoavddemin ja ådåstuhttep dáv bielev nav ruvva gå
             ådå versjåvnnå l gárves. Vuollelin máhtá viettjat oabme versjåvnåv.
@@ -100,7 +100,7 @@
                 <td>
                   <a href="userdocs/videos/mac-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Bagádusvideoa</a></td>
+                    src="images/Movie-icon.png"/>Bagádusvideo</a></td>
                 </tr>
                 </table>
             </section>
@@ -108,21 +108,21 @@
 
         <section>
             <title>Divvun-nævo <a
-                href="http://libreoffice.org">LibreOfficij<icon
+                href="http://libreoffice.org">LibreOfficej<icon
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
-            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
+            <p>Tjállemdárkastusá LibreOfficej doajmmi sihke Windowsin <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> og OSX <icon
+                    src="images/Win10.png"/> ja OSX:n <icon
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <note label="NB!">Stavekontrollene nedenfor <strong>krever
-            LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
-            eldre versjon av LibreOffice, kan du laste ned stavekontroller for
-            eldre versjoner <a href="msoff-oldversions.html">på denne
-            siden.</a></note>
+            <note label="NB!">Tjállemdárkastusá vuollelin <strong>gájbbedij
+            LibreOffice 4.4 jali ådåsap versjåvnåv</strong>. Jus duodaj dárbaha oames 
+            LibreOffice-versjåvnåv, gávna tjállemdárkastusájt
+            oabme versjåvnåjda <a href="msoff-oldversions.html">dán
+            bielen.</a></note>
 
             <table>
             <tr>

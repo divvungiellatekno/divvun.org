@@ -31,7 +31,7 @@
           <section>
              <title>Didriksen-tjállemdárkastusá</title>
 
-          <warning label="Windows-brukere"><icon
+          <warning label="Windows-addne"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
              Ij la jur dálla vejulasj sajájduhttet ienep gielajt sæmmi bále.</warning>
@@ -139,7 +139,7 @@
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Language menu in Firefox"/>
 
-         <warning label="MERK">Dagu vuojnná sjærmmagåvån badjelin, de ij
+         <warning label="HUOM.">Dagu vuojnná sjærmmagåvån badjelin, de ij
          Firefox dåbdå måttij gielaj namájt. De farra Firefox vuoset giela <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
          639</a>-kåvdåv.</warning>
