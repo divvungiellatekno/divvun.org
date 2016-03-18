@@ -15,42 +15,42 @@
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Pohjoissaame — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              Luulajansaame — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              Eteläsaame — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
             <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Pohjoissaame — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Luulajansaame — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Eteläsaame — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -198,7 +198,7 @@
             <p>Päivityksiä teknologiaan:</p>
             <ul>
                <li>64-bittisen MS Officen tuki</li>
-               <li>LibreOffice (Windows, OSX, Linux (må bygges manuelt)) tuki</li>
+               <li>LibreOffice-tuki (Windows, OSX, Linux (ohjelma käännetään käsin))</li>
                <li>avoimeen lähdekoodiin perustuva oikolukuohjelma</li>
                <li>betaversio MacVoikosta koko OSX:lle joka käyttää samaa oikolukua
                kuin MS Office ja LibreOffice</li>

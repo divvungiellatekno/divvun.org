@@ -9,7 +9,7 @@
     <body>
 
         <note label="18.03.2016">Divvun 4.0.1 on julkaistu, sisältää korjauksia
-          vakavaan virheeseen MS OFfice työkaluissa ja uuden LibreOffice-version
+          vakavaan virheeseen MS Office työkaluissa ja uuden LibreOffice-version
           joka perustuu LibreOffice-voikko 5.0. Myös MacVoikko on päivitetty
           virhekorjauksella.
         </note>
@@ -74,7 +74,7 @@
                     alt="OSX" height="27" width="27"
                     src="images/mac.png"/></title>
 
-            <note label="Notér!">Divvun 4.0 MS Officelle OSX:llä <strong>ei ole
+            <note label="HUOMIO!">Divvun 4.0 MS Officelle OSX:llä <strong>ei ole
                 vielä saatavilla</strong> odottamattomien ongelmien takia.
                 Työskentelemme jotta saamme päivitettyä ne sivuille niin pian
                 kuin mahdollista. Alta voit ladata vanhan version. HOX! Vanha
@@ -121,7 +121,7 @@
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <note label="NB!">Alla olevat oikolukijat <strong>tarvitsevat
+            <note label="HUOMIO!">Alla olevat oikolukijat <strong>tarvitsevat
             LibreOffice 4.4 tai uudemman</strong>. Jos tarvitset vanhemman version
             LibreOfficesta, voit ladata oikolukutyökalut vanhemmille versioille
             <a href="msoff-oldversions.html">tältä sivulta.</a></note>

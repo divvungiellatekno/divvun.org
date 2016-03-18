@@ -171,7 +171,7 @@ sudo make install</source>
         <section>
             <title>OpenOffice, InDesign ja muut ohjelmat jotka käyttävät Hunspell-tiedostoja</title>
 
-            <warning label="NB!">Hunspell-tiedostot ja muut tiedostot jotka voi ladata
+            <warning label="HUOMIO!">Hunspell-tiedostot ja muut tiedostot jotka voi ladata
             täältä ovat vanhoja, eivätkä ole päivitetty. Ne ovat kuitenkin vaihtoehto jos ei löydy muuta.</warning>
 
             <table>
