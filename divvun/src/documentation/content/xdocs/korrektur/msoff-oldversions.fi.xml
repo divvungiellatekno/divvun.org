@@ -9,46 +9,46 @@
       <section>
          <title>Divvun 4.x</title>
          <ul>
-          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+          <li><strong>Divvun 4.0.1 vanhemmille LibreOffice versioille (4.0+):</strong>
            <ul>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a>
             </li>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
-            <li class="Download"><a
+            <li class="Lataa"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
-              ><icon alt="Download" height="32" width="32"
+              ><icon alt="Lataa" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
               Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a>
@@ -62,8 +62,8 @@
          <ul>
           <li><strong>Divvun 3.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
            </ul>
@@ -75,48 +75,48 @@
          <ul>
           <li><strong>Divvun 2.3:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-2.3.1.msi"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/msofficedivvuntools-2.3.1.msi"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20130207.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20130207.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.2:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20111122.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20111122.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.1:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20110317.exe"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20110317.exe"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20101207.exe"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20101207.exe"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20101207.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20101207.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
@@ -128,24 +128,24 @@
          <ul>
           <li><strong>Divvun 1.1:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 1.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a> </li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
-            alt="Download" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Lataa"><a href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
+            alt="Lataa" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a> </li>
            </ul>
@@ -156,70 +156,69 @@
          <title>Versiohistoria</title>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
-            <p>Språklige oppdateringer: ingen</p>
-            <p>Tekniske oppdateringer:</p>
+            <p>Päivityksiä kieleen: ei mitään</p>
+            <p>Päivityksiä teknologiaan:</p>
             <ul>
-               <li>MS Office-stavekontrollen:
+               <li>MS Office-oikoluku:
                  <ul>
-                    <li>retta fatal feil knytta til ord skrevet med store
-                    bokstaver eller med stor førstebokstav, og med hakeparentes
-                    og lignende tegn før og etter.</li>
+                    <li>korjattu fataali virhe liittyen sanoihin kaikissa
+                      kapseissa tai isoilla alkukirjaimilla kun saarrettu
+                      hakasulkein ja samanlaisin merkein.</li>
                  </ul>
                </li>
-               <li>LibreOffice-stavekontrollen:
+               <li>LibreOffice-oikoluku:
                  <ul>
-                   <li>stavekontrollen oppdatert til LO-Voikko 5.0.1,
-                       som krever LO 4.4 eller nyere (oppdaterte
-                       stavekontroller med LO-Voikko 4.1 (kompatibel
-                       med LO 4.0 og nyere) er tilgjengelig for nedlasting på
-                       denne siden).</li>
-                   <li>på Windows er det nå mulig å legge til flere
-                       stavekontrollenspråk ved å legge .zhfst-filer i
-                       C:\voikko\3\ (bare LO-Voikko 5-baserte stavekontroller).</li>
+                   <li>oikoluku päivitettiin käyttämään LO-voikko 5.0.1,
+                     joka tarvitsee LO 4.4 tai uudemman (päivitetyt oikolukijat
+                     jotka käyttävät LO-Voikko 4.1 (yhteensopivat LO 4.0 kanssa ja
+                     uudempien) ovat ladattavissa tällä sivulla).</li>
+                   <li>windowsissa on nyt mahdollista lisätä kieliä tallentamalla
+                     .xhfst-tiedostoja C:\voikko\3\ -hakemistoon (LO-Voikko 5
+                     perustuvat oikolukijat vain).</li>
                  </ul>
                </li>
-               <li>MacVoikko-stavekontrollen:
+               <li>MacVoikko-oikoluku:
                  <ul>
-                    <li>byttet komprimeringsprogram tilbake til zip; den forrige
-                    komprimeringen var inkompatibel med libvoikko, og
-                    gjorde at MacVoikko ikke fungerte.</li>
+                    <li>pakkaustyökalu vaihdettu takaisin zip; edellinen
+                      pakkaustyökalu ei ollut yhteensopiva libvoikon kansssa ja
+                      aiheutti MacVoikon kaatumisen.</li>
                  </ul>
                </li>
             </ul>
          </section>
          <section>
             <title>Divvun 4.0 (2015-12-17)</title>
-            <p>Språklige oppdateringer:</p>
+            <p>Päivityksiä kielee:</p>
             <ul>
-               <li>mange nye ord og språklige oppdateringer for nordsamisk</li>
-               <li>mange nye ord og språklige oppdateringer for lulesamisk,
-                   inklusive de nyeste rettskrivingsvedtakene for låneordstilpasning</li>
-               <li>mange nye ord og språklige oppdateringer for sørsamisk</li>
+               <li>paljon uusia sanoja ja päivityksiä kieleen pohjoissaamelle</li>
+               <li>paljon uusia sanoja ja päivityksiä kieleen luulajansaamelle,
+                   sisältää uudet ortograafiset päätökset lainasanojen mukauttamiseen</li>
+               <li>paljon uusia sanoja ja päivityksiä kieleen eteläsaamelle</li>
             </ul>
-            <p>Tekniske oppdateringer:</p>
+            <p>Päivityksiä teknologiaan:</p>
             <ul>
-               <li>støtte for 64-bits MS Office</li>
-               <li>støtte for LibreOffice (Windows, OSX, Linux (må bygges manuelt))</li>
-               <li>ny stavekontrollmotor helt basert på åpen kildekode</li>
-               <li>beta av MacVoikko for hele OSX med samme stavekontroll
-                   som MS Office og LibreOffice</li>
+               <li>64-bittisen MS Officen tuki</li>
+               <li>LibreOffice (Windows, OSX, Linux (må bygges manuelt)) tuki</li>
+               <li>avoimeen lähdekoodiin perustuva oikolukuohjelma</li>
+               <li>betaversio MacVoikosta koko OSX:lle joka käyttää samaa oikolukua
+               kuin MS Office ja LibreOffice</li>
             </ul>
          </section>
          <section>
             <title>Divvun 3.0 (2013-06-13)</title>
-            <p>Tekniske oppdateringer, bare Windows:</p>
+            <p>Päivityksiä teknologiaan, vain Windows:</p>
             <ul>
-               <li>Støtte for Windows 8</li>
-               <li>Støtte for MS Office 2013</li>
+               <li>Windows 8 -tuki</li>
+               <li>MS Office 2013 -tuki</li>
             </ul>
          </section>
          <section>
             <title>Divvun 2.3</title>
-            <p>Språklige oppdateringer for nordsamisk:</p>
+            <p>Pohjoissaameen liittyviä kielellisiä päivityksiä:</p>
             <ul>
-               <li>ca 40 000 nye ord, fra korpus og fra brukere</li>
-               <li>justeringer i forhold til nye rettskrivingsvedtak</li>
-               <li>mange andre smårettinger</li>
+               <li>n. 40 000 uutta sanaa, korpuksesta ja käyttäjiltä</li>
+               <li>oikeinkirjoitukseen liittyviä tarkennuksia</li>
+               <li>monia muita pienkorjauksia</li>
             </ul>
          </section>
          <section>

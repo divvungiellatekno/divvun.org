@@ -10,13 +10,13 @@
       <section>
          <title>Asenna useita kieliä</title>
 
-            <p>For å installere flere språk laster du ned og installerer
-            selve språkfilene (såkalte zhfst-filer).</p>
+            <p>Asentaaksesi useampia kieliä lataa ja asenna erilliset kielitiedostot
+              (niinsanotut zhfst-tiedostot).</p>
 
-            <note label="HUOMIO!">Beskrivelsen nedenfor gjelder ikke <a
+            <note label="HUOMIO!">Alla olevat ohjeet eivät sovi <a
             href="korrektur.html#Oikeinkirjoitusohjelma+MS+Officelle">
-            retteprogrammene for MS Office</a> - der installerer man hele
-            programmet for hvert språk.</note>
+            MS Office oikolukuohjelmille</a> - näille asennetaan oikolukuohjelma
+            kaikille kielille.</note>
 
             <ol>
               <li>Lataa yksi tai useampi zhfst-tiedosto:

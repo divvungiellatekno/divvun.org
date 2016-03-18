@@ -8,10 +8,10 @@
     </header>
     <body>
 
-        <note label="18.03.2016">Divvun 4.0.1 er tilgjengelig, med rettelser for
-            en alvorlig feil i MS Office, og med ny versjon for LibreOffice
-            basert på LibreOffice-voikko 5.0. Også MacVoikko er oppdatert med en
-            bugfiks.
+        <note label="18.03.2016">Divvun 4.0.1 on julkaistu, sisältää korjauksia
+          vakavaan virheeseen MS OFfice työkaluissa ja uuden LibreOffice-version
+          joka perustuu LibreOffice-voikko 5.0. Myös MacVoikko on päivitetty
+          virhekorjauksella.
         </note>
 
         <section>
@@ -24,11 +24,11 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/></title>
 
-                <warning label="Problemer med 4.0?">Prøv 4.0.1 her nedenfor. Om
-                du fortsatt har problemer, så <a
-                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
-                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
-                >her.</a></warning>
+                <warning label="Ongelmia 4.0 kanssa?">Kokeile 4.0.1 alhaalla.
+                Jos vielä on ongelmia <a
+                href="mailto:feedback@divvun.no">sano</a>. Väliaikainen
+                korjaus <a href="userdocs/win/fix-3.0.html"
+                >täällä.</a></warning>
 
                 <table>
                 <tr>
@@ -115,17 +115,16 @@
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
-            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
+            <p>LibreOffice -oikoluku toimii sekä Windows <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> og OSX <icon
+                    src="images/Win10.png"/> ja OSX <icon
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
-            <note label="NB!">Stavekontrollene nedenfor <strong>krever
-            LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
-            eldre versjon av LibreOffice, kan du laste ned stavekontroller for
-            eldre versjoner <a href="msoff-oldversions.html">på denne
-            siden.</a></note>
+            <note label="NB!">Alla olevat oikolukijat <strong>tarvitsevat
+            LibreOffice 4.4 tai uudemman</strong>. Jos tarvitset vanhemman version
+            LibreOfficesta, voit ladata oikolukutyökalut vanhemmille versioille
+            <a href="msoff-oldversions.html">tältä sivulta.</a></note>
 
             <table>
             <tr>
