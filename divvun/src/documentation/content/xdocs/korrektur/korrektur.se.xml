@@ -9,7 +9,7 @@
     <body>
 
         <note label="18.03.2016">Divvun 4.0.1 lea olámuttus.
-            Dat divvu roavva meattáhus MS Office-čállindárkkisteaddjis.
+            Dat divvu roavva meattáhusa MS Office-čállindárkkisteaddjis.
             Das lea maid ođđa LibreOffice-veršuvdna, man vuođđu lea
             LibreOffice-voikko 5.0. MacVoikko lea maid ođasmahtton
             smávit divvumušain.
@@ -26,7 +26,7 @@
                     src="images/Win10.png"/></title>
 
                 <warning label="Váttisvuođat 4.0:n?">Geahččal 4.0.1 dás
-                    vuolábealde. Jus ain leat váttisvuođaid,
+                    vuolábealde. Jus ain leat váttisvuođat,
                     <a
                 href="mailto:feedback@divvun.no">sáddes dieđu midjiide</a>.
                     Jus ii dát čállindárkkisteaddji ge doaimma, de gávnnat
@@ -120,16 +120,16 @@
             alt="LibreOffice" height="27" width="27"
             src="images/LibreOfficeIcon.png"/></a></title>
 
-            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
-                alt="Windows" height="27" width="27"
-                src="images/Win10.png"/> og OSX <icon
-                    alt="OSX" height="27" width="27"
-                    src="images/mac.png"/>.</p>
+            <p>Čállindárkkisteaddjit LibreOffice várás doibmet sihke Windowsis<icon
+............alt="Windows" height="27" width="27"
+............src="images/Win10.png"/> ja OSX:s <icon
+............alt="OSX" height="27" width="27"
+............src="images/mac.png"/>.</p>
 
             <note label="NB!">Čállindárkkisteaddjit vuolábealde
-                <strong>gáibidit LibreOffice 4.4 dahje ođđasabbut</strong>.
-                Jus dárbbašat boarrásabbut LibreOffice-veršuvnna, de sáhtát
-                viežžat čállindárkkisteaddjiid daidda
+                <strong>gáibidit LibreOffice 4.4 dahje ođđasabbo</strong>.
+                Jus dárbbašat boarrásat LibreOffice-veršuvnna, de sáhtát
+                viežžat čállindárkkisteddjiid daidda
                 <a href="msoff-oldversions.html">dán siiddus</a>.</note>
 
             <table>
