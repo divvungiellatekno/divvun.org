@@ -24,17 +24,17 @@
             kuntaas MozVoikko toimii sekä Windowsissa ja OSX:ssä. Kielikattaus on
             myös erinlainen, limittäisyydellä. MozVoikkolla voidaan <a
             href="otherapps.html">asentaa useita
-            kieliä</a>, mutta vain OSX:ssä.
-            </p>
+            kieliä</a>.</p>
 
-          <warning label="Windows-brukere"><icon
+          <section>
+             <title>Didriksen-oikoluku</title>
+
+          <warning label="Windows-käyttäjät"><icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/>
               Toistaiseksi ei ole mahdollista sentaa useampia kieliä samanaikaisesti.
              </warning>
 
-          <section>
-             <title>Didriksen-oikoluku</title>
              <table>
              <tr>
                <th>Kieli: </th>
@@ -137,7 +137,7 @@
 
          <figure src="userdocs/firefox/images/LanguageMenu_OSX.png" alt="Firefox kielivalikko"/>
 
-         <warning label="MERK">Kuten näet yltä, Firefox ei tiedä monien kielien nimiä. 
+         <warning label="HUOMIO!">Kuten näet yltä, Firefox ei tiedä monien kielien nimiä. 
          Näissä tapauksissa on ainoastaan <a
          href="http://www-01.sil.org/iso639-3/codes.asp" class="fork">ISO
          639</a>-koodi menussa.</warning>

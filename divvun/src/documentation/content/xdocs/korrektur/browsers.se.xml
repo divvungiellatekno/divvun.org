@@ -13,13 +13,14 @@
 
       <section>
          <title>Firefox</title>
-            <p>Firefox dárbbaša sierra čállindárkkisteddjiid, mat leat Firefox-lasáhusat. Gávdnojit guokte dákkár lasáhusa sámegielaid várás: nubbi maid <a href="http://tinodidriksen.com">Tino Didriksen</a> lea ráhkadan ovttas Divvumiin ja Apertiumain, ja nubbi man vuođđu lea <a href="https://github.com/voikko/mozvoikko">Mozvoikko</a>. Didriksen-čállindárkkisteaddjit <em>doibmet dušše Windowsis</em> (dássážii), MozVoikko-čállindárkkisteaddjit doibmet sihke Windowsis ja OS X:s. OSX:s lea vejolaš <a href="otherapps.html">sajáiduhttit máŋga giela oktanaga</a> MozVoikkoi.
+            <p>Firefox dárbbaša sierra čállindárkkisteddjiid, mat leat Firefox-lasáhusat. Gávdnojit guokte dákkár lasáhusa sámegielaid várás: nubbi maid <a href="http://tinodidriksen.com">Tino Didriksen</a> lea ráhkadan ovttas Divvumiin ja Apertiumain, ja nubbi man vuođđu lea <a href="https://github.com/voikko/mozvoikko">Mozvoikko</a>. Didriksen-čállindárkkisteaddjit <em>doibmet dušše Windowsis</em> (dássážii), MozVoikko-čállindárkkisteaddjit doibmet sihke Windowsis ja OS X:s. Lea vejolaš <a href="otherapps.html">sajáiduhttit máŋga giela oktanaga</a> MozVoikkoi.
             </p>
-
-          <warning label="Windows-geavaheaddjit"><icon alt="Windows" height="27" width="27" src="images/Win10.png"/>Ii leat vejolaš sajáiduhttit máŋga giela oktanaga.</warning>
 
           <section>
              <title>Didriksen-čállindárkkisteaddjit</title>
+
+          <warning label="Windows-geavaheaddjit"><icon alt="Windows" height="27" width="27" src="images/Win10.png"/>Ii leat vejolaš sajáiduhttit máŋga giela oktanaga.</warning>
+
              <table>
              <tr>
 				<th>Giella:</th>

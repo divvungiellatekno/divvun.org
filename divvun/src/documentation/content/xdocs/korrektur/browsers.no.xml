@@ -28,8 +28,10 @@
             Windows</em> (inntil videre), mens MozVoikko-stavekontrollene
             fungerer på både Windows og OSX. Med MozVoikko kan man <a
             href="otherapps.html">installere flere
-            språk</a>, men bare på OSX.
-            </p>
+            språk</a>.</p>
+
+          <section>
+             <title>Didriksen-stavekontroller</title>
 
           <warning label="Windows-brukere"><icon
                     alt="Windows" height="27" width="27"
@@ -37,8 +39,6 @@
              Det er for tilfellet ikke mulig å installere flere språk
              samtidig.</warning>
 
-          <section>
-             <title>Didriksen-stavekontroller</title>
              <table>
              <tr>
                <th>Språk: </th>

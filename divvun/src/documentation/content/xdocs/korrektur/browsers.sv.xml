@@ -28,8 +28,11 @@
             Windows</em> (tills vidare), medan MozVoikko-utvidgningen
             fungerar på både Windows och OSX. Med MozVoikko kan man <a
             href="otherapps.html">installera flera
-            språk</a>, men bara på OSX.
+            språk</a>.
             </p>
+
+          <section>
+             <title>Didriksen-rättstavning</title>
 
           <warning label="Windows-användare"><icon
                     alt="Windows" height="27" width="27"
@@ -37,8 +40,7 @@
              Det är för närvarande inte möjligt att installera flera språk
              på samma gång.</warning>
 
-          <section>
-             <title>Didriksen-rättstavning</title>
+
              <table>
              <tr>
                <th>Språk: </th>

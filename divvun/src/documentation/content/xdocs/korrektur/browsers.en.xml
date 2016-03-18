@@ -25,8 +25,10 @@
             The Didriksen spellers <em>only work on
             Windows</em> (for now), whereas the MozVoikko spellers work on both
             Windows and OSX. Using MozVoikko, one can <a
-            href="otherapps.html">install multiple languages</a>, but only on OSX.
-            </p>
+            href="otherapps.html">install multiple languages</a>.</p>
+
+          <section>
+             <title>Didriksen spellers</title>
 
           <warning label="Windows users"><icon
                     alt="Windows" height="27" width="27"
@@ -34,8 +36,6 @@
              It is at the moment not possible to install multiple languages in
              parallel.</warning>
 
-          <section>
-             <title>Didriksen spellers</title>
              <table>
              <tr>
                <th>Download language: </th>
