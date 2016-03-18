@@ -8,10 +8,11 @@
     </header>
     <body>
 
-        <note label="18.03.2016">Divvun 4.0.1 er tilgjengelig, med rettelser for
-            en alvorlig feil i MS Office, og med ny versjon for LibreOffice
-            basert på LibreOffice-voikko 5.0. Også MacVoikko er oppdatert med en
-            bugfiks.
+        <note label="18.03.2016">Divvun 4.0.1 lea olámuttus.
+            Dat divvu roavva meattáhus MS Office-čállindárkkisteaddjis.
+            Das lea maid ođđa LibreOffice-veršudna, man vuođđu lea
+            LibreOffice-voikko 5.0. MacVoikko lea maid ođasmahtton
+            smávit divvumušain.
         </note>
 
         <section>
@@ -24,11 +25,13 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/></title>
 
-                <warning label="Váttisvuođat 4.0:n?">Prøv 4.0.1 her nedenfor. Om
-                du fortsatt har problemer, så <a
-                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
-                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
-                >her.</a></warning>
+                <warning label="Váttisvuođat 4.0:n?">Geahččal 4.0.1 dás
+                    vuolábealde. Jus ain leat váttisvuođaid,
+                    <a
+                href="mailto:feedback@divvun.no">sáddes dieđu midjiide</a>.
+                    Jus ii dát čállindárkkisteaddji ge doaimma, de gávnnat
+                    gaskaboddosaš čovdosa
+                    <a href="userdocs/win/fix-3.0.html">dás</a>.</warning>
 
                 <table>
                 <tr>
