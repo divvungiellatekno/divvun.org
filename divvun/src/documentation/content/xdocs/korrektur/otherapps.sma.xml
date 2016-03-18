@@ -10,11 +10,13 @@
       <section>
          <title>Gellie gïelh sijjiedehtedh</title>
 
-            <p>Gosse gellie gïelh sijjiedehtedh, tjoeverh dejtie gïeliefijlide veedtjelidh (såkalte zhfst-filer).</p>
+            <p>Gosse gellie gïelh sijjiedehtedh, tjoeverh dejtie gïeliefijlide
+            veedtjelidh (aaj gohtjesovveme zhfst-fijline).</p>
 
             <note label="OBS!">Boejhkehtassh vuelelen eah vielie sjïehth <a
             href="korrektur.html#Staeriedimmiedïrregh+MS+Officasse">
-            staeriedimmieprogrammh MS Officasse</a> - Desnie tjoevere fïereguhten gïelese abpe programmem sijjiedehtedh.</note>
+            staeriedimmieprogrammh MS Officasse</a> - Desnie tjoevere
+            fïereguhten gïelese abpe programmem sijjiedehtedh.</note>
 
             <ol>
               <li>Veedtjelh aktem jallh jienebh zhfst-fijlh:
@@ -26,7 +28,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Noerhtesaemien</a> </td>
                   <td>4.0 </td>
@@ -39,7 +41,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/smj.zhfst"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Julevsaemien</a> </td>
                   <td>4.0 </td>
@@ -52,7 +54,7 @@
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/sma.zhfst"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Åarjelsaemien</a> </td>
                   <td>4.0 </td>
@@ -73,45 +75,55 @@
                     <li>OSX: <code>~/Library/Spelling/voikko/3</code></li>
                     <li>Linux: <code>~/.voikko/3</code></li>
                   </ul>
-                  dejtie fijlide maahtah jeatjah sæjjan aaj bïejedh, dan bïjre maahath daesnie lohkedh <a
+                  dejtie fijlide maahtah jeatjah sæjjan aaj bïejedh, dan bïjre
+                  maahath daesnie lohkedh <a
                   href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >daesnie</a>. Ohtsedh dam bijjietjaalegem «Search order for dictionary
-                  files». Mujhtieh iktesh tjoeverh tsagkedh dejtie fijlide <code>.zhfst</code>-filene
-                  aktene katalogese, man nomme lea  «3» 
+                  >daesnie</a>. Ohtsedh dam bijjietjaalegem «Search order for
+                  dictionary files». Mujhtieh iktesh tjoeverh tsagkedh dejtie
+                  fijlide <code>.zhfst</code>-filene
+                  aktene katalogese, man nomme lea «3»
               </li>
               <li>Loggh olkese jïh dle sïjse vihth</li>
             </ol>
 
-            <p> Jis daarpesjh jeatjah gïelh, dle daesnie gååvnesieh <a href="http://divvun.org/">divvun.org</a>.</p>
+            <p> Jis daarpesjh jeatjah gïelh, dle daesnie gååvnesieh <a
+            href="http://divvun.org/">divvun.org</a>.</p>
 
       </section>
 
       <section>
          <title>Jïjjen bïgkesovveme </title>
 
-            <p>Staeriedæjjah MS Officasse på Windowsasse fïerhten jïjjen bïgkesuvvieh, gusnie dah minngemes gïeleh staeriedimmieh mealtan sjidtieh.  </p>
+            <p>Staeriedæjjah MS Officasse på Windowsasse fïerhten jïjjen
+            bïgkesuvvieh, gusnie dah minngemes gïeleh staeriedimmieh mealtan
+            sjidtieh.</p>
 
-            <warning label="NB!"> Ibie pryöveme dejtie versjovnide annje, ibie daejrieh mejtie hijvenlaakan juhtieh jallh slahtjeguvvieh. Jïjtjedh dïedte lea gosse åtnose dam vaaltah! Jis dåeriesmoerh jijhtieh, tjoeverh barre prpgrammem maskineste vaeltedh, jïh dle viht minngemes byjjes versjovnem ikth vielie sijjiedehtedh.</warning>
+            <warning label="NB!"> Ibie pryöveme dejtie versjovnide annje, ibie
+            daejrieh mejtie hijvenlaakan juhtieh jallh slahtjeguvvieh. Jïjtjedh
+            dïedte lea gosse åtnose dam vaaltah! Jis dåeriesmoerh jijhtieh,
+            tjoeverh barre programmem maskineste vaeltedh, jïh dle viht
+            minngemes byjjes versjovnem ikth vielie sijjiedehtedh.</warning>
 
             <p>Veedtjelh:</p>
 
             <ul>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Noerhtesaemien</a></li>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Julevsaemien</a></li>
               <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
-                  alt="Download" height="44" width="44"
+                  alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Åarjelsaemien</a></li>
             </ul>
 
-            <p> Jïjtje vuajnah magkerh versjovnh jïh gïelh leah, jis diekie mïnnh<a
-            href="http://apertium.projectjj.com/spellers/">katalogeste, gusnie dah minngemes versjovnh leah jïjjen bïgkesovveme</a>.</p>
+            <p> Jïjtje vuajnah magkerh versjovnh jïh gïelh leah, jis diekie
+            mïnnh <a href="http://apertium.projectjj.com/spellers/">katalogeste,
+            gusnie dah minngemes versjovnh leah jïjjen bïgkesovveme</a>.</p>
 
       </section>
 
@@ -173,7 +185,7 @@ sudo make install</source>
             <ul>
               <li class="Download"><a
               href="http://divvun.no/static_files/smi.oxt"><icon
-                alt="Download" height="44" width="44"
+                alt="Veedtjelh" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" /><icon
                 alt="Right arrow" height="18" width="18"
                 src="images/arrow-right-icon.png"/><icon
@@ -211,7 +223,7 @@ sudo make install</source>
             <ul>
               <li class="Download"><a
                 href="http://divvun.no/static_files/indesign-divvuntools.dmg"><icon
-                alt="Download" height="44" width="44"
+                alt="Veedtjelh" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" /><icon
                 alt="Right arrow" height="18" width="18"
                 src="images/arrow-right-icon.png"/><icon
@@ -236,7 +248,7 @@ sudo make install</source>
             <ul>
               <li class="Download"><a
                 href="http://divvun.no/static_files/smi.zip"><icon
-                alt="Download" height="44" width="44"
+                alt="Veedtjelh" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
                 Hunspell-fijlh gaajhkide operativsystemidie</a>
               </li>
