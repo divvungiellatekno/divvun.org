@@ -8,10 +8,8 @@
     </header>
     <body>
 
-        <note label="18.03.2016">Divvun 4.0.1 er tilgjengelig, med rettelser for
-            en alvorlig feil i MS Office, og med ny versjon for LibreOffice
-            basert på LibreOffice-voikko 5.0. Også MacVoikko er oppdatert med en
-            bugfiks.
+        <note label="18.03.2016">Divvun 4.0.1 lea båateme, gusnie staeriedamme stoerre fiejliem mij lij MS Officisnie, Orre versjovnine LibreOfficasse
+            gusnie LibreOffice-voikko 5.0 lea våaroemisnie. MacVoikko lea aaj orrestahteme bugfiksine.
         </note>
 
         <section>
@@ -24,10 +22,10 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/></title>
 
-                <warning label="Problemer med 4.0?">Prøv 4.0.1 her nedenfor. Om
-                du fortsatt har problemer, så <a
-                href="mailto:feedback@divvun.no">si ifra</a>. En temporær
-                løsning er beskrevet <a href="userdocs/win/fix-3.0.html"
+                <warning label="Problemer med 4.0?">Veedtjelh 4.0.1 daestie. Jis 
+                annje dåeriesmoerh, dle <a
+                href="mailto:feedback@divvun.no">soptsesth</a>.temporære
+                tjuevtienassen bïjre daase tjaalasovveme <a href="userdocs/win/fix-3.0.html"
                 >her.</a></warning>
 
                 <table>
@@ -58,13 +56,13 @@
                 </td>
                 <td>
                          · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-bïhkedassh</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-bïshkedassh</a>
+                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010-bïhkedassh</a>
                   <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007-bïhkedassh</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Bïhkedsfilmh</a></td>
                 </tr>
                 </table>
             </section>
@@ -104,7 +102,7 @@
                 <td>
                   <a href="userdocs/videos/mac-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                    src="images/Movie-icon.png"/>Bïhkedsfilmh</a></td>
                 </tr>
                 </table>
             </section>
@@ -116,9 +114,9 @@
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
-            <p>Stavekontrollene for LibreOffice fungerer både på Windows <icon
+            <p>Staeriedæjjah LibreOfficasse Windowsasse <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> og OSX <icon
+                    src="images/Win10.png"/> jïh OSX:asse <icon
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.</p>
 
