@@ -10,13 +10,11 @@
       <section>
          <title>Gellie gïelh sijjiedehtedh</title>
 
-            <p>For å installere flere språk laster du ned og installerer
-            selve språkfilene (såkalte zhfst-filer).</p>
+            <p>Gosse gellie gïelh sijjiedehtedh, tjoeverh dejtie gïeliefijlide veedtjelidh (såkalte zhfst-filer).</p>
 
-            <note label="OBS!">Beskrivelsen nedenfor gjelder ikke <a
+            <note label="OBS!">Boejhkehtassh vuelelen eah vielie sjïehth <a
             href="korrektur.html#Staeriedimmiedïrregh+MS+Officasse">
-            retteprogrammene for MS Office</a> - der installerer man hele
-            programmet for hvert språk.</note>
+            staeriedimmieprogrammh MS Officasse</a> - Desnie tjoevere fïereguhten gïelese abpe programmem sijjiedehtedh.</note>
 
             <ol>
               <li>Veedtjelh aktem jallh jienebh zhfst-fijlh:
@@ -24,7 +22,7 @@
                 <tr>
                   <th>Gïele: </th>
                   <th>Versjovne: </th>
-                  <th>Dokumentasjovne jïh gaaltijekovde:</th>
+                  <th>Vïhtesjimmie jïh gaaltijekovde:</th>
                 </tr>
                 <tr>
                   <td><a href="http://divvun.no/static_files/zhfsts/se.zhfst"><icon
@@ -67,7 +65,7 @@
                 </tr>
                 </table>
               </li>
-              <li>Sirtieh dejtie zhfst-fijlide aktede katalogese:
+              <li>Sirtieh dejtie zhfst-fijlide akten katalogese:
                   <ul>
                     <li>Windows: <code>&lt;User&gt;\AppData\Local\voikko\3</code><br/>
                     (≤ Windows 7: <code>C:\Documents and Settings\&lt;User&gt;\Local
@@ -89,15 +87,11 @@
       </section>
 
       <section>
-         <title>Nattlige bygg</title>
+         <title>Jïjjen bïgkesovveme </title>
 
-            <p>Stavekontrollene for MS Office på Windows blir bygd hver natt med
-            de siste språklige endringene vi har gjort.</p>
+            <p>Staeriedæjjah MS Officasse på Windowsasse fïerhten jïjjen bïgkesuvvieh, gusnie dah minngemes gïeleh staeriedimmieh mealtan sjidtieh.  </p>
 
-            <warning label="NB!"> Disse versjonene er ikke testet skikkelig,
-            og vi garanterer ikke at de fungerer tilfredsstillende, eller ikke
-            kræsjer. Bruk på eget ansvar! Får du problemer, er det bare å
-            avinstallere, og installere siste offisielle versjon på nytt.</warning>
+            <warning label="NB!"> Ibie pryöveme dejtie versjovnide annje, ibie daejrieh mejtie hijvenlaakan juhtieh jallh slahtjeguvvieh. Jïjtjedh dïedte lea gosse åtnose dam vaaltah! Jis dåeriesmoerh jijhtieh, tjoeverh barre prpgrammem maskineste vaeltedh, jïh dle viht minngemes byjjes versjovnem ikth vielie sijjiedehtedh.</warning>
 
             <p>Veedtjelh:</p>
 
@@ -116,10 +110,8 @@
                   Åarjelsaemien</a></li>
             </ul>
 
-            <p>Du kan selv se hvilke versjoner og språk som er tilgjengelige ved
-            å gå til <a
-            href="http://apertium.projectjj.com/spellers/">nedlastingskatalogen
-            for nattlige bygg</a>.</p>
+            <p> Jïjtje vuajnah magkerh versjovnh jïh gïelh leah, jis diekie mïnnh<a
+            href="http://apertium.projectjj.com/spellers/">katalogeste, gusnie dah minngemes versjovnh leah jïjjen bïgkesovveme</a>.</p>
 
       </section>
 
@@ -144,9 +136,8 @@ sudo make install</source>
             </li>
 
             <li><!-- Last ned kildekode-tarballen for språket ditt: -->
-                Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
-                forrige punkt):
+                Pryövh dam dov gaaltijekovdem dov gïeline sjïere katalogesne (dvs. 
+                ikke inne i <code>gtcore</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne. 
                 <!--ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
