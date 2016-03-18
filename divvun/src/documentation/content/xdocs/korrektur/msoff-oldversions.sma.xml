@@ -62,8 +62,10 @@
          <ul>
           <li><strong>Divvun 3.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
            </ul>
@@ -75,49 +77,65 @@
          <ul>
           <li><strong>Divvun 2.3:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/msofficedivvuntools-2.3.1.msi"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/msofficedivvuntools-2.3.1.msi"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/nedlastingskatalogen
             for nattlige bygg.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20130207.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20130207.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.2:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools-20111122.exe"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20111122.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20111122.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.1:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20110317.exe"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools-20110317.exe"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20110317.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 2.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/MSOfficeDivvunTools-20101207.exe"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/MSOfficeDivvunTools-20101207.exe"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20101207.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20101207.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
@@ -129,24 +147,32 @@
          <ul>
           <li><strong>Divvun 1.1:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/DivvunInstaller-20081231.exe"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a></li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20081231.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a></li>
            </ul>
           </li>
           <li><strong>Divvun 1.0:</strong>
            <ul>
-            <li class="Download"><a href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/DivvunInstaller-20071210.exe"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             Windows <icon alt="Windows" height="27" width="27"
               src="images/Win10.png"/></a> </li>
-            <li class="Download"><a href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
-            alt="Veedtjelh" height="32" src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
+            <li class="Download"><a
+            href="http://divvun.no/static_files/sami-proofing-tools-20071210.dmg"><icon
+            alt="Veedtjelh" height="32"
+            src="images/Crystal_Clear_app_download_manager.png" width="32"/>MS Office —
             OSX <icon alt="Windows" height="27" width="27"
               src="images/mac.png"/></a> </li>
            </ul>
@@ -157,14 +183,16 @@
          <title>Versjovnehistovrije</title>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
-            <p>Gïeleh staeriedimmieh: ingen</p>
+            <p>Gïeleh staeriedimmieh: ij mij gænnah</p>
             <p>Teknihken staeriedimmieh:</p>
             <ul>
                <li>MS Office-staeriedimmieprogramme:
                  <ul>
-                    <li>staeriedamme stoerre fiejliem mij lij baakojde viedteldihkie gusnie storre bokstaavigujmie tjaalasovveme. fatal feil knytta til ord skrevet med store
-                    bokstaver eller med stor førstebokstav, og med hakeparentes
-                    og lignende tegn før og etter.</li>
+                    <li>Staeriedamme stoere fiejliem mij heerrehti dam MS
+                    Officem. Daate fiejlie jiejhtieji goh baakoeh tjeeli, mej
+                    lin stoere bokstaavh aalkoevisnie jïh mah lin
+                    kruehkie-parantesi gaskesne jallh jeatjhlaaketje mïerhki
+                    sisnjielisnie lin.</li>
                  </ul>
                </li>
                <li>LibreOffice-staeriedimmieprogramme:
