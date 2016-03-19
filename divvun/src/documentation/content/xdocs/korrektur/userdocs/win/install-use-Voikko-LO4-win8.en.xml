@@ -7,20 +7,11 @@
 	</header>
 
 	<body>
-
-			<p>The Divvun group has in cooperation with the <a
-			href="http://voikko.puimula.org">Voikko</a> project and the <a
-			href="http://hfst.sourceforge.net">Hfst</a> team developed a new
-			serie of spelling checkers for LibreOffice. All source code for the
-			spelling checkers is completely open, both the linguistic and the
-			technical. In the long run this spelling checker will be integrated
-			into other systems and applications.</p>
-
 		<section>
 			<title>Install the spellchecker</title>
 
 			<p>Sami (and other) spelling checkers for LibreOffice can be
-			downloaded <a href="/korrektur/libreofficebeta.html">here</a>. The downloaded
+			downloaded <a href="/korrektur/korrektur.html">here</a>. The downloaded
 			spellchecker extension looks like this (the name may vary):<br/>
 			<img src="images/win8-voikkooxt-fi-se-nn.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
@@ -39,7 +30,8 @@
             In the picture below, the new speller extension is selected and
             highlighted in blue. You can click on the button "Innstillingar …"
             to see what languages are available in the speller.
-            Click «Lukk» to end the installation.
+            Click «Lukk» and <strong>restart LibreOffice</strong> to end the
+            installation.
             <br /><img src="images/win8-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
