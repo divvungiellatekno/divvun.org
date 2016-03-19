@@ -13,7 +13,7 @@
 			<p>Samiske (og andre) stavekontroller for LibreOffice kan lastes
 			ned <a href="/korrektur/korrektur.html">her</a>. Det nedlastede
 			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
-			<img src="images/win8-voikkooxt-fi-se-nn.png"
+			<img src="images/win8-LO5-voikkooxt-fi-se-nn.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
 
 			<p>Avhengig av hva slags webleser og operativsystem du har, blir fila
@@ -23,7 +23,7 @@
             <p>LibreOffice starter opp og installerer stavekontrollen. Du får et
             spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for
             å installere den:<br/>
-            <img src="images/win8-installoxt-ok-nn.png"
+            <img src="images/win8-LO5-installoxt-ok-nn.png"
             alt="Dialog for å sjekke om man vil installere tillegget."/></p>
 
             <p>Når den er ferdig installert, dukker et vindu som ligner på det
@@ -32,7 +32,7 @@
             "Innstillingar …" for å se hvilke språk som er tilgjengelige i
             stavekontrollen. Trykk «Lukk» og <strong>slå av og start
             LibreOffice på nytt</strong> for å avslutte installeringa.
-            <br /><img src="images/win8-oxt-installert-nn.png"
+            <br /><img src="images/win8-LO5-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
 		</section>
@@ -62,7 +62,7 @@
 			    få forslag til rettelser ("ordet" <em>nuvviDspeller</em> vil i
 			    forslagsmenyen fortelle deg hva slags versjon du har av
 			    Divvun-stavekontrollen):<br />
-			     <img src="images/win8-speller-popup-nn.png"
+			     <img src="images/win8-LO5-speller-popup-nn.png"
 			     alt="Velg språk for stavekontroll" /></li>
             </ul>
 		</section>

@@ -13,7 +13,7 @@
 			<p>Sami (and other) spelling checkers for LibreOffice can be
 			downloaded <a href="/korrektur/korrektur.html">here</a>. The downloaded
 			spellchecker extension looks like this (the name may vary):<br/>
-			<img src="images/win8-voikkooxt-fi-se-nn.png"
+			<img src="images/win8-LO5-voikkooxt-fi-se-nn.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
 
 			<p>Depending on your browser and system, the downloaded file will
@@ -23,7 +23,7 @@
             <p>LibreOffice will start and install the spelling checker. You will
             get a question whether you want to install it. Click «Ok» to
             install it:<br/>
-            <img src="images/win8-installoxt-ok-nn.png"
+            <img src="images/win8-LO5-installoxt-ok-nn.png"
             alt="Dialog for å sjekke om man vil installere tillegget."/></p>
 
             <p>When it is installed, a window like the one below will show up.
@@ -32,7 +32,7 @@
             to see what languages are available in the speller.
             Click «Lukk» and <strong>restart LibreOffice</strong> to end the
             installation.
-            <br /><img src="images/win8-oxt-installert-nn.png"
+            <br /><img src="images/win8-LO5-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
 		</section>
@@ -64,7 +64,7 @@
 			    and get correction suggestions (the "word" <em>nuvviDspeller</em>
 			    will generate suggestions telling you what version you have of
 			    the Divvun spell checker):<br />
-			     <img src="images/win8-speller-popup-nn.png"
+			     <img src="images/win8-LO5-speller-popup-nn.png"
 			     alt="Velg språk for stavekontroll" /></li>
             </ul>
 		</section>
