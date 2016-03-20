@@ -119,13 +119,13 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> och OSX <icon
                         alt="OSX" height="27" width="27"
-                        src="images/mac.png"/>.</p>
+                        src="images/mac.png"/>.
 
-            <note label="NB!">Rättstavningsverktygen nedanför <strong>kräver
+            Rättstavningsverktygen <strong>kräver
             LibreOffice 4.4 eller nyare</strong>. Om du är beroende av en
             äldre version av LibreOffice, kan du ladda ner rättstavning för
             äldre versioner <a href="msoff-oldversions.html">på denna
-            sidan.</a></note>
+            sidan</a>.</p>
 
             <table>
             <tr>

@@ -121,13 +121,13 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> and OSX <icon
                         alt="OSX" height="27" width="27"
-                        src="images/mac.png"/>.</p>
+                        src="images/mac.png"/>.
 
-                <note label="NB!">The proofing tools below <strong>require
+                The proofing tools <strong>require
                 LibreOffice 4.4 or newer</strong>. If you are dependent upon an
                 older version of LibreOffice, you can download proofing tools
                 for older versions <a href="msoff-oldversions.html">on this
-                page.</a></note>
+                page</a>.</p>
 
                 <table>
                 <tr>

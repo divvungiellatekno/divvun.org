@@ -119,12 +119,12 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> ja OSX <icon
                         alt="OSX" height="27" width="27"
-                        src="images/mac.png"/>.</p>
+                        src="images/mac.png"/>.
 
-            <note label="HUOMIO!">Alla olevat oikolukijat <strong>tarvitsevat
+            Oikolukijat <strong>tarvitsevat
             LibreOffice 4.4 tai uudemman</strong>. Jos tarvitset vanhemman version
             LibreOfficesta, voit ladata oikolukutyökalut vanhemmille versioille
-            <a href="msoff-oldversions.html">tältä sivulta.</a></note>
+            <a href="msoff-oldversions.html">tältä sivulta</a>.</p>
 
             <table>
             <tr>

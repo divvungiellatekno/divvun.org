@@ -119,13 +119,13 @@
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/> og OSX <icon
                         alt="OSX" height="27" width="27"
-                        src="images/mac.png"/>.</p>
+                        src="images/mac.png"/>.
 
-            <note label="NB!">Stavekontrollene nedenfor <strong>krever
+            Stavekontrollene <strong>krever
             LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
             eldre versjon av LibreOffice, kan du laste ned stavekontroller for
             eldre versjoner <a href="msoff-oldversions.html">på denne
-            siden.</a></note>
+            siden.</a></p>
 
             <table>
             <tr>
