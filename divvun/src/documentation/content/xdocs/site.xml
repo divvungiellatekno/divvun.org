@@ -83,6 +83,7 @@
                 <windoc label="Windows 7" href="enable_sme_input-win7-nob.html" />
                 <windoc label="Windows XP" href="enable-keyboard-xp.html" />
               </keyboards>
+              <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-win8.html" />
               <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
               <remove_fix label="Fiks 3.0" href="fix-3.0.html"/>
             </win>
@@ -101,9 +102,9 @@
                 <keyb108    label="MacOSX 10.6-10.8" href="enable-keyboard-osx10.8-nob.html" />
                 <keyb105    label="MacOSX 10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
               </keyboards>
+              <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-osx.html" />
               <rem08      label="Avinstaller Divvun" href="remove-msoff-2008-nob.html" />
             </mac>
-            <LO_userguide label="LibreOffice User Guide" href="win/install-use-Voikko-LO5-win8.html" />
           </userdocs>
           <uservids label="Instruksjonsvideoer" href="userdocs/videos/">
             <win label="Windows Installation" href="win-msoffice-video.html" />
