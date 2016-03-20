@@ -151,7 +151,14 @@
               <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>
-                <a href="userdocs/win/install-use-Voikko-LO5-win8.html">LibreOffice-bagádus</a>
+                   · <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+                     >LibreOffice-bagádus (Windows <icon
+                     alt="Windows" height="27" width="27"
+                     src="images/Win10.png"/>)</a>
+              <br/>· <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+                     >LibreOffice-bagádus (OSX <icon
+                     alt="OSX" height="27" width="27"
+                     src="images/mac.png"/>)</a>
             </td>
             <td> <!-- No instruction videos for LibreOffice yet --> </td>
             </tr>
