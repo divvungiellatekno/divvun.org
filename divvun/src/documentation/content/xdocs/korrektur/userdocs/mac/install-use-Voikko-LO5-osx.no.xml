@@ -21,6 +21,15 @@
 			<img src="images/osx-LO5-tool_addition-menu-nn.png"
 			alt="Bilde av LibreOffice-menyen Verktøy - Tillegg"/></p>
 
+			<p>Klikk på <strong>Legg til …</strong>:<br/>
+			<img src="images/osx-LO5-extension_add-nn.png"
+			alt="Skjermbilde av vinduet for utvidelser"/></p>
+
+			<p>Gå til nedlastingskatalogen, finn fila du lasta ned, og klikk på
+			<strong>Åpne</strong>:<br/>
+			<img src="images/osx-LO5-select_extension-nn.png"
+			alt="Skjermbilde av Åpne-dialogen for å velge utvidelse"/></p>
+
             <p>LibreOffice starter opp og installerer stavekontrollen. Du får et
             spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for
             å installere den:<br/>
