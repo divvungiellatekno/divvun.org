@@ -10,39 +10,37 @@
 		<section>
 			<title>Install the spellchecker</title>
 
-			<p>Spelling checkers for LibreOffice can be
-			downloaded <a href="/korrektur/korrektur.html">here</a>. The downloaded
+			<p>Spelling checkers for LibreOffice can be downloaded <a
+			href="/korrektur/korrektur.html">here</a>. The downloaded
 			spellchecker extension looks like this (the name may vary):<br/>
 			<img src="images/osx-LO5-voikkooxt-sma-nb.png"
-			alt="Screenshot of the LibreOffice-voikko extension"/></p>
+			alt="The LibreOffice-voikko extension"/></p>
 
 			<p>Open LibreOffice, and open the menu <strong>Tools >
 			Extensions…</strong>:<br/>
 			<img src="images/osx-LO5-tool_addition-menu-nn.png"
-			alt="Screenshot of the LibreOffice menu Tools - Extensions"/></p>
+			alt="The LibreOffice menu Tools - Extensions"/></p>
 
 			<p>Click on <strong>Add …</strong>:<br/>
 			<img src="images/osx-LO5-extension_add-nn.png"
-			alt="Screenshot of the LibreOffice Extensions window"/></p>
+			alt="The LibreOffice Extensions window"/></p>
 
 			<p>Go to the Download folder, select the file you downloaded, and
 			click on <strong>Åpne</strong>:<br/>
 			<img src="images/osx-LO5-select_extension-nn.png"
-			alt="Screenshot of the file open dialog selecting the extension"/></p>
+			alt="The file open dialog selecting the extension"/></p>
 
-            <p>LibreOffice will start and install the spelling checker. You will
-            get a question whether you want to install it. Click «Ok» to
-            install it:<br/>
-            <img src="images/win8-LO5-installoxt-ok-nn.png"
-            alt="Dialog for å sjekke om man vil installere tillegget."/></p>
+			<p>You get a question whether you want to install for all users or
+			only for yourself:<br/>
+			<img src="images/osx-LO5-choose_target_users-nn.png"
+alt="Dialog to choose whether to install for all users or only for oneself"
+			/></p>
 
             <p>When it is installed, a window like the one below will show up.
             In the picture below, the new speller extension is selected and
-            highlighted in blue. You can click on the button "Innstillingar …"
-            to see what languages are available in the speller.
-            Click «Lukk» and <strong>restart LibreOffice</strong> to end the
-            installation.
-            <br /><img src="images/win8-LO5-oxt-installert-nn.png"
+            highlighted in blue. Click «Lukk» and <strong>restart
+            LibreOffice</strong> to end the installation.
+            <br /><img src="images/osx-LO5-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
 		</section>

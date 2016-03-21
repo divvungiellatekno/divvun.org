@@ -14,35 +14,33 @@
 			ned <a href="/korrektur/korrektur.html">her</a>. Det nedlastede
 			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
 			<img src="images/osx-LO5-voikkooxt-sma-nb.png"
-			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
+			alt="LibreOffice-voikko-tillegget"/></p>
 
 			<p>Åpne LibreOffice, og gå til menyen <strong>Verktøy >
 			Utvidingar…</strong>:<br/>
 			<img src="images/osx-LO5-tool_addition-menu-nn.png"
-			alt="Bilde av LibreOffice-menyen Verktøy - Tillegg"/></p>
+			alt="LibreOffice-menyen Verktøy - Tillegg"/></p>
 
 			<p>Klikk på <strong>Legg til …</strong>:<br/>
 			<img src="images/osx-LO5-extension_add-nn.png"
-			alt="Skjermbilde av vinduet for utvidelser"/></p>
+			alt="Vinduet for utvidelser"/></p>
 
 			<p>Gå til nedlastingskatalogen, finn fila du lasta ned, og klikk på
 			<strong>Åpne</strong>:<br/>
 			<img src="images/osx-LO5-select_extension-nn.png"
-			alt="Skjermbilde av Åpne-dialogen for å velge utvidelse"/></p>
+			alt="Åpne-dialogen for å velge utvidelse"/></p>
 
-            <p>LibreOffice starter opp og installerer stavekontrollen. Du får et
-            spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for
-            å installere den:<br/>
-            <img src="images/win8-LO5-installoxt-ok-nn.png"
-            alt="Dialog for å sjekke om man vil installere tillegget."/></p>
+			<p>Du får spørsmål om for hvilke brukere du vil installere
+			utvidelsen:<br/>
+			<img src="images/osx-LO5-choose_target_users-nn.png"
+			alt="Dialog for å velge alle brukere eller bare en selv"/></p>
 
             <p>Når den er ferdig installert, dukker et vindu som ligner på det
             nedenfor opp. I bildet nedenfor er det nyinstallerte
-            stavekontrolltillegget markert (blåmerket) . Du kan klikke på
-            "Innstillingar …" for å se hvilke språk som er tilgjengelige i
-            stavekontrollen. Trykk «Lukk» og <strong>slå av og start
-            LibreOffice på nytt</strong> for å avslutte installeringa.
-            <br /><img src="images/win8-LO5-oxt-installert-nn.png"
+            stavekontrolltillegget markert (blåmerket). Trykk «Lukk» og
+            <strong>slå av og start LibreOffice på nytt</strong> for å avslutte
+            installeringa.
+            <br /><img src="images/osx-LO5-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
 		</section>
