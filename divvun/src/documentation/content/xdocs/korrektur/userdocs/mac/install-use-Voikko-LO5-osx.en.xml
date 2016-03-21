@@ -16,9 +16,10 @@
 			<img src="images/osx-LO5-voikkooxt-sma-nb.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
 
-			<p>Depending on your browser and system, the downloaded file will
-			either be automatically opened by LibreOffice or saved to disk.
-			If it is saved, double click it to install the extension.</p>
+			<p>Open LibreOffice, and open the menu <strong>Tools >
+			Extensions…</strong>:<br/>
+			<img src="images/osx-LO5-tool_addition-menu-nn.png"
+			alt="Screenshot of the  LibreOffice menu Tools - Extensions"/></p>
 
             <p>LibreOffice will start and install the spelling checker. You will
             get a question whether you want to install it. Click «Ok» to
