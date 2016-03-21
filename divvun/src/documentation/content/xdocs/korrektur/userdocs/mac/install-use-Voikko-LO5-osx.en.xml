@@ -41,15 +41,6 @@
 		<section>
             <title>How to use the spelling checker</title>
 
-            <note label="Windows users">If the input method and language are
-            <a href="enable_sme_input-win8-nob.html">configured as
-            recommended</a> in Windows 8.1, the spell checker language will
-            follow the keyboard (input) language automatically. If so, the
-            instructions below are superfluous. Just switch input method:
-            English keyboard layout when writing in English, North Sámi keyboard
-            when writing in North Sámi, etc. The speller language will switch
-            together with the keyboard layout!</note>
-
             <p>To turn on the Divvn spell checker for North Sámi, do as follows:</p>
             <ul>
                 <li>Click the fourth field from the left in the status bar, and
