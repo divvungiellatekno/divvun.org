@@ -13,12 +13,11 @@
 			<p>Stavekontroller for LibreOffice kan lastes
 			ned <a href="/korrektur/korrektur.html">her</a>. Det nedlastede
 			stavekontrolltillegget ser slik ut (navnet kan variere):<br/>
-			<img src="images/win8-LO5-voikkooxt-fi-se-nn.png"
+			<img src="images/osx-LO5-voikkooxt-sma-nb.png"
 			alt="Bilde av LibreOffice-voikko-tillegget"/></p>
 
-			<p>Avhengig av hva slags webleser og operativsystem du har, blir fila
-			enten automatisk åpnet av LibreOffice eller lagret på harddisken.
-			Hvis fila blir lagret, dobbelklikk på den for å installere den.</p>
+			<p>Åpne LibreOffice, og gå til menyen <strong>Verktøy >
+			Tillegg</strong></p>
 
             <p>LibreOffice starter opp og installerer stavekontrollen. Du får et
             spørsmål om du vil fortsette å installere utvidelsen. Trykk «Ok» for
