@@ -7,9 +7,11 @@
         <meta name="description">samisk rättstavning</meta>
     </header>
     <body>
-      <note label="NYHET! 17.12.2015">Divvun 4.0 är tillgänglig, med stöd för
-          64-bitars MS Office, och en lång rad språkliga rättelser och nya ord
-          för nordsamiska, lulesamiska og sydsamiska! <a
+
+        <note label="NYHET! 22.03.2016">Divvun 4.0.1 er tillgänglig, med rättelser för
+            ett allvarligt fel i MS Office, och med ny version för LibreOffice
+            baserad på LibreOffice-voikko 5.0. Också MacVoikko är uppdaterad med
+            en bugfix. <a
           href="korrektur/korrektur.html">Läs mera här!</a>
       </note>
 
