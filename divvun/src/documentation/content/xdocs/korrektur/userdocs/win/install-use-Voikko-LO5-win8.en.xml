@@ -28,10 +28,8 @@
 
             <p>When it is installed, a window like the one below will show up.
             In the picture below, the new speller extension is selected and
-            highlighted in blue. You can click on the button "Innstillingar …"
-            to see what languages are available in the speller.
-            Click «Lukk» and <strong>restart LibreOffice</strong> to end the
-            installation.
+            highlighted in blue. Click «Lukk» and <strong>restart
+            LibreOffice</strong> to end the installation.
             <br /><img src="images/win8-LO5-oxt-installert-nn.png"
             alt="Resultatet av installasjonen." /></p>
 
