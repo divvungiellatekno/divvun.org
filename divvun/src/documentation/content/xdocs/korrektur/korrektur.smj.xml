@@ -15,7 +15,7 @@
         </note>
 
         <section>
-            <title>Duollatjállemdárkastus Officij<icon
+            <title>Duollatjállemdárkastus MS Officij<icon
                 alt="MS Office" height="27" width="27"
                 src="images/MSOffice-icon.png"/></title>
 
@@ -55,7 +55,8 @@
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon alt="Instructions" height="44" width="44"
+                  src="images/Sign-Info-icon.png"/>
                 </td>
                 <td>
                          · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013-bagádus</a>
@@ -65,7 +66,7 @@
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
                   <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Bagádallamvideoa</a></td>
+                    src="images/Movie-icon.png"/>Bagádusvideo</a></td>
                 </tr>
                 </table>
             </section>
@@ -112,7 +113,7 @@
         </section>
 
         <section>
-            <title>Divvun-nævo <a
+            <title>Duollatjállemdárkastus <a
                 href="http://libreoffice.org">LibreOfficej<icon
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
