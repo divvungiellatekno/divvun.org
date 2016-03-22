@@ -74,13 +74,13 @@
                     alt="OSX" height="27" width="27"
                     src="images/mac.png"/></title>
 
-            <note label="HUOMIO!">Divvun 4.0 MS Officelle OSX:llä <strong>ei ole
+            <note label="HUOMIO!">Divvun 4 MS Officelle OSX:llä <strong>ei ole
                 vielä saatavilla</strong> odottamattomien ongelmien takia.
                 Työskentelemme jotta saamme päivitettyä ne sivuille niin pian
                 kuin mahdollista. Alta voit ladata vanhan version. HOX! Vanha
-                versio <strong>ei toimi MS Office 2015:ssa!</strong> Divvun 4.0
-                LibreOfficelle toimii moitteettomasti (katso alta), kuten myös
-                <a href="oswide.html">MacVoikko</a>.
+                versio <strong>ei toimi MS Office 2015:ssa!</strong> Divvun
+                4.0.1 LibreOfficelle toimii moitteettomasti (katso alta), kuten
+                myös <a href="oswide.html">MacVoikko</a>.
             </note>
 
                 <table>
