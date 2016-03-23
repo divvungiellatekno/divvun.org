@@ -2,20 +2,38 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Divvun-ohjelman asennus ja käyttö Windows-koneella</title>
+		<title>Installering og bruk av Divvun-verktøyene på Windows</title>
 	</header>
 	<body>
-		<section>
-			<title>Divvun-ohjelman käyttäminen</title>
-			<p>1. Divvun-ohjelmaa käytettäessä täytyy määritellä käytettävä kieli saamen kieleksi. Kun avaat MS Office -sovelluksen osoita  <strong>Oikoluku</strong> , valitse  <strong>Näyttökieli</strong> ja  <strong>Saamen kieli:</strong> </p>
+        <section>
+			<title>Bruke Divvun på Windows</title>
+			<p>For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle
+			datamaskinen  at du skriver på samisk ved å velge det som
+			skrivespråk.</p>
+			<p>1. Når du har åpnet MS Office klikker du på fliken
+			<strong>Se gjennom</strong> , der velger du  <strong>Angi
+			språk</strong><img src="images/PC_14_Office_2003_velg_sprak.png"
+			alt="Meny for å velge samisk"/></p>
+			<p>2. I dialogen som dukker opp velger du  <strong>Samisk</strong>
+			eller <strong>Lulesamisk</strong> . NB! Sørg for at det ikke er en
+			hake i  <strong>Identifiser språk automatisk</strong> . Om det er
+			det hopper Office automatisk tilbake til andre språk enn samisk hele
+			tida, og divvun-verktøyene fungerer ikke som forventet.
+			<img src="images/PC_15_Office_2003_bestem_sprak.png"
+			alt="Velg språk-dialog"/></p>
+			<p>3. Nå kan du begynne å skrive på samisk, og programmet hjelper
+			deg å stave rett. Du kan enten velge å høyretrykke på ord med røde
+			streker under. Da ser det slik ut:</p>
+
 			<p>
-				<img src="images/PC_12_MSOffice_choose_language_cut.png" alt="Valitse &quot;Saamen kieli&quot; kirjoituskieleksi"/>
+				<img src="images/PC_16_Bruke_stavekontrollen.png"
+				alt="Forslag i meny"/>
 			</p>
-			
-			<p>2. Nyt voit kirjoittaa saamen kielellä ja käyttää Divvun-työkalua apuna oikoluvussa: </p>
-			<p>
-				<img src="images/PC_13_MSOffice_example_cut.png" alt="Oikolukuohjelma käytössä"/>
-			</p>
-		</section>
+
+			<p>eller du kan starte stavekontrollen i eget vindu. Trykk på
+			  <img src="images/PC_17_abc_knapp.png" alt="abc-knappen"/>.
+			  Resultatet blir: <img src="images/PC_13_MSOffice_example_cut.png"
+			  alt="Stavekontrollen i bruk"/></p>
+			</section>
 	</body>
 </document>
