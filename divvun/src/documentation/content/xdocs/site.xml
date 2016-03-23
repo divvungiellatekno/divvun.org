@@ -79,8 +79,12 @@
                 <windoc label="På Windows 7" href="install-msoff-win7.html" />
               </wininstall>
               <keyboards label="Slå på samiske tastatur">
-                <windoc label="Windows 8" href="enable_sme_input-win8-nob.html" />
-                <windoc label="Windows 7" href="enable_sme_input-win7-nob.html" />
+                <windoc label="Windows 8" href="enable_sme_input-win8.html" />
+                <win7 label="Windows 7">
+                  <win7-sme label="Nordsamisk" href="enable_sme_input-win7.html" />
+                  <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
+                  <win7-sma label="Sørsamisk"  href="enable_sma_input-win7.html" />
+                </win7>
                 <windoc label="Windows XP" href="enable-keyboard-xp.html" />
               </keyboards>
               <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-win8.html" />
