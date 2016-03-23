@@ -84,7 +84,7 @@
                 </win7>
               </keyboards>
               <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-win8.html" />
-              <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
+              <removedivvun label="Fjern Divvun 2.x" href="remove-msoff-win7.html" />
               <remove_fix label="Fiks 3.0" href="fix-3.0.html"/>
             </win>
             <mac label="MacOSX" href="mac/">
