@@ -3,93 +3,93 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installere Divvun for MS Office 2011</title>
+      <title>Asenna Divvun MS Office 2011</title>
    </header>
    <body>
 
       <section>
-         <title>Skaffe Divvun</title>
+         <title>Hae Divvun</title>
          <p><a
-          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hent
-          nyeste Divvun på nettet</a> eller
-          bestill en CD fra Sametinget, tel: +47 78 48 42 22.</p>
+          href="http://www.divvun.no/static_files/sami-proofing-tools.dmg">Hae
+          uusin Divvun verkosta</a> tai
+          tilaa CD Saamelaiskäräjiltä, tel: +47 78 48 42 22.</p>
       </section>
 
       <section>
-         <title>Installering</title>
+         <title>Asennus</title>
 
-         <note>Om du oppgraderer fra versjon 1, må du
-         <a href="remove-msoff-2008-nob.html">avinstallere</a> den gamle
-         versjonen før du installerer versjon 2. Det kan uansett være lurt å
-         avinstallere tidligere versjoner før man installerer den nye.</note>
+         <note>Jos päivität versiosta 1, tulee sinun
+         <a href="remove-msoff-2008-nob.html">poistaa</a> vanha
+         versio ennen kuin asennat version 2. Se voi kuitenkin olla että tulee
+         poistaa aiemmat versiot ennen kuin asentaa uuden.</note>
 
-         <p>1. Om du har CD-en, putt den inn i datamaskinen, og gå til neste
-         punkt. Om du har lasta ned Divvun fra nettet, kan det hende du må
-         åpne Nedlastings-mappa, og dobbeltklikke på Divvun-filen
+         <p>1. Jos sinulla on CD, laita se tietokoneeseen, ja etene seuraavaan
+         kohtaan. Jos olet hakenut Divvunin verkosta, voi olla että joudut
+         avaamaan Lataus-hakemiston, ja tuplaklikkaamaan Divvun-tiedostoa
          (<em>sami-proofing-tools.dmg</em>):</p>
 
-         <p><img alt="Dobbelklikk på nedlasta dmg-fil"
+         <p><img alt="Tuplaklikkaa ladattua dmg-dietostoa"
          src="images/installation-dl_folder-msoff-2011-nob.png" /></p>
 
-         <p>2. Dobbelklikk på
-         den gule eska (installeringspakka) med navnet «<em>Divvun for MS Office
-         2011</em>»:</p>
+         <p>2. Tupplaklikkaa
+         keltaista laatikkoa (asennuspaketti) nimellä «<em>Divvun MS Office
+         2011:lle</em>»:</p>
 
-         <p><img alt="Dobbelklikk på installeringspakka"
+         <p><img alt="Tuplaklikkaa asennuspakettia"
          src="images/installation-dmg_open-msoff-2011-nob.png" /></p>
 
-         <p>3. I MacOSX 10.8 (Mountain Lion) vil du få en advarsel (men ikke i
-         eldre versjoner - gå direkte til punkt 7):</p>
+         <p>3. MacOSX 10.8:ssa (Mountain Lion) saat varoituksen (mutta ei
+         vanhemmissa versioissa - mene suoraan kohtaan 7):</p>
 
-         <p><img alt="Advarsel om ukjent utvikler"
+         <p><img alt="Varoitus tuntemattomista kehittäjistä"
          src="images/installation-unknown_dev_dialog-msoff-2011-osx10.8-nob.png"
          /></p>
 
-         <p>4. Klikk <strong>OK</strong> og høgreklikk (Kontroll-klikk) på
-         installeringspakka, og velg <strong>Åpne</strong> fra menyen:</p>
+         <p>4. Klikkaa <strong>OK</strong> ja oikeaklikkaa (Kontrolli-klikki)
+         asennuspakettia, ja valitse <strong>Avaa</strong> menusta:</p>
 
-         <p><img alt="Åpne med meny for å godkjenne"
+         <p><img alt="Avaa menulla hyväksyäksesi"
          src="images/installation-mtlion_open_dmg-msoff-2011-nob.png" /></p>
 
-         <p>5. Du får et nytt spørsmål om du vil åpne installeringspakka.
-         Klikk <strong>Åpne</strong>:</p>
+         <p>5. Saat uuden kysymyksen jos haluat avata asennuspaketin.
+         Klikkaa <strong>Avaa</strong>:</p>
 
-         <p><img alt="Bekreft at du vil åpne installeringspakka"
+         <p><img alt="Vahvista että avaat asennuspaketin"
          src="images/installation-mtlion_confirm_open_dmg-msoff-2011-nob.png"
          /></p>
 
-         <p>6. For å få lov til å fortsette må du skrive inn et
-         administratornavn og -passord:</p>
+         <p>6. Jatkaaksesi kirjoita
+         ylläpitonimi ja -salasana:</p>
 
-         <p><img alt="Det kreves et administratorpassord"
+         <p><img alt="Tarvitaan ylläpitonimi"
          src="images/installation-mtlion_confirm_dmgopen_adminpw-nob.png"
          /></p>
 
-         <p>7. Installereren starter, og viser en velkomstside:</p>
+         <p>7. Asentaja starttaa, ja näyttää tervetuloasivun:</p>
 
-         <p><img alt="Velkomstsiden i installereren"
+         <p><img alt="Tervetuloasivu asentajassa"
          src="images/installation-installer_1_page-msoff-2011-nob.png" /></p>
 
-         <p>8. Klikk på <strong>Fortsett</strong> til installeringsprogrammet er
-         klart til å starte selve installeringen, og klikk deretter på
-         <strong>installer</strong>:</p>
+         <p>8. Klikkaa <strong>Jatka</strong> kunnes asennusohjelma on
+         valmis aloittamaan itse asennuksen, ja klikkaa sen jäkleen
+         <strong>asenna</strong>:</p>
 
-         <p><img alt="Start sevle installeringen"
+         <p><img alt="Aloita asennus"
          src="images/installation-starting-msoff-2011-nob.png" /></p>
 
-         <p>9. Installasjonen må godkjennes av en administrator:</p>
+         <p>9. Asennus tulee hyväksyä ylläpidolla:</p>
 
-         <p><img alt="Installeringen må godkjennes av en administrator"
+         <p><img alt="Asennus tulee hyväksyä ylläpidolla"
          src="images/installation-adminpw-nob.png" /></p>
 
-         <p>10. Programvaren blir installert, og om alt har gått bra, vil denne
-         avslutningssiden vises:</p>
+         <p>10. Ohjelma asentui, ja jos kaikki meni hyvin, tulee
+         loetusikkuna näkyviin:</p>
 
-         <p><img alt="Installeringen er ferdig"
+         <p><img alt="Asennus on valmis"
          src="images/installation-done-msoff-2011-nob.png" /></p>
 
-         <p>11. Installeringen er nå ferdig og du har Divvun-verktøyene på
-         datamaskinen din.</p>
+         <p>11. Asennus on nyt valmis ja sinulla on Divvun-työkalut
+         tietokoneessasi.</p>
 
       </section>
    </body>
