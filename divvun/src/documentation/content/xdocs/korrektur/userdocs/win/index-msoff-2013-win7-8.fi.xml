@@ -3,23 +3,23 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installere og bruke Divvun med MS Office 2013</title>
+      <title>Asenna ja käytä Divvun MS Office 2013:lla</title>
    </header>
    <body>
      <ol>
-       <li>Installere Divvun på:
+       <li>Asenna Divvun:
          <ul>
-           <li><a href="install-msoff-win8.html">MS Windows8</a></li>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li>Slå på samisk tastatur i:
+       <li>Saamen näppäimistö päälle:
          <ul>
            <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
            <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2010-win7-sme-nob.html">Bruke Divvun i MS Office 2013</a></li>
+       <li><a href="use-msoff-2010-win7-sme-nob.html">Käytä Divvunia MS Office 2013:ssa</a></li>
      </ol>
    </body>
 </document>

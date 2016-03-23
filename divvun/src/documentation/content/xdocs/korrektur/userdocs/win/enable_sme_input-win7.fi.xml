@@ -2,40 +2,39 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Nordsamisk som innspråk i Windows 7</title>
+        <title>Pohjoissaame tekstipalveluna Windows 7:lle</title>
     </header>
     <body>
         <section>
-            <title>Innstillinger i Windows 7 for å kunne skrive på nordsamisk</title>
+            <title>Asetukset Windows 7:ssa voidaksesi kirjoittaa pohjoissaameksi</title>
 
-            <p>Vi viser hvordan man setter opp nordsamisk som inndataspråk. Når man velger nordsamisk som inndataspråk, vil stavekontrollen automatisk gjøres på nordsamisk når man har installert Divvun-verktøyene.</p>
-
+            <p>Näytämme kuinka asennetaan pohjoissaame sisäänkieleksi. Kun valitsee pohjoissaamen sisäänkieleksi, oikoluku tehdään automaattisesi pohjoissaameksi kun on asentanut Divvun-työkalut.</p>
             <ol>
-                <li>Gå til <strong>Start</strong>, velg <strong>Kontrollpanel</strong>
-                    <p><img src="images/win7_start_fi.png" alt="Startmeny" /></p>
+                <li>Mene <strong>Start</strong>, valitse <strong>Ohjauspaneeli</strong>
+                    <p><img src="images/win7_start_fi.png" alt="Alkumenu" /></p>
                 </li>
 
-                <li>Velg <strong>Endre tastatur- eller andre inndatametoder</strong> kontrollpanel.
-                    <p><img src="images/win7_kontrollpanel_fi.png" alt="Kontrollpanel"/></p>
+                <li>Valitse <strong>Vaihda näppäimistö- tai muut kirjoitusmetodit</strong> ohjauspaneeli.
+                    <p><img src="images/win7_kontrollpanel_fi.png" alt="Ohjauspaneeli"/></p>
                 </li>
 
-                <li>Dialogen Region og språk dukker opp. Velg <strong>Endre tastaturer...</strong>.
-                    <p><img src="images/win7_region_og_sprak_fi.png" alt="Region og språk" /></p>
+                <li>Dialogi Alue ja kieli ponnahtaa esiin. Valitse <strong>Vaihda näppäimistö...</strong>.
+                    <p><img src="images/win7_region_og_sprak_fi.png" alt="Alue ja kieli" /></p>
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> dukker opp. Velg <strong>Legg til...</strong>.
-                    <p><img src="images/win7_teksttjenester_og_inndatasprak_fi.png" alt="Teksttjenester og inndataspråk"/></p>
+                <li>Dialogi <strong>Tekstipalvelut ja syöttökielet</strong> ponnahtaa esiin. Valitse <strong>Lisää...</strong>.
+                    <p><img src="images/win7_teksttjenester_og_inndatasprak_fi.png" alt="Tekstipalvelut ja syöttökielet"/></p>
                 </li>
 
-                <li>Dialogen <strong>Legg til inndataspråk</strong> dukker opp. Gå til Nordsamisk (Norge). Velg <strong>Samisk, utvidet Norge</strong>.
-                    <p><img src="images/win7_legg_til_inndatasprak_sme_fi.png" alt="Legg til inndataspråk"/></p>. Trykk deretter <strong>OK</strong>.
+                <li>Dialogi <strong>Kielen lisääminen</strong> ponnahtaa esiin. Mene Pohjoissaame (Suomi). Valitse <strong>saame, Suomen ja Ruotsin kieliversiot</strong>.
+                    <p><img src="images/win7_legg_til_inndatasprak_sme_fi.png" alt="Kielen lisääminen"/></p>. Paina sen jälkeen <strong>OK</strong>.
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> viser nå <strong>Nordsamisk (Norge)</strong> i tillegg til norsk.
-                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sme_fi.png" alt="Teksttjenester og inndataspråk etter å ha valgt nordsamisk"/></p>.
+                <li>Dialogi <strong>Tekstipalvelut ja syöttökielet</strong> näkyy nyt <strong>Phjoissaame (Suomi)</strong> suomen lisäksi.
+                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sme_fi.png" alt="Tekstipalvelut ja syöttökielet pohjoissaamen valinnan jälkeen"/></p>.
                 </li>
 
-                <li>Trykk deretter på <strong>OK</strong>-knappen i alle dialogene.</li>
+                <li>Paina sen jälkeen <strong>OK</strong>-nappia kaikissa dialogeissa.</li>
             </ol>
         </section>
     </body>

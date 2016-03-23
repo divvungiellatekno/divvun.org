@@ -2,17 +2,17 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Installing the Divvun tools on Windows 8</title>
+		<title>Divvun työkalujen asennus Windows 8:lle</title>
 	</header>
 	<body>
 		<section>
-			<title>Downloading and installing the Divvun tools on Windows 8</title>
+			<title>Divvun työkalujen asennus Windows 8:lle</title>
 			<ol>
-				<li>Go to the <a href="http://divvun.no">Divvun site</a></li>
+				<li>Mene <a href="http://divvun.no">Divvun sivuille</a></li>
 				<li>
-					Click on the download link.
+					Klikkaa latauslinkkiä.
 					<p>
-						<img src="images/download-3.fi.png" alt="The download area"/>
+						<img src="images/download-3.fi.png" alt="Latausalue"/>
 					</p>
 				</li>
 				<li>
@@ -23,9 +23,9 @@
 						<dd>
 							<ul>
 								<li>
-									Click on <strong>Run</strong>
+									Klikkaa <strong>Aja</strong>
 									<p>
-										<img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+										<img src="images/explorer-save-en.png" alt="Explorer tallennusdialogi"/>
 									</p>
 								</li>
 							</ul>
@@ -36,15 +36,15 @@
 						<dd>
 							<ul>
 								<li>
-									Click on <strong>Save</strong>
+									Klikkaa <strong>Tallenna</strong>
 									<p>
-										<img src="images/firefox-save.png" alt="Firefox save dialog"/>
+										<img src="images/firefox-save.png" alt="Firefox tallennusdialogi"/>
 									</p>
 								</li>
 								<li>
-									Double click on the Divvun installer
+									Tuplaklikkaa Divvun asentajaa
 									<p>
-										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
+										<img src="images/firefox-double-click.png" alt="Ladattu asentaja"/>
 									</p>
 								</li>
 							</ul>
@@ -55,9 +55,9 @@
 						<dd>
 							<ul>
 								<li>
-									Double click on the Divvun installer
+									Tuplaklikkaa Divvun asentajaa
 									<p>
-										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
+										<img src="images/google-chrome-save.png" alt="Ladattu asentaja"/>
 									</p>
 								</li>
 							</ul>
@@ -65,13 +65,13 @@
 					</dl>
 				</li>
 				<li>
-					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears.
+					Klikkaa <strong>Kyllä</strong> kun <em>User Account Control</em> dialogi ilmestyy.
 				</li>
 				<li>
-					A dialog window appears and disappears. Divvun is now installed.
+					Dialogi-ikkuna ilmestyy ja katoaa. Divvun on nyt asennettu.
 				</li>
 				<li>
-					Log out and in again to activate the Divvun tools.
+					Uudelleenkirjaudu aktivoidaksesi.
 				</li>
 			</ol>
 		</section>

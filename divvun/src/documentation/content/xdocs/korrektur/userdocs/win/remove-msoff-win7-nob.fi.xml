@@ -2,31 +2,31 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Fjerne Divvun-verktøyene fra Windows 7</title>
+        <title>Poista Divvun-työkalut Windows 7:stä</title>
     </header>
     <body>
         <section>
-            <title>Fjerne Divvun-verktøyene fra Windows 7</title>
+            <title>Poista Divvun-työkalut Windows 7:stä</title>
 
             <ol>
-                <li>Gå til <strong>Start</strong>, velg
-                    <strong>Datamaskin</strong>
-                    <p><img src="images/win7_start_no.png"
-                    alt="Startmeny" /></p>
+                <li>Mene <strong>Aloitus</strong>, valitse
+                    <strong>Tietokone</strong>
+                    <p><img src="images/win7_start_fi.png"
+                    alt="Aloitus" /></p>
                 </li>
 
-                <li>Gå til mappen <strong>Lokal disk (C) -> Backup ->
-                    Divvun</strong> og dobbeltklikk programmet
+                <li>Mene hakemistoon <strong>Lokal disk (C) -> Backup ->
+                    Divvun</strong> ja tuplaklikkaa ohjelmaa
                     <strong>remove_SamiProofingTools.exe</strong>
                     <p><img src="images/remove_divvun-win7-nob.png"
-                        alt="Kontrollpanel"/></p>
+                        alt="Ohjauspaneeli"/></p>
                 </li>
 
-                <li>Når du har trykket <strong>Lukk</strong> i
-                    avinstallasjonsdialogen, er Divvunverktøyene fjenet.
+                <li>Kun olet painanut <strong>Sulje</strong>
+                    poistamisgialogissa, on Divvuntyökalut poistettu.
                     <p><img src="images/remove_divvun_dialog-win7-nob.png"
-                    alt="Avinstaller Divvun"/>
-                        og trykk deretter <strong>Avinstaller</strong></p>
+                    alt="Poista Divvun"/>
+                        ja paina sen jälkeen <strong>Poista</strong></p>
                 </li>
             </ol>
         </section>
