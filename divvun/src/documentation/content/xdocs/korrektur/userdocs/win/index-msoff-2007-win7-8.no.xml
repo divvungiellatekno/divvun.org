@@ -3,13 +3,13 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installere og bruke Divvun med MS Office 2003 og 2007</title>
+      <title>Installere og bruke Divvun med MS Office 2007</title>
    </header>
    <body>
      <ol>
        <li>Installere Divvun på:
          <ul>
-           <li>MS Windows 8</li>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
@@ -19,7 +19,7 @@
            <li><a href="enable_sme_input-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2007.html">Bruke Divvun i MS Office 2003 og 2007</a></li>
+       <li><a href="use-msoff-2007.html">Bruke Divvun i MS Office 2007</a></li>
      </ol>
    </body>
 </document>
