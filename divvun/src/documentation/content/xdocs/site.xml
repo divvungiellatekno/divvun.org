@@ -62,16 +62,13 @@
             <win label="Windows" href="win/">
               <msoff13 label="Divvun og MS Office 2013">
                 <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2013-win7-8.html" />
-                <windoc label="Oversikt Windows XP" href="index-msoff-2013-xp.html" />
               </msoff13>
               <msoff10 label="Divvun og MS Office 2010">
                 <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2010-win7-8.html" />
-                <windoc label="Oversikt Windows XP" href="index-msoff-2010-xp.html" />
                 <windoc label="Bruk" href="use-msoff-2010-win7-sme-nob.html" />
               </msoff10>
               <msoff07 label="Divvun og MS Office 2007">
                 <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2007-win7-8.html" />
-                <windoc label="Oversikt Windows XP" href="index-msoff-2007-xp.html" />
                 <windoc label="Bruk" href="use-msoff-2007.html" />
               </msoff07>
               <wininstall label="Installer Divvun">
@@ -85,7 +82,6 @@
                   <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
                   <win7-sma label="Sørsamisk"  href="enable_sma_input-win7.html" />
                 </win7>
-                <windoc label="Windows XP" href="enable-keyboard-xp.html" />
               </keyboards>
               <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-win8.html" />
               <removedivvun label="Fjern Divvun" href="remove-msoff-win7-nob.html" />
