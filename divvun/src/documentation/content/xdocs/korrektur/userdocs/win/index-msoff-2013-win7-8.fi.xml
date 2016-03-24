@@ -7,19 +7,26 @@
    </header>
    <body>
      <ol>
-       <li>Asenna Divvun:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+         Asenna Divvun:
          <ul>
            <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li>Saamen näppäimistö päälle:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+         Saamen näppäimistö päälle:
          <ul>
            <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
            <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2010-win7-sme-nob.html">Käytä Divvunia MS Office 2013:ssa</a></li>
+       <li>
+         <a href="use-msoff-2010-win7-sme-nob.html">
+         <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
+         Käytä Divvunia MS Office 2013:ssa</a></li>
      </ol>
    </body>
 </document>

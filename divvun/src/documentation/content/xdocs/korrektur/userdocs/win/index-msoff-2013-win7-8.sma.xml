@@ -8,19 +8,26 @@
    </header>
    <body>
      <ol>
-       <li>Sijjiedehtedh Divvun-dïrregem:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+         Sijjiedehtedh Divvun-dïrregem:
          <ul>
            <li><a href="install-msoff-win8.html">MS Windows8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows  7</a></li>
          </ul>
        </li>
-       <li>Saemien båaloebuertie:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+         Saemien båaloebuertie:
          <ul>
            <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
            <li><a href="enable_sma_input-win7-nob.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2010-win7-sma-nob.html">Divvun-dïrregem utnedh
+       <li>
+         <a href="use-msoff-2010-win7-sma-nob.html">
+         <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
+         Divvun-dïrregem utnedh
        MS Office 2010:esne</a></li>
      </ol>
    </body>

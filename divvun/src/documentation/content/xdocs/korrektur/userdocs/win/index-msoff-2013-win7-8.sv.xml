@@ -7,19 +7,26 @@
    </header>
    <body>
      <ol>
-       <li>Installera Divvun på:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+         Installera Divvun på:
          <ul>
            <li><a href="install-msoff-win8.html">MS Windows8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li>Ta fram samiskt tangentbord i:
+       <li>
+         <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+         Ta fram samiskt tangentbord i:
          <ul>
            <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
            <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
          </ul>
        </li>
-       <li><a href="use-msoff-2010-win7-sme-nob.html">Använda Divvun i MS Office 2013</a></li>
+       <li>
+         <a href="use-msoff-2010-win7-sme-nob.html">
+         <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
+         Använda Divvun i MS Office 2013</a></li>
      </ol>
    </body>
 </document>
