@@ -60,29 +60,25 @@
           <index  label="Siste versjon" href="korrektur.html"/>
           <userdocs label="Vegledninger" href="userdocs/">
             <win label="Windows" href="win/">
-              <msoff13 label="Divvun og MS Office 2013">
-                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2013-win7-8.html" />
-              </msoff13>
-              <msoff10 label="Divvun og MS Office 2010">
-                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2010-win7-8.html" />
-                <windoc label="Bruk" href="use-msoff-2010-win7-sme-nob.html" />
-              </msoff10>
-              <msoff07 label="Divvun og MS Office 2007">
-                <windoc label="Oversikt Windows 7 &amp; 8" href="index-msoff-2007-win7-8.html" />
-                <windoc label="Bruk" href="use-msoff-2007.html" />
-              </msoff07>
-              <wininstall label="Installer Divvun">
-                <windoc label="På Windows 8" href="install-msoff-win8.html" />
-                <windoc label="På Windows 7" href="install-msoff-win7.html" />
-              </wininstall>
-              <keyboards label="Slå på samiske tastatur">
-                <windoc label="Windows 8" href="enable_sme_input-win8.html" />
-                <win7 label="Windows 7">
-                  <win7-sme label="Nordsamisk" href="enable_sme_input-win7.html" />
-                  <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
-                  <win7-sma label="Sørsamisk"  href="enable_sma_input-win7.html" />
-                </win7>
-              </keyboards>
+              <msoff label="MS Office">
+                <index label="Oversikt" href="index-msoff.html"/>
+                <wininstall label="Installer Divvun">
+                  <windoc label="Windows 8" href="install-msoff-win8.html" />
+                  <windoc label="Windows 7" href="install-msoff-win7.html" />
+                </wininstall>
+                <keyboards label="Slå på samiske tastaturer">
+                  <windoc label="Windows 8" href="enable_sme_input-win8.html" />
+                  <win7 label="Windows 7">
+                    <win7-sme label="Nordsamisk" href="enable_sme_input-win7.html" />
+                    <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
+                    <win7-sma label="Sørsamisk"  href="enable_sma_input-win7.html" />
+                  </win7>
+                </keyboards>
+                <use-msoff label="Bruke Divvun med MS Office">
+                  <windoc label="2010" href="use-msoff-2010-win7-sme-nob.html" />
+                  <windoc label="2007" href="use-msoff-2007.html" />
+                </use-msoff>
+              </msoff>
               <LO_userguide label="LibreOffice" href="install-use-Voikko-LO5-win8.html" />
               <removedivvun label="Fjern Divvun 2.x" href="remove-msoff-win7.html" />
               <remove_fix label="Fiks 3.0" href="fix-3.0.html"/>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+   <header>
+      <title>Sijjiedehedh jïh utnedh Divvun-dïrregidie MS Officine</title>
+   </header>
+   <body>
+     <ol>
+       <li>
+         <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+         Sijjiedehtedh Divvun-dïrregidie:
+         <ul>
+           <li>MS Windows 10</li>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
+           <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
+         </ul>
+       </li>
+       <li>
+         <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+         Saemien båaloebuertie:
+         <ul>
+           <li>MS Windows 10</li>
+           <li><a href="enable_sme_input-win8.html">MS Windows 8</a></li>
+           <li><a href="enable_sma_input-win7.html">MS Windows 7</a></li>
+         </ul>
+       </li>
+       <li>
+         <img height="44pt" width="44pt"
+         src="images/off2007-abc_button-nob.png"/>Divvun-dïrregidie utnedh:
+         <ul>
+           <li>MS Office 2016:esne</li>
+           <li>MS Office 2013:esne</li>
+           <li><a href="use-msoff-2010-win7-sma-nob.html">MS Office 2010:esne</a></li>
+           <li><a href="use-msoff-2007.html">MS Office 2007:sne</a></li>
+         </ul>
+       </li>
+     </ol>
+   </body>
+</document>

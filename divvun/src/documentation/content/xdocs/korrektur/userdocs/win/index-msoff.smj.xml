@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"document-v20.dtd">
+<document>
+  <header>
+    <title>Installerit ja adnet Divvun-ræjdojt MS Officen</title>
+  </header>
+  <body>
+    <ol>
+      <li>
+        <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+        Installerit Divvunav:
+        <ul>
+           <li>MS Windows 10</li>
+          <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
+          <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
+        </ul>
+      </li>
+      <li>
+        <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+        Adnuj válldet nuorttasáme boallobievdev:
+        <ul>
+           <li>MS Windows 10</li>
+          <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
+          <li><a href="enable_smj_input-win7-nob.html">MS Windows 7</a></li>
+        </ul>
+      </li>
+      <li>
+        <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
+        Adnet Divvunav:
+         <ul>
+           <li>MS Office 2016:n</li>
+           <li>MS Office 2013:n</li>
+           <li><a href="use-msoff-2010-win7-smj-nob.html">MS Office 2010:n</a></li>
+           <li><a href="use-msoff-2007.html">MS Office 2007:n</a></li>
+         </ul>
+      </li>
+    </ol>
+  </body>
+</document>

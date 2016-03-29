@@ -3,30 +3,38 @@
 "document-v20.dtd">
 <document>
    <header>
-      <title>Installera och använda Divvun med MS Office 2013</title>
+      <title>Installere og bruke Divvun med MS Office </title>
    </header>
    <body>
      <ol>
        <li>
          <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
-         Installera Divvun på:
+         Installere Divvun på:
          <ul>
-           <li><a href="install-msoff-win8.html">MS Windows8</a></li>
+           <li>MS Windows 10</li>
+           <li><a href="install-msoff-win8.html">MS Windows 8</a></li>
            <li><a href="install-msoff-win7.html">MS Windows 7</a></li>
          </ul>
        </li>
        <li>
          <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
-         Ta fram samiskt tangentbord i:
+         Slå på samisk tastatur i:
          <ul>
+           <li>MS Windows 10</li>
            <li><a href="enable_sme_input-win8-nob.html">MS Windows 8</a></li>
            <li><a href="enable_sme_input-win7-nob.html">MS Windows 7</a></li>
          </ul>
        </li>
        <li>
-         <a href="use-msoff-2010-win7-sme-nob.html">
          <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
-         Använda Divvun i MS Office 2013</a></li>
+         Bruke Divvun i:
+         <ul>
+           <li>MS Office 2016</li>
+           <li>MS Office 2013</li>
+           <li><a href="use-msoff-2010-win7-sme-nob.html">MS Office 2010</a></li>
+           <li><a href="use-msoff-2007.html">MS Office 2007</a></li>
+         </ul>
+       </li>
      </ol>
    </body>
 </document>

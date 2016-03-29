@@ -54,12 +54,9 @@
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                       · <a href="userdocs/win/index-msoff-2013-win7-8.html">Office 2013 user guides</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2010-win7-8.html">Office 2010 user guides</a>
-                  <br/>· <a href="userdocs/win/index-msoff-2007-win7-8.html">Office 2007 user guides</a>
+                  <a href="userdocs/win/index-msoff.html">
+                  <icon height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  User guides</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
