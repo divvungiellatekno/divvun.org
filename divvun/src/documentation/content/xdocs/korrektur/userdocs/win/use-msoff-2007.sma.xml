@@ -2,33 +2,37 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Guktie sijjiedehtedh jih utnedh programmem Windows:sne</title>
+		<title>Guktie utnedh programmem MS Office 2007:sne</title>
 	</header>
 	<body>
-		<section>
-			<title>Divvunem Windows:sne utnedh</title>
+	  <ol>
+	    <li>
 			<p>Jis divvundïrrege edtja maehtedh datnem viehkiehtidh, die
 			tjoeverh daatovrem stïlledh saemien gïelesne staeriedidh.</p>
 
-			<p>1. Gosse datne MS Office:m rïhpestamme die
-			diedtieh<strong>Granska</strong>jïh desnie veeljh  <strong>Ange
+			<p>Gosse datne MS Office:m rïhpestamme die
+			diedtieh<strong>Granska</strong>jïh desnie veeljh <strong>Ange
 			språk</strong><br/>
 			<img src="images/off2007-select-language-nob.png"
 			alt="Flik for å velge språk"/></p>
+	    </li>
 
-			<p>2. Daelie edtjh veeljedh<strong>Samiska</strong> jallh 
-			<strong>Lulesamiska</strong> . Vueptesth dellie! Tjoerh geehtedh
+	    <li>
+			<p>Daelie edtjh veeljedh <strong>Samiska</strong> jallh 
+			<strong>Lulesamiska</strong>. Vueptesth dellie! Tjoerh geehtedh
 			ahte <strong>Identifiera språk automatiskt</strong> ij leah
 			veeljesovveme. Jis lea nimhtie, ahte Office iktegisth bååstede jåhta
 			jeatjah gïelide, guktie Divvun-dïrregh eah buektehth staeriedidh.<br/>
 			<img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
 			alt="Velg språk-dialog"/></p>
 			
-			<p>3. Daelie maahta saemien aelkedh tjaeledh jïh provgraamme datnem
+			<p>Daelie maahta saemien aelkedh tjaeledh jïh provgraamme datnem
 			viehkehte rïekteslaakan tjaeledh. Maahtah veeljedh åelkies båaloem
 			diedtedh baakoej nelnie mej leah rööpses sïevh. Dillie naemhtie
 			våajnoe:</p>
+	    </li>
 
+	    <li>
 			<p>
 				<img src="images/PC_16_Bruke_stavekontrollen.png"
 				alt="Forslag i meny"/>
@@ -40,6 +44,7 @@
 			  <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
 			  alt="Stavekontrollen i bruk"/>
 			</p>
-		</section>
+	    </li>
+	  </ol>
 	</body>
 </document>

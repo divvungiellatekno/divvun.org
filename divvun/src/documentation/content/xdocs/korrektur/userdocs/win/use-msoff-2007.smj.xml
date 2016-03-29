@@ -2,21 +2,23 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Installasjåvnnå ja nævoj adnem Windowsin</title>
+		<title>Gåktu Divvomav adná MS Office 2007:n</title>
 	</header>
 	<body>
-		<section>
-			<title>Gåktu Divvomav adná Windowsin</title>
+	  <ol>
+	    <li>
 			<p>Jus Divvom-nævo galggi årrot dunji viehkken, de hæhttu diededit
 			dáhturij ahte dån tjálá sábmáj ja válljit dav tjállemgiellan.</p>
 
 			<p>Gå la biedjam mannuj MS Officev dieddela
-			<strong>Se igjennom</strong> , ja danna vállji
+			<strong>Se igjennom</strong>, ja danna vállji
 			<strong>Angi språk</strong><br/>
 			<img src="images/off2007-select-language-nob.png"
 			alt="Menya gånne vállji gielav"/></p>
+	    </li>
 
-			<p>2. Vinndegin mij de ihtá vállji <strong>Samisk</strong> jali
+	    <li>
+			<p>Vinndegin mij de ihtá vállji <strong>Samisk</strong> jali
 			<strong>Lulesamisk</strong>. HUOM! Dárkes vaj <strong>Identifiser
 			språk automatisk</strong> illa mierkkidum. Jus la mierkkidum Office
 			gahpat ietjá gielajda gætju ájgev, ja divvom-prográmma ij dåjma
@@ -24,8 +26,10 @@
 			<img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
 			alt="Vállji gielav-vinndek"/>
 			</p>
+	    </li>
 
-			<p>3. Dal dån máhtá sámegiellaj tjállegoahtet ja prográmma viehket
+	    <li>
+			<p>Dal dån máhtá sámegiellaj tjállegoahtet ja prográmma viehket
 			duv njuolgga stávit. Máhtá oalges boalojn dieddet bágojt majn li
 			ruoppsis sátso. Boados le dákkir: </p>
 			<p>
@@ -37,6 +41,7 @@
 			<img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
 			alt="Gåvvå: "/>
 			</p>
-		</section>
+	    </li>
+	  </ol>
 	</body>
 </document>

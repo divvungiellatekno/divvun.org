@@ -2,45 +2,50 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Installation och användning av Divvun på Windows</title>
+		<title>Användning av Divvun-verktygen i MS Office 2007</title>
 	</header>
 	<body>
-		<section>
-			<title>Användning av Divvun i Microsoft Office</title>
-			<p>För att Divvun-verktygen skall kunna hjälpa dig, måste du göra
-			klart för datamaskinen att du skriver på samiska genom att välja det
-			som inspråk. </p>
+	  <ol>
+	    <li>
+		<p>För att Divvun-verktygen skall kunna hjälpa dig, måste du göra
+		klart för datamaskinen att du skriver på samiska genom att välja det
+		som inspråk. </p>
 
-			<p>När du har öppnat MS Office klickar du på fliken
-			<strong>Granska</strong> , där väljer du  <strong>Ange
-			språk</strong><br/>
-			<img src="images/off2007-select-language-nob.png"
-			alt="Flik för att ange språk"/></p>
+		<p>När du har öppnat MS Office klickar du på fliken
+		<strong>Granska</strong> , där väljer du  <strong>Ange
+		språk</strong><br/>
+		<img src="images/off2007-select-language-nob.png"
+		alt="Flik för att ange språk"/></p>
+	    </li>
 
-			<p>2. I dialogen som dyker upp väljer du <strong>Samiska</strong>
-			eller  <strong>Lulesamiska</strong> . OBS! Se till att
-			<strong>Identifiera språk automatiskt</strong> inte är förhakad. Om
-			den är det hoppar Office automatiskt tillbaka till andra språk än
-			samiska hela tiden, och Divvun-verktygen fungerar inte som de ska.<br/>
-			<img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
-			alt="Välj språk-dialog"/>
-			</p>
+	    <li>
+		<p>I dialogen som dyker upp väljer du <strong>Sydsamiska
+		(Sverige)</strong> eller ett annat samiskt språk. OBS! Se till att
+		<strong>Identifiera språk automatiskt</strong> inte är förhakad. Om
+		den är det hoppar Office automatiskt tillbaka till andra språk än
+		samiska hela tiden, och Divvun-verktygen fungerar inte som de ska.<br/>
+		<img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
+		alt="Välj språk-dialog"/>
+		</p>
+	    </li>
 
-			<p>3. Nu kan du börja skriva på samiska, och programmet hjälper dig
-			att stava. Du kan antingen välja att högerklicka på ord med röda
-			streck under. Då ser det ut så här: </p>
+	    <li>
+		<p>Nu kan du börja skriva på samiska, och programmet hjälper dig
+		att stava. Du kan antingen välja att högerklicka på ord med röda
+		streck under. Då ser det ut så här: </p>
 
-			<p>
-				<img src="images/PC_16_Bruke_stavekontrollen.png"
-				alt="Förslag i meny"/>
-			</p>
+		<p>
+		    <img src="images/PC_16_Bruke_stavekontrollen.png"
+		    alt="Förslag i meny"/>
+		</p>
 
-			<p>eller du kan starta rättstavningskontrollen i eget fönster. Tryck
-			  på <img src="images/off2007-abc_button-nob.png" alt="abc-knappen"/>.
-			  Resultatet blir:<br/>
-			  <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
-			  alt="Rättstavningskontrollen i användning"/>
-			</p>
-		</section>
+		<p>eller du kan starta rättstavningskontrollen i eget fönster. Tryck
+		  på <img src="images/off2007-abc_button-nob.png" alt="abc-knappen"/>.
+		  Resultatet blir:<br/>
+		  <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
+		  alt="Rättstavningskontrollen i användning"/>
+		</p>
+	    </li>
+	  </ol>
 	</body>
 </document>

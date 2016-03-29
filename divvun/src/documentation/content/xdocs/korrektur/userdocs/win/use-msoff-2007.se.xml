@@ -2,30 +2,34 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Sajáiduhttit ja geavahit reaidduid Windowsis</title>
+		<title>Geavahit Divvuma MS Office 2007:s</title>
 	</header>
 	<body>
-		<section>
-			<title>Geavahit Divvuma Windowsis</title>
+	  <ol>
+	    <li>
 			<p>Fertet vuos muitalit dihtorii ahte čálát sámegiela ovdalgo
 			Divvun-reaiddut doaibmagohtet.</p>
 
-			<p>1. Go leat álggahan MS Office, de coahkkalat
-			gilkora  <strong>Se igjennom</strong> , doppe válljet  <strong>Angi
+			<p>Go leat álggahan MS Office, de coahkkalat
+			gilkora <strong>Se igjennom</strong>, doppe válljet <strong>Angi
 			språk</strong><br/>
 			<img src="images/off2007-select-language-nob.png"
 			alt="Fállu gos vállje giela"/></p>
+	    </li>
 
-			<p>2. Lásežis mii de ihtá válljet  <strong>Samisk</strong> dahje 
-			<strong>Lulesamisk</strong> . FUOM! Iskka maid ahte 
+	    <li>
+			<p>Lásežis mii de ihtá válljet <strong>Samisk</strong> dahje 
+			<strong>Lulesamisk</strong>. FUOM! Iskka maid ahte 
 			<strong>Identifiser språk automatisk</strong> ii leat merkejuvvon.
 			Jus lea merkejuvvon, de Office njuiku eará gielaide olles áiggi, ja
 			divvun-prográmmat eai doaimma nu go galget.<br/>
 			<img
 			src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
 			alt="Vállje giela-láseš"/></p>
+	    </li>
 
-			<p>3. Dál de sáhtát čálligoahtit sámegillii ja prográmma veahkeha
+	    <li>
+			<p>Dál de sáhtát čálligoahtit sámegillii ja prográmma veahkeha
 			du čállimiin. Sáhtát olgešcoahkkalit sániid main leat rukses sázut.
 			Dalle lea boađus dákkár: </p>
 
@@ -40,6 +44,7 @@
 			  <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
 			  alt="Stavekontrollen i bruk"/>
 			</p>
-		</section>
+	    </li>
+	  </ol>
 	</body>
 </document>
