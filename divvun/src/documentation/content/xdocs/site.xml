@@ -75,7 +75,7 @@
                   </win7>
                 </keyboards>
                 <use-msoff label="Bruke Divvun med MS Office">
-                  <windoc label="2010" href="use-msoff-2010-win7-sme-nob.html" />
+                  <windoc label="2010" href="use-msoff-2010-win7.html" />
                   <windoc label="2007" href="use-msoff-2007.html" />
                 </use-msoff>
               </msoff>
