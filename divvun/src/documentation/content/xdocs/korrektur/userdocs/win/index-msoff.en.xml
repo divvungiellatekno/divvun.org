@@ -8,7 +8,7 @@
    <body>
      <ol>
        <li>
-         <img height="44pt" width="44pt" src="/images/Icon-installation.png"/>
+         <img alt="image" height="44pt" width="44pt" src="/images/Icon-installation.png"/>
          Installing Divvun on:
          <ul>
            <li>MS Windows 10</li>
@@ -17,7 +17,7 @@
          </ul>
        </li>
        <li>
-         <img height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
+         <img alt="image" height="44pt" width="44pt" src="/images/Keyboard-icon.png"/>
          Turn on the Sámi keyboard in:
          <ul>
            <li><a href="enable_sami_input-win10.html">MS Windows 10</a></li>
@@ -26,7 +26,7 @@
          </ul>
        </li>
        <li>
-         <img height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
+         <img alt="image" height="44pt" width="44pt" src="images/off2007-abc_button-nob.png"/>
          Using Divvun in:
          <ul>
            <li>MS Office 2016</li>
