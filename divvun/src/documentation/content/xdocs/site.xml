@@ -67,12 +67,8 @@
                   <windoc label="Windows 7" href="install-msoff-win7.html" />
                 </wininstall>
                 <keyboards label="Slå på samiske tastaturer">
-                  <windoc label="Windows 8" href="enable_sami_input-win8.html" />
-                  <win7 label="Windows 7">
-                    <win7-sme label="Nordsamisk" href="enable_sme_input-win7.html" />
-                    <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
-                    <win7-sma label="Sørsamisk"  href="enable_sma_input-win7.html" />
-                  </win7>
+                  <win8 label="Windows 8" href="enable_sami_input-win8.html" />
+                  <win7 label="Windows 7" href="enable_sami_input-win7.html" />
                 </keyboards>
                 <use-msoff label="Bruke Divvun med MS Office">
                   <windoc label="2010" href="use-msoff-2010-win7.html" />
