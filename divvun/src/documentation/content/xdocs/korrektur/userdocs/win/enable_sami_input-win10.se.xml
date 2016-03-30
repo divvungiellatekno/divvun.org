@@ -22,7 +22,7 @@
             <li>Trykk <strong>Legg til et språk</strong>:
                 <p><img src="images/win10-prefs-time_and_lang-no.png" alt="Språk" /></p>
             </li>
-            <li>Klikk på <strong>Davvisámegiella</strong>:
+            <li>Velg <strong>Davvisámegiella</strong> ved å klikke på det:
                 <p><img src="images/win10-prefs-add-sme-no.png" alt="Legg til språk"/></p>
             </li>
             <li>Velg den varianten av <strong>Davvisámegiella</strong> som passer for deg:
@@ -41,9 +41,15 @@
                 <p><img src="images/win10-prefs-remove-norw_with_sami-keyboard-no.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Da har du <strong>davvisámegiella (Norga)</strong> som et
+            <li>Da har du <strong>Davvisámegiella (Norga)</strong> som et
                 inndataspråk med tastaturet <strong>Samisk, utvidet Norge</strong>:
                 <p><img src="images/win8_sprak_ferdig_sme_no.png"
+                alt="Språk med nordsamisk ferdigvalgt"/></p>
+            </li>
+            <li>For å skifte mellom tastatur og dermed språk trykker du 
+                <strong>Alt+Skift</strong> til det nordsamiske tastaturet er
+                aktivt:
+                <p><img src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
         </ol>
