@@ -1,47 +1,52 @@
  <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
  <document>
      <header>
-        <title>Bruke Divvun-verktøyene på MS Office 2010 for sørsamisk</title>
+        <title>Att använda Divvun-verktygen i MS Office 2010</title>
      </header>
      <body>
-         <section>
-            <title>Aktivere sørsamisk stavekontroll</title>
+      <ol>
+        <li>
+          <p>För att Divvun-verktygen skall kunna hjälpa dig, måste du göra
+          klart för datamaskinen att du skriver på samiska genom att välja det
+          som inspråk. Du kan göra detta genom att gå till språkmenyn och
+          välja <strong>Sydsamiska (Sverige)</strong>, eller genom att trycka
+          på <strong>Alt+Shift</strong> tills sydsamiska har blivit <a
+          href="enable_sma_input-win7.html">indataspråk</a>. När detta är
+          gjort vill den sydsamiska rättstavningen vara aktiverad. Då ser det
+          till exempel ut såhär:</p>
 
-             <ol>
-                <li>Start opp Word</li>
+          <p><img
+          src="images/stavekontroll_og_inndatasprak_sma-msoff-2010-win7-nob.png"
+          alt="Stavekontroll- og inndataspråkfelt"/></p>
+        </li>
 
-                <li>Velg sørsamisk som inndataspråk. Du kan gjøre dette ved å
-                    gå til språkmenyen og velge sørsamisk, eller trykke på
-                    Alt+Shift til sørsamisk er valgt. Når dette er gjort vil
-                    sørsamisk stavekontroll være aktivert. Da ser det slik
-                    ut:
-                    <p><img src="images/stavekontroll_og_inndatasprak_sma-msoff-2010-win7-nob.png" alt="Stavekontroll- og inndataspråkfelt"/></p>
-                 </li>
+        <li>
+          <p>För att vara säker på att Word enbart använder den samiska
+          rättstavningen, kan man klicka på språknamnet längst ner i fönstret
+          (se bilden ovan). Kolla sen att <strong>Identifisera språk
+          automatiskt</strong> inte är ifylld. Då skall det se ut så här:</p>
 
-                <li>For å være sikker på at Word bare kjører stavekontroll på
-                    det språket du har valgt, trykk på stavekontrollfeltet og
-                    pass på at <strong>Identifiser språk automatisk</strong>
-                    ikke er merket. Da ser det slik ut:
-                     <p><img src="images/ikke_automatisk_gjenkjenning_sma-msoff-2010-win7-nob.png" alt="Identifiser språk automatisk avmerket"/></p>
-                 </li>
-             </ol>
-         </section>
+          <p><img
+          src="images/ikke_automatisk_gjenkjenning_sma-msoff-2010-win7-nob.png"
+          alt="Identifiser språk automatisk avmerket"/></p>
 
-         <section>
-            <title>Bruke sørsamisk stavekontroll</title>
-            <p>Når du skriver vil du få røde streker under de ordene
-            stavekontrollen ikke godtar. Du kan enten velge å høyretrykke på
-            ord med røde streker under. Da ser det slik ut:</p>
-             <p><img src="images/PC_16_Bruke_stavekontrollen.png"
+        </li>
+        <li>
+          <p>Nu kan du börja skriva på samiska, och programmet hjälper dig
+          att stava. Du kan antingen välja att högerklicka på ord med röda
+          streck under. Då ser det ut så här:</p>
+
+          <p><img src="images/PC_16_Bruke_stavekontrollen.png"
                  alt="Forslag i meny"/></p>
 
-            <p>eller du kan starte stavekontrollen i eget vindu.
-                Velg <strong>Se gjennom</strong> i menyen.
-                Trykk på
-                 <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.
-                Resultatet blir: <img
-                 src="images/PC_13_MSOffice_example_cut.png"
-                 alt="Stavekontrollen i bruk"/></p>
-         </section>
-     </body>
+          <p>eller du kan starta rättstavningskontrollen i eget fönster.
+          Välj <strong>Se genom</strong> i menyn, tryck sen på ABC-knappen:<br/>
+          <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.</p>
+
+          <p>Resultatet blir:<br/>
+          <img src="images/PC_13_MSOffice_example_cut.png"
+           alt="Stavekontrollen i bruk"/></p>
+        </li>
+      </ol>
+    </body>
  </document>

@@ -2,47 +2,54 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Bruke Divvun-verktøyene på MS Office 2010 for lulesamisk</title>
+      <title>Bruke Divvun-verktøyene i MS Office 2010</title>
     </header>
     <body>
-        <section>
-            <title>Aktivere lulesamisk stavekontroll</title>
-            <ol>
-                <li>Start opp Word</li>
+      <ol>
+        <li>
+          <p>For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle
+          datamaskinen at du skriver på samisk ved å velge det som
+          skrivespråk. Du kan gjøre dette ved å gå til språkmenyen og velge
+          <strong>Lulesamisk (Norge)</strong>, eller trykke på
+          <strong>Alt+Skift</strong> til lulesamisk har blitt <a
+          href="enable_sma_input-win7.html">inndataspråk</a>. Når dette er
+          gjort vil lulesamisk stavekontroll være aktivert. Da kan det se for
+          eksempel slik ut:</p>
 
-                <li>Velg lulesamisk som inndataspråk. Du kan gjøre dette ved å
-                    gå til språkmenyen og velge lulesamisk, eller trykke på
-                    Alt+Shift til lulesamisk er valgt. Når dette er gjort vil
-                    lulesamisk stavekontroll være aktivert. Da ser det slik
-                    ut:
-                    <p><img src="images/stavekontroll_og_inndatasprak_smj-msoff-2010-win7-nob.png" alt="Stavekontroll- og inndataspråkfelt"/></p>
-                </li>
+          <p><img
+          src="images/stavekontroll_og_inndatasprak_smj-msoff-2010-win7-nob.png"
+          alt="Stavekontroll- og inndataspråkfelt"/></p>
+        </li>
 
-                <li>For å være sikker på at Word bare kjører stavekontroll på
-                    det språket du har valgt, trykk på stavekontrollfeltet og
-                    pass på at <strong>Identifiser språk automatisk</strong>
-                    ikke er merket. Da ser det slik ut:
-                    <p><img src="images/ikke_automatisk_gjenkjenning_smj-msoff-2010-win7-nob.png" alt="Identifiser språk automatisk avmerket"/></p>
-                </li>
-            </ol>
-        </section>
+        <li>
+          <p>For å være sikker på at Word bare kjører stavekontroll på
+          det språket du har valgt, trykk på stavekontrollfeltet og pass på
+          at <strong>Identifiser språk automatisk</strong> ikke er merket.
+          Da ser det slik ut:
+          </p>
 
-        <section>
-            <title>Bruke lulesamisk stavekontroll</title>
-            <p>Når du skriver vil du få røde streker under de ordene
-            stavekontrollen ikke godtar. Du kan enten velge å høyretrykke på
-            ord med røde streker under. Da ser det slik ut:</p>
+          <p><img
+          src="images/ikke_automatisk_gjenkjenning_smj-msoff-2010-win7-nob.png"
+          alt="Identifiser språk automatisk avmerket"/></p>
+        </li>
 
-            <p><img src="images/bruke_stavekontrollen_smj-msoff-2010-win7-nob.png"
-                alt="Forslag i meny"/></p>
+        <li>
+          <p>Når du skriver vil du få røde streker under de ordene
+          stavekontrollen ikke godtar. Du kan enten velge å høyretrykke på
+          ord med røde streker under. Da ser det slik ut:</p>
 
-            <p>eller du kan starte stavekontrollen i eget vindu.
-                Velg <strong>Se gjennom</strong> i menyen.
-                Trykk på
-                <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.
-                Resultatet blir: <img
-                src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
-                alt="Stavekontrollen i bruk"/></p>
-        </section>
+          <p><img
+          src="images/bruke_stavekontrollen_smj-msoff-2010-win7-nob.png"
+          alt="Forslag i meny"/></p>
+
+          <p>Eller du kan starte stavekontrollen i eget vindu. Velg
+          <strong>Se gjennom</strong> i menyen. Trykk på:<br/>
+          <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.</p>
+
+          <p>Resultatet blir:<br/>
+          <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
+          alt="Stavekontrollen i bruk"/></p>
+        </li>
+      </ol>
     </body>
 </document>
