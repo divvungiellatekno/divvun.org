@@ -67,7 +67,7 @@
                   <windoc label="Windows 7" href="install-msoff-win7.html" />
                 </wininstall>
                 <keyboards label="Slå på samiske tastaturer">
-                  <windoc label="Windows 8" href="enable_sme_input-win8.html" />
+                  <windoc label="Windows 8" href="enable_sami_input-win8.html" />
                   <win7 label="Windows 7">
                     <win7-sme label="Nordsamisk" href="enable_sme_input-win7.html" />
                     <win7-smj label="Lulesamisk" href="enable_smj_input-win7.html" />
