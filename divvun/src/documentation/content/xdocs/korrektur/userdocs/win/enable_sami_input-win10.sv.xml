@@ -2,54 +2,54 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sette opp nordsamisk tastatur og nordsamis som inndataspråk i
-        Windows 10</title>
+        <title>Sätta upp nordsamiskt tangentbord och sydsamiska som indataspråk
+        i Windows 10</title>
     </header>
     <body>
 
-        <p>Vi viser hvordan man setter opp nordsamisk som inndataspråk. Når man
-        velger nordsamisk som inndataspråk, vil stavekontrollen automatisk
-        kjøres på nordsamisk når man har installert Divvun-verktøyene.</p>
+        <p>Vi visar hur man sätter upp sydsamiska som indataspråk. När man
+        väljer sydsamiska som indataspråk, vill rättstavningen automatiskt
+        använda sydsamiska när man har installerat Divvun-verktygen.</p>
   
         <ol>
-            <li>Gå til <strong>Start</strong>-menyen, og klikk på
-                <strong>Innstillinger</strong>:
-                <p><img src="images/win10-start_menu-no.png" alt="Startmeny"/></p>
+            <li>Gå till <strong>Start</strong>-menyn, och klicka på
+                <strong>Inställningar</strong>:
+                <p><img src="images/win10-start_menu-sv.png" alt="Startmeny"/></p>
             </li>
-            <li>Gå til <strong>Klokkeslett og språk</strong>:
-                <p><img src="images/win10-prefs-no.png" alt="Kontrollpanel"/></p>
+            <li>Gå till <strong>Tid och språk</strong>:
+                <p><img src="images/win10-prefs-sv.png" alt="Kontrollpanel"/></p>
             </li>
-            <li>Trykk <strong>Legg til et språk</strong>:
-                <p><img src="images/win10-prefs-time_and_lang-no.png" alt="Språk" /></p>
+            <li>Klicka på <strong>Lägg till et språk</strong>:
+                <p><img src="images/win10-prefs-time_and_lang-sv.png" alt="Språk" /></p>
             </li>
-            <li>Velg <strong>Davvisámegiella</strong> ved å klikke på det:
-                <p><img src="images/win10-prefs-add-sme-no.png" alt="Legg til språk"/></p>
+            <li>Välj <strong>Åarjelsaemiengiele</strong> genom att klicka på det:
+                <p><img src="images/win10-prefs-add-sma-sv.png" alt="Legg til språk"/></p>
             </li>
-            <li>Velg den varianten av <strong>Davvisámegiella</strong> som passer for deg:
-                <p><img src="images/win10-prefs-add-sme-norway-no.png" alt="Regionale varianter"/></p>
+            <li>Välj den varianten av <strong>Åarjelsaemiengiele</strong> du önskar använda:
+                <p><img src="images/win10-prefs-add-sma-sweden-sv.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Marker <strong>Davvisámegiella</strong> og trykk <strong>Alternativer</strong>:
-                <p><img src="images/win10-prefs-modify-sme-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
+            <li>Klicka på <strong>Åarjelsaemiengiele</strong>, sen på <strong>Alternativ</strong>:
+                <p><img src="images/win10-prefs-modify-sma-sv.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Trykk <strong>Legg til tastatur</strong>:
-                <p><img src="images/win10-prefs-add-keyboard-no.png" alt="Språkalternativer"/></p>
+            <li>Klicka på <strong>Lägg till ett tangentbord</strong>:
+                <p><img src="images/win10-prefs-add-keyboard-sv.png" alt="Språkalternativer"/></p>
             </li>
-            <li>Velg <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10-prefs-add-sme-extended-norway-no.png" alt="Inndatametode"/></p>
+            <li>Välj till exempel <strong>Svensk för samiska språk</strong>:
+                <p><img src="images/win10-prefs-add-sma-keyboard-sweden-sv.png" alt="Inndatametode"/></p>
             </li>
-            <li>Marker <strong>Norsk med samisk</strong> og trykk <strong>Fjern</strong>:
-                <p><img src="images/win10-prefs-remove-norw_with_sami-keyboard-no.png"
+            <li>Klicka på <strong>Norsk med samiska språk</strong>, sen <strong>Ta bort</strong>:
+                <p><img src="images/win10-prefs-remove-norw_with_sami-keyboard-sv.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Da har du <strong>Davvisámegiella (Norga)</strong> som et
-                inndataspråk med tastaturet <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10-keyboard-done-sme-no.png"
+            <li>Nu har du <strong>Åarjelsaemiengiele (Sveerje)</strong> som ett
+                indataspråk med tangentbordet <strong>Svensk för samiska språk</strong>:
+                <p><img src="images/win10-keyboard-done-sma-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
-            <li>For å skifte mellom tastatur og dermed språk trykker du 
-                <strong>Alt+Skift</strong> til det nordsamiske tastaturet er
-                aktivt:
-                <p><img src="images/win10-switching-keyboards-sme-no.png"
+            <li>För att växla mellan tangentbord och därigenom också språk
+                trycker du <strong>Alt+Skift</strong> tills det sydsamiska
+                tangentbordet är aktivt:
+                <p><img src="images/win10-switching-keyboards-sme-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
         </ol>
