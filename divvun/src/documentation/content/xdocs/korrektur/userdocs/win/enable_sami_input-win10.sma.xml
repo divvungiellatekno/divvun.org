@@ -2,53 +2,50 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sette opp nordsamisk tastatur og nordsamis som inndataspråk i
-        Windows 10</title>
+        <title>Guktie noerhtesaemien båaloebuertiem tseegkedh jïh noerhtesaemien tjaelemegïelem bïejedh 
+        Windows 10:an</title>
     </header>
     <body>
 
-        <p>Vi viser hvordan man setter opp nordsamisk som inndataspråk. Når man
-        velger nordsamisk som inndataspråk, vil stavekontrollen automatisk
-        kjøres på nordsamisk når man har installert Divvun-verktøyene.</p>
+        <p>Vuesiehtibie guktie noerhtesaemien tjaelemegïeline bëjedh. Gosse veeljh noerhtesaemiengïelem veeljemegïeline, staeriedimmieprogramme dallah automatihke-laakan noerhtegïelesne sjædta jis leah Divvun-dïrregidie siejjiedahteme.</p>
   
         <ol>
-            <li>Gå til <strong>Start</strong>-menyen, og klikk på
+            <li>Mïnnh <strong>Start</strong>-menyese, jïh diedtieh
                 <strong>Innstillinger</strong>:
                 <p><img src="images/win10-start_menu-sv.png" alt="Startmeny"/></p>
             </li>
-            <li>Gå til <strong>Klokkeslett og språk</strong>:
+            <li>Gå til <strong>Tsåahka jïh gïele</strong>:
                 <p><img src="images/win10-prefs-sv.png" alt="Kontrollpanel"/></p>
             </li>
-            <li>Trykk <strong>Legg til et språk</strong>:
+            <li>Diedtieh <strong>Lissehth aktem gïelem</strong>:
                 <p><img src="images/win10-prefs-time_and_lang-sv.png" alt="Språk" /></p>
             </li>
-            <li>Velg <strong>Davvisámegiella</strong> ved å klikke på det:
+            <li>Veeljh <strong>Davvisámegiella</strong> diedtieh daam:
                 <p><img src="images/win10-prefs-add-sma-sv.png" alt="Legg til språk"/></p>
             </li>
-            <li>Velg den varianten av <strong>Davvisámegiella</strong> som passer for deg:
+            <li>Veeljh dam  <strong>Noerhtesaemiengïelem</strong> mij dutnjien sjeahta:
                 <p><img src="images/win10-prefs-add-sma-sweden-sv.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Marker <strong>Davvisámegiella</strong> og trykk <strong>Alternativer</strong>:
+            <li>Mïerkesjh <strong>Noerhtesaemiengïelem</strong>jïh diedtieh <strong>Alternativer</strong>:
                 <p><img src="images/win10-prefs-modify-sma-sv.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Trykk <strong>Legg til tastatur</strong>:
+            <li>Diedtieh<strong>Lissehth båaloebuertiem</strong>:
                 <p><img src="images/win10-prefs-add-keyboard-sv.png" alt="Språkalternativer"/></p>
             </li>
-            <li>Velg <strong>Samisk, utvidet Norge</strong>:
+            <li>Veeljh <strong>Saemiengïelem, vijriedovveme Nöörje</strong>:
                 <p><img src="images/win10-prefs-add-sma-keyboard-sweden-sv.png" alt="Inndatametode"/></p>
             </li>
-            <li>Marker <strong>Norsk med samisk</strong> og trykk <strong>Fjern</strong>:
+            <li>Mïerkesjh <strong>Daaroengïele saemiengïeline</strong> jïh diedtieh <strong>Sliejhtieh</strong>:
                 <p><img src="images/win10-prefs-remove-norw_with_sami-keyboard-sv.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Da har du <strong>Davvisámegiella (Norga)</strong> som et
-                inndataspråk med tastaturet <strong>Samisk, utvidet Norge</strong>:
+            <li>Dellie dov leah <strong>Davvisámegiella (Norga)</strong> tjaelemegïeline båaloebuertesne
+               <strong>Saemiengïele, vijriedovveme Nöörje</strong>:
                 <p><img src="images/win10-keyboard-done-sma-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
-            <li>For å skifte mellom tastatur og dermed språk trykker du 
-                <strong>Alt+Skift</strong> til det nordsamiske tastaturet er
-                aktivt:
+            <li>Gosse båaloebuertiem låtnodh jïh aaj gïelem 
+                <strong>Alt+Skift</strong> Gosk dïhte noerhtesaemien båaloebuertie lea juhtiemisnie:
                 <p><img src="images/win10-switching-keyboards-sma-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
