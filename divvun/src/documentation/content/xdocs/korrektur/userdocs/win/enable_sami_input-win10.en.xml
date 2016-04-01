@@ -13,17 +13,17 @@
   
         <ol>
             <li>Go to the <strong>Start</strong> menu, and click on
-                <strong>Preferences</strong>:
-                <p><img src="images/win10-start_menu-no.png" alt="Startmeny"/></p>
+                <strong>Settings</strong>:
+                <p><img src="images/win10-start_menu-en.png" alt="Startmeny"/></p>
             </li>
-            <li>Click on <strong>Time and language</strong>:
-                <p><img src="images/win10-prefs-no.png" alt="Kontrollpanel"/></p>
+            <li>Click on <strong>Time &amp; language</strong>:
+                <p><img src="images/win10-prefs-en.png" alt="Kontrollpanel"/></p>
             </li>
             <li>Click <strong>Add a language</strong>:
-                <p><img src="images/win10-prefs-time_and_lang-no.png" alt="Språk" /></p>
+                <p><img src="images/win10-prefs-time_and_lang-en.png" alt="Språk" /></p>
             </li>
             <li>Choose <strong>Davvisámegiella</strong> by clicking the name:
-                <p><img src="images/win10-prefs-add-sme-no.png" alt="Legg til språk"/></p>
+                <p><img src="images/win10-prefs-add-sme-en.png" alt="Legg til språk"/></p>
             </li>
             <li>Choose the variant of <strong>Davvisámegiella</strong> you want:
                 <p><img src="images/win10-prefs-add-sme-norway-no.png" alt="Regionale varianter"/></p>
