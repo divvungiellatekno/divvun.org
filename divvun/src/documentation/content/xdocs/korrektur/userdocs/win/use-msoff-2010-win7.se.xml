@@ -5,60 +5,45 @@
         <title>Geavahit Divvun-reaidduid MS Office 2010:s</title>
     </header>
     <body>
-        <ol>
-            <li>
-                <p>
-                    Jus Divvun-reaiddut galget veahkehit du, de fertet válljet
-                    davvisámegiela čállingiellan. Sáhtát mannat
-                    giellabollui ja válljet davvisámegiela doppe, dahje
-                    deaddilit <strong>Alt+Shift</strong> dassáigo davvisámegiella lea <a
-                    href="enable_sami_input-win7.html">válljejuvvon</a>. Go leat joavdan
-                    nu guhkkás, de lea davvisámi čállindárkkisteapmi aktiverejuvvon. Dalle
-                    galggašii dát oidnot:
-                </p>
+      <ol>
+        <li>
+          <p>Jus Divvun-reaiddut galget veahkehit du, de fertet válljet
+          davvisámegiela čállingiellan. Sáhtát mannat giellabollui ja
+          válljet davvisámegiela doppe, dahje
+          deaddilit <strong>Alt+Shift</strong> dassáigo davvisámegiella lea <a
+          href="enable_sami_input-win7.html">válljejuvvon</a>. Go leat joavdan
+          nu guhkkás, de lea davvisámi čállindárkkisteapmi aktiverejuvvon. Dalle
+          galggašii dát oidnot:</p>
 
-                <p>
-                    <img src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png"
-                         alt="Čállindárkkistan- og čállingiellagiettit"/>
-                </p>
-            </li>
+          <p><img src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png"
+          alt="Čállindárkkistan- og čállingiellagiettit"/></p>
+        </li>
 
-            <li>
-                Word viggá automáhtalaččat árvidit guđe gillii čálát.
-                Sihkkarastin dihte ahte dát ii dáhpáhuva, coahkkal
-                čállindárkkistangietti. Dárkkis ahte <strong>
-                Identifiser språk automatisk</strong> ii leat merkejuvvon
-                lásežis mii de ihtá.
-                <p>
-                    <img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
-                         alt="Ii merkejuvvon «Identifiser språk automatisk»"/>
-                </p>
-            </li>
+        <li>Word viggá automáhtalaččat árvidit guđe gillii čálát.
+            Sihkkarastin dihte ahte dát ii dáhpáhuva, coahkkal
+            čállindárkkistangietti. Dárkkis ahte <strong>
+            Identifiser språk automatisk</strong> ii leat merkejuvvon
+            lásežis mii de ihtá.
+            <p><img src="images/ikke_automatisk_gjenkjenning_sme-msoff-2010-win7-nob.png"
+            alt="Ii merkejuvvon «Identifiser språk automatisk»"/></p>
+        </li>
 
-            <li>
-                <p>
-                    Čáledettiin ihtet rukses sázut sániid vuollái maid
-                    čállindárkkisteaddji ii dohkket. Sáhtát dalle juogo olgešcoahkkalit
-                    sániid main leat rukses sázut, nugo dás vuolábealde:
-                </p>
+        <li>
+          <p>Čáledettiin ihtet rukses sázut sániid vuollái maid
+          čállindárkkisteaddji ii dohkket. Sáhtát dalle juogo olgešcoahkkalit
+          sániid main leat rukses sázut, nugo dás vuolábealde:</p>
 
-                <p>
-                    <img src="images/bruke_stavekontrollen_sme-msoff-2010-win7-nob.png"
-                        alt="Evttohusat fálus"/>
-                </p>
+          <p><img src="images/bruke_stavekontrollen_sme-msoff-2010-win7-nob.png"
+          alt="Evttohusat fálus"/></p>
 
-                <p>
-                    Dahje sáhtát álggahit čállindárkkisteami sierra lásežis. Vállje
-                    <strong>Se gjennom</strong> fálus. Coahkkal ABC-boalu:<br/>
-                    <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-boallu"/>.
-                </p>
+          <p>Dahje sáhtát álggahit čállindárkkisteami sierra lásežis. Vállje
+          <strong>Se gjennom</strong> fálus. Coahkkal ABC-boalu:<br/>
+          <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-boallu"/>.</p>
 
-                <p>
-                    De ihtá láseš:<br/>
-                    <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
-                        alt="Čállindárkkistanláseš"/>
-                </p>
-            </li>
-        </ol>
+          <p>De ihtá láseš:<br/>
+          <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
+          alt="Čállindárkkistanláseš"/></p>
+        </li>
+      </ol>
     </body>
 </document>
