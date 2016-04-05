@@ -2,7 +2,7 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sette opp nordsamisk tastatur og nordsamisk som inndataspråk i
+        <title>Sette opp nordsamisk tastatur og inndataspråk i
         Windows 10</title>
     </header>
     <body>
@@ -16,7 +16,7 @@
                 <strong>Innstillinger</strong>:
                 <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
             </li>
-            <li>Gå til <strong>Klokkeslett og språk</strong>:
+            <li>Gå til <strong>Tid og språk</strong>:
                 <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
             </li>
             <li>Trykk <strong>Legg til et språk</strong>:
@@ -31,7 +31,7 @@
             <li>Marker <strong>Davvisámegiella</strong> og trykk <strong>Alternativer</strong>:
                 <p><img src="images/win10/prefs-modify-sme-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Trykk <strong>Legg til tastatur</strong>:
+            <li>Trykk <strong>Legg til et tastatur</strong>:
                 <p><img src="images/win10/prefs-add-keyboard-no.png" alt="Språkalternativer"/></p>
             </li>
             <li>Velg <strong>Samisk, utvidet Norge</strong>:
