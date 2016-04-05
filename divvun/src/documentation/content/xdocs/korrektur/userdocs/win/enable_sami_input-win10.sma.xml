@@ -11,41 +11,41 @@
   
         <ol>
             <li>Mïnnh <strong>Start</strong>-menyese, jïh diedtieh
-                <strong>Innstillinger</strong>:
+                <strong>Instälningar</strong>:
                 <p><img src="images/win10/start_menu-sv.png" alt="Startmeny"/></p>
             </li>
-            <li>Gå til <strong>Tsåahka jïh gïele</strong>:
+            <li>Diedtieh <strong>Tid och språk</strong>:
                 <p><img src="images/win10/prefs-sv.png" alt="Kontrollpanel"/></p>
             </li>
-            <li>Diedtieh <strong>Lissehth aktem gïelem</strong>:
+            <li>Diedtieh <strong>Lägg till ett språk</strong>:
                 <p><img src="images/win10/prefs-time_and_lang-sv.png" alt="Språk" /></p>
             </li>
-            <li>Veeljh <strong>Davvisámegiella</strong> diedtieh daam:
+            <li>Veeljh <strong>Åarjelsaemiengïele</strong> diedtieh daam:
                 <p><img src="images/win10/prefs-add-sma-sv.png" alt="Legg til språk"/></p>
             </li>
-            <li>Veeljh dam  <strong>Noerhtesaemiengïelem</strong> mij dutnjien sjeahta:
+            <li>Veeljh dam  <strong>Åarjelsaemiengïelem</strong> mij dutnjien sjeahta:
                 <p><img src="images/win10/prefs-add-sma-sweden-sv.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Mïerkesjh <strong>Noerhtesaemiengïelem</strong>jïh diedtieh <strong>Alternativer</strong>:
+            <li>Mïerkesjh <strong>Åarjelsaemiengïelem</strong> jïh diedtieh <strong>Alternativ</strong>:
                 <p><img src="images/win10/prefs-modify-sma-sv.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Diedtieh<strong>Lissehth båaloebuertiem</strong>:
+            <li>Diedtieh <strong>Lägg till ett tangentbord</strong>:
                 <p><img src="images/win10/prefs-add-keyboard-sv.png" alt="Språkalternativer"/></p>
             </li>
-            <li>Veeljh <strong>Saemiengïelem, vijriedovveme Nöörje</strong>:
+            <li>Veeljh <strong>Svensk för samiska språk</strong>:
                 <p><img src="images/win10/prefs-add-sma-keyboard-sweden-sv.png" alt="Inndatametode"/></p>
             </li>
-            <li>Mïerkesjh <strong>Daaroengïele saemiengïeline</strong> jïh diedtieh <strong>Sliejhtieh</strong>:
+            <li>Mïerkesjh <strong>Norsk med samiska språk</strong> jïh diedtieh <strong>Ta bort</strong>:
                 <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-sv.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Dellie dov leah <strong>Davvisámegiella (Norga)</strong> tjaelemegïeline båaloebuertesne
-               <strong>Saemiengïele, vijriedovveme Nöörje</strong>:
+            <li>Dellie dov leah <strong>Åarjelsaemiengïele (Sveerje)</strong> tjaelemegïeline båaloebuertesne
+               <strong>Svensk för samiska språk</strong>:
                 <p><img src="images/win10/keyboard-done-sma-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
             <li>Gosse båaloebuertiem låtnodh jïh aaj gïelem 
-                <strong>Alt+Skift</strong> Gosk dïhte noerhtesaemien båaloebuertie lea juhtiemisnie:
+                <strong>Alt+Skift</strong> gosk dïhte åarjelsaemien båaloebuertie lea juhtiemisnie:
                 <p><img src="images/win10/switching-keyboards-sma-sv.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
