@@ -14,42 +14,42 @@
         <ol>
             <li>Maná <strong>Start</strong>-menijjaj, ja dieddelaste
                 <strong>Innstillinger</strong>:
-                <p><img src="images/win10-start_menu-no.png" alt="Startmeny"/></p>
+                <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
             </li>
             <li>Maná <strong>Klokkeslett og språk</strong>:
-                <p><img src="images/win10-prefs-no.png" alt="Kontrollpanel"/></p>
+                <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
             </li>
             <li>Dieddela <strong>Legg til et språk</strong>:
-                <p><img src="images/win10-prefs-time_and_lang-no.png" alt="Språk" /></p>
+                <p><img src="images/win10/prefs-time_and_lang-no.png" alt="Språk" /></p>
             </li>
             <li>Válljitjit <strong>Davvisámegiella</strong>dieddelaste:
-                <p><img src="images/win10-prefs-add-sme-no.png" alt="Legg til språk"/></p>
+                <p><img src="images/win10/prefs-add-sme-no.png" alt="Legg til språk"/></p>
             </li>
             <li>Vállji makkir <strong>Davvisámegiella</strong> dunji hiehpá:
-                <p><img src="images/win10-prefs-add-sme-norway-no.png" alt="Regionale varianter"/></p>
+                <p><img src="images/win10/prefs-add-sme-norway-no.png" alt="Regionale varianter"/></p>
             </li>
             <li>Markieri <strong>Davvisámegiella</strong> ja dieddela <strong>Alternativer</strong>:
-                <p><img src="images/win10-prefs-modify-sme-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
+                <p><img src="images/win10/prefs-modify-sme-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
             <li>Dieddela <strong>Legg til tastatur</strong>:
-                <p><img src="images/win10-prefs-add-keyboard-no.png" alt="Språkalternativer"/></p>
+                <p><img src="images/win10/prefs-add-keyboard-no.png" alt="Språkalternativer"/></p>
             </li>
             <li>Vállji <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10-prefs-add-sme-extended-norway-no.png" alt="Inndatametode"/></p>
+                <p><img src="images/win10/prefs-add-sme-extended-norway-no.png" alt="Inndatametode"/></p>
             </li>
             <li>Markieri <strong>Norsk med samisk</strong> ja dieddela <strong>Fjern</strong>:
-                <p><img src="images/win10-prefs-remove-norw_with_sami-keyboard-no.png"
+                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-no.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
             <li>De la dujna <strong>Davvisámegiella (Norga)</strong> tjállemgiellan
                 boallonbievdijn <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10-keyboard-done-sme-no.png"
+                <p><img src="images/win10/keyboard-done-sme-no.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
             <li>Målsotjit boallobievdij, ja navti aj gielaj gaskan, dieddelaste 
                 <strong>Alt+Skift</strong> dasik julevsáme boallobievdde l
                 doajmmá:
-                <p><img src="images/win10-switching-keyboards-sme-no.png"
+                <p><img src="images/win10/switching-keyboards-sme-no.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
         </ol>
