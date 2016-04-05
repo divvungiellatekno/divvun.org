@@ -2,19 +2,18 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-      <title>Bruke Divvun-verktøyene i MS Office 2010</title>
+      <title>Kuinka käyttää Divvunia MS Office 2010:ssä</title>
     </header>
     <body>
       <ol>
         <li>
-          <p>For at Divvun-verktøyene skal kunne hjelpe deg, må du fortelle
-          datamaskinen  at du skriver på samisk ved å velge det som
-          skrivespråk. Du kan gjøre dette ved å gå til språkmenyen og velge
-          <strong>Lulesamisk (Norge)</strong>, eller trykke på
-          <strong>Alt+Shift</strong> til lulesamisk har blitt <a
-          href="enable_sami_input-win7.html">inndataspråk</a>. Når dette er
-          gjort vil lulesamisk stavekontroll være aktivert. Da kan det se for
-          eksempel slik ut:</p>
+          <p>Jotta divvun auttaisi sinua, tulee sinun kertoa tietokoneelle
+          että kirjoitat saameksi valitsemalla se kirjoituskieleksi. Voit tehdä
+          sen menemällä kielivalikkoon ja valitsemalla
+          <strong>Luulajansaame (Norge)</strong>, tai painamalla
+          <strong>Alt+Vaihto</strong> kunnes luulajansaame on <a
+          href="enable_sami_input-win7.html">sisäänkielenä</a>. Kun tämä on tehty
+          on luulajansaame aktiivinen. Sitten se voi näyttää tältä:</p>
 
           <p><img
           src="images/stavekontroll_og_inndatasprak_sme-msoff-2010-win7-nob.png"
@@ -22,10 +21,9 @@
         </li>
 
         <li>
-          <p>For å være sikker på at Word bare kjører stavekontroll på
-          det språket du har valgt, trykk på stavekontrollfeltet og pass på
-          at <strong>Identifiser språk automatisk</strong> ikke er merket.
-          Da ser det slik ut:
+          <p>Jotta Word toimii pelkästään valitulla kielellä, paina oikeinkirjoituskenttää
+          ja passaa että <strong>Tunnista kieli</strong> ei ole merkattu.
+          Sitten se näyttää tältä:
           </p>
 
           <p><img
@@ -34,19 +32,18 @@
         </li>
 
         <li>
-            <p>Når du skriver vil du få røde streker under de ordene
-            stavekontrollen ikke godtar. Du kan enten velge å høyretrykke på
-            ord med røde streker under. Da ser det slik ut:</p>
+            <p>Kun kirjoitat väärin tulee punainen viiva esiin. Sitten voit
+            oikeaklikata viivaa. Sitten se näyttää tältä:</p>
 
             <p><img
             src="images/bruke_stavekontrollen_sme-msoff-2010-win7-nob.png"
             alt="Forslag i meny"/></p>
 
-            <p>Eller du kan starte stavekontrollen i eget vindu. Velg
-            <strong>Se gjennom</strong> i menyen. Trykk på:<br/>
+            <p>Tai voit aloittaa oikeinkirjoituksen omassa ikkunassa. Valitse
+            <strong>Näe läpi</strong> valikossa. Paina:<br/>
             <img src="images/abc_knapp-msoff-2010-nob.png" alt="abc-knappen"/>.</p>
 
-          <p>Resultatet blir:<br/>
+          <p>Tulokset tulevat:<br/>
           <img src="images/stavekontroll_dialog_sme-msoff-2010-nob.png"
           alt="Stavekontrollen i bruk"/></p>
         </li>

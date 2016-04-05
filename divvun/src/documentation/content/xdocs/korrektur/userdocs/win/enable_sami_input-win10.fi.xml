@@ -2,53 +2,52 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sette opp nordsamisk tastatur og nordsamis som inndataspråk i
-        Windows 10</title>
+        <title>Pohjoissaamen kieli- ja näppäimistöasetukset
+        Windows 10:lla</title>
     </header>
     <body>
 
-        <p>Vi viser hvordan man setter opp nordsamisk som inndataspråk. Når man
-        velger nordsamisk som inndataspråk, vil stavekontrollen automatisk
-        kjøres på nordsamisk når man har installert Divvun-verktøyene.</p>
-  
+        <p>Näytämme kuinka asentaa pohjoissaame sisäänkieleksi. Kun valitset
+        pohjoissaame sisäänkieleksi, oikeintarkistus suoritetaan automaattisesti
+        pohjoissaameksi kun divvun on asennettu.</p>
+
         <ol>
-            <li>Gå til <strong>Start</strong>-menyen, og klikk på
-                <strong>Innstillinger</strong>:
+            <li>Mene <strong>Aloitus</strong>-valikkoon, ja klikkaa
+                <strong>Asentukset</strong>:
                 <p><img src="images/win10/start_menu-fi.png" alt="Startmeny"/></p>
             </li>
-            <li>Gå til <strong>Klokkeslett og språk</strong>:
+            <li>Mene <strong>Aika ja kieli</strong>:
                 <p><img src="images/win10/prefs-fi.png" alt="Kontrollpanel"/></p>
             </li>
-            <li>Trykk <strong>Legg til et språk</strong>:
+            <li>Paina <strong>Lisää kieli</strong>:
                 <p><img src="images/win10/prefs-time_and_lang-fi.png" alt="Språk" /></p>
             </li>
-            <li>Velg <strong>Davvisámegiella</strong> ved å klikke på det:
+            <li>Valitse <strong>Pohjoissaame</strong> klikkaamalla sitä:
                 <p><img src="images/win10/prefs-add-sme-fi.png" alt="Legg til språk"/></p>
             </li>
-            <li>Velg den varianten av <strong>Davvisámegiella</strong> som passer for deg:
+            <li>Valitse seuraavista <strong>Pohjoissaame</strong> joka sopii sinulle:
                 <p><img src="images/win10/prefs-add-sme-finland-fi.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Marker <strong>Davvisámegiella</strong> og trykk <strong>Alternativer</strong>:
+            <li>Merkkaa <strong>Poihjoissaame</strong> ja paina <strong>Vaihtoehdot</strong>:
                 <p><img src="images/win10/prefs-modify-sme-fi.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Trykk <strong>Legg til tastatur</strong>:
+            <li>Paina <strong>Lisää näppäimistö</strong>:
                 <p><img src="images/win10/prefs-add-keyboard-fi.png" alt="Språkalternativer"/></p>
             </li>
-            <li>Velg <strong>Samisk, utvidet Norge</strong>:
+            <li>Valitse <strong>Saame, kehittynyt norja</strong>:
                 <p><img src="images/win10/prefs-add-sme-finland-sweden-fi.png" alt="Inndatametode"/></p>
             </li>
-            <li>Marker <strong>Norsk med samisk</strong> og trykk <strong>Fjern</strong>:
+            <li>Merkkaa <strong>Norja saamella</strong> ja paina <strong>Poista</strong>:
                 <p><img src="images/win10/prefs-remove-finnish_with_sami-keyboard-fi.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Da har du <strong>Davvisámegiella (Norga)</strong> som et
-                inndataspråk med tastaturet <strong>Samisk, utvidet Norge</strong>:
+            <li>Silloin on <strong>Pohjoissaame (Norja)</strong> kuin
+                sisäänkieli näppäimistöllä <strong>Saame, kehittynyt Norja</strong>:
                 <p><img src="images/win10/keyboard-done-sme-fi.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
-            <li>For å skifte mellom tastatur og dermed språk trykker du 
-                <strong>Alt+Skift</strong> til det nordsamiske tastaturet er
-                aktivt:
+            <li>Vaihtaminen kielten välillä tapahtuu
+                <strong>Alt+Vaihto</strong> kunnes pohjoissaame näppäimistö on aktiivinen:
                 <p><img src="images/win10/switching-keyboards-sme-fi.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
