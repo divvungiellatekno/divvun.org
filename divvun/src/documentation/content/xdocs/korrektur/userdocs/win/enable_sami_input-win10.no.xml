@@ -2,14 +2,14 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Sette opp nordsamisk tastatur og inndataspråk i
+        <title>Sette opp lulesamisk tastatur og inndataspråk i
         Windows 10</title>
     </header>
     <body>
 
-        <p>Vi viser hvordan man setter opp nordsamisk som inndataspråk. Når man
-        velger nordsamisk som inndataspråk, vil stavekontrollen automatisk
-        kjøres på nordsamisk når man har installert Divvun-verktøyene.</p>
+        <p>Vi viser hvordan man setter opp lulesamisk som inndataspråk. Når man
+        velger lulesamisk som inndataspråk, vil stavekontrollen automatisk
+        kjøres på lulesamisk når man har installert Divvun-verktøyene.</p>
   
         <ol>
             <li>Gå til <strong>Start</strong>-menyen, og klikk på
@@ -22,34 +22,34 @@
             <li>Trykk <strong>Legg til et språk</strong>:
                 <p><img src="images/win10/prefs-time_and_lang-no.png" alt="Språk" /></p>
             </li>
-            <li>Velg <strong>Davvisámegiella</strong> ved å klikke på det:
-                <p><img src="images/win10/prefs-add-sme-no.png" alt="Legg til språk"/></p>
+            <li>Velg <strong>Julevsámegiella</strong> ved å klikke på det:
+                <p><img src="images/win10/prefs-add-smj-no.png" alt="Legg til språk"/></p>
             </li>
-            <li>Velg den varianten av <strong>Davvisámegiella</strong> som passer for deg:
-                <p><img src="images/win10/prefs-add-sme-norway-no.png" alt="Regionale varianter"/></p>
+            <li>Velg den varianten av <strong>Julevsámegiella</strong> som passer for deg:
+                <p><img src="images/win10/prefs-add-smj-norway-no.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Marker <strong>Davvisámegiella</strong> og trykk <strong>Alternativer</strong>:
-                <p><img src="images/win10/prefs-modify-sme-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
+            <li>Marker <strong>Julevsámegiella</strong> og trykk <strong>Alternativer</strong>:
+                <p><img src="images/win10/prefs-modify-smj-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
             <li>Trykk <strong>Legg til et tastatur</strong>:
-                <p><img src="images/win10/prefs-add-keyboard-no.png" alt="Språkalternativer"/></p>
+                <p><img src="images/win10/prefs-add-keyboard-smj-no.png" alt="Språkalternativer"/></p>
             </li>
             <li>Velg <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/prefs-add-sme-extended-norway-no.png" alt="Inndatametode"/></p>
+                <p><img src="images/win10/prefs-add-smj-extended-norway-no.png" alt="Inndatametode"/></p>
             </li>
             <li>Marker <strong>Norsk med samisk</strong> og trykk <strong>Fjern</strong>:
-                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-no.png"
+                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-smj-no.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
-            <li>Da har du <strong>Davvisámegiella (Norga)</strong> som et
+            <li>Da har du <strong>Julevsámegiella (Vuodna)</strong> som et
                 inndataspråk med tastaturet <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/keyboard-done-sme-no.png"
+                <p><img src="images/win10/keyboard-done-smj-no.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
             <li>For å skifte mellom tastatur og dermed språk trykker du 
-                <strong>Windows+mellomrom</strong> til det nordsamiske tastaturet er
+                <strong>Windows+mellomrom</strong> til det lulesamiske tastaturet er
                 aktivt:
-                <p><img src="images/win10/switching-keyboards-sme-no.png"
+                <p><img src="images/win10/switching-keyboards-smj-no.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
         </ol>
