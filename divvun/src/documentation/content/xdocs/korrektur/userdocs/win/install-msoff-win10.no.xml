@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
+<document>
+    <header>
+        <title>Installere Divvunverktøyene på Windows 10</title>
+    </header>
+    <body>
+        <ol>
+            <li>Gå til <a href="http://divvun.no">hjemmesiden til Divvun</a>
+            </li>
+            <li>
+					Klikk på nedlastingslinken.
+					<p>
+                    <img src="images/download-4.no.png" alt="The download area"/>
+                </p>
+            </li>
+            <li>
+                Klikk på <strong>Kjør</strong>
+                <p>
+                    <img src="images/explorer-save-en.png" alt="Explorer save dialog"/>
+                </p>
+            </li>
+            <li>
+					Klikk <strong>Ja</strong>
+                
+                 når <em>User Account Control</em>
+                
+                 dialogen dukker opp.
+				</li>
+            <li>
+					Et dialogvindu dukker opp og forsvinner. Divvun er nå installert.
+				</li>
+            <li>
+					Log ut og inn igjen for å aktivere Divvunverktøyene.
+				</li>
+        </ol>
+    </body>
+</document>
