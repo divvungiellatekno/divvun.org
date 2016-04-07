@@ -2,14 +2,14 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Åttjudit julevsáme boallobievdev ja julevsámegielav tjállemgiellan
+        <title>Válljit julevsáme boallobievdev ja julevsámegielav tjállemgiellan
         Windows 8:n</title>
     </header>
     <body>
 
-        <p>Vuosedip gåktu válljit julevsámegielav tjállemgiellan. Gå vállji
-        julevsámegielav tjállemgiellan, tjállemdárkastus automáhtalattjat
-        julevsámegiellaj doajmmá Divvun-ræjdo li sajájduhteduvvam.</p>
+        <p>Vuollelin vuoseduvvá gåktu válljit julevsámegielav tjállemgiellan. Gå vállji
+        julevsámegielav tjállemgiellan, de tjállemdárkastus automáhtalattjat
+        julevsámegiellaj doajmmá gå Divvun-ræjdo li sajájduhteduvvam.</p>
   
         <ol>
             <li>Maná <strong>Start</strong>-menijjaj, ja dieddelaste
@@ -22,13 +22,13 @@
             <li>Dieddela <strong>Legg til et språk</strong>:
                 <p><img src="images/win10/prefs-time_and_lang-no.png" alt="Språk" /></p>
             </li>
-            <li>Válljitjit <strong>Julevsámegiela</strong> dieddelaste:
+            <li>Válljitjit <strong>Julevsámegielav</strong> dieddelaste:
                 <p><img src="images/win10/prefs-add-smj-no.png" alt="Legg til språk"/></p>
             </li>
-            <li>Vállji makkir <strong>Julevsámegiela</strong> dunji hiehpá:
+            <li>Vállji makkir <strong>Julevsámegiella</strong> dunji hiehpá:
                 <p><img src="images/win10/prefs-add-smj-norway-no.png" alt="Regionale varianter"/></p>
             </li>
-            <li>Markieri <strong>Julevsámegiela</strong> ja dieddela <strong>Alternativer</strong>:
+            <li>Markieri <strong>Julevsámegiella</strong> ja dieddela <strong>Alternativer</strong>:
                 <p><img src="images/win10/prefs-modify-smj-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
             <li>Dieddela <strong>Legg til tastatur</strong>:
@@ -48,7 +48,7 @@
             </li>
             <li>Målsotjit boallobievdij, ja navti aj gielaj gaskan, dieddelaste 
                 <strong>Windows+gasska</strong> dasik julevsáme boallobievdde l
-                doajmmá:
+                anon:
                 <p><img src="images/win10/switching-keyboards-smj-no.png"
                 alt="Språk med nordsamisk ferdigvalgt"/></p>
             </li>
