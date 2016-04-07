@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
@@ -22,9 +22,9 @@
             </li>
             <li>
 					Klikk <strong>Ja</strong>
-                
+
                  når <em>User Account Control</em>
-                
+
                  dialogen dukker opp.
 				</li>
             <li>
