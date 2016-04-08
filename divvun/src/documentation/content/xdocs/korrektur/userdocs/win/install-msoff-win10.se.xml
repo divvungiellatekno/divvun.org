@@ -2,38 +2,37 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Installere Divvunverktøyene på Windows 10</title>
+        <title>Sajáiduhttit Divvunreaidduid Windows 10</title>
     </header>
     <body>
         <ol>
-            <li>Gå til <a href="http://divvun.no">hjemmesiden til Divvun</a>
-            </li>
+            <li>Mana <a href="http://divvun.no">Divvuma ruovttosiidui</a></li>
             <li>
-					Klikk på nedlastingslinken.
+                    Coahkkal viežžanliŋkka.
 					<p>
                     <img src="images/download-4.no.png" alt="The download area"/>
                 </p>
             </li>
             <li>
-                Klikk på <strong>Kjør</strong>
+                Coahkkal <strong>Kjør</strong>
                 <p>
                     <img src="images/win10/edge-asking-to-run-no.png" alt="Edge save dialog"/>
                 </p>
             </li>
-            <li>Klikk <strong>Ja</strong> når
-                <em>Brukerkontokontroll</em>-dialogen dukker opp:
+            <li>Coahkkal <strong>Ja</strong> go
+                <em>Brukerkontokontroll</em>-láseš ihtá:
 				    <p>
 				      <img src="images/win10/user-account-control-no.png" alt="Tilgangsrettigheter"/>
 				    </p>
 				</li>
             <li>
-				Et dialogvindu dukker opp og forsvinner - Divvun er nå installert:
+				Láseš ihtá ja jávká. Divvunreaidduid leat dál sajis dihtoris.
 				<p>
 				  <img src="images/win10/installation-progress-no.png" alt="Installasjonsdialog"/>
 				</p>
 			</li>
             <li>
-				Log ut og inn igjen for å aktivere Divvunverktøyene.
+				Olggos- ja sisačálit iežat aktiveren dihte  Divvunreaidduid.
 			</li>
         </ol>
     </body>
