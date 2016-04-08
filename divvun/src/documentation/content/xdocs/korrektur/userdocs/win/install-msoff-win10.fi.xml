@@ -2,38 +2,38 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Installere Divvunverktøyene på Windows 10</title>
+        <title>Divvun työkalujen asennus Windows 10 tietokoneeseen</title>
     </header>
     <body>
         <ol>
-            <li>Gå til <a href="http://divvun.no">hjemmesiden til Divvun</a>
+            <li>Mene <a href="http://divvun.no">Divvun kotisivuille</a>
             </li>
             <li>
-					Klikk på nedlastingslinken.
+					Klikkaa latauslinkkiä:
 					<p>
                     <img src="images/download-4.no.png" alt="The download area"/>
                 </p>
             </li>
             <li>
-                Klikk på <strong>Kjør</strong>
+                Klikkaa <strong>Aja</strong>
                 <p>
                     <img src="images/win10/edge-asking-to-run-no.png" alt="Edge save dialog"/>
                 </p>
             </li>
-            <li>Klikk <strong>Ja</strong> når
-                <em>Brukerkontokontroll</em>-dialogen dukker opp:
+            <li>Klikkaa <strong>Kyllä</strong> kun
+                <em>Käyttäjäkontrolli</em>-dialogi-ikkuna tulee esiin:
 				    <p>
 				      <img src="images/win10/user-account-control-no.png" alt="Tilgangsrettigheter"/>
 				    </p>
 				</li>
             <li>
-				Et dialogvindu dukker opp og forsvinner - Divvun er nå installert:
+        Dialogi-ikkuna tulee esiin ja katoaa - Divvun on nyt asennettu
 				<p>
 				  <img src="images/win10/installation-progress-no.png" alt="Installasjonsdialog"/>
 				</p>
 			</li>
             <li>
-				Log ut og inn igjen for å aktivere Divvunverktøyene.
+        Kirjaudu ulos ja takaisin sisään aktivoidaksesi Divvun työkalut.
 			</li>
         </ol>
     </body>
