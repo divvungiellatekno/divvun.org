@@ -147,6 +147,10 @@ table {
     margin-bottom: 1em;
 }
 
+#menu ul {
+    padding-left: 1em;
+}
+
 @media screen and (max-width:767px) {
     .group-logo .logoImage,
     .nav-sidebar,
