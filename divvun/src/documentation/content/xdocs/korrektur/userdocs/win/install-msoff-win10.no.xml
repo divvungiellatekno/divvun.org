@@ -17,25 +17,24 @@
             <li>
                 Klikk på <strong>Kjør</strong>
                 <p>
-                    <img src="images/explorer-save-4-nn.png" alt="Explorer save dialog"/>
+                    <img src="images/win10/edge-asking-to-run-no.png" alt="Edge save dialog"/>
                 </p>
             </li>
-            <li>
-					Klikk <strong>Ja</strong>
-
-                 når <em>User Account Control</em>
-
-                 dialogen dukker opp:
+            <li>Klikk <strong>Ja</strong> når
+                <em>Brukerkontokontroll</em>-dialogen dukker opp:
 				    <p>
-				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
+				      <img src="images/win10/user-account-control-no.png" alt="Tilgangsrettigheter"/>
 				    </p>
 				</li>
             <li>
-					Et dialogvindu dukker opp og forsvinner. Divvun er nå installert.
-				</li>
+				Et dialogvindu dukker opp og forsvinner - Divvun er nå installert:
+				<p>
+				  <img src="images/win10/installation-progress-no.png" alt="Installasjonsdialog"/>
+				</p>
+			</li>
             <li>
-					Log ut og inn igjen for å aktivere Divvunverktøyene.
-				</li>
+				Log ut og inn igjen for å aktivere Divvunverktøyene.
+			</li>
         </ol>
     </body>
 </document>
