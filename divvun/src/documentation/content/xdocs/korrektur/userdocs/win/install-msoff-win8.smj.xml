@@ -2,15 +2,15 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
 	<header>
-		<title>Installing the Divvun tools on Windows 8</title>
+		<title>Sajájduhttet Divvun-ræjdojt Windows 8:n</title>
 	</header>
 	<body>
 		<section>
-			<title>Downloading and installing the Divvun tools on Windows 8</title>
+			<title>Viedtjat ja sajájduhttet Divvun-ræjdojt Windows 8:n</title>
 			<ol>
-				<li>Go to the <a href="http://divvun.no">Divvun site</a></li>
+				<li>Maná <a href="http://divvun.no">Divvun næhttabælláj</a></li>
 				<li>
-					Click on the download link.
+					Dieddela sajájduhttemsválldasav.
 					<p>
 						<img src="images/download-4.smj.png" alt="The download area"/>
 					</p>
@@ -23,7 +23,7 @@
 						<dd>
 							<ul>
 								<li>
-									Click on <strong>Run</strong>
+									Dieddela <strong>Run</strong>
 									<p>
 										<img src="images/explorer-save-4-nn.png" alt="Explorer save dialog"/>
 									</p>
@@ -36,13 +36,13 @@
 						<dd>
 							<ul>
 								<li>
-									Click on <strong>Save</strong>
+									Dieddela <strong>Save</strong>
 									<p>
 										<img src="images/firefox-save.png" alt="Firefox save dialog"/>
 									</p>
 								</li>
 								<li>
-									Double click on the Divvun installer
+									Dieddelaste guoktu Divvun sajájduhttemsválldasij
 									<p>
 										<img src="images/firefox-double-click.png" alt="The downloaded installer"/>
 									</p>
@@ -55,7 +55,7 @@
 						<dd>
 							<ul>
 								<li>
-									Double click on the Divvun installer
+									Dieddelaste guoktu Divvun sajájduhttemsválldasij
 									<p>
 										<img src="images/google-chrome-save.png" alt="The downloaded installer"/>
 									</p>
@@ -65,16 +65,16 @@
 					</dl>
 				</li>
 				<li>
-					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears:
+					Dieddela <strong>Yes</strong> gå <em>User Account Control</em>-dialåvggå ihtá:
 				    <p>
 				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
 				    </p>
 				</li>
 				<li>
-					A dialog window appears and disappears. Divvun is now installed.
+					Dialåvggåvinndek ihtá ja gáhtu - Divvunla dálle sajájduhteduvvam.
 				</li>
 				<li>
-					Log out and in again to activate the Divvun tools.
+					Viertti ájn loaggit ålgus ja sisi aktivieritjit Divvun-ræjdojt.
 				</li>
 			</ol>
 		</section>
