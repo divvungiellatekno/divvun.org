@@ -11,9 +11,9 @@
          <img alt="image" height="44pt" width="44pt" src="/images/Icon-installation.png"/>
          Sajáiduhttit:
          <ul>
-           <li>MS Windows 10:s</li>
-           <li><a href="install-msoff-win8.html">MS Windows 8:s</a></li>
-           <li><a href="install-msoff-win7.html">MS Windows 7:s</a></li>
+           <li><a href="install-msoff-win10.html">MS Windows 10:s</a></li>
+           <li><a href="install-msoff-win8.html" >MS Windows 8:s</a></li>
+           <li><a href="install-msoff-win7.html" >MS Windows 7:s</a></li>
          </ul>
        </li>
        <li>
