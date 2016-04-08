@@ -63,8 +63,9 @@
               <msoff label="MS Office">
                 <index label="Oversikt" href="index-msoff.html"/>
                 <wininstall label="Installer Divvun">
-                  <windoc label="Windows 8" href="install-msoff-win8.html" />
-                  <windoc label="Windows 7" href="install-msoff-win7.html" />
+                  <windoc label="Windows 10" href="install-msoff-win10.html"/>
+                  <windoc label="Windows 8"  href="install-msoff-win8.html" />
+                  <windoc label="Windows 7"  href="install-msoff-win7.html" />
                 </wininstall>
                 <keyboards label="Slå på samiske tastaturer">
                   <win10 label="Windows 10" href="enable_sami_input-win10.html"/>
