@@ -2,38 +2,37 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "document-v20.dtd">
 <document>
     <header>
-        <title>Installere Divvunverktøyene på Windows 10</title>
+        <title>Installing the Divvun tools on Windows 10</title>
     </header>
     <body>
         <ol>
-            <li>Gå til <a href="http://divvun.no">hjemmesiden til Divvun</a>
+            <li>Go to the <a href="http://divvun.no">Divvun site</a>
             </li>
-            <li>
-					Klikk på nedlastingslinken.
+            <li>Click on the download link:
 					<p>
                     <img src="images/download-4.no.png" alt="The download area"/>
                 </p>
             </li>
             <li>
-                Klikk på <strong>Kjør</strong>
+                Click on <strong>Run</strong>:
                 <p>
                     <img src="images/win10/edge-asking-to-run-no.png" alt="Edge save dialog"/>
                 </p>
             </li>
-            <li>Klikk <strong>Ja</strong> når
-                <em>Brukerkontokontroll</em>-dialogen dukker opp:
+            <li>Click <strong>Yes</strong> when the
+                <em>User Account Control</em> dialog appears:
 				    <p>
 				      <img src="images/win10/user-account-control-no.png" alt="Tilgangsrettigheter"/>
 				    </p>
 				</li>
             <li>
-				Et dialogvindu dukker opp og forsvinner - Divvun er nå installert:
+				A dialog window appears and disappears — Divvun is now installed:
 				<p>
 				  <img src="images/win10/installation-progress-no.png" alt="Installasjonsdialog"/>
 				</p>
 			</li>
             <li>
-				Log ut og inn igjen for å aktivere Divvunverktøyene.
+				Log out and in again to activate the Divvun tools.
 			</li>
         </ol>
     </body>
