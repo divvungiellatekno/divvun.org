@@ -65,7 +65,10 @@
 					</dl>
 				</li>
 				<li>
-					Klikk <strong>Ja</strong> når <em>User Account Control</em> dialogen dukker opp.
+					Klikk <strong>Ja</strong> når <em>User Account Control</em> dialogen dukker opp:
+				    <p>
+				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
+				    </p>
 				</li>
 				<li>
 					Et dialogvindu dukker opp og forsvinner. Divvun er nå installert.

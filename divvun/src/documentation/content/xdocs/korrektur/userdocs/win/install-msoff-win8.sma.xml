@@ -65,7 +65,10 @@
 					</dl>
 				</li>
 				<li>
-					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears.
+					Click <strong>Yes</strong> when the <em>User Account Control</em> dialog appears:
+				    <p>
+				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
+				    </p>
 				</li>
 				<li>
 					A dialog window appears and disappears. Divvun is now installed.

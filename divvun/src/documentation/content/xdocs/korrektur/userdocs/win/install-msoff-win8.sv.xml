@@ -65,7 +65,10 @@
 					</dl>
 				</li>
 				<li>
-					Klicka <strong>Ja</strong> när <em>User Account Control</em>-dialogen dyker upp.
+					Klicka <strong>Ja</strong> när <em>User Account Control</em>-dialogen dyker upp:
+				    <p>
+				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
+				    </p>
 				</li>
 				<li>
 					Ett dialogfönster dyker upp och försvinner. Divvunverktygen är nu installerade.

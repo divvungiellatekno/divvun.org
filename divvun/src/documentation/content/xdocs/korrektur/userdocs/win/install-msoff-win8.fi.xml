@@ -65,7 +65,10 @@
 					</dl>
 				</li>
 				<li>
-					Klikkaa <strong>Kyllä</strong> kun <em>User Account Control</em> dialogi ilmestyy.
+					Klikkaa <strong>Kyllä</strong> kun <em>User Account Control</em> dialogi ilmestyy:
+				    <p>
+				      <img src="images/win8-user-account-control-nn.png" alt="Tilgangsrettigheter"/>
+				    </p>
 				</li>
 				<li>
 					Dialogi-ikkuna ilmestyy ja katoaa. Divvun on nyt asennettu.
