@@ -106,6 +106,7 @@
           </uservids>
           <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
+          <spellerdemo description="Speller demo" href="speller-demo.html" label="Speller demo"/>
         </msoff>
 
         <browsers tab="Browsers" description="Proofing tools for web browsers"
