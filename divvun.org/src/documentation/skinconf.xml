@@ -14,7 +14,7 @@ which will be used to configure the chosen Forrest skin.
     no search box. @domain will enable sitesearch for the specific domain with google.
     In other words google will search the @domain for the query string.
     -->
-  <search provider="google" domain="www.divvun.no" name="Divvun"
+  <search provider="google" domain="www.divvun.org" name="Divvun"
           box-location="alt"/>
 
 <!--   <search provider="lucene" name="Divvun" /> -->
@@ -56,8 +56,8 @@ which will be used to configure the chosen Forrest skin.
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
        default skin: renders it at the top-left corner -->
-  <group-name>UiT Norgga árktalaš universitehta</group-name>
-  <group-description>UiT Norgga árktalaš universitehta</group-description>
+  <group-name>UiT The Arctic University of Norway</group-name>
+  <group-description>UiT The Arctic University of Norway</group-description>
   <group-url>http://uit.no/</group-url>
   <group-logo>images/UiT_Navn_sam_rod.png</group-logo>
 <!-- Alternative static image:
@@ -69,7 +69,7 @@ which will be used to configure the chosen Forrest skin.
 <!-- relative url of a favicon file, normally favicon.ico -->
   <favicon-url/>
 <!-- The following are used to construct a copyright statement -->
-  <year>2015</year>
+<!--   <year>2015</year> -->
   <vendor>Divvun.org</vendor>
 <!-- The optional copyright-link URL will be used as a link in the
     copyright statement
