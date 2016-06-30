@@ -166,7 +166,7 @@
     <tale tab="Tale" label="Taleteknologi">
         <index href="tale/tale.html" label="Tekst-til-tale"/>
         <userdocs  label="Brukerdokumentasjon">
-          <win href="tale/infovox4.html" label="Infovox4 (Windows)"/>
+          <win href="tale/infovox4.en.pdf" label="Infovox4 (Windows)"/>
           <mac_sv href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%20Swedish%204.1.pdf" label="iVox (MacOSX - svensk)"/>
           <mac_en href="http://download.assistiveware.com/ivox/files/Infovox%20iVox%20User%20Manual%204.0.1.pdf" label="iVox (MacOSX - engelsk)"/>
         </userdocs>
