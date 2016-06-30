@@ -21,7 +21,7 @@
         <section>
             <title>Asenna 3.0</title>
             <ol>
-                <li>HAe <a href="/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>HAe <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
                 <li>Suorita asentaja</li>
                 <li>Avaa tiedosto, mene «My Computer -> Local disk -> Program Files (x86) -> Divvun»</li>
                 <li>Tuplaklikkaa create_hkcu</li>

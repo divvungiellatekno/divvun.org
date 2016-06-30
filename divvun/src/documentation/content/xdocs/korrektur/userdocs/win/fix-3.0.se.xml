@@ -21,7 +21,7 @@
         <section>
             <title>Sajáiduhttit 3.0</title>
             <ol>
-                <li>Viečča <a href="/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>Viečča <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
                 <li>Vuoje sajáiduhttinprográmma</li>
                 <li>Raba fiilagieđahalli, mana «Min datamaskin -> Lokal disk -> Programfiler (x86) -> Divvun»:i</li>
                 <li>Duppalcoahkkal create_hkcu</li>

@@ -21,7 +21,7 @@
         <section>
             <title>Install 3.0</title>
             <ol>
-                <li>Fetch <a href="/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>Fetch <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
                 <li>Run the installer</li>
                 <li>Open the File handler, goto «My Computer -> Local disk -> Program Files (x86) -> Divvun»</li>
                 <li>Double click create_hkcu</li>

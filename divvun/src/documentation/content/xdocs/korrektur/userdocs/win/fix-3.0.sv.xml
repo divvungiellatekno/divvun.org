@@ -21,7 +21,7 @@
         <section>
             <title>Installera 3.0</title>
             <ol>
-                <li>Hämta <a href="/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>Hämta <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
                 <li>Kör installeringsprogrammet</li>
                 <li>Öppna Filhanteraren, gå till «Min dator -> Lokal disk -> Programfiler (x86) -> Divvun»</li>
                 <li>Dubbelklicka create_hkcu</li>
