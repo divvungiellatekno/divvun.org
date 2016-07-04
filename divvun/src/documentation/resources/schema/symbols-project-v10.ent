@@ -7,7 +7,7 @@
 <!-- Default entity for font-config file.
      The user may specify the absolute path to the pdf config file here
      (ie in the copy in the project resources folder) if needed. -->
-<!ENTITY pdf-config-file "/Users/sd/trunk/xtdoc/divvun/src/documentation/resources/fonts/config.xml">
+<!ENTITY pdf-config-file "/Users/sd/gtsvn/xtdoc/divvun/src/documentation/resources/fonts/config.xml">
 
 <!ENTITY myp "My Project Name">
 <!ENTITY myp-s "<strong>My Project Name</strong>">
