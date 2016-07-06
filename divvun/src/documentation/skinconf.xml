@@ -52,6 +52,7 @@ which will be used to configure the chosen Forrest skin.
   <project-description>Sámi Proofing Tools Project</project-description>
   <project-url>http://www.divvun.no/</project-url>
   <project-logo>images/divvun-logo.png</project-logo>
+  <project-logo-height>30</project-logo-height>
 <!-- Alternative static image:
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
@@ -60,6 +61,7 @@ which will be used to configure the chosen Forrest skin.
   <group-description>UiT Norgga árktalaš universitehta</group-description>
   <group-url>http://uit.no/</group-url>
   <group-logo>images/UiT_Navn_sam_rod.png</group-logo>
+  <group-logo-height>150</group-logo-height>
 <!-- Alternative static image:
   <group-logo>images/group-logo.gif</group-logo> -->
 <!-- optional host logo (e.g. sourceforge logo)
