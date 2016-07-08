@@ -66,8 +66,8 @@ which will be used to configure the chosen Forrest skin.
   <group-logo>images/group-logo.gif</group-logo> -->
 <!-- optional host logo (e.g. sourceforge logo)
        default skin: renders it at the bottom-left corner -->
-  <!--host-url>http://www.samediggi.no/</host-url>
-  <host-logo>images/menu.png</host-logo-->
+  <!--host-url>http://www.samediggi.no/</host-url-->
+  <host-logo>images/menu.png</host-logo>
 <!-- relative url of a favicon file, normally favicon.ico -->
   <favicon-url/>
 <!-- The following are used to construct a copyright statement -->
