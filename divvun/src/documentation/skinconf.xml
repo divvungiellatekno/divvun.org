@@ -1,6 +1,6 @@
 <?xml version = '1.0'?>
-<!DOCTYPE skinconfig PUBLIC "-//APACHE//DTD Skin Configuration V0.6-3//EN"
-                            "http://forrest.apache.org/dtd/skinconfig-v06-3.dtd">
+<!DOCTYPE skinconfig PUBLIC "-//APACHE//DTD Skin Configuration V0.8-2//EN"
+                            "http://forrest.apache.org/dtd/skinconfig-v08-2.dtd">
 
 <!--
 Skin configuration file. This file contains details of your project,
