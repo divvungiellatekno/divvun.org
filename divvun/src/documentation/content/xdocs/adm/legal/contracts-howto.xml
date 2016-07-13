@@ -44,23 +44,23 @@
                </p>
                <source>&lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forfattar&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Omsetjar&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;table&gt;
     &lt;tr&gt;&lt;th&gt;Rolle:&lt;/th&gt;                   &lt;th&gt;Forleggjar&lt;/th&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
-    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&nbsp;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Namn:&lt;/td&gt;                    &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Adresse:&lt;/td&gt;                 &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Postnummer og -stad:&lt;/td&gt;     &lt;td&gt;&#160;&lt;/td&gt;&lt;/tr&gt;
 &lt;/table&gt;
                 </source>
                 <p>

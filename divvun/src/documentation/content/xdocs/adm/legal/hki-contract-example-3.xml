@@ -17,43 +17,43 @@
           <tr>
             <td>Namn</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>Arbeids- eller studiestad</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>E-post</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>Telefon</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>Adresse</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>Postnummer og -stad</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>(For studentar:) Rettleiar</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
         </table>
       </section>
@@ -72,19 +72,19 @@
           <tr>
             <td>Organisasjon</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>E-post</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
 
           <tr>
             <td>Telefon</td>
 
-            <td>&nbsp;</td>
+            <td>&#160;</td>
           </tr>
         </table>
       </section>
@@ -214,9 +214,9 @@
         </tr>
 
         <tr>
-          <td>&nbsp;</td>
+          <td>&#160;</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
@@ -226,9 +226,9 @@
         </tr>
 
         <tr>
-          <td>&nbsp;</td>
+          <td>&#160;</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
       </table>
     </section>
@@ -240,37 +240,37 @@
         <tr>
           <td>Namn</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
           <td>Organisasjon</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
           <td>E-post</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
           <td>Telefon</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
           <td>Tid og stad</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
 
         <tr>
           <td>Underskrift</td>
 
-          <td>&nbsp;</td>
+          <td>&#160;</td>
         </tr>
       </table>
     </section>

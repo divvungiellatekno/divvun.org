@@ -16,24 +16,24 @@
 
           <table>
             <tr><th>Rolle:</th>                   <th>Forfattar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><td>Namn:</td>                    <td>&#160;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&#160;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&#160;</td></tr>
           </table>
 
           <table>
             <tr><th>Rolle:</th>                   <th>Omsetjar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><td>Namn:</td>                    <td>&#160;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&#160;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&#160;</td></tr>
           </table>
 
 
           <table>
             <tr><th>Rolle:</th>                   <th>Forleggjar</th></tr>
-            <tr><td>Namn:</td>                    <td>&nbsp;</td></tr>
-            <tr><td>Adresse:</td>                 <td>&nbsp;</td></tr>
-            <tr><td>Postnummer og -stad:</td>     <td>&nbsp;</td></tr>
+            <tr><td>Namn:</td>                    <td>&#160;</td></tr>
+            <tr><td>Adresse:</td>                 <td>&#160;</td></tr>
+            <tr><td>Postnummer og -stad:</td>     <td>&#160;</td></tr>
           </table>
 
         </section>
