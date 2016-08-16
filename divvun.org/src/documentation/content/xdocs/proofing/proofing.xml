@@ -36,7 +36,8 @@
             </td>
          </tr>
          <tr>
-           <td>Inari Saami</td>
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
+                height="30"/>Inari Saami</td>
            <td>     <a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
