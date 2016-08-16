@@ -88,6 +88,20 @@
            <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
            </td>
          </tr>
+         <tr>
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
+                height="30"/>Inari Saami</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-4.0-win.oxt">For Windows</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
+           </td>
+         </tr>
          </table>
 
         <section>
