@@ -35,6 +35,16 @@
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
          </tr>
+         <tr>
+           <td>Inari Saami</td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">Download installer</a> </td>
+           <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami project</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
+            </td>
+         </tr>
          </table>
       </section>
 
