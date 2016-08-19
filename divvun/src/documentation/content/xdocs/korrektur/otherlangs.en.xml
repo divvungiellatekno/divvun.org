@@ -20,27 +20,60 @@
            <th>Description:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Extension for LibreOffice (Windows) containing a Kven speller</td>
+           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Kven speller extension for LibreOffice (4.4+)</td>
          </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Extension for LibreOffice (OSX) containing a Kven speller</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Extension for Firefox and other Mozilla applications containing a Kven speller</td>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Kven speller extension for Firefox and other Mozilla applications</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
            <td>Kven speller for all of OSX</td>
-         </tr>
+         </tr-->
          </table>
 
          <p>The Kven project has its own <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
+         href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html"
          >project page</a>, and the source code can be found <a
          href="https://victorio.uit.no/langtech/trunk/langs/fkv">here</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for the Inari Sámi language</title>
+
+         <p>The Inari Sámi proofing tools are under development, and the linguistic
+         quality is varying. Use the tools critically, and update often!</p>
+
+         <table>
+         <tr>
+           <th>Download: </th>
+           <th>Description:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Inari Sámi speller extension for LibreOffice (4.4+)</td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Inari Sámi speller extension for MS Office (nightly builds)</td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Inari Sámi speller extension for Firefox and other Mozilla applications</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Inari Sámi speller for all of OSX</td>
+         </tr-->
+         </table>
+
+         <p>The Inari Sámi project has its own <a
+         href="http://divvun.no/doc/lang/smn/j-smn.html"
+         >project page</a>, and the source code can be found <a
+         href="https://victorio.uit.no/langtech/trunk/langs/smn">here</a>.
          </p>
 
       </section>

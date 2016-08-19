@@ -21,27 +21,61 @@
            <th>Tjielggidus:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Lasádus LibreOfficij (Windows) guojna tjállemdárkastusájn</td>
+           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Guojna tjállemdárkastus LibreOfficij (4.4+)</td>
          </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Lasádus LibreOfficij (OSX) guojna tjállemdárkastusájn</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Lasádus Firefoxaj ja ietjá Mozilla-prográmmajda guojna tjállemdárkastusájn</td>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Guojna tjállemdárkastus Firefoxaj ja ietjá Mozilla-prográmmajda</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
            <td>Guojna tjállemdárkastus ålles OSX:j</td>
-         </tr>
+         </tr-->
          </table>
 
          <p>Guojnagielprosjevtan le sierra <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
+         href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html"
          >prosjæktasijddo</a>, ja guojnagiela gálldokåvdåv gávna <a
          href="https://victorio.uit.no/langtech/trunk/langs/fkv">dánna</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Tjállemdárkastus anársámegiellaj</title>
+
+         <p>Anársáme tjállemdárkastusá álu ådåstuhteduvvi, ja li dajnas målsudahkes gielalasj
+         kvalitiehtas. Ane dav várrogisát, ja ådåsmahte  
+         dav álu!</p>
+
+         <table>
+         <tr>
+           <th>Viettja: </th>
+           <th>Tjielggidus:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Anársáme tjállemdárkastus LibreOfficij (4.4+)</td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Anársáme tjállemdárkastus MS Officij (byggs varje natt)</td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Anársáme tjállemdárkastus Firefoxaj ja ietjá Mozilla-prográmmajda</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Anársáme tjállemdárkastus ålles OSX:j</td>
+         </tr-->
+         </table>
+
+         <p>Anársámegielprosjevtan le sierra <a
+         href="http://divvun.no/doc/lang/smn/j-smn.html"
+         >prosjæktasijddo</a>, ja guojnagiela gálldokåvdåv gávna <a
+         href="https://victorio.uit.no/langtech/trunk/langs/smn">dánna</a>.
          </p>
 
       </section>

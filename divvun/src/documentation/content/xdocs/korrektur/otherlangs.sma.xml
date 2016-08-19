@@ -11,8 +11,7 @@
       <section>
          <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Staeriedimmiedïrregh kveenengïelese</title>
 
-         <p>Kveenengïelen staeriedimmiefïrregh leah båetiemisnie, dannasinie ij leah dïhte gïelebarkoe daejnie dïrreginie annje eevre riejries.
-!</p>
+         <p>Kveenengïelen staeriedimmiefïrregh leah båetiemisnie, dannasinie ij leah dïhte gïelebarkoe daejnie dïrreginie annje eevre riejries.</p>
 
          <table>
          <tr>
@@ -20,27 +19,59 @@
            <th>boejhkehtasse:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Vijriedidh LibreOfficasse (Windows) kveenengïelen staeriedimmiedïrreginie</td>
+           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Kveenen staeriedimmiedïrrege LibreOfficasse (4.4+)</td>
          </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Vijriedidh LibreOfficasse (OSX) kveenengïelen staeriedimmiedïrreginie</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows og OSX)</a> </td>
-           <td>Vijriedidh Firefox jïh jeatjah Mozilla-programmh gusnie kveenen staeriedimmiedïrregh.</td>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Kveenen staeriedimmiedïrrege Firefox jïh jeatjah Mozilla-programmh</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
            <td>Kveenen staeriedimmiedïrrege OSX:asse</td>
-         </tr>
+         </tr-->
          </table>
 
          <p>Kveenengïeleprosjekten lea aaj jïjtse sæjroe <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
+         href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html"
          >prosjektesæjroe</a>, gaaltijekovde kveenengïelse <a
          href="https://victorio.uit.no/langtech/trunk/langs/fkv">daesnie gaavnah</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Staeriedimmiedïrregh anársaemiengïelese</title>
+
+         <p>Anársaemiengïelen staeriedimmiefïrregh leah båetiemisnie, dannasinie ij leah dïhte gïelebarkoe daejnie dïrreginie annje eevre riejries.</p>
+
+         <table>
+         <tr>
+           <th>Veedtjelh: </th>
+           <th>boejhkehtasse:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Anársaemien staeriedimmiedïrrege LibreOfficasse (4.4+)</td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Anársaemien staeriedimmiedïrrege MS Officasse (byggs varje natt)</td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Anársaemien staeriedimmiedïrrege Firefox jïh jeatjah Mozilla-programmh</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Anársaemien staeriedimmiedïrrege OSX:asse</td>
+         </tr-->
+         </table>
+
+         <p>Anársaemiengïeleprosjekten lea aaj jïjtse sæjroe <a
+         href="http://divvun.no/doc/lang/smn/j-smn.html"
+         >prosjektesæjroe</a>, gaaltijekovde Anársaemiengïelese <a
+         href="https://victorio.uit.no/langtech/trunk/langs/smn">daesnie gaavnah</a>.
          </p>
 
       </section>

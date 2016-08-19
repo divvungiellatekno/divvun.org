@@ -21,27 +21,61 @@
            <th>Beskrivning:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>Plugin för LibreOffice (Windows) med kvensk rättstavning</td>
+           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Kvensk rättstavningsplugin för LibreOffice 4.4+</td>
          </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>Plugin för LibreOffice (OSX) med kvensk rättstavning</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows och OSX)</a> </td>
-           <td>Plugin för Firefox och andra Mozilla-program med kvensk rättstavning</td>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Kvensk rättstavningsplugin för Firefox och andra Mozilla-program</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
            <td>Kvensk rättstavning för hela OSX</td>
-         </tr>
+         </tr-->
          </table>
 
          <p>Det kvenska projektet har en egen <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
+         href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html"
          >projektsida</a>, och källkoden för kvenska kan man hitta <a
          href="https://victorio.uit.no/langtech/trunk/langs/fkv">här</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Korrekturverktyg för enaresamiska</title>
+
+         <p>De enaresamiska korrekturverktygen är under konstant utveckling, och den
+         språkliga kvalitén varierar. Använd verktygen med ett kritiskt öga, och
+         uppdatera ofta!</p>
+
+         <table>
+         <tr>
+           <th>Ladda ner: </th>
+           <th>Beskrivning:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Enaresamisk rättstavningsplugin för LibreOffice 4.4+</td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Enaresamisk rättstavning för MS Office (byggs varje natt)</td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Enaresamisk rättstavningsplugin för Firefox och andra Mozilla-program</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Enaresamisk rättstavning för hela OSX</td>
+         </tr-->
+         </table>
+
+         <p>Det enaresamiska projektet har en egen <a
+         href="http://divvun.no/doc/lang/smn/j-smn.html"
+         >projektsida</a>, och källkoden för enaresamiska kan man hitta <a
+         href="https://victorio.uit.no/langtech/trunk/langs/smn">här</a>.
          </p>
 
       </section>

@@ -20,27 +20,60 @@
            <th>Kuvaus:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">LibreOffice (Windows)</a> </td>
-           <td>LibreOffice laajennus (Windows) kveeninkielen oikoluvulla</td>
+           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Kveeninkielen oikoluku LibreOfficelle (4.4+)</td>
          </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">LibreOffice (OSX)</a> </td>
-           <td>LibreOffice laajennus (OSX) kveeninkielen oikoluvulla</td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows ja OSX)</a> </td>
-           <td>Firefox ja Mozilla laajennus kveeninkielen oikoluvulla</td>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Kveeninkielen oikoluku Firefoxille ja muille Mozilla-ohjelmille</td>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">MacVoikko (OSX)</a> </td>
-           <td>kveeninkielen oikoluku koko OSX:lle</td>
-         </tr>
+           <td>Kveeninkielen oikoluku koko OSX:lle</td>
+         </tr-->
          </table>
 
          <p>Kveeniprojektilla on oma <a
-         href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html"
+         href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html"
          >projektisivu</a>, lähdekoodin kveenille löydät <a
          href="https://victorio.uit.no/langtech/trunk/langs/fkv">täältä</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Oikeinkirjoitus inarisaameksi</title>
+
+         <p>Inarinsaamenkielen oikeinkirjoitusohjelma on kehitteillä, ja sen kiellinen laatu vaihtelee.
+        Käyttäkää harkiten ja päivittäkää usein!</p>
+
+         <table>
+         <tr>
+           <th>Lataa: </th>
+           <th>Kuvaus:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Inarinsaamenkielen oikoluku LibreOfficelle (4.4+)</td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Inarinsaamenkielen oikoluku MS Officelle (rakennettu joka yö)</td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Inarinsaamenkielen oikoluku Firefoxille ja muille Mozilla-ohjelmille</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Inarinsaamenkielen oikoluku koko OSX:lle</td>
+         </tr-->
+         </table>
+
+         <p>Inarisaamiprojektilla on oma <a
+         href="http://divvun.no/doc/lang/smn/j-smn.html"
+         >projektisivu</a>, lähdekoodin inarisaamelle löydät <a
+         href="https://victorio.uit.no/langtech/trunk/langs/smn">täältä</a>.
          </p>
 
       </section>
