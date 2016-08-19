@@ -32,7 +32,7 @@
          </tr-->
          </table>
 
-         <p>Kvenagiela prošeavttas lea sierra <a href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html">prošeaktašiidu</a>, ja kvena gáldokoda gávdno <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">dás</a>.
+         <p>Kvenagiela prošeavttas lea sierra <a href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html">prošeaktasiidu</a>, ja kvena gáldokoda gávdno <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">dás</a>.
          </p>
 
       </section>
@@ -51,6 +51,10 @@
            <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
            <td>Anársámi čállindárkkisteaddji LibreOfficii (4.4+)</td>
          </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Anársámi čállindárkkisteaddji MS Officij (ođastuhttojuvvo juohke ija)</td>
+         </tr>
          <!--tr>
            <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
            <td>Anársámi čállindárkkisteaddji Firefoxii ja eará Mozilla-prográmmaide</td>
@@ -61,7 +65,7 @@
          </tr-->
          </table>
 
-         <p>Anársámegiela prošeavttas lea sierra <a href="http://divvun.no/doc/lang/smn/j-smn.html">prošeaktašiidu</a>, ja anársámi gáldokoda gávdno <a href="https://victorio.uit.no/langtech/trunk/langs/smn">dás</a>.
+         <p>Anársámegiela prošeavttas lea sierra <a href="http://divvun.no/doc/lang/smn/j-smn.html">prošeaktasiidu</a>, ja anársámi gáldokoda gávdno <a href="https://victorio.uit.no/langtech/trunk/langs/smn">dás</a>.
          </p>
 
       </section>
@@ -69,7 +73,7 @@
       <section>
          <title>Čállindárkkisteaddjit eará gielaide</title>
 
-         <p>Divvun-joavkkus lea sierra neahttabáiki mas leat čállindárkkisteaddjit ii-sámi gielaide, mat leat ovdánahtton ovttasbargun eará organisašuvnnaiguin. Mana <a href="http://divvun.org/">divvun.org</a>:i gos gávnnat eanet dieđuid ja vieččahahtti čállindárkkisteddjiid.</p>
+         <p>Divvun-joavkkus lea sierra neahttabáiki mas leat čállindárkkisteaddjit eará gielaide (go sápmái), mat leat ovdánahtton ovttasbargun eará organisašuvnnaiguin. Mana <a href="http://divvun.org/">divvun.org</a>:i gos gávnnat eanet dieđuid ja vieččahahtti čállindárkkisteddjiid.</p>
 
       </section>
 
