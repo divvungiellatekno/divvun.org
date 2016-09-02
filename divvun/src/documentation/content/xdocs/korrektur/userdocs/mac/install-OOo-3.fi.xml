@@ -13,7 +13,7 @@
 
 	<body>
 
-		<warning>We do not improve the OpenOffice spellcheckers any more, because OpenOffice itself is not developde any more. We recommend that you use LibreOffice and <a href="../../korrektur.html">the spellcheckers belonging to it.</a>.</warning>
+		<warning>Me emme enää päivitä OpenOffice-korjausohjelmia, koska OpenOfficea ei enää kehitetä. Suosittelemme sen sijaan LibreOfficea ja <a href="../../korrektur.html"> siihen kuuluvia korjausohjelmia.</a>.</warning>
 
 		<section>
 			<title>Oikolukuohjelman asentaminen</title>
