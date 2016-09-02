@@ -17,10 +17,17 @@
          <tr>
            <th>Veedtjelh: </th>
            <th>boejhkehtasse:</th>
+           <th>Vegledelse:</th>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
            <td>Kveenen staeriedimmiedïrrege LibreOfficasse (4.4+)</td>
+           <td>
+             <ul>
+               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
+               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
+             </ul>
+           </td>
          </tr>
          <!--tr>
            <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-fkv.xpi">Firefox (Windows &amp; OSX)</a> </td>
@@ -49,14 +56,26 @@
          <tr>
            <th>Veedtjelh: </th>
            <th>boejhkehtasse:</th>
+           <th>Vegledelse:</th>
          </tr>
          <tr>
            <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
            <td>Anársaemien staeriedimmiedïrrege LibreOfficasse (4.4+)</td>
+           <td>
+             <ul>
+               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
+               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
+             </ul>
+           </td>
          </tr>
          <tr>
            <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
            <td>Anársaemien staeriedimmiedïrrege MS Officasse (bigkesåvva fïerhten jïjjen)</td>
+           <td>
+             <ul>
+               <li><a href="userdocs/win/index-msoff.html">Windows</a></li>
+             </ul>
+           </td>
          </tr>
          <!--tr>
            <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
