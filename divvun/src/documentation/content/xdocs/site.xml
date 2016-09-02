@@ -123,8 +123,8 @@
           <!--macosx   label="For hele MacOSX" href="userdocs/mac/install-macosx-10.6.html"/>
           <linux    label="For hele Linux" href="userdocs/linux/install-linux.html"/-->
           <userdocs label="Vegledninger" href="userdocs/">
-            <maclo label="OpenOffice and LibreOffice" >
-                <openoffice description="Divvun for OpenOffice and LibreOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
+            <maclo label="OpenOffice" >
+                <openoffice description="Divvun for OpenOffice" href="mac/install-OOo-3.html" label="Divvun for OpenOffice" />
             </maclo>
             <indesign label="Adobe InDesign" >
                 <install_and_use description="Installation for InDesign CS3"
