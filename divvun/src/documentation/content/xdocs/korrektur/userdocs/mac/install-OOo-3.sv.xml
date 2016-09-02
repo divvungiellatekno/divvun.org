@@ -13,7 +13,7 @@
 	<body>
 
 		<warning>OpenOffice-rättstavningen uppdateras inte längre, och vi
-		rekommenderar att du hällre använder korrekturverktygen för LibreOffice,
+		rekommenderar att du hellre använder korrekturverktygen för LibreOffice,
 		som du kan ladda ner <a href="../../korrektur.html">här</a>.</warning>
 
 		<section>
@@ -24,7 +24,7 @@
 			<p>Den samiska stavningskontrollen för OpenOffice.org kan laddas ner <a href="http://divvun.no/static_files/smi.oxt">här</a>. Den hämtade stavningskontrollmodulen ser ut så här:<br/>
 			 <img src="images/oxt-icon.png" alt="Extension icon and filename" /></p>
 
-			<p>Beroende på  vilken webbläsare och operativsystem du har, kommer filen antingen öppnas automatiskt av OpenOffice.org eller sparas på hårddisken. Om filen har sparats, dubbelklicka på den nedladdade filen för att installera den.</p>
+			<p>Beroende på vilken webbläsare och operativsystem du har, kommer filen antingen öppnas automatiskt av OpenOffice.org eller sparas på hårddisken. Om filen har sparats, dubbelklicka på den nedladdade filen för att installera den.</p>
 
 			<p>Om du fick stavningskontrollen på Divvun CD, bara dubbelklicka på stavningskontrollmodulen (se ikonen ovan).</p>
 
