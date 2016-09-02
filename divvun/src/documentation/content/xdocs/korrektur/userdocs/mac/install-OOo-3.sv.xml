@@ -11,6 +11,11 @@
 	</header>
 
 	<body>
+
+		<warning>OpenOffice-stavekontrollene blir ikke holdt ved like, og vi
+		anbefaler at du heller bruker verktøyene for LibreOffice, som du kan
+		laste ned <a href="../../korrektur.html">på denne siden</a>.</warning>
+
 		<section>
 			<title>Installera stavningskontrollen</title>
 
