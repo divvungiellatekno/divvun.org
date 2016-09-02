@@ -12,9 +12,9 @@
 
 	<body>
 
-		<warning>OpenOffice-stavekontrollene blir ikke holdt ved like, og vi
-		anbefaler at du heller bruker verktøyene for LibreOffice, som du kan
-		laste ned <a href="../../korrektur.html">på denne siden</a>.</warning>
+		<warning>The OpenOffice spellers are not being maintained, and we
+		recommend that you instead use our proofing tools for LibreOffice, which
+		kan be downloaded <a href="../../korrektur.html">here</a>.</warning>
 
 		<section>
 			<title>Install dictionaries</title>
