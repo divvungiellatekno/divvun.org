@@ -13,7 +13,10 @@
 
 	<body>
 
-		<warning>Me emme enää päivitä OpenOffice-korjausohjelmia, koska OpenOfficea ei enää kehitetä. Suosittelemme sen sijaan LibreOfficea ja <a href="../../korrektur.html"> siihen kuuluvia korjausohjelmia.</a>.</warning>
+		<warning>Me emme enää päivitä OpenOffice-korjausohjelmia, koska
+		OpenOfficea ei enää kehitetä. Suosittelemme sen sijaan <a class="fork"
+		href="http://www.libreoffice.org">LibreOfficea</a> ja
+		<a href="../../korrektur.html"> siihen kuuluvia korjausohjelmia</a>.</warning>
 
 		<section>
 			<title>Oikolukuohjelman asentaminen</title>

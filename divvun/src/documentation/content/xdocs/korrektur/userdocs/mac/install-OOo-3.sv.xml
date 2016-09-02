@@ -12,7 +12,11 @@
 
 	<body>
 
-		<warning>Vi forbedrer ikke OpenOffice-stavekontrollene lenger, fordi  OpenOffice selv ikke vedlikeholdes. Vi anbefaler dere å bruke LibreOffice og <a href="../../korrektur.html">stavekontrollene som hører til den. </a>.</warning>
+		<warning>Vi uppdaterar inte OpenOffice-rättstavningen längre, därför
+		att OpenOffice inte uppdateras mera. Vi rekommenderar att ni använder
+		<a class="fork" href="http://www.libreoffice.org">LibreOffice</a> och
+		<a href="../../korrektur.html">rättstavningen som hör
+		till</a>.</warning>
 
 		<section>
 			<title>Installera stavningskontrollen</title>

@@ -12,7 +12,10 @@
 
 	<body>
 
-		<warning>We do not improve the OpenOffice spellcheckers any more, because OpenOffice itself is not developed any more. We recommend that you use LibreOffice and <a href="../../korrektur.html">the spellcheckers belonging to it.</a>.</warning>
+		<warning>We do not improve the OpenOffice spellcheckers any more,
+		because OpenOffice itself is not developed any more. We recommend that
+		you use <a class="fork" href="http://www.libreoffice.org">LibreOffice</a>
+		and <a href="../../korrektur.html">the spellcheckers belonging to it</a>.</warning>
 
 		<section>
 			<title>Install dictionaries</title>

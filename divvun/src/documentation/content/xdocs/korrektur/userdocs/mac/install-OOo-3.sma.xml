@@ -12,7 +12,7 @@
 
 	<body>
 
-		<warning>Vi forbedrer ikke OpenOffice-stavekontrollene lenger, fordi  OpenOffice selv ikke vedlikeholdes. Vi anbefaler dere å bruke LibreOffice og <a href="../../korrektur.html">stavekontrollene som hører til den. </a>.</warning>
+		<warning>Vi forbedrer ikke OpenOffice-stavekontrollene lenger, fordi  OpenOffice selv ikke vedlikeholdes. Vi anbefaler dere å bruke <a class="fork" href="http://www.libreoffice.org">LibreOffice</a> og <a href="../../korrektur.html">stavekontrollene som hører til</a>.</warning>
 
 		<section>
 			<title>Staeriedimmieprovgraammem sijjiedehtedh</title>
