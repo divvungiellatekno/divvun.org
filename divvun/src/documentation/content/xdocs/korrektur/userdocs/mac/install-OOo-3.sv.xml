@@ -12,9 +12,7 @@
 
 	<body>
 
-		<warning>OpenOffice-rättstavningen uppdateras inte längre, och vi
-		rekommenderar att du hellre använder korrekturverktygen för LibreOffice,
-		som du kan ladda ner <a href="../../korrektur.html">här</a>.</warning>
+		<warning>Vi forbedrer ikke OpenOffice-stavekontrollene lenger, fordi  OpenOffice selv ikke vedlikeholdes. Vi anbefaler dere å bruke LibreOffice og <a href="../../korrektur.html">stavekontrollene som hører til den. </a>.</warning>
 
 		<section>
 			<title>Installera stavningskontrollen</title>

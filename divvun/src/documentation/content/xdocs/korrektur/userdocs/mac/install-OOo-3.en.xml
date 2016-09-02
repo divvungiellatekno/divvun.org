@@ -12,9 +12,7 @@
 
 	<body>
 
-		<warning>The OpenOffice spellers are not being maintained, and we
-		recommend that you instead use our proofing tools for LibreOffice, which
-		kan be downloaded <a href="../../korrektur.html">here</a>.</warning>
+		<warning>We do not improve the OpenOffice spellcheckers any more, because OpenOffice itself is not developed any more. We recommend that you use LibreOffice and <a href="../../korrektur.html">the spellcheckers belonging to it.</a>.</warning>
 
 		<section>
 			<title>Install dictionaries</title>
