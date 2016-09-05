@@ -6,7 +6,7 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 CKEDITOR.dialog.add( 'giellaDialog', function( editor ) {
 	var giella_instance =  editor.giella;
 
-	var aboutTabDefinition = '<p><img src="' + giella_instance.getLogo() + '" /></p>' +
+	var aboutTabDefinition = '<div id="divvun_logo"><img src="' + giella_instance.getLogo() + '" style="width: 30%"/></div>' +
 				'<p>' + giella_instance.getLocal('version') + giella_instance.getVersion() + '</p>' +
 				'<p>' + giella_instance.getLocal('text_copyrights') + '</p>';
 
