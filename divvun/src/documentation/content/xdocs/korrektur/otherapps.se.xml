@@ -123,7 +123,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Hukse iežat čállindárkkisteaddji</title>
 
          <note>Bagadusaid ja gohččumiid maid gávnnat vuolábealde eaktuda ahte gohččunlinnjábirrasat Macas dahje Linuxis leat oahppásat dutnje. Windowsis dát bagadusat eai dáidde doaibmat bures.</note>
@@ -141,13 +141,13 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
             	Mana olggos gtcore-máhpas ja viečča iežat giela máhpa svn:s dán láhkai:
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Davvisámegiela
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsámegiela
@@ -156,14 +156,14 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Lullisámegiella</source
             <li>Vuoje dáid gohččumiid terminálaláses:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p><code>YOURLANGUAGE</code> lea sme, smj dahje sma maid easka leat viežžan.</p>
 
             </li>
          </ol>
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign ja eará prográmmat mat geavahit Hunspell-fiillaid</title>

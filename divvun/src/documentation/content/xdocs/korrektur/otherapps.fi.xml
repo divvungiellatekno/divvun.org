@@ -117,7 +117,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Käännä oma oikolukuohjelma</title>
 
          <note>Alla olevat ohjeet ja komennot toimivat komentoriviympäristössä modernissa
@@ -142,14 +142,14 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Lataa kielesi lähdekoodi erilliseen kansioon (ts.
                 iei <code>gtcore</code>-kansioon:
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Phjoissaame
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Luulajansaame
@@ -158,7 +158,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Eteläsaame</source>
             <li>Pura ja aja seuraavat komennot:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Vaihda <code>YOURLANGUAGE</code> juuri lataamaasi kielikoodiin.</p>
@@ -166,7 +166,7 @@ sudo make install</source>
             </li>
          </ol>
 
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign ja muut ohjelmat jotka käyttävät Hunspell-tiedostoja</title>

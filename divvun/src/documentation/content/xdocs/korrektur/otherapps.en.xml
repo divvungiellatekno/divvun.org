@@ -125,7 +125,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Build your own speller</title>
 
          <note>The Instructions and commands below presupposes basic knowledge
@@ -152,15 +152,15 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Check out the source code for your language in a separate
                 catalogue (that is, not within the <code>gtcore</code> catalogue
                 you just created in the previous step):
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # North Sámi
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julev Sámi
@@ -169,7 +169,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # South Sámi</source>
             <li>Unpack and run the following commands in a terminal window:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Replace <code>YOURLANGUAGE</code>with the name of the
@@ -178,7 +178,7 @@ sudo make install</source>
             </li>
          </ol>
 
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign and other applications using Hunspell files</title>

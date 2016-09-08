@@ -126,12 +126,16 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Bygg din egen stavekontroll</title>
 
          <note>Instruksjonene og kommandoene nedenfor forutsetter grunnleggende
          kjennskap til kommandolinjemiljøet i moderne operativsystem. Støtten
          for Windows er begrenset.</note>
+
+         <note>En del av byggeprosessen nedenfor krever at du har en aktiv
+         internettforbindelse - forsikre deg om at Internett er tilgjengelig
+         når byggingen starter.</note>
 
          <p>Det er mulig å bygge din egen stavekontroll rett fra kildefilene,
          og som en del av det å tilpasse kildefilene til dine egne behov. Du
@@ -144,25 +148,37 @@
 
             <li>Last ned <a
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core-tarballen</a>, som inneholder ressurser nødvendige
-                for alle språk. Etter nedlastingen, pakk ut og gjør følgende i
-                et terminalvindu:
+                ">giella-core-tarballen</a>, som inneholder byggeressurser
+                nødvendige for alle språk. Etter nedlastingen, pakk ut og gjør
+                følgende i et terminalvindu:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li>Last ned <a
+                href="https://sourceforge.net/projects/apertium/files/giella-common/
+                ">giella-common-tarballen</a>, som inneholder språkressurser
+                nødvendige for alle språk. Etter nedlastingen, pakk ut og gjør
+                følgende i et terminalvindu:
+                <source>
+cd giella-common
+./configure
+make
+sudo make install</source>
+            </li>
+
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
                 ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
                 forrige punkt):
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamisk
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamisk
@@ -171,16 +187,38 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sørsamisk</source>
             <li>Pakk ut og kjør følgende kommandoer i et terminalvindu:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Bytt ut <code>YOURLANGUAGE</code> med navnet på språkkatalogen
                 du nettopp sjekket ut.</p>
 
             </li>
-         </ol>
 
-      </section>
+            <li>Nå har du ferdige korrekturverktøy i katalogen
+            <code>tools/spellcheckers/fstbased/desktop/hfst/</code>:
+              <dl>
+                <dt>MacVoikko-yy-xx.service.zip</dt>
+                    <dd>Stavekontroll for hele OSX</dd>
+                <dt>Mozvoikko2-xx.xpi          </dt>
+                    <dd>Stavekontroll for Mozilla-program</dd>
+                <dt>xx.zhfst                   </dt>
+                    <dd>Rein språkfil for å installere et ekstra språk i tillegg
+                    til det som allerede er tilgjengelig med det installerte
+                    korrekturverktøyet</dd>
+                <dt>xx_LO-voikko-4.0-mac.oxt   </dt>
+                    <dd>Korrekturverktøy for LibreOffice 4.0-4.4 (OSX)</dd>
+                <dt>xx_LO-voikko-4.0-win.oxt   </dt>
+                    <dd>Korrekturverktøy for LibreOffice 4.0-4.4 (Windows)</dd>
+                <dt>xx_LO-voikko-5.0.oxt       </dt>
+                    <dd>Korrekturverktøy for LibreOffice 4.4+ (både OSX og Windows)</dd>
+              </dl>
+              <code>xx</code> = språkkode (f.eks. se, sma, smj), <code>yy</code>
+              = språknavn på engelsk.
+            </li>
+
+         </ol>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign og andre program som bruker Hunspell-filer</title>

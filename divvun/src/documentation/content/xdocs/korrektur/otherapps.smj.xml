@@ -126,7 +126,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Tsieggi ietjat tjállemdárkastusáv</title>
 
          <note>Dá bagádusá ja kommánndu vuollelin gájbbedij vuodulasj máhtudagáv
@@ -154,15 +154,15 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Sjiehkki ålgus ietjat giela gálldokåvdåjt sierra katalåvgån (ij
                 sæmmi <code>gtcore</code>-katalåvgån majt åvdep tjuokkan
                 åttjudi):
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nuorttasámegiella
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsámegiella
@@ -171,7 +171,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Oarjjelsámegiella</sour
             <li>Tjálesta tjuovvovasj kommánndujt terminállavinndegij biejatjit gájkka jåhtuj:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Målso <code>YOURLANGUAGE</code> giellakatalåvgå namájn majt iesski válljiji.</p>
@@ -179,7 +179,7 @@ sudo make install</source>
             </li>
          </ol>
 
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign ja ietjá prográmma ma adnuj válldi Hunspell-fijlajt</title>

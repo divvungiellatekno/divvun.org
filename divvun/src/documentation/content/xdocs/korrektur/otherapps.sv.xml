@@ -129,7 +129,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Bygg din egen rättstavningskontroll</title>
 
          <note>Instruktionerna och kommandona nedanför förutsätter grundläggande
@@ -157,15 +157,15 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Checka ut källkoden för ditt språk i en separat katalog (dvs
                 inte inne i <code>gtcore</code>-katalogen som du skaffat dej i
                 förra punkten):
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Nordsamiska
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Lulesamiska
@@ -174,7 +174,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Sydsamiska</source>
             <li>Packa ut och kör följande kommandon i ett terminalfönster:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Byt ut <code>YOURLANGUAGE</code> med namnet på språkkatalogen
@@ -183,7 +183,7 @@ sudo make install</source>
             </li>
          </ol>
 
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign och andra program som använder Hunspell-filer</title>

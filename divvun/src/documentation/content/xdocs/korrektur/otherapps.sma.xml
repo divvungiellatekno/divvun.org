@@ -127,7 +127,7 @@
 
       </section>
 
-      <section>
+      <!--section>
          <title>Bigkieh jïjtjedh staeriedimmieprogrammem</title>
 
          <p> Gåarede aaj jïjtjedh staeriedimmieprogrammem bigkedh dejstie gaaltije fijlijste, dle tjoeverh sjïehtesjdih dejtie gaaltijekovdide dov daerpiesvoetide. Darjoeh dle naemhtie:</p>
@@ -147,14 +147,14 @@ make
 sudo make install</source>
             </li>
 
-            <li><!-- Last ned kildekode-tarballen for språket ditt: -->
+            <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Pryövh dam dov gaaltijekovdem dov gïeline sjïere katalogesne (dvs. 
                 ikke inne i <code>gtcore</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne. 
-                <!--ul>
+                <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/sma.tgz">Sørsamisk</a></li>
-                </ul-->
+                </ul- ->
                 <source>
 svn co https://gtsvn.uit.no/langtech/trunk/langs/sme  # Noerhtesaemien
 svn co https://gtsvn.uit.no/langtech/trunk/langs/smj  # Julevsaemien
@@ -163,7 +163,7 @@ svn co https://gtsvn.uit.no/langtech/trunk/langs/sma  # Åarjelsaemien</source>
             <li>Vaeltieh daejtie stïllemidie jïh vuejehteh dle dejtie daennie terminalklaasesne:
                 <source>
 cd YOURLANGUAGE
-./configure --with-hfst --enable-spellers
+./configure - -with-hfst - -enable-spellers
 make
 sudo make install</source>
                 <p>Målsoeh <code>YOURLANGUAGE</code> nommine mij lea dennie dov gïelekatalogesne.</p>
@@ -173,7 +173,7 @@ sudo make install</source>
 
          <p>Bïhkedassh jïh stïllemh mah leah bijjelen, krïebpesjieh almetjh maehtieh  dejtie utnedh daenbeajjetje operativsystemesne. Ij daate dam Windowsem man hijvenlaakan dåarjoeh.</p>
 
-      </section>
+      </section-->
 
         <section>
             <title>OpenOffice, InDesign jïh jeatjah programmh mah og andre Hunspell-fijlh nuhtjieh</title>
