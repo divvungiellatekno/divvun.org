@@ -33,7 +33,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.removeDialogTabs = 'link:advanced';
 
 	// Activate customized 'giella' plugin. If you have other (extra) plugins, you can separate them with a comma (e.g, `'giella,other_plugin,third_plugin'`).
-	config.extraPlugins = 'giella';
+	config.extraPlugins = 'contextmenu,giella';
 	config.giella_multiLanguageMode = true;
 
 	// Set the URLs for the server giella should use. Replace `domain.tld` with the actual domain the server is accessible on.
