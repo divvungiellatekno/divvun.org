@@ -21,6 +21,23 @@
                 // instance, using default configuration.
                 CKEDITOR.replace( 'editor1' );
             </script>
+            <script>
+                (function() {
+                    var KEY = "lang"
+                    function getLanguage() {
+                      var lang = location.search.substring(1).split("&").map(function(v) {
+                        var s = v.split("=");
+                        return { k: s[0], v: s[1] }
+                      }).filter(function(x) {
+                        return x.k === KEY
+                      })[0]
+                      if (lang) { return lang.v }
+                    }
+                    var lang = getLanguage()
+                    if (!lang) { return }
+                        localStorage.setItem("giella_0_lang", "string<$>" + lang)
+                    })()
+            </script>
         </form>
     </body>
 </html>
