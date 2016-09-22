@@ -19,14 +19,14 @@
   <message key="Font size:">Foanntastuorrudahka:</message>
   <message key="Last Published:">Maŋemus ådåstuhteduvvam:</message>
   <message key="Search">Åtså</message>
-  <message key="Reset">Nullstill</message>
+  <message key="Reset">Máhtsa</message>
   <message key="-a">-Á</message>
   <message key="+a">+Á</message>
-  <message key="Reset text">Nullstill skriftstørrelsen</message>
-  <message key="Shrink text">Forminsk skriften</message>
-  <message key="Enlarge text">Forstørr skriften</message>
+  <message key="Reset text">Máhtsa foanntastuorrudahkaj</message>
+  <message key="Shrink text">Unnedit foanntastuorrudagáv</message>
+  <message key="Enlarge text">Stuoredit foanntastuorrudagáv</message>
   <message key="Search the site with google">Åtså dán næhttabájken</message>
   <message key="Search the site with lucene">Åtså dán næhttabájken</message>
-  <message key="Warning">Advarsel</message>
-  <message key="Note">Merkasj</message>
+  <message key="Warning">Várrodus</message>
+  <message key="Note">Tsuojggidus</message>
 </catalogue>
