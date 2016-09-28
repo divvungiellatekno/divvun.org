@@ -124,14 +124,6 @@ which will be used to configure the chosen Forrest skin.
 	margin-bottom:-1px;
     border-radius:5px;
 }
-#level2tabs {
-    background-color: #e7e7e7;
-    margin-bottom: 20px;
-    margin-top:   -20px;
-    margin-left:   20px;
-    margin-right:  20px;
-    font-size:     80% ;
-}
 
 h3.h4 {
     margin-left: 1em;
@@ -154,7 +146,6 @@ table {
 }
 
 @media screen and (max-width:767px) {
-    .group-logo .logoImage,
     .nav-sidebar,
     .searchbox hr {
         display: none;
