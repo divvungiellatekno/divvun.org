@@ -568,7 +568,7 @@ CKEDITOR.plugins.add('giella', {
 		}
 
 		if(!editor.config.giella_sLang) {
-			editor.config.giella_sLang = 'en_US';
+			editor.config.giella_sLang = 'se'; // used to be: en_US
 		}
 
 		if(editor.config.giella_maxSuggestions === undefined || typeof editor.config.giella_maxSuggestions != 'number' || editor.config.giella_maxSuggestions < 0) {
