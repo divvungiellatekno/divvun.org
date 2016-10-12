@@ -36,6 +36,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.extraPlugins = 'contextmenu,giella';
 	config.giella_multiLanguageMode = true;
 	config.giella_autoStartup = true;
+	config.giella_lang = 'se';
 
 	// Set the URLs for the server giella should use. Replace `domain.tld` with the actual domain the server is accessible on.
 	config.giella_servicePath = "http://divvun.no:3000/spellcheck31/script/ssrv.cgi";
