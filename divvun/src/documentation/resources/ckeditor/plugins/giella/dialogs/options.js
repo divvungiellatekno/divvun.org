@@ -105,7 +105,7 @@ CKEDITOR.dialog.add( 'giellaDialog', function( editor ) {
 						type: 'html',
 						id: 'langBox',
 						style: 'overflow: hidden; white-space: normal;margin-bottom:15px;',
-						html: '<div><div style="float:left;width:45%;margin-left:5px;" id="left-col-' + editor.name + '"></div><div style="float:left;width:45%;margin-left:15px;" id="right-col-' + editor.name + '"></div></div>',
+						html: '<div><div style="float:left;width:95%;margin-left:5px;" id="left-col-' + editor.name + '"></div><div style="float:left;width:95%;margin-left:5px;" id="right-col-' + editor.name + '"></div></div>',
 						onShow: function() {
 							var giella_instance =  editor.giella;
 							var lang = giella_instance.getLang(),
@@ -118,7 +118,7 @@ CKEDITOR.dialog.add( 'giellaDialog', function( editor ) {
 					{
 						type: 'html',
 						id: 'graytLanguagesHint',
-						html: '<div style="margin:5px auto; width:95%;white-space:normal;" id="' + editor.name + 'graytLanguagesHint"><span style="width:10px;height:10px;display: inline-block; background:#02b620;vertical-align:top;margin-top:2px;"></span> - This languages are supported by Grammar As You Type(GRAYT).</div>',
+						html: '<div style="margin:5px auto; width:95%;white-space:normal;" id="' + editor.name + 'graytLanguagesHint"><span style="width:10px;height:10px;display: inline-block; background:#02b620;vertical-align:top;margin-top:2px;"></span> - These languages are supported by Grammar As You Type(GRAYT).</div>',
 						onShow: function() {
 							var graytLanguagesHint = doc.getById(editor.name + 'graytLanguagesHint');
 
