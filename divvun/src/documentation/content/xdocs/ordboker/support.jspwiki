@@ -12,3 +12,7 @@ This is mainly due to limitations in one of the libraries we use, [Bootstrap|htt
 
 
 The web app is not optimised for mobile phones yet, but it does work. Mobile use optimisation will be implemented soon.
+
+!!!REST Api
+
+The REST API can be found in [here|$GT_HOME/techdoc/apps/satni/RESTEndPoints.jspwiki]
