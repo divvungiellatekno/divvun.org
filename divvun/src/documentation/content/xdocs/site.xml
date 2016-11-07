@@ -174,7 +174,7 @@
 
     <ordbøker href="ordboker/" tab="Ordbøker" label="Ordbøker">
         <index href="ordboker.html" label="Ordbøker"/>
-        <satni label="Sátni•báhko•baakoe support" href="support.html"/>
+        <satni label="Sátni•báhko•baakoe support" href="Support.html"/>
         <satni_log description="Visitor log for satni.org" href="satni.html" label="Visit log for satni.org" />
     </ordbøker>
 
