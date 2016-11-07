@@ -6,13 +6,24 @@
 * Opera
 * Safari
 
-Other browsers might work, but old versions of most browsers will definitely not work.
+Other browsers might work, but old versions of most browsers will definitely
+not work.
 
-This is mainly due to limitations in one of the libraries we use, [Bootstrap|http://getbootstrap.com/getting-started/#support].
+This is mainly due to limitations in one of the libraries we use,
+[Bootstrap|http://getbootstrap.com/getting-started/#support].
 
 
-The web app is not optimised for mobile phones yet, but it does work. Mobile use optimisation will be implemented soon.
+The web app is not optimised for mobile phones yet, but it does work. Mobile
+use optimisation will be implemented soon.
 
 !!!REST Api
 
-The REST API can be found in [here|http://divvun.no/doc/apps/satni/RESTEndPoints.html]
+There’s a REST interface for searching and retrieving content in the Sátni
+dictionary and terminology web app. The documentation for the REST API can be
+found [here|http://divvun.no/doc/apps/satni/RESTEndPoints.html]
+
+!!!Database monitoring
+
+There’s a monitoring interface
+[here|http://gtweb.uit.no:8080/exist/apps/monex/index.html] (username and
+password required).
