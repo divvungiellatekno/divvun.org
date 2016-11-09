@@ -98,20 +98,20 @@
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for Skolt Sámi</title>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Oikeinkirjoitus koltansaameksi</title>
 
-         <p>The Skolt Sámi proofing tools are under development, and the linguistic
-         quality is varying. Use the tools critically, and update often!</p>
+         <p>Koltansaamenkielen oikeinkirjoitusohjelma on kehitteillä, ja sen kiellinen laatu vaihtelee.
+        Käyttäkää harkiten ja päivittäkää usein!</p>
 
          <table>
          <tr>
-           <th>Download: </th>
-           <th>Description:</th>
-           <th>User guides:</th>
+           <th>Lataa: </th>
+           <th>Kuvaus:</th>
+           <th>Ohjeet:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Skolt Sámi speller extension for LibreOffice (4.4+)</td>
+           <td><a href="http://divvun.no/static_files/oxts/sms_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Koltansaamenkielen oikoluku LibreOfficelle (4.4+)</td>
            <td>
              <ul>
                <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
@@ -120,8 +120,8 @@
            </td>
          </tr>
          <tr>
-           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
-           <td>Skolt Sámi speller extension for MS Office (updated every night)</td>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-sms-latest.msi">MS Office (Windows)</a> </td>
+           <td>Koltansaamenkielen oikoluku MS Officelle (rakennettu joka yö)</td>
            <td>
              <ul>
                <li><a href="userdocs/win/index-msoff.html">Windows</a></li>
@@ -129,19 +129,19 @@
            </td>
          </tr>
          <!--tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
-           <td>Inari Sámi speller extension for Firefox and other Mozilla applications</td>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-sms.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Koltansaamenkielen oikoluku Firefoxille ja muille Mozilla-ohjelmille</td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Inari Sámi speller for all of OSX</td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Skolt_Sami-sms.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Koltansaamenkielen oikoluku koko OSX:lle</td>
          </tr-->
          </table>
 
-         <p>The Skolt Sámi project has its own <a
+         <p>Koltansaamiprojektilla on oma <a
          href="http://divvun.no/doc/lang/sms/j-sms.html"
-         >project page</a>, and the source code can be found <a
-         href="https://victorio.uit.no/langtech/trunk/langs/sms">here</a>.
+         >projektisivu</a>, lähdekoodin koltansaamelle löydät <a
+         href="https://victorio.uit.no/langtech/trunk/langs/sms">täältä</a>.
          </p>
 
       </section>
