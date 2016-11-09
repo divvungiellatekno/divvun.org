@@ -9,7 +9,7 @@
    <body>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for the Kven language</title>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for Kven</title>
 
          <p>The Kven proofing tools are under development, and the linguistic
          quality is varying. Use the tools critically, and update often!</p>
@@ -49,7 +49,7 @@
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for the Inari Sámi language</title>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for Inari Sámi</title>
 
          <p>The Inari Sámi proofing tools are under development, and the linguistic
          quality is varying. Use the tools critically, and update often!</p>
@@ -72,7 +72,7 @@
          </tr>
          <tr>
            <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
-           <td>Inari Sámi speller extension for MS Office (nightly builds)</td>
+           <td>Inari Sámi speller extension for MS Office (updated every night)</td>
            <td>
              <ul>
                <li><a href="userdocs/win/index-msoff.html">Windows</a></li>
@@ -93,6 +93,55 @@
          href="http://divvun.no/doc/lang/smn/j-smn.html"
          >project page</a>, and the source code can be found <a
          href="https://victorio.uit.no/langtech/trunk/langs/smn">here</a>.
+         </p>
+
+      </section>
+
+      <section>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for Skolt Sámi</title>
+
+         <p>The Skolt Sámi proofing tools are under development, and the linguistic
+         quality is varying. Use the tools critically, and update often!</p>
+
+         <table>
+         <tr>
+           <th>Download: </th>
+           <th>Description:</th>
+           <th>User guides:</th>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Skolt Sámi speller extension for LibreOffice (4.4+)</td>
+           <td>
+             <ul>
+               <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
+               <li><a href="userdocs/mac/install-use-Voikko-LO5-osx.html">OSX</a></li>
+             </ul>
+           </td>
+         </tr>
+         <tr>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
+           <td>Skolt Sámi speller extension for MS Office (updated every night)</td>
+           <td>
+             <ul>
+               <li><a href="userdocs/win/index-msoff.html">Windows</a></li>
+             </ul>
+           </td>
+         </tr>
+         <!--tr>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Inari Sámi speller extension for Firefox and other Mozilla applications</td>
+         </tr>
+         <tr>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Inari Sámi speller for all of OSX</td>
+         </tr-->
+         </table>
+
+         <p>The Skolt Sámi project has its own <a
+         href="http://divvun.no/doc/lang/sms/j-sms.html"
+         >project page</a>, and the source code can be found <a
+         href="https://victorio.uit.no/langtech/trunk/langs/sms">here</a>.
          </p>
 
       </section>
