@@ -100,20 +100,21 @@
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Proofing tools for Skolt Sámi</title>
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>Tjállemdárkastus gålldåsámegiellaj</title>
 
-         <p>The Skolt Sámi proofing tools are under development, and the linguistic
-         quality is varying. Use the tools critically, and update often!</p>
+         <p>Gålldåsáme tjállemdárkastusá álu ådåstuhteduvvi, ja li dajnas målsudahkes gielalasj
+         kvalitiehtas. Ane dav várrogisát, ja ådåsmahte  
+         dav álu!</p>
 
          <table>
          <tr>
-           <th>Download: </th>
-           <th>Description:</th>
-           <th>User guides:</th>
+           <th>Viettja: </th>
+           <th>Tjielggidus:</th>
+           <th>Bagádus:</th>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
-           <td>Skolt Sámi speller extension for LibreOffice (4.4+)</td>
+           <td><a href="http://divvun.no/static_files/oxts/sms_LO-voikko-5.0.oxt">LibreOffice (Windows &amp; OSX)</a> </td>
+           <td>Gålldåsáme tjállemdárkastus LibreOfficij (4.4+)</td>
            <td>
              <ul>
                <li><a href="userdocs/win/install-use-Voikko-LO5-win8.html">Windows</a></li>
@@ -122,8 +123,8 @@
            </td>
          </tr>
          <tr>
-           <td><a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">MS Office (Windows)</a> </td>
-           <td>Skolt Sámi speller extension for MS Office (updated every night)</td>
+           <td><a href="http://apertium.projectjj.com/spellers/Divvun-sms-latest.msi">MS Office (Windows)</a> </td>
+           <td>Gålldåsáme tjállemdárkastus MS Officij (ådåstuhteduvvá juohkka ijá)</td>
            <td>
              <ul>
                <li><a href="userdocs/win/index-msoff.html">Windows</a></li>
@@ -131,19 +132,19 @@
            </td>
          </tr>
          <!--tr>
-           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-smn.xpi">Firefox (Windows &amp; OSX)</a> </td>
-           <td>Inari Sámi speller extension for Firefox and other Mozilla applications</td>
+           <td><a href="http://divvun.no/static_files/xpis/Mozvoikko2-sms.xpi">Firefox (Windows &amp; OSX)</a> </td>
+           <td>Gålldåsáme tjállemdárkastus Firefoxaj ja ietjá Mozilla-prográmmajda</td>
          </tr>
          <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Inari_Sami-smn.service.zip">MacVoikko (OSX)</a> </td>
-           <td>Inari Sámi speller for all of OSX</td>
+           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Skold_Sami-sms.service.zip">MacVoikko (OSX)</a> </td>
+           <td>Gålldåsáme tjállemdárkastus ålles OSX:j</td>
          </tr-->
          </table>
 
-         <p>The Skolt Sámi project has its own <a
+         <p>Gålldåsámegielprosjevtan le sierra <a
          href="http://divvun.no/doc/lang/sms/j-sms.html"
-         >project page</a>, and the source code can be found <a
-         href="https://victorio.uit.no/langtech/trunk/langs/sms">here</a>.
+         >prosjæktasijddo</a>, ja gålldågiela gálldokåvdåv gávna <a
+         href="https://victorio.uit.no/langtech/trunk/langs/sms">dánna</a>.
          </p>
 
       </section>
