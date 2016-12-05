@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2016-06-06T18:13:56.899090025</dc:date><meta:editing-duration>PT17H57M9S</meta:editing-duration><meta:editing-cycles>57</meta:editing-cycles><meta:generator>LibreOffice/5.0.6.2$Linux_X86_64 LibreOffice_project/00$Build-2</meta:generator><dc:title>Konsole output</dc:title><dc:creator>Børre Gaup</dc:creator><meta:document-statistic meta:table-count="1" meta:cell-count="2790" meta:object-count="0"/></office:meta>
+ <office:meta><meta:creation-date>2015-02-04T13:39:19.950467692</meta:creation-date><dc:date>2016-12-05T14:04:20.179771969</dc:date><meta:editing-duration>PT20H14M43S</meta:editing-duration><meta:editing-cycles>60</meta:editing-cycles><meta:generator>LibreOffice/5.1.4.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:title>Konsole output</dc:title><dc:creator>Børre Gaup</dc:creator><meta:document-statistic meta:table-count="1" meta:cell-count="2797" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaWidth" config:type="int">124368</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">179641</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">179689</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="Sheet1">
-       <config:config-item config:name="CursorPositionX" config:type="int">14</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">151</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">9</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">334</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">1</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">1</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">2492</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">149</config:config-item>
        <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">14</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">9</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionBottom" config:type="int">136</config:config-item>
+       <config:config-item config:name="PositionBottom" config:type="int">306</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
        <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
        <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -31,7 +31,7 @@
       </config:config-item-map-entry>
      </config:config-item-map-named>
      <config:config-item config:name="ActiveTable" config:type="string">Sheet1</config:config-item>
-     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">2703</config:config-item>
+     <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">3574</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
      <config:config-item config:name="PageViewZoomValue" config:type="int">60</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
    <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rAH+/09mZmljZWpldC1Qcm8tODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtUHJvLTg2MDAAAAAAAAAAAAAWAAMA0gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LVByby04NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpEdXBsZXg6Tm9uZQBJbnB1dFNsb3Q6QXV0bwBQYWdlU2l6ZTpBNAAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">rAH+/09mZmljZWpldC1Qcm8tODYwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpPZmZpY2VqZXQtUHJvLTg2MDAAAAAAAAAAAAAWAAMA0gAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9T2ZmaWNlamV0LVByby04NjAwCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luZGFqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4RGF0YQpQYWdlU2l6ZTpBNABJbnB1dFNsb3Q6QXV0bwBEdXBsZXg6Tm9uZQAAEgBDT01QQVRfRFVQTEVYX01PREUKAERVUExFWF9PRkY=</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
   </config:config-item-set>
@@ -112,24 +112,24 @@
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="table-cell">
-   <style:paragraph-properties style:tab-stop-distance="12.5mm"/>
+   <style:paragraph-properties style:tab-stop-distance="35.43pt"/>
    <style:text-properties style:font-name="Liberation Sans" fo:language="nb" fo:country="NO" style:font-name-asian="DejaVu Sans" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <number:number-style style:name="N0">
    <number:number number:min-integer-digits="1"/>
   </number:number-style>
-  <number:currency-style style:name="N108P0" style:volatile="true">
+  <number:currency-style style:name="N122P0" style:volatile="true">
    <number:currency-symbol number:language="nb" number:country="NO">kr</number:currency-symbol>
    <number:text> </number:text>
    <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
   </number:currency-style>
-  <number:currency-style style:name="N108">
+  <number:currency-style style:name="N122">
    <style:text-properties fo:color="#ff0000"/>
    <number:text>-</number:text>
    <number:currency-symbol number:language="nb" number:country="NO">kr</number:currency-symbol>
    <number:text> </number:text>
    <number:number number:decimal-places="2" loext:min-decimal-places="2" number:min-integer-digits="1" number:grouping="true"/>
-   <style:map style:condition="value()&gt;=0" style:apply-style-name="N108P0"/>
+   <style:map style:condition="value()&gt;=0" style:apply-style-name="N122P0"/>
   </number:currency-style>
   <style:style style:name="Default" style:family="table-cell">
    <style:text-properties style:font-name-asian="Droid Sans Fallback" style:font-family-asian="&apos;Droid Sans Fallback&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable"/>
@@ -137,7 +137,7 @@
   <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
   </style:style>
-  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N108"/>
+  <style:style style:name="Result2" style:family="table-cell" style:parent-style-name="Result" style:data-style-name="N122"/>
   <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center"/>
@@ -150,61 +150,61 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="132.22mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="374.8pt"/>
   </style:style>
   <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="42.28mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="119.85pt"/>
   </style:style>
   <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="89.68mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="254.21pt"/>
   </style:style>
   <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="164.32mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="465.79pt"/>
   </style:style>
   <style:style style:name="co5" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="90.7mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="257.1pt"/>
   </style:style>
   <style:style style:name="co6" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="85.09mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="241.2pt"/>
   </style:style>
   <style:style style:name="co7" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="195.67mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="554.66pt"/>
   </style:style>
   <style:style style:name="co8" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="105.46mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="298.94pt"/>
   </style:style>
   <style:style style:name="co9" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="135.03mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="382.76pt"/>
   </style:style>
   <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="48.14mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="136.46pt"/>
   </style:style>
   <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="45.09mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="127.81pt"/>
   </style:style>
   <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="22.58mm"/>
+   <style:table-column-properties fo:break-before="auto" style:column-width="64.01pt"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
-   <style:table-row-properties style:row-height="12.36mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="35.04pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro2" style:family="table-row">
-   <style:table-row-properties style:row-height="4.52mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="12.81pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="4.57mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="12.95pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="8.41mm" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="23.84pt" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
   <number:date-style style:name="N36" number:automatic-order="true">
-   <number:day number:style="long"/>
-   <number:text>.</number:text>
    <number:month number:style="long"/>
-   <number:text>.</number:text>
+   <number:text>/</number:text>
+   <number:day number:style="long"/>
+   <number:text>/</number:text>
    <number:year number:style="long"/>
   </number:date-style>
   <number:date-style style:name="N84">
@@ -217,6 +217,13 @@
   <number:text-style style:name="N100">
    <number:text-content/>
   </number:text-style>
+  <number:date-style style:name="N30036" number:language="nb" number:country="NO" number:automatic-order="true">
+   <number:day number:style="long"/>
+   <number:text>.</number:text>
+   <number:month number:style="long"/>
+   <number:text>.</number:text>
+   <number:year number:style="long"/>
+  </number:date-style>
   <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
    <style:paragraph-properties fo:text-align="center"/>
@@ -228,7 +235,7 @@
   </style:style>
   <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
-   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce4" style:family="table-cell" style:parent-style-name="Default">
@@ -248,7 +255,7 @@
   </style:style>
   <style:style style:name="ce8" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" fo:wrap-option="wrap"/>
-   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce9" style:family="table-cell" style:parent-style-name="Default">
@@ -268,12 +275,12 @@
   </style:style>
   <style:style style:name="ce13" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false" fo:wrap-option="wrap"/>
-   <style:paragraph-properties fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:margin-left="0pt"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
   <style:style style:name="ce14" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
-   <style:paragraph-properties fo:text-align="start" fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:text-align="start" fo:margin-left="0pt"/>
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="ce15" style:family="table-cell" style:parent-style-name="Default">
@@ -281,7 +288,7 @@
   </style:style>
   <style:style style:name="ce16" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="value-type" style:repeat-content="false"/>
-   <style:paragraph-properties fo:margin-left="0mm"/>
+   <style:paragraph-properties fo:margin-left="0pt"/>
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="ce17" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N100">
@@ -294,48 +301,55 @@
   <style:style style:name="ce19" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:text-properties fo:color="#000000" style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36"/>
-  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce20" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30036">
+   <style:text-properties fo:color="#000000" style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="ce21" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N30036">
+   <style:table-cell-properties fo:wrap-option="wrap"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
+  </style:style>
+  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36"/>
+  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:text-properties style:font-name="Liberation Serif" fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce22" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N84">
+  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N84">
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce23" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:table-cell-properties fo:wrap-option="wrap"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce24" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce25" style:family="table-cell" style:parent-style-name="Default">
+  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="ce26" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce28" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:table-cell-properties fo:wrap-option="wrap"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Liberation Serif" fo:font-size="10pt" fo:language="nb" fo:country="NO" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:text-underline-mode="continuous" style:text-overline-mode="continuous" style:text-line-through-mode="continuous" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
-  <style:style style:name="ce27" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
+  <style:style style:name="ce29" style:family="table-cell" style:parent-style-name="Default" style:data-style-name="N36">
    <style:text-properties style:font-name="Liberation Serif" fo:font-size="10pt" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm"/>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt"/>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm"/>
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt"/>
    </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm2">
    <style:page-layout-properties style:writing-mode="lr-tb"/>
    <style:header-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-bottom="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-bottom="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
      <style:background-image/>
     </style:header-footer-properties>
    </style:header-style>
    <style:footer-style>
-    <style:header-footer-properties fo:min-height="7.5mm" fo:margin-left="0mm" fo:margin-right="0mm" fo:margin-top="2.5mm" fo:border="2.49pt solid #000000" fo:padding="0.18mm" fo:background-color="#c0c0c0">
+    <style:header-footer-properties fo:min-height="21.26pt" fo:margin-left="0pt" fo:margin-right="0pt" fo:margin-top="7.09pt" fo:border="2.49pt solid #000000" fo:padding="0.51pt" fo:background-color="#c0c0c0">
      <style:background-image/>
     </style:header-footer-properties>
    </style:footer-style>
@@ -358,7 +372,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2016-06-06">00.00.0000</text:date>, <text:time style:data-style-name="N2" text:time-value="18:09:13.018987621">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2016-12-05">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="11:46:45.587084652">00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -384,7 +398,7 @@
     <table:table-column table:style-name="co10" table:default-cell-style-name="ce6"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="ce6"/>
     <table:table-column table:style-name="co12" table:number-columns-repeated="2" table:default-cell-style-name="ce6"/>
-    <table:table-column table:style-name="co12" table:default-cell-style-name="ce24"/>
+    <table:table-column table:style-name="co12" table:default-cell-style-name="ce26"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
@@ -816,7 +830,7 @@
       <text:p>Bokmål</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -842,7 +856,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -1436,16 +1450,16 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2009-09-08" calcext:value-type="date">
-      <text:p>08.09.2009</text:p>
+      <text:p>09/08/2009</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-27" calcext:value-type="date">
-      <text:p>27.04.2015</text:p>
+      <text:p>04/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -1469,14 +1483,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2009-08-08" calcext:value-type="date">
-      <text:p>08.08.2009</text:p>
+      <text:p>08/08/2009</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-08" calcext:value-type="date">
-      <text:p>08.04.2015</text:p>
+      <text:p>04/08/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -1535,7 +1549,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -1840,8 +1854,8 @@
       <text:p>20.05.2009</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="5"/>
-     <table:table-cell table:style-name="ce26" office:value-type="date" office:date-value="2009-01-10" calcext:value-type="date">
-      <text:p>10.01.2009</text:p>
+     <table:table-cell table:style-name="ce28" office:value-type="date" office:date-value="2009-01-10" calcext:value-type="date">
+      <text:p>01/10/2009</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -2403,7 +2417,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2430,7 +2444,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2457,7 +2471,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2484,7 +2498,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2511,7 +2525,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2540,7 +2554,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2567,7 +2581,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2594,7 +2608,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2621,7 +2635,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2648,7 +2662,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2675,7 +2689,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2729,7 +2743,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2758,7 +2772,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2787,7 +2801,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -2816,7 +2830,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -3197,8 +3211,8 @@
      <table:table-cell table:number-columns-repeated="3" table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Høsten 2011</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce21" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce23" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -3231,8 +3245,8 @@
      <table:table-cell table:style-name="ce10" office:value-type="string" calcext:value-type="string">
       <text:p>Høsten 2011</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce21" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce23" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -3872,13 +3886,13 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-30" calcext:value-type="date">
-      <text:p>30.04.2015</text:p>
+      <text:p>04/30/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
@@ -3904,13 +3918,13 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-30" calcext:value-type="date">
-      <text:p>30.04.2015</text:p>
+      <text:p>04/30/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
@@ -3936,13 +3950,13 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-30" calcext:value-type="date">
-      <text:p>30.04.2015</text:p>
+      <text:p>04/30/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="4"/>
     </table:table-row>
@@ -3969,14 +3983,14 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4003,14 +4017,14 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4039,18 +4053,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4080,7 +4094,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4108,18 +4122,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4148,17 +4162,17 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4187,7 +4201,7 @@
       <text:p>BG. 2015.03.24</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="6"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -4215,17 +4229,17 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4251,18 +4265,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4286,18 +4300,18 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4321,14 +4335,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4352,14 +4366,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4383,14 +4397,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4414,14 +4428,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -4742,7 +4756,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4766,7 +4780,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4790,7 +4804,7 @@
       <text:p>Finsk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4818,18 +4832,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4858,18 +4872,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4898,18 +4912,18 @@
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -4938,17 +4952,17 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -4976,18 +4990,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -5016,17 +5030,17 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -5054,18 +5068,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -5096,20 +5110,20 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-25" calcext:value-type="date">
-      <text:p>25.04.2015</text:p>
+      <text:p>04/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -5138,18 +5152,18 @@
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce19" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -5186,7 +5200,7 @@
       <text:p>26092009</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -5696,7 +5710,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -5978,7 +5992,7 @@
       <text:p>2015.04.08</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6016,8 +6030,8 @@
       <text:p>2015.04.08</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -6056,7 +6070,7 @@
       <text:p>2015.04.08</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
@@ -6091,7 +6105,7 @@
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="Default"/>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6140,7 +6154,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6164,7 +6178,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6188,7 +6202,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6212,7 +6226,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6236,7 +6250,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6260,7 +6274,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6284,7 +6298,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6308,7 +6322,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6332,7 +6346,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6356,7 +6370,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6382,7 +6396,7 @@
       <text:p>Bokmål</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6406,7 +6420,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6432,7 +6446,7 @@
       <text:p>Engelsk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6456,7 +6470,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6480,7 +6494,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -6506,7 +6520,7 @@
       <text:p>Finsk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -7532,8 +7546,8 @@
       <text:p>Høsten 2011</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce21" office:value-type="date" office:date-value="2013-05-30" calcext:value-type="date">
-      <text:p>30.05.2013</text:p>
+     <table:table-cell table:style-name="ce23" office:value-type="date" office:date-value="2013-05-30" calcext:value-type="date">
+      <text:p>05/30/2013</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -8118,20 +8132,20 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-28" calcext:value-type="date">
-      <text:p>28.04.2015</text:p>
+      <text:p>04/28/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -8155,14 +8169,14 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-25" calcext:value-type="date">
-      <text:p>25.03.2015</text:p>
+      <text:p>03/25/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -8408,7 +8422,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -8519,7 +8533,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce26"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8541,7 +8555,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce24"/>
+     <table:table-cell table:style-name="ce26"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
      <table:table-cell office:value-type="string" calcext:value-type="string">
@@ -8566,7 +8580,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -8586,7 +8600,7 @@
       <text:p>Bokmål</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -8755,7 +8769,7 @@
       <text:p>2009-05-25</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce4"/>
@@ -8797,11 +8811,11 @@
       <text:p>2009-05-25</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce26" office:value-type="date" office:date-value="2008-10-10" calcext:value-type="date">
-      <text:p>10.10.2008</text:p>
+     <table:table-cell table:style-name="ce28" office:value-type="date" office:date-value="2008-10-10" calcext:value-type="date">
+      <text:p>10/10/2008</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -8976,12 +8990,12 @@
      <table:table-cell table:style-name="ce10" table:number-columns-repeated="3"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Eatnanspáppastallan</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>978-82-8263-112-9</text:p>
+      <text:p>978-82-92044-84-1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" office:value-type="float" office:value="53" calcext:value-type="float">
       <text:p>53</text:p>
@@ -8996,11 +9010,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Gurut guvlui Heahtás</text:p>
      </table:table-cell>
@@ -9008,9 +9026,7 @@
      <table:table-cell office:value-type="float" office:value="112" calcext:value-type="float">
       <text:p>112</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Beaivváš sámi našunálateáhter</text:p>
-     </table:table-cell>
+     <table:table-cell/>
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Siri Broch Johansen</text:p>
      </table:table-cell>
@@ -9018,11 +9034,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk, bokmål</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Jeg er en skiløper</text:p>
      </table:table-cell>
@@ -9042,11 +9062,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Bokmål</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mii leat ain dás</text:p>
      </table:table-cell>
@@ -9072,19 +9096,19 @@
      <table:table-cell table:style-name="ce2" office:value-type="string" calcext:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
-      <text:p>2009-04-15</text:p>
+     <table:table-cell table:style-name="ce21" office:value-type="date" office:date-value="2009-04-15" calcext:value-type="date">
+      <text:p>15.04.2009</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="ce17" office:value-type="string" calcext:value-type="string">
       <text:p>2009-03-17</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce22" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce24" office:value-type="string" calcext:value-type="string">
       <text:p>2015.04.10</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Mun lean čuoigi</text:p>
      </table:table-cell>
@@ -9106,11 +9130,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sárá beaivegirji</text:p>
      </table:table-cell>
@@ -9130,11 +9158,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Sárá biejvvegirjje</text:p>
      </table:table-cell>
@@ -9156,11 +9188,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell office:value-type="string" calcext:value-type="string">
       <text:p>Saras dagbok</text:p>
      </table:table-cell>
@@ -9180,11 +9216,15 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Bokmål</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
-    <table:table-row table:style-name="ro2">
+    <table:table-row table:style-name="ro3">
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Saaran gærja</text:p>
      </table:table-cell>
@@ -9206,8 +9246,12 @@
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Sørsamisk</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="2"/>
+     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2016-12-05" calcext:value-type="date">
+      <text:p>05.12.2016</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="ce5" table:number-columns-repeated="4"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -9224,14 +9268,14 @@
       <text:p>Norgga girku, Sámi girkoráđđi</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
-      <text:p>Siri Broch Johansen, Berit Frøydis Svingen Johnsen</text:p>
+      <text:p>Berit Frøydis Svingen Johnsen</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5"/>
      <table:table-cell table:style-name="ce5" office:value-type="string" calcext:value-type="string">
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -9500,7 +9544,7 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -9516,7 +9560,7 @@
       <text:p>Finsk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce5" table:number-columns-repeated="7"/>
-     <table:table-cell table:style-name="ce25"/>
+     <table:table-cell table:style-name="ce27"/>
      <table:table-cell/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
@@ -9592,8 +9636,8 @@
       <text:p>12062008</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce23" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce25" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -9621,8 +9665,8 @@
       <text:p>12062008</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce23" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce25" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -9698,20 +9742,20 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-28" calcext:value-type="date">
-      <text:p>28.04.2015</text:p>
+      <text:p>04/28/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -9804,16 +9848,16 @@
       <text:p>20.05.2009</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-26" calcext:value-type="date">
-      <text:p>26.03.2015</text:p>
+      <text:p>03/26/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-13" calcext:value-type="date">
-      <text:p>13.04.2015</text:p>
+      <text:p>04/13/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-03-30" calcext:value-type="date">
-      <text:p>30.03.2015</text:p>
+      <text:p>03/30/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10026,7 +10070,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10066,7 +10110,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10106,7 +10150,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10146,7 +10190,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10186,7 +10230,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10226,7 +10270,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10266,7 +10310,7 @@
       <text:p>17.03.2008</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="ce18" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
     </table:table-row>
@@ -10385,19 +10429,19 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-03-18" calcext:value-type="date">
-      <text:p>18.03.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-03-18" calcext:value-type="date">
+      <text:p>03/18/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -10420,19 +10464,19 @@
       <text:p>Nordsamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-03-18" calcext:value-type="date">
-      <text:p>18.03.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-03-18" calcext:value-type="date">
+      <text:p>03/18/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
-      <text:p>27.03.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-03-27" calcext:value-type="date">
+      <text:p>03/27/2015</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
-      <text:p>10.04.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-04-10" calcext:value-type="date">
+      <text:p>04/10/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce27" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
-      <text:p>06.06.2016</text:p>
+     <table:table-cell table:style-name="ce29" office:value-type="date" office:date-value="2016-06-06" calcext:value-type="date">
+      <text:p>06/06/2016</text:p>
      </table:table-cell>
      <table:table-cell/>
     </table:table-row>
@@ -10457,17 +10501,17 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-05-13" calcext:value-type="date">
-      <text:p>13.05.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-05-13" calcext:value-type="date">
+      <text:p>05/13/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-02-04" calcext:value-type="date">
-      <text:p>04.02.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-02-04" calcext:value-type="date">
+      <text:p>02/04/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
-      <text:p>07.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
+      <text:p>01/07/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10493,17 +10537,17 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-05-13" calcext:value-type="date">
-      <text:p>13.05.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-05-13" calcext:value-type="date">
+      <text:p>05/13/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-02-04" calcext:value-type="date">
-      <text:p>04.02.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-02-04" calcext:value-type="date">
+      <text:p>02/04/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
-      <text:p>07.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
+      <text:p>01/07/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10524,15 +10568,15 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2012-01-02" calcext:value-type="date">
-      <text:p>02.01.2012</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2012-01-02" calcext:value-type="date">
+      <text:p>01/02/2012</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2012-12-05" calcext:value-type="date">
-      <text:p>05.12.2012</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2012-12-05" calcext:value-type="date">
+      <text:p>12/05/2012</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10556,17 +10600,17 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-05-07" calcext:value-type="date">
-      <text:p>07.05.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-05-07" calcext:value-type="date">
+      <text:p>05/07/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-04-29" calcext:value-type="date">
-      <text:p>29.04.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-04-29" calcext:value-type="date">
+      <text:p>04/29/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
-      <text:p>07.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
+      <text:p>01/07/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10592,14 +10636,14 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
-      <text:p>15.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
+      <text:p>01/15/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="2" table:style-name="ce20" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
-      <text:p>07.01.2013</text:p>
+     <table:table-cell table:number-columns-repeated="2" table:style-name="ce22" office:value-type="date" office:date-value="2013-01-07" calcext:value-type="date">
+      <text:p>01/07/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10617,12 +10661,12 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2012-12-03" calcext:value-type="date">
-      <text:p>03.12.2012</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2012-12-03" calcext:value-type="date">
+      <text:p>12/03/2012</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10648,17 +10692,17 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
-      <text:p>18.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
+      <text:p>01/18/2013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" office:value-type="string" calcext:value-type="string">
       <text:p>10.01.2013/08.02.2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
-      <text:p>15.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
+      <text:p>01/15/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10682,15 +10726,15 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
-      <text:p>18.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
+      <text:p>01/18/2013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
-      <text:p>10.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
+      <text:p>01/10/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10714,15 +10758,15 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
-      <text:p>18.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-18" calcext:value-type="date">
+      <text:p>01/18/2013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
-      <text:p>10.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
+      <text:p>01/10/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10746,17 +10790,17 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
-      <text:p>28.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
+      <text:p>01/28/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
-      <text:p>15.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-15" calcext:value-type="date">
+      <text:p>01/15/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
-      <text:p>10.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
+      <text:p>01/10/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10780,15 +10824,15 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
-      <text:p>28.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
+      <text:p>01/28/2013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
-      <text:p>10.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
+      <text:p>01/10/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
@@ -10812,15 +10856,15 @@
       <text:p>Lulesamisk</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
-      <text:p>28.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-28" calcext:value-type="date">
+      <text:p>01/28/2013</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default"/>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
-      <text:p>10.01.2013</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2013-01-10" calcext:value-type="date">
+      <text:p>01/10/2013</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="ce20" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
-      <text:p>15.05.2015</text:p>
+     <table:table-cell table:style-name="ce22" office:value-type="date" office:date-value="2015-05-15" calcext:value-type="date">
+      <text:p>05/15/2015</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Default" table:number-columns-repeated="2"/>
      <table:table-cell/>
