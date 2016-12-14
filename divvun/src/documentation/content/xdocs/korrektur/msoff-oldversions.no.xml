@@ -9,7 +9,7 @@
       <section>
          <title>Divvun 4.x</title>
          <ul>
-          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+          <li><strong>Divvun 4.1 for eldre versjoner av LibreOffice (4.0+):</strong>
            <ul>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win.oxt"
@@ -36,21 +36,116 @@
               href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Nordsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Nordsamisk — OSX <icon alt="macOS" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Lulesamisk — OSX <icon alt="Windows" height="27" width="27"
+              Lulesamisk — OSX <icon alt="macOS" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
             <li class="Download"><a
               href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac.oxt"
               ><icon alt="Download" height="32" width="32"
               src="images/Crystal_Clear_app_download_manager.png" />
-              Sørsamisk — OSX <icon alt="Windows" height="27" width="27"
+              Sørsamisk — OSX <icon alt="macOS" height="27" width="27"
+              src="images/mac.png"/></a>
+            </li>
+           </ul>
+          </li>
+          <li><strong>Divvun 4.0.1 for MS Office (Windows <icon
+              alt="Windows" height="27" width="27"
+              src="images/Win10.png"/>):</strong>
+           <ul>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sme-4.0.1.msi"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Nordsamisk</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-smj-4.0.1.msi"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Lulesamisk</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sma-4.0.1.msi"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Sørsamisk</a>
+            </li>
+           </ul>
+          </li>
+          <li><strong>Divvun 4.0.1 for LibreOffice (4.4+, Windows <icon
+              alt="Windows" height="27" width="27"
+              src="images/Win10.png"/> &amp; macOS <icon alt="macOS" height="27"
+              width="27" src="images/mac.png"/>):</strong>
+           <ul>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Nordsamisk</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Lulesamisk</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Sørsamisk</a>
+            </li>
+           </ul>
+          </li>
+          <li><strong>Divvun 4.0.1 for eldre versjoner av LibreOffice (4.0+):</strong>
+           <ul>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-win-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Nordsamisk — Windows <icon alt="Windows" height="27" width="27"
+              src="images/Win10.png"/></a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-win-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Lulesamisk — Windows <icon alt="Windows" height="27" width="27"
+              src="images/Win10.png"/></a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-win-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Sørsamisk — Windows <icon alt="Windows" height="27" width="27"
+              src="images/Win10.png"/></a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/se_LO-voikko-4.0-mac-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Nordsamisk — OSX <icon alt="macOS" height="27" width="27"
+              src="images/mac.png"/></a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/smj_LO-voikko-4.0-mac-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Lulesamisk — OSX <icon alt="macOS" height="27" width="27"
+              src="images/mac.png"/></a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/oxts/sma_LO-voikko-4.0-mac-20160316.oxt"
+              ><icon alt="Download" height="32" width="32"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Sørsamisk — OSX <icon alt="macOS" height="27" width="27"
               src="images/mac.png"/></a>
             </li>
            </ul>
@@ -154,6 +249,12 @@
       </section>
       <section>
          <title>Versjonshistorie</title>
+         <section>
+            <title>Divvun 4.1 (2016-12-15)</title>
+            <p>Språklige oppdateringer: mange nye ord lagt til, rettskrivningen
+            oppdatert i samsvar med de nyeste rettskrivningsvedtakene, feilrettelser.</p>
+            <p>Tekniske oppdateringer: ingen</p>
+         </section>
          <section>
             <title>Divvun 4.0.1 (2016-03-17)</title>
             <p>Språklige oppdateringer: ingen</p>
