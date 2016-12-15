@@ -8,10 +8,9 @@
     </header>
     <body>
 
-        <note label="22.03.2016">Divvun 4.0.1 has been released, with bug fixes
-            for a serious error in the MS Office tools, and with a new version
-            for LibreOffice based on LibreOffice-voikko 5.0. Even MacVoikko has
-            been updated with a bug fix.
+        <note label="15.12.2016">Divvun 4.1 has been released, with a lot of new
+            words and updated orthography accordring to the latest orthographic
+            decissions.
         </note>
 
         <section>
@@ -23,12 +22,6 @@
                 <title>Windows<icon
                     alt="Windows" height="27" width="27"
                     src="images/Win10.png"/></title>
-
-                <warning label="Problems with 4.0?">Try 4.0.1 available below.
-                If you still have problems, please <a
-                href="mailto:feedback@divvun.no">tell us</a>. A temporary
-                solution is described <a href="userdocs/win/fix-3.0.html"
-                >here.</a></warning>
 
                 <table>
                 <tr>
@@ -77,8 +70,7 @@
                     as soon as the new version is ready. Below you can download
                     the old version. NB! The old version <strong>does NOT work
                     in MS Office 2016!</strong> Divvun 4.0.1 for LibreOffice works
-                    well (see further down), and so does <a
-                    href="oswide.html">MacVoikko</a>.
+                    well (see further down).
                 </note>
 
                 <table>
