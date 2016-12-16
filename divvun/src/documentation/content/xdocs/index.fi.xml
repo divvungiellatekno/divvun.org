@@ -8,11 +8,10 @@
     </header>
     <body>
 
-      <note label="UUTTA! 22.03.2016">Divvun 4.0.1 on julkaistu, sisältää
-        korjauksia vakavaan virheeseen MS Office työkaluissa ja uuden
-        LibreOffice-version joka perustuu LibreOffice-voikko 5.0. Myös
-        MacVoikko on päivitetty virhekorjauksella. <a
-        href="korrektur/korrektur.html">Lue lisää täältä!</a>
+      <note label="UUTTA! 16.12.2016">Divvun 4.1 on saatavilla, monilla uusilla
+        sanoilla ja päivitetyllä ortografialla viimeisimpien
+        oikeinkirjoitusohjeiden mukaan.
+          <a href="korrektur/korrektur.html">Lue lisää täältä!</a>
       </note>
 
       <ul class="col-sm-12 nobullet">
