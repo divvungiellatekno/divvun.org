@@ -27,22 +27,40 @@
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamiska</a>
+                    Nordsamiska, 32bit Windows</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamiska</a>
+                    Nordsamiska, 64bit Windows</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sydsamiska</a>
+                    Lulesamiska, 32bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Lulesamiska, 64bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Sydsamiska, 32bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Sydsamiska, 64bit Windows</a>
                   </li>
                 </ul></td>
                 <td>

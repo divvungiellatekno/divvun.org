@@ -28,22 +28,40 @@
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nuorttasámegiella</a>
+                    Nuorttasámegiella, 32bit Windows</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsámegiella</a>
+                    Nuorttasámegiella, 64bit Windows</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Oarjjelsámegiella</a>
+                    Julevsámegiella, 32bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Julevsámegiella, 64bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Oarjjelsámegiella, 32bit Windows</a>
+                  </li>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Oarjjelsámegiella, 64bit Windows</a>
                   </li>
                 </ul></td>
                 <td>
