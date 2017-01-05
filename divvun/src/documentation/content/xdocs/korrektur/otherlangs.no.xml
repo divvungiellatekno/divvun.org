@@ -73,12 +73,7 @@
            </td>
          </tr>
          <tr>
-           <td>
-             <ul>
-               <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest-win32.msi">MS Office (32bit Windows)</a></li>
-               <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest-win64.msi">MS Office (64bit Windows)</a></li>
-             </ul>
-           </td>
+           <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">MS Office (Windows)</a></td>
            <td>Enaresamisk stavekontroll for MS Office (bygges hver natt)</td>
            <td>
              <ul>
@@ -128,12 +123,7 @@
            </td>
          </tr>
          <tr>
-           <td>
-             <ul>
-               <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest-win32.msi">MS Office (32bit Windows)</a></li>
-               <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest-win64.msi">MS Office (64bit Windows)</a></li>
-             </ul>
-           </td>
+           <td><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">MS Office (Windows)</a></td>
            <td>Skoltesamisk stavekontroll for MS Office (bygges hver natt)</td>
            <td>
              <ul>
