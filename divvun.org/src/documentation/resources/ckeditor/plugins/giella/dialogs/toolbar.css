@@ -1,0 +1,71 @@
+a
+{
+	text-decoration:none;
+	padding: 2px 4px 4px 6px;
+	display : block;
+	border-width: 1px;
+	border-style: solid;
+	margin : 0px;
+}
+
+a.cke_giella_toogle:hover,
+a.cke_giella_toogle:focus,
+a.cke_giella_toogle:active
+{
+	border-color: #316ac5;
+	background-color: #dff1ff;
+	color : #000;
+	cursor: pointer;
+	margin : 0px;
+}
+a.cke_giella_toogle {
+	color : #316ac5;
+	border-color: #fff;
+}
+.giella_enabled a.cke_giella_item {
+	color : #316ac5;
+	border-color: #fff;
+	margin : 0px;
+}
+.giella_disabled a.cke_giella_item {
+	color : gray;
+	border-color : #fff;
+}
+.giella_enabled a.cke_giella_item:hover,
+.giella_enabled a.cke_giella_item:focus,
+.giella_enabled a.cke_giella_item:active
+{
+	border-color: #316ac5;
+	background-color: #dff1ff;
+	color : #000;
+	cursor: pointer;
+}
+.giella_disabled a.cke_giella_item:hover,
+.giella_disabled a.cke_giella_item:focus,
+.giella_disabled a.cke_giella_item:active
+{
+	border-color: gray;
+	background-color: #dff1ff;
+	color : gray;
+	cursor: no-drop;
+}
+.cke_giella_set_on, .cke_giella_set_off
+{
+	display: none;
+}
+.giella_enabled .cke_giella_set_on
+{
+	display: none;
+}
+.giella_disabled .cke_giella_set_on
+{
+	display: inline;
+}
+.giella_disabled .cke_giella_set_off
+{
+	display: none;
+}
+.giella_enabled  .cke_giella_set_off
+{
+	display: inline;
+}
