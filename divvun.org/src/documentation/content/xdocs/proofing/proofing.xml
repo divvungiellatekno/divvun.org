@@ -128,13 +128,26 @@
            <td><img src="images/Beta-Stamp.png" alt="BETA"
                 height="30"/>Eastern Mari</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/mhr_LO-voikko-5.0.oxt">For Windows og MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/mhr_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
            <td><a href="http://giellatekno.uit.no/doc/lang/mhr/EasternMariDocumentation.html">Eastern Mari project documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mhr">source code</a>.
+           </td>
+         </tr>
+         <tr>
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
+                height="30"/>Western Mari</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/mrj_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mrr/WesternMariDocumentation.html">Western Mari project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/mrj">source code</a>.
            </td>
          </tr>
          </table>
