@@ -21,9 +21,9 @@
          <table>
          <tr>
            <th>Language:</th>
-           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th colspan="2">     Download program:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
            <th>Version</th>
-           <th>Documentation and source code:</th>
+           <th>Project documentation and source code:</th>
          </tr>
          <tr>
            <td><img src="images/Beta-Stamp.png" alt="BETA"
@@ -31,7 +31,7 @@
            <td>     <a href="http://apertium.projectjj.com/spellers/Divvun-fao-latest.msi">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese project</a>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/fao">source code</a>.
             </td>
@@ -41,7 +41,7 @@
            <td>     <a href="http://apertium.projectjj.com/spellers/Kukkuniiaat-latest.msi">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project</a>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
@@ -52,7 +52,7 @@
            <td>     <a href="http://apertium.projectjj.com/spellers/Divvun-smn-latest.msi">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami project</a>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
             </td>
@@ -66,9 +66,9 @@
          <table>
          <tr>
            <th>Language:</th>
-           <th colspan="2">     Download:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
+           <th colspan="2">     Download program:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
            <th>Version </th>
-           <th>Documentation and source code:</th>
+           <th>Project documentation and source code:</th>
          </tr>
          <tr>
            <td>Finnish</td>
@@ -78,7 +78,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
             </td>
@@ -91,7 +91,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
@@ -100,12 +100,11 @@
            <td><img src="images/Beta-Stamp.png" alt="BETA"
                 height="30"/>Kven</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-win.oxt">For Windows</a></li>
-                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
            </td>
@@ -114,12 +113,11 @@
            <td><img src="images/Beta-Stamp.png" alt="BETA"
                 height="30"/>Inari Saami</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-4.0-win.oxt">For Windows</a></li>
-                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-4.0-mac.oxt">For MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
            </td>
@@ -132,7 +130,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mhr/EasternMariDocumentation.html">Eastern Mari project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mhr/EasternMariDocumentation.html">Eastern Mari documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mhr">source code</a>.
            </td>
@@ -145,7 +143,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mrj">source code</a>.
            </td>
@@ -158,7 +156,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/myv">source code</a>.
            </td>
@@ -171,7 +169,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mdf/MokshaDocumentation.html">Moksha project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mdf/MokshaDocumentation.html">Moksha documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mdf">source code</a>.
            </td>
@@ -184,7 +182,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kom/index.html">Komi project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kom/index.html">Komi documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/kpv">source code</a>.
            </td>
@@ -197,7 +195,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/udm/UdmurtDocumentation.html">Udmurt project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/udm/UdmurtDocumentation.html">Udmurt documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/udm">source code</a>.
            </td>
