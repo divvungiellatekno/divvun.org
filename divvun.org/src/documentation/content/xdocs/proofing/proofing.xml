@@ -145,9 +145,35 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mrr/WesternMariDocumentation.html">Western Mari project documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari project documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mrj">source code</a>.
+           </td>
+         </tr>
+         <tr>
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
+                height="30"/>Erzya</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/myv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/myv">source code</a>.
+           </td>
+         </tr>
+         <tr>
+           <td><img src="images/Beta-Stamp.png" alt="BETA"
+                height="30"/>'Moksha</td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/mdf_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mdf/MokshaDocumentation.html">Moksha project documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/mdf">source code</a>.
            </td>
          </tr>
          </table>
