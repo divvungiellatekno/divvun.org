@@ -28,40 +28,22 @@
                 <td>
                 <ul>
                   <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
+                    <a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Davvisámegiella, 32bit Windows</a>
+                    Davvisámegiella</a>
                   </li>
                   <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
+                    <a href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Davvisámegiella, 64bit Windows</a>
+                    Julevsámegiella</a>
                   </li>
                   <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
+                    <a href="http://divvun.no/static_files/msis/Divvun-sma-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsámegiella, 32bit Windows</a>
-                  </li>
-                  <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsámegiella, 64bit Windows</a>
-                  </li>
-                  <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Lullisámegiella, 32bit Windows</a>
-                  </li>
-                  <li class="Download">
-                    <a href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Lullisámegiella, 64bit Windows</a>
+                    Lullisámegiella</a>
                   </li>
                 </ul>
                 </td>

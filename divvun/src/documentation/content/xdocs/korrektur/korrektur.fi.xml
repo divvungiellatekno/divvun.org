@@ -27,40 +27,22 @@
                 <td>
                 <ul>
                   <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Pohjoissaame, 32bit Windows</a>
+                    Pohjoissaame</a>
                   </li>
                   <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Pohjoissaame, 64bit Windows</a>
+                    Luulajansaame</a>
                   </li>
                   <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sma-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Luulajansaame, 32bit Windows</a>
-                  </li>
-                  <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Luulajansaame, 64bit Windows</a>
-                  </li>
-                  <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Eteläsaame, 32bit Windows</a>
-                  </li>
-                  <li class="Lataa"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Eteläsaame, 64bit Windows</a>
+                    Eteläsaame</a>
                   </li>
                 </ul></td>
                 <td>

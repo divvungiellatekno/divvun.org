@@ -27,40 +27,22 @@
                 <td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk, 32bit Windows</a>
+                    Nordsamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nordsamisk, 64bit Windows</a>
+                    Lulesamisk</a>
                   </li>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
+                    href="http://divvun.no/static_files/msis/Divvun-sma-latest.exe"
                     ><icon alt="Last ned" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk, 32bit Windows</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
-                    ><icon alt="Last ned" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Lulesamisk, 64bit Windows</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
-                    ><icon alt="Last ned" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk, 32bit Windows</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
-                    ><icon alt="Last ned" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Sørsamisk, 64bit Windows</a>
+                    Sørsamisk</a>
                   </li>
                 </ul></td>
                 <td>
