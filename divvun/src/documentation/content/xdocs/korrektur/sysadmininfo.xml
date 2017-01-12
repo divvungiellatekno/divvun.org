@@ -8,21 +8,72 @@
    <body>
       <section>
          <title>Windows</title>
-         <p>The Divvun 3.x installer is an MSI package, and can be distributed
-            and installed just like any other MSI package.</p>
-         <p>The Divvun tools do <strong>ONLY</strong> work with 32 bit Office,
-            they do <strong>NOT</strong> work with 64 bit MS Office (but
-            they work on both 32 and 64 bit Windows). If you have issues getting
-            Divvun to work, please check that you have the 32 bit version of
-            MS Office. Check <a
-            href="http://www.addintools.com/documents/word/where-about.html">this
-            page</a> for instructions on identifying the bit-ness of your MS
-            Office package.</p>
+         <p>The <a href="korrektur.html">regular Divvun 4.1+ installers</a> are
+            exe files
+            wrapping two MSI packages: one MSI package for 32-bit Windows, and
+            another MSI package for 64-bit Windows. This wrapping is done to
+            make one installation package that is easy to install. If wanted or
+            needed, each bit-specific package can be downloaded and installed
+            separately. They can then be distributed
+            and installed just like any other MSI package:</p>
+         <ul>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              North Sámi, 32bit Windows</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              North Sámi, 64bit Windows</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Julev Sámi, 32bit Windows</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              Julev Sámi, 64bit Windows</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              South Sámi, 32bit Windows</a>
+            </li>
+            <li class="Download"><a
+              href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
+              ><icon alt="Download" height="44" width="44"
+              src="images/Crystal_Clear_app_download_manager.png" />
+              South Sámi, 64bit Windows</a>
+            </li>
+         </ul>
       </section>
       <section>
          <title>MacOS X</title>
          <p>The Mac installer is made using Apple's own installer tools, and should be easily integratable in a larger
          deployment scheme. See Apple's own documentation for further details.</p>
+      </section>
+
+      <section>
+         <title>Old info related to the Windows 3.x-4.0.1 installers</title>
+         <p>The Divvun 3.x and 4.0.1 installers are MSI packages, and can be distributed
+            and installed just like any other MSI package.</p>
+         <p>The Divvun 3.x tools do <strong>ONLY</strong> work with 32 bit Office,
+            they do <strong>NOT</strong> work with 64 bit MS Office (but
+            they work on both 32 and 64 bit Windows) (support for 64 bit Office
+            was added in Divvun 4.0). If you have issues getting Divvun 3.x to
+            work, please check that you have the 32 bit version of
+            MS Office. Check <a
+            href="http://www.addintools.com/documents/word/where-about.html">this
+            page</a> for instructions on how to identify the bit-ness of your MS
+            Office package.</p>
       </section>
 
       <section>
