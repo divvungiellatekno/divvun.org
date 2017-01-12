@@ -14,47 +14,52 @@
             another MSI package for 64-bit Windows. This wrapping is done to
             make one installation package that is easy to install. If wanted or
             needed, each bit-specific package can be downloaded and installed
-            separately. They can then be distributed
-            and installed just like any other MSI package:</p>
+            separately, they can then be distributed
+            and installed just like any other MSI package (links point to newest
+            available version):</p>
          <ul>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win32.msi"
+              href="http://divvun.no/static_files/msis/Divvun-sme-latest-win32.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               North Sámi, 32bit Windows</a>
             </li>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-sme-4.1-win64.msi"
+              href="http://divvun.no/static_files/msis/Divvun-sme-latest-win64.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               North Sámi, 64bit Windows</a>
             </li>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win32.msi"
+              href="http://divvun.no/static_files/msis/Divvun-smj-latest-win32.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               Julev Sámi, 32bit Windows</a>
             </li>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-smj-4.1-win64.msi"
+              href="http://divvun.no/static_files/msis/Divvun-smj-latest-win64.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               Julev Sámi, 64bit Windows</a>
             </li>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win32.msi"
+              href="http://divvun.no/static_files/msis/Divvun-sma-latest-win32.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               South Sámi, 32bit Windows</a>
             </li>
             <li class="Download"><a
-              href="http://divvun.no/static_files/msis/Divvun-sma-4.1-win64.msi"
+              href="http://divvun.no/static_files/msis/Divvun-sma-latest-win64.msi"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               South Sámi, 64bit Windows</a>
             </li>
          </ul>
+         <p>To get at individual packages for all versions since 4.0.1, have a
+         look at <a href="https://apertium.projectjj.com/spellers/release/">this
+         page</a> (4.0 had a serious bug and is not available anymore).</p>
       </section>
+
       <section>
          <title>MacOS X</title>
          <p>The Mac installer is made using Apple's own installer tools, and should be easily integratable in a larger
