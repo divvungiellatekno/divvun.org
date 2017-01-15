@@ -81,13 +81,25 @@
 	       		and choose the language you want (North Sámi in our case) from
 	       		the popup <strong>language menu</strong>: <br/>
 	       		 <img src="images/win8-LO4-select-language-nn.png"
-	       		      alt="Skriftdialog" /></li>
+	       		      alt="Skriftdialog" />
+	       		<br/>
+	       		For languages not registered with LO, you can still use the
+	       		spelling checker: instead of selecting the language in the pop-up
+	       		menu, you type in the ISO 639-3 code for the language, possibly
+	       		followed by a hyphen and the country code for where the language
+	       		is used. We haven't found a system for when you need the country
+	       		code or not - you just need to try both.</li>
 			    <li>Now you can <strong>right click</strong> the misspelled word
 			    and get correction suggestions (the "word" <em>nuvviDspeller</em>
 			    will generate suggestions telling you what version you have of
 			    the Divvun spell checker):<br />
 			     <img src="images/win8-speller-popup-nn.png"
 			     alt="Velg språk for stavekontroll" /></li>
+			    <li>If the above is not enough and you get no red lines under
+			    misspellings, then do the following:
+			    Open <strong>Preferences > Language Preferences > Writing
+			    Aids</strong> and click <strong>OK</strong>. Now the spell
+			    checking should start.</li>
             </ul>
 		</section>
 	</body>
