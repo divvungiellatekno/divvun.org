@@ -19,11 +19,6 @@
 		<section>
 			<title>Install the spellchecker</title>
 
-			<warning>The spelling checkers for <a
-			href="http://libreoffice.org/">LibreOffice</a> are still
-			<strong>BETA</strong> quality. We appreciate all and any <a
-			href="mailto:feedback@divvun.no">feedback</a>!</warning>
-
 			<note>
 				These installation instructions are written for the Divvun
 				spelling checkers produced with Voikko and Hfst for
