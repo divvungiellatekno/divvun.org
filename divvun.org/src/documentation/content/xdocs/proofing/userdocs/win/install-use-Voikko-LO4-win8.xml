@@ -85,8 +85,12 @@
 	       		<br/>
 	       		For languages not registered with LO, you can still use the
 	       		spelling checker: instead of selecting the language in the pop-up
-	       		menu, you type in the ISO 639-3 code for the language, possibly
-	       		followed by a hyphen and the country code for where the language
+	       		menu, you type in the <a
+	       		href="http://www-01.sil.org/iso639-3/codes.asp">ISO 639-3</a>
+	       		code for your speller language, possibly
+	       		followed by a hyphen and the <a
+	       		href="https://en.wikipedia.org/wiki/ISO_3166-2">ISO 3166</a>
+	       		country code for where the language
 	       		is used. We haven't found a system for when you need the country
 	       		code or not - you just need to try both.</li>
 			    <li>Now you can <strong>right click</strong> the misspelled word
