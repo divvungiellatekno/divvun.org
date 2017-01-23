@@ -315,7 +315,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Språkliga uppdateringar för nordsamiska:</p>
             <ul>
                <li>ca 40 000 nya ord, från korpus och från användare</li>
@@ -332,7 +332,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>språkliga uppdateringar för sydsamiska</li>
             </ul>
@@ -350,6 +350,13 @@
             <ul>
                <li>språkliga uppdateringar för nord- og lulesamiska</li>
                <li>stöd för MS Office 2011 för Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>buggfix: fungerar nu också i Sverige och Finland</li>
+               <li>bättre förslag</li>
             </ul>
          </section>
          <section>

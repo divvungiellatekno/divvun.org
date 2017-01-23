@@ -316,7 +316,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Gielalaš ođasmahttimat for nordsamisk:</p>
             <ul>
                <li>sullii 40 000 ođđa sáni, vižžon korpusis ja geavaheddjiin</li>
@@ -333,7 +333,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>lullisámegiela ođasmahttin</li>
                <li>doaibmá dál MS Office 2010:s 32-bihtát Windowsis</li>
@@ -352,6 +352,13 @@
             <ul>
                <li>davvi- ja julevsámegielaid ođasmahttimat </li>
                <li>doaibmá dál MS Office 2008:s OSX:s</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>buggfiksa: doaibmá dál Ruoŧas ja Suomas</li>
+               <li>buoret árvalus</li>
             </ul>
          </section>
          <section>

@@ -308,7 +308,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Gielalasj ådåsmahttema nuorttasámegiellaj:</p>
             <ul>
                <li>Birrusin 40 000 ådå bágo, tækstatjoahkkes ja addnijs</li>
@@ -325,7 +325,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>oarjjelijsámegiela ådåstuhttema</li>
                <li>Windows MS Office 2010 dårja</li>
@@ -344,6 +344,13 @@
             <ul>
                <li>nuortta- ja julevsámegiela ådåstuhttema</li>
                <li>Mac MS Office 2008 dårja</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>buggfiksa: doajmmá dál Svierigin ja Suoman</li>
+               <li>buorep árvvalus</li>
             </ul>
          </section>
          <section>

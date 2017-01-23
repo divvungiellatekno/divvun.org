@@ -315,7 +315,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Linguistic updates for North Sámi:</p>
             <ul>
                <li>ca 40 000 new words, from corpora and users</li>
@@ -332,7 +332,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>linguistic updates for South Sámi</li>
                <li>support for MS Office 2010 for 32-bit Windows</li>
@@ -351,6 +351,13 @@
             <ul>
                <li>linguistic updates for North and Lule Sámi</li>
                <li>support for MS Office 2008 for Mac</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>bug fix: now working in Sweden and Finland too</li>
+               <li>improved suggestions</li>
             </ul>
          </section>
          <section>

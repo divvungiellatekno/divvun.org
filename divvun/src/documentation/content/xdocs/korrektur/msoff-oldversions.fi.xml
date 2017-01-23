@@ -314,7 +314,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Pohjoissaameen liittyviä kielellisiä päivityksiä:</p>
             <ul>
                <li>n. 40 000 uutta sanaa, korpuksesta ja käyttäjiltä</li>
@@ -331,7 +331,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>eteläsaamen kielipäivitys</li>
                <li>MS Office 2010 tuki 32-bittiselle Windows:lle</li>
@@ -350,6 +350,13 @@
             <ul>
                <li>pohjois- ja luulajansaamen kielipäivitys</li>
                <li>MS Office 2008 tuki Mac:lle</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>korjaus: toimii nyt myös Ruotsissa ja Suomessa</li>
+               <li>parannetut ehdotukset</li>
             </ul>
          </section>
          <section>

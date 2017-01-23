@@ -338,7 +338,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.3</title>
+            <title>Divvun 2.3 (2013-02-08)</title>
             <p>Gïeleh orrestehtemh noerhtesaemiengïelese:</p>
             <ul>
                <li>medtie 40 000 orre baakoeh, korpusistie jïh saemiestæjjijste</li>
@@ -355,7 +355,7 @@
             </ul>
          </section>
          <section>
-            <title>Divvun 2.1</title>
+            <title>Divvun 2.1 (2011-03-21)</title>
             <ul>
                <li>åarjelsaemiengïelen orrestehtemh</li>
                <li>Windows MS Office 2010 dåarjege</li>
@@ -374,6 +374,13 @@
             <ul>
                <li>noerhte- jïh julevusaemiengïelen orrestehtemh</li>
                <li>Mac MS Office 2008 dåarjege</li>
+            </ul>
+         </section>
+         <section>
+            <title>Divvun 1.0.1 (2007-12-21)</title>
+            <ul>
+               <li>buggfix: fungerar nu också i Sverige och Finland</li>
+               <li>bättre förslag</li>
             </ul>
          </section>
          <section>
