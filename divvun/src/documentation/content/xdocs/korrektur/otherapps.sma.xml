@@ -141,7 +141,7 @@
                 href="https://sourceforge.net/projects/apertium/files/giella-core/
                 ">giella core-tarballen</a>, Mesnie gaajhkh dah ressursh mah daerpies leah mealtan gaajhkine gïeline. Gosse veedtjeme, vaeltieh olkese jïh dle naemhtie darjoeh:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
@@ -149,7 +149,7 @@ sudo make install</source>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Pryövh dam dov gaaltijekovdem dov gïeline sjïere katalogesne (dvs. 
-                ikke inne i <code>gtcore</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne. 
+                ikke inne i <code>giella-core</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne. 
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>

@@ -148,7 +148,7 @@
                 Gå la dav viedtjam, viertti návti terminállavinndegin dahkat dav
                 jåhtuj biejatjit:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
@@ -156,7 +156,7 @@ sudo make install</source>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Sjiehkki ålgus ietjat giela gálldokåvdåjt sierra katalåvgån (ij
-                sæmmi <code>gtcore</code>-katalåvgån majt åvdep tjuokkan
+                sæmmi <code>giella-core</code>-katalåvgån majt åvdep tjuokkan
                 åttjudi):
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>

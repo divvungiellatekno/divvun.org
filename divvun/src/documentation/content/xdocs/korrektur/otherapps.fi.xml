@@ -136,7 +136,7 @@
                 ">giella core-tar</a>, joka sisältää tarvittavat resurssit
                 kaikille kielille. Latauksen jälkeen pura pakkaus ja aja komennot:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
@@ -144,7 +144,7 @@ sudo make install</source>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Lataa kielesi lähdekoodi erilliseen kansioon (ts.
-                iei <code>gtcore</code>-kansioon:
+                iei <code>giella-core</code>-kansioon:
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>

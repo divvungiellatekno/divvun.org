@@ -151,7 +151,7 @@
                 för alla språk. Efter nerladdandet, packa ut och gör följande i
                 ett terminalfönster:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
@@ -159,7 +159,7 @@ sudo make install</source>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Checka ut källkoden för ditt språk i en separat katalog (dvs
-                inte inne i <code>gtcore</code>-katalogen som du skaffat dej i
+                inte inne i <code>giella-core</code>-katalogen som du skaffat dej i
                 förra punkten):
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>

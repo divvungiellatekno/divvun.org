@@ -135,14 +135,14 @@
 
             <li>Vieččat <a href="https://sourceforge.net/projects/apertium/files/giella-core/">giella core-tarpáhka</a>, mas leat resurssat maid dárbbašat juohke gillii. Maŋŋágo viežžan lea geargan, páhkke olggos páhka sisdoalu ja čále dán terminálalásii:
                 <source>
-cd gtcore
+cd giella-core
 ./configure
 make
 sudo make install</source>
             </li>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
-            	Mana olggos gtcore-máhpas ja viečča iežat giela máhpa svn:s dán láhkai:
+            	Mana olggos giella-core-máhpas ja viečča iežat giela máhpa svn:s dán láhkai:
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>

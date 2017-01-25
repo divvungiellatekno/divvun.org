@@ -172,7 +172,7 @@ sudo make install</source>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
                 Sjekk ut kildekoden for språket ditt i en separat katalog (dvs
-                ikke inne i <code>gtcore</code>-katalogen du skaffet deg i
+                ikke inne i <code>giella-core</code>-katalogen du skaffet deg i
                 forrige punkt):
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
