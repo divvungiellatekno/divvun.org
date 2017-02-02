@@ -33,6 +33,7 @@
       </ul>
       <ul class="col-sm-12 nobullet" style="text-align: center;">
         <li class="col-sm-4">
+            <img style="width: 20vw;" src="images/divvun_ikon_spraaklaering.png"/><br/>
             <a href="laring/laring.html">Giellaoahppamprográmma</a>
         </li>
         <li class="col-sm-4">
@@ -41,6 +42,7 @@
             Báhkogirje</a>
         </li>
         <li class="col-sm-4">
+            <img style="width: 20vw;" src="images/divvun_ikon_oversettelse.png"/><br/>
             <a href="oversettelse/oversettelse.html">Jårggål</a>
         </li>
       </ul>
