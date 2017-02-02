@@ -14,7 +14,7 @@
           <a href="korrektur/korrektur.html">Lue lisää täältä!</a>
       </note-->
 
-      <ul class="col-sm-12 nobullet" style="text-align: center;">
+      <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
             <img class="scaling" src="images/divvun_ikon_stavekontroll.png"/><br/>

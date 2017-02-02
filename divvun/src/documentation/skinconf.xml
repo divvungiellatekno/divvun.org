@@ -149,6 +149,10 @@ img.scaling {
     width: 20vw;
 }
 
+ul.center {
+    text-align: center;
+}
+
 @media screen and (max-width:767px) {
     .nav-sidebar,
     .searchbox hr {
