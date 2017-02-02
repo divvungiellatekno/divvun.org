@@ -8,33 +8,39 @@
     </header>
     <body>
 
-        <note label="NYHET! 20.12.2016">Divvun 4.1 är tillgänglig, med många nya
+        <!--note label="NYHET! 20.12.2016">Divvun 4.1 är tillgänglig, med många nya
         ord och uppdaterad ortografi enligt de nyaste rättskrivningsbesluten.
         <a href="korrektur/korrektur.html">Läs mera här!</a>
-      </note>
+      </note-->
 
-      <ul class="col-sm-12 nobullet">
+      <ul class="col-sm-12 nobullet" style="text-align: center;">
         <li class="col-sm-4">
-            Vi har <a href="korrektur/korrektur.html">rättstavning</a> för <img alt="Windows" src="/images/windows_small.png"/>,  <img alt="OS X" src="/images/osx.png"/> och <img alt="Linux" src="/images/linux_small.png"/>
+            <a href="korrektur/korrektur.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_stavekontroll.png"/><br/>
+            Korrekturprogram</a>
         </li>
         <li class="col-sm-4">
-            Vi har <a href="keyboards/index.html">smarttelefontangentbord</a>
-            för nord‑, lule‑, syd‑, pite‑, enare‑ och skoltsamiska för både
-            <img src="/images/android.png" alt="android"/> och <img src="/images/ios8.png" alt="iOS 8"/>
+            <a href="keyboards/index.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_mobiltastatur.png"/><br/>
+            Tangentbord</a>
         </li>
         <li class="col-sm-4">
-            Vi har nordsamisk <a href="tale/tale.html">talsyntes</a> för <img alt="Windows" src="/images/windows_small.png"/> och <img alt="OS X" src="/images/osx.png"/>
+            <a href="tale/tale.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_tekst_til_tale.png"/><br/>
+            Text-till-tal</a>
         </li>
       </ul>
-      <ul class="col-sm-12 nobullet">
+      <ul class="col-sm-12 nobullet" style="text-align: center;">
         <li class="col-sm-4">
-            Vi har <a href="laring/laring.html">språkinlärningsappar</a> för <img src="/images/android.png" alt="android"/> och <img src="/images/ios.png" alt="iOS"/> och som webappar
+            <a href="laring/laring.html">Språkinlärning</a>
         </li>
         <li class="col-sm-4">
-            Vi har <a href="ordboker/ordboker.html">ordböcker</a>, både webbaserade och nerladdningsbara.
+           <a href="ordboker/ordboker.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_ordbok.png"/><br/>
+            Ordböcker</a>
         </li>
         <li class="col-sm-4">
-            Vi har verktyg för <a href="oversettelse/oversettelse.html">översättning</a>
+            <a href="oversettelse/oversettelse.html">Översättning</a>
         </li>
       </ul>
     </body>

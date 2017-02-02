@@ -8,33 +8,42 @@
     </header>
     <body>
 
-        <note label="OĐAS! 20.12.2016">Divvun 4.1 lea olámuttus. Dán gearddi
+        <!--note label="OĐAS! 20.12.2016">Divvun 4.1 lea olámuttus. Dán gearddi
         leat ollu ođđa sánit, eanas goallossánit muhte maid suomabeale sánit.
         Giellagáldu ođđa normeren Eurohpá riikkaid namain maid lea mielde.
         <a href="korrektur/korrektur.html">Loga eanet dás</a>.
-      </note>
+      </note-->
 
-      <ul class="col-sm-12 nobullet">
+      <ul class="col-sm-12 nobullet" style="text-align: center;">
         <li class="col-sm-4">
-            Mis leat davvi-, julev- ja lullisámi <a href="korrektur/korrektur.html">čállindárkkisteaddjit</a> <img alt="Windows" src="/images/windows_small.png"/>, <img alt="OS X" src="/images/osx.png"/> ja <img alt="Linux" src="/images/linux_small.png"/> várás
+            <a href="korrektur/korrektur.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_stavekontroll.png"/><br/>
+            Čállindárkkisteaddjit</a>
         </li>
         <li class="col-sm-4">
-            Mis leat davvi-, julev-, lulli-, bihtán-, anár- ja nuortalašsámegiel <a href="keyboards/index.html">boallobeavddit</a>  <img src="/images/android.png" alt="android"/> ja <img src="/images/ios8.png" alt="iOS 8"/> várás
+            <a href="keyboards/index.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_mobiltastatur.png"/><br/>
+            Boallobeavddit</a>
         </li>
         <li class="col-sm-4">
-            Mis lea davvisámi <a href="tale/tale.html">hupmansyntesa</a> <img alt="Windows" src="/images/windows_small.png"/> ja <img alt="OS X" src="/images/osx.png"/> várás
-        </li>
-      </ul>
-      <ul class="col-sm-12 nobullet">
-        <li class="col-sm-4">
-            Mis leat <a href="laring/laring.html">e-oahppoprográmmat</a> <img src="/images/android.png" alt="android"/>, <img src="/images/ios.png" alt="iOS"/> ja neahta várás
-        </li>
-        <li class="col-sm-4">
-            Neahttavuođđuduvvon ja vieččahahtti <a href="ordboker/ordboker.html">sátnegirjjit</a>
-        </li>
-        <li class="col-sm-4">
-            <a href="oversettelse/oversettelse.html">Jorgalanmuitu</a>
+            <a href="tale/tale.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_tekst_til_tale.png"/><br/>
+            Hupmansyntesa</a>
         </li>
       </ul>
+      <ul class="col-sm-12 nobullet" style="text-align: center;">
+        <li class="col-sm-4">
+            <a href="laring/laring.html">Giellaoahppoprográmmat</a>
+        </li>
+        <li class="col-sm-4">
+           <a href="ordboker/ordboker.html">
+            <img style="width: 20vw;" src="images/divvun_ikon_ordbok.png"/><br/>
+            Sátnegirjjit</a>
+        </li>
+        <li class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">Jorgal</a>
+        </li>
+      </ul>
+
     </body>
 </document>
