@@ -31,7 +31,7 @@
             Text-to-speech</a>
         </li>
       </ul>
-      <ul class="col-sm-12 nobullet" style="text-align: center;">
+      <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
             <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
             <a href="laring/laring.html">Language learning</a>
