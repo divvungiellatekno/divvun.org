@@ -1,15 +1,17 @@
 The Divvun group has support from and cooperation with a number of people and
 institutions (listed in no particular order):
 
-* [Giellatekno|http://giellatekno.uit.no/]
+* [Giellatekno|http://giellatekno.uit.no/]: our sister group at UiT, with whom
+  we share everything
 * [images/partnerlogos/logo.png] \\ [Sami Parliament|http://samediggi.no/]: The
   mother of Divvun, where all started. Present cooperation covers term
-  development infrastructure and satni.org|http://satni.org/]
-* [images/partnerlogos/TkC8DVeC_bigger.jpg] \\ [Avvir]: news text corpus, speller
-  development and testing
-* Giellagáldu
-* AltLab
-* Tino
-* Kevin
-* Brendan
-* Jack
+  development infrastructure and [satni.org|http://satni.org/]
+* [images/partnerlogos/TkC8DVeC_bigger.jpg] \\ [Avvir]: news text corpus,
+  speller development and testing
+* Giellagáldu: term development and infrastructure for it, normativity questions
+* AltLab: support for indigenous languages in Canada and North America
+* Tino Didriksen: Windows and MS Office integration
+* Kevin Unhammer: Grammar checker technical development
+* Brendan Molloy: testing framework, mobile keyboards and keyboard generation, web, MacVoikko 2.0
+  based spellers
+* Jack Rueter: Skolt Sami and Uralic languages in Russia
