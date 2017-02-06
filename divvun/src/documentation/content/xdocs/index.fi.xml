@@ -33,8 +33,9 @@
       </ul>
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
+            <a href="laring/laring.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
-            <a href="laring/laring.html">Kielioppiminen</a>
+            Kielioppiminen</a>
         </li>
         <li class="col-sm-4">
            <a href="ordboker/ordboker.html">
@@ -42,8 +43,9 @@
             Sanakirjoja</a>
         </li>
         <li class="col-sm-4">
+            <a href="oversettelse/oversettelse.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_oversettelse.png"/><br/>
-            <a href="oversettelse/oversettelse.html">Kääntäminen</a>
+            Kääntäminen</a>
         </li>
       </ul>
 

@@ -32,8 +32,9 @@
       </ul>
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
+            <a href="laring/laring.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
-            <a href="laring/laring.html">Språkinlärning</a>
+            Språkinlärning</a>
         </li>
         <li class="col-sm-4">
            <a href="ordboker/ordboker.html">
@@ -42,7 +43,8 @@
         </li>
         <li class="col-sm-4">
             <img alt="icon" class="scaling" src="images/divvun_ikon_oversettelse.png"/><br/>
-            <a href="oversettelse/oversettelse.html">Översättning</a>
+            <a href="oversettelse/oversettelse.html">
+            Översättning</a>
         </li>
       </ul>
     </body>
