@@ -73,6 +73,20 @@
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
+           <td>Faroese
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fao_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Kven documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/fao">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Finnish</td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/fi_LO-voikko-4.0-win.oxt">For Windows</a></li>
