@@ -29,7 +29,7 @@
            <td>Faroese
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.msi">Download installer</a> </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.exe">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
            <td>The <a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese documentation</a>
@@ -39,7 +39,7 @@
          </tr>
          <tr>
            <td>Greenlandic</td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Kukkuniiaat-latest.msi">Download installer</a> </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Kukkuniiaat-latest.exe">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
            <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic documentation</a>
@@ -51,7 +51,7 @@
            <td>Inari Saami
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.msi">Download installer</a> </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
            <td>The <a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
