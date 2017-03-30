@@ -31,3 +31,9 @@ institutions (listed in no particular order):
   proofing tools and analysers.
 * [images/partnerlogos/acapela-logo.png] \\
   [Acapela|http://www.acapela-group.com]: North Sámi text-to-speech.
+* [images/partnerlogos/Helsingin_yliopisto.png] \\ [University of
+  Helsinki|http://blogs.helsinki.fi/language-technology/hi-nlp/morphology/]:
+  Hfst and related tools and technology, core speller engine technology.
+* [images/partnerlogos/voikko-icon.png] \\
+  [Harri Pitkänen|http://www.puimula.org/htp/]: Speller integration with
+  LibreOffice, general speller support through libvoikko.
