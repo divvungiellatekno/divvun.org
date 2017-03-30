@@ -1,39 +1,53 @@
 The Divvun group has support from and cooperation with a number of people and
 institutions (listed in no particular order):
 
-* [images/partnerlogos/GT-logo.png] \\ [Giellatekno|http://giellatekno.uit.no/]:
+* [images/partnerlogos/GT-logo.png] \\
+  [Giellatekno|http://giellatekno.uit.no/]:
   our sister group at UiT, with whom we share everything
-* [images/partnerlogos/SD-logo.png] \\ [Sami Parliament|http://samediggi.no/]:
+* [images/partnerlogos/SD-logo.png] \\
+  [Sami Parliament|http://samediggi.no/]:
   The mother of Divvun, where all started. Present cooperation covers term
   development infrastructure and [satni.org|http://satni.org/], as well as
   collecting and administering the corpus of Sámi texts. The corpus is
   searchable [here|http://gtweb.uit.no/korp/].
-* [images/partnerlogos/TkC8DVeC_bigger.jpg] \\ [Avvir]: our biggest contributor
-  of corpus text, and long-time cooperator in speller development and testing.
+* [images/partnerlogos/TkC8DVeC_bigger.jpg] \\
+  [Avvir|http://avvir.no]:
+  our biggest contributor of corpus text, and long-time cooperator in speller
+  development and testing.
 * [images/partnerlogos/Giellagaldu.png] \\
-  [Giellagáldu|https://www.facebook.com/SamiGiellagaldu/]: term development and
+  [Giellagáldu|https://www.facebook.com/SamiGiellagaldu/]:
+  term development and
   normativity questions for all Sámi languages in the Nordic countries.
-* [images/partnerlogos/AltLab.png] \\ [AltLab|http://altlab.artsrn.ualberta.ca]:
+* [images/partnerlogos/AltLab.png] \\
+  [AltLab|http://altlab.artsrn.ualberta.ca]:
   support for indigenous languages in Canada and North America
 * [images/partnerlogos/TinoDidriksen.jpg] \\
   [Tino Didriksen|https://tinodidriksen.com/curriculum-vitae/]:
   Windows and MS Office integration.
-* [images/partnerlogos/TriGram.png] \\ [Trigram AS/Kevin Unhammer|https://unhammer.org/k/]:
+* [images/partnerlogos/TriGram.png] \\
+  [Trigram AS/Kevin Unhammer|https://unhammer.org/k/]:
   Grammar checker technical development.
 * [images/partnerlogos/BrendanMolloy.jpg] \\
-  [Brendan Molloy|https://brendan.so]: morphology testing framework, mobile
+  [Brendan Molloy|https://brendan.so/]:
+  morphology testing framework, mobile
   keyboards and keyboard generation, web speller, MacDivvun.
 * [images/partnerlogos/s200_jack.rueter.jpg] \\
-  [Jack Rueter|https://tuhat.helsinki.fi/portal/en/person/rueter]: Skolt Sámi
-  and Uralic languages in Russia.
+  [Jack Rueter|https://tuhat.helsinki.fi/portal/en/person/rueter]:
+  Skolt Sámi and Uralic languages in Russia.
 * [images/partnerlogos/Oulun_yliopisto_logo_text_fi.png] \\
-  [Giellagas-instituutti|http://www.oulu.fi/giellagasinstituutti/]: Inari Sámi
-  proofing tools and analysers.
+  [Giellagas-instituutti|http://www.oulu.fi/giellagasinstituutti/]:
+  Inari Sámi proofing tools and analysers.
 * [images/partnerlogos/acapela-logo.png] \\
-  [Acapela|http://www.acapela-group.com]: North Sámi text-to-speech.
-* [images/partnerlogos/Helsingin_yliopisto.png] \\ [University of
+  [Acapela|http://www.acapela-group.com]:
+  North Sámi text-to-speech.
+* [images/partnerlogos/Helsingin_yliopisto.png] \\
+  [University of
   Helsinki|http://blogs.helsinki.fi/language-technology/hi-nlp/morphology/]:
   Hfst and related tools and technology, core speller engine technology.
 * [images/partnerlogos/voikko-icon.png] \\
-  [Harri Pitkänen|http://www.puimula.org/htp/]: Speller integration with
-  LibreOffice, general speller support through libvoikko.
+  [Harri Pitkänen|http://www.puimula.org/htp/]:
+  peller integration with LibreOffice, general speller support
+  through libvoikko.
+* [images/partnerlogos/Aajege_logo_sort_no.png] \\
+  [Aajege|http://aajege.no]:
+  The language learning app Gïelese
