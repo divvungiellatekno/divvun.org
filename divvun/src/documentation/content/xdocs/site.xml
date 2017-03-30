@@ -20,6 +20,7 @@
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
         <contact href="contact.html" label="Contact info"/>
+        <partners href="CooperationPartners.html" label="Cooperation partners"/>
 
         <download_log description="Download log for the Divvun tools" href="Download_log.html" label="Download log" />
         <pr href="pr/" label="Preassadieđáhusat">
