@@ -250,11 +250,11 @@ sudo make install</source>
             </tr>
             </table>
 
-            <p>Pura Hunspell-pakkaus, ja sijoita aff- og dic-filene oikeaan
+            <p>Pura Hunspell-pakkaus, ja sijoita aff- og dic-tiedostot oikeaan
             kansioon.</p>
 
             <section>
-              <title>Instructions for specific apps</title>
+              <title>Ohjelmakohtaiset asennusohjeet</title>
               <ul>
                 <li><a href="userdocs/win/DivvunOgTrados.html">Trados</a></li>
               </ul>
