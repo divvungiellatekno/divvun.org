@@ -1,0 +1,67 @@
+!!!Bruke stavekontrollen som finnes i Word
+
+Trados kan bruke stavekontrollene som finnes for Word. Det burde bety at man kan
+installere Divvun på vanlig måte for MS Office, og deretter bruke den samme
+stavekontrollen i Trados. Stavekontrollen for Word blir oppdatert med jevne
+mellomrom, og er den som i størst grad blir holdt ved like og videreutviklet.
+
+__NB!!!__ Vi har ikke testet dette, og kan ikke garantere at det fungerer!
+
+Gjør følgende:
+# installer [MS Office-stavekontrollen|/korrektur/korrektur.html]
+# I Trados, gå til menyen: __File > Options__
+# Klikk __Editor > Spelling__
+# Velg __Microsoft Word__ som stavekontroll
+
+Nå burde stavekontrollen bli brukt automatisk.
+
+!!!Bruke Hunspell-stavekontrollen
+
+Dersom man ikke kan eller vil bruke Word-stavekontrollen kan man i stedet bruke
+Divvuns Hunspell-stavekontroll. Dette er en eldre versjon som ikke lenger blir
+videreutviklet, men teknologien er enkel og støttet av mange eksisterende
+program.
+
+Gjør følgende:
+# last ned [hunspell-filene|http://divvun.no/static_files/smi.zip] (det er en
+  nedlastbar fil for nordsamisk, lulesamisk og sørsamisk)
+# pakk ut filen smi.zip - den ligger i nedlastingskatalogen. \\
+  Du har nå seks filer: tre filer som slutter på {{.aff}} og tre filer som
+  slutter på {{.dic}}. De hører sammen parvis: {{se}}-filene er for nordsamisk,
+  {{smj}}-filene er for lulesamisk, og {{sma}}-filene er for sørsamisk.
+# Legg {{.aff}}– og {{.dic}}–filene for det språket du vil ha i katalogen:
+
+{{{\Program Files\SDL\SDL Trados Studio\Studio1\HunspellDictionaries\}}}
+
+Deretter må du redigere en konfigurasjonsfil for å få Trados til å forstå at det nå finnes et nytt stavekontrollspråk:
+
+{{{\Program Files\SDL\SDL Trados Studio\Studio1\HunspellDictionaries\spellcheckmanager_config.xml}}}
+
+# Åpne denne filen i en teksteditor, for eksempel {{Notepad}}
+# inne i CONFIG-elementet (nedenfor der det står {{<CONFIG>}}) skal du legge til
+  ditt nye språk. Det enkleste er å kopiere et eksisterende språk, og deretter
+  endre det til:
+
+{{{
+<LANGUAGE>
+  <ISOCODE>se</ISOCODE>
+  <DICT>se</DICT>
+</LANGUAGE>
+}}}
+
+{{se}} er for nordsamisk, dersom du vil legge til sør- eller lulesamisk bytter
+du ut {{se}} med de tilsvarende kodene, slik de står i filnavnene til {{.aff}}–
+og {{.dic}}–filene du pakket opp tidligere.
+
+Nå kan du starte Trados igjen, og Divvuns Hunspell-stavekontroll burde fungere.
+
+!!!Tips for Windows-brukere
+
+* [installer samisk
+  tastatur|/korrektur/userdocs/win/enable_sami_input-win10.html]
+
+!!!Bakgrunnsdokument
+* [http://kb.sdl.com/kb/?articleId=2691]
+* [Oversikt over bruken av stavekontroller|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Pref_Overview_Check_Spelling.htm]
+* [http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Spell_Check_Overview.htm]
+* [http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/HunspellSpellChecker.htm]
