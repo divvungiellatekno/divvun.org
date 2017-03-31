@@ -61,7 +61,13 @@ Nå kan du starte Trados igjen, og Divvuns Hunspell-stavekontroll burde fungere.
   tastatur|/korrektur/userdocs/win/enable_sami_input-win10.html]
 
 !!!Bakgrunnsdokument
-* [http://kb.sdl.com/kb/?articleId=2691]
-* [Oversikt over bruken av stavekontroller|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Pref_Overview_Check_Spelling.htm]
-* [http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Spell_Check_Overview.htm]
-* [http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/HunspellSpellChecker.htm]
+* [Trados' egen dokumentasjon for hvordan man legger til
+  Hunspell-stavekontroller|http://kb.sdl.com/kb/?articleId=2691]
+* [Trados: Oversikt over bruken av
+  stavekontroller|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Pref_Overview_Check_Spelling.htm]
+* [Trados: Om egne ordlister i
+  Hunspell|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/Spell_Check_Overview.htm]
+* [Trados: oversikt over
+  Hunspell-stavekontrollen|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/HunspellSpellChecker.htm]
+* [Trados: kort dokumentasjon om å bruke
+  Word-stavekontrollen|http://producthelp.sdl.com/sdl_trados_studio_2015/client_en/setting_preferences/Check_Spelling/MSWordSpellChecker.htm]
