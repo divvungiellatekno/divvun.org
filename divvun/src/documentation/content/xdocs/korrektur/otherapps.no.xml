@@ -307,6 +307,12 @@ sudo make install</source>
             <p>Pakk ut Hunspell-pakka, og plasser aff- og dic-filene i rett
             katalog slik det enkelte program krever det.</p>
 
+            <section>
+              <title>Instructions for specific apps</title>
+              <ul>
+                <li><a href="userdocs/win/DivvunOgTrados.html">Trados</a></li>
+              </ul>
+            </section>
         </section>
 
    </body>

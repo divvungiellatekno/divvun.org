@@ -268,6 +268,12 @@ sudo make install</source>
             <p>Bieja Hunspell-páhkev jåhtuj, ja sirde aff- og dic-fijlajt riekta
             katalåvggåj navti gåktu ájnegis prográmma gájbbedij.</p>
 
+            <section>
+              <title>Instructions for specific apps</title>
+              <ul>
+                <li><a href="userdocs/win/DivvunOgTrados.html">Trados</a></li>
+              </ul>
+            </section>
         </section>
 
    </body>
