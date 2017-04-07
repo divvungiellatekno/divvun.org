@@ -59,6 +59,18 @@
                <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
             </td>
          </tr>
+         <tr>
+           <td>Skolt Saami
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">Download installer</a> </td>
+           <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/sms/j-sms.html">Skolt Saami documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/sms">source code</a>.
+            </td>
+         </tr>
          </table>
       </section>
 
