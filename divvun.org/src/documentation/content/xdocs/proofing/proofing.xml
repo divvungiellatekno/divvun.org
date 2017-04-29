@@ -262,6 +262,20 @@
            <a href="https://victorio.uit.no/langtech/trunk/langs/udm">source code</a>.
            </td>
          </tr>
+         <tr>
+           <td>Võro
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/vro_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/vro/VoroDocumentation.html">Võro documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/vro">source code</a>.
+           </td>
+         </tr>
          </table>
 
         <section>
