@@ -26,6 +26,18 @@
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
+           <td>Estonian
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">Download installer (forthcoming)</a> </td>
+           <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/est/index.html">Estonian documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/est">source code</a>.
+            </td>
+         </tr>
+         <tr>
            <td>Faroese
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
@@ -85,6 +97,20 @@
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
+           <td>Estonian
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/et_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/est/index.html">Estonian documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/est">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Faroese
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
@@ -93,7 +119,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Kven documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/fao">source code</a>.
            </td>
