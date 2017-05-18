@@ -19,15 +19,18 @@
         <tab label="Giellatekno"             href="http://giellatekno.uit.no"/>
         <tab label="Developer documentation" href="http://divvun.no/doc/index.html"/>
     </tab>
-    <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"       >
-        <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"      />
-        <tab dir="korrektur" id="Browsers"     label="Browsers"     indexfile="browsers.html" />
-        <tab dir="korrektur" id="OSWide"       label="OSWide"       indexfile="oswide.html"  />
-        <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"      />
-        <tab dir="korrektur" id="AndreSprak"   label="AndreSprak"   indexfile="otherlangs.html"      />
-        <tab dir="korrektur" id="DevInfo"      label="DevInfo"      indexfile="devinfo.html"/>
+    <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"            >
+        <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"  />
+        <tab dir="korrektur" id="Browsers"     label="Browsers"     indexfile="browsers.html"   />
+        <tab dir="korrektur" id="OSWide"       label="OSWide"       indexfile="oswide.html"     />
+        <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"  />
+        <tab dir="korrektur" id="AndreSprak"   label="AndreSprak"   indexfile="otherlangs.html" />
+        <tab dir="korrektur" id="DevInfo"      label="DevInfo"      indexfile="devinfo.html"    />
     </tab>
-    <tab dir="keyboards/"    id="Tastatur"     label="Tastatur"     indexfile="index.html"       />
+    <tab dir="keyboards/"     id="Tastatur"   label="Tastatur"  indexfile="index.html"           >
+        <tab dir="keyboards/" id="Mobile"     label="Mobil"     indexfile="mobileindex.html"    />
+        <tab dir="keyboards/" id="Desktop"    label="Desktop"   indexfile="desktopindex.html"   />
+    </tab>
     <tab dir="tale/"         id="Tale"         label="Tale"         indexfile="tale.html"        />
     <tab dir="ordboker/"     id="Ordbøker"     label="Ordbøker"     indexfile="ordboker.html"    />
     <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>

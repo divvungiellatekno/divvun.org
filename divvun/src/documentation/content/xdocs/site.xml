@@ -161,8 +161,14 @@
 
     </korrektur>
 
-    <tastatur tab="Tastatur" label="Tastatur">
-        <index href="keyboards/index.html" label="Tastatur"/>
+    <tastatur href="keyboards/" tab="Tastatur" label="Tastatur">
+        <index href="index.html" label="Tastatur"/>
+        <mobile tab="Mobile" label="Mobile OS keyboards">
+            <index href="mobileindex.html" label="Mobile keyboards"/>
+        </mobile>
+        <desktop tab="Desktop" label="Desktop OS keyboards">
+            <index href="desktopindex.html" label="Desktop keyboards"/>
+        </desktop>
     </tastatur>
 
     <tale tab="Tale" label="Taleteknologi">
