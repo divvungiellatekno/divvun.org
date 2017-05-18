@@ -165,6 +165,8 @@
         <index href="index.html" label="Tastatur"/>
         <mobile tab="Mobile" label="Keyboards for handheld devices">
             <index href="mobileindex.html" label="Overview"/>
+            <userguideandroid href="installation_android.html" label="User guide for the android keyboard app"/>
+            <userguideios     href="installation_ios.html"     label="User guide for the iOS keyboard app"/>
         </mobile>
         <desktop tab="Desktop" label="Computer keyboards">
             <index href="desktopindex.html" label="Overview"/>
