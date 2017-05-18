@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Boallobeavddit</title>
+        <title>Keyboards for mobile phones</title>
     </header>
     <body>
         <p>
@@ -13,73 +13,66 @@
             href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> ja <a
 href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
                 >iOS (iPhone ja iPad)</a> várás.</p>
+      <section>
+        <title>Download</title>
 
-    <table>
-        <tr>
-            <td>
-                <img alt="Šearbmagovva Google Plays"
-                src="images/google_play_entry.png"
-                width="300" />
-            </td>
-            <td>
-                <img alt="Šearbmagovva App Stores"
-                src="images/app_store_entry.png"
-                width="300" />
-            </td>
-        </tr>
-        <tr><td> </td></tr>
-        <tr>
-            <td>
+      <ul class="col-sm-12 nobullet center">
+        <li class="col-sm-6">
+            <a href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+            <img alt="Šearbmagovva Google Plays" class="scaling" src="images/google_play_entry.png"/><br/>
+                 <img
+                    alt="Viečča Google Plays"
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/><br/>
+            Android</a>
+            <br/>
+                <a href="installation_android.html">
+                 <img alt="Gažaldatmearka" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Sajáiduhttinveahkki
+                </a>
+        </li>
+
+        <li class="col-sm-6">
+            <a href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8">
+            <img alt="icon" class="scaling" src="images/app_store_entry.png"/><br/>
+                <img
+        alt="Viečča App Stores"
+        class="soon"
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/><br/>
+            iPhone/iPad</a>
+            <br/>
+                <a href="installation_ios.html">
+                 <img alt="Gažaldatmearka" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Sajáiduhttinveahkki
+                </a>
+        </li>
+      </ul>
+      </section>
+
+      <section>
+        <title>Screen shots</title>
+
+      <ul class="col-sm-12 nobullet center">
+        <li class="col-sm-6">
                 <img alt="Android-šearbmagovva"
                 src="/images/sami_keyboard_android.png"
                 width="300" />
-            </td>
-            <td>
+        </li>
+
+        <li class="col-sm-6">
                 <img alt="iPhone-šearbmagovva"
                 src="/images/sami_keyboard_ios.png"
                 width="300" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a
-href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
-                 <img
-                    alt="Viečča Google Plays"
-src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
-                </a>
-            </td>
+        </li>
+      </ul>
+      </section>
 
-            <td>
-                <a
-href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >
-                    <img
-        alt="Viečča App Stores"
-        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
-                </a>
-            </td>
-        </tr>
+      <section>
+        <title>Privacy</title>
+        <p>Mis lea oktageardánis siidu <a href="privacy.html">persovdnasuodjaleami</a>
+        dáid prográmmažiid oktavuođas.</p>
+      </section>
 
-        <tr>
-            <td>
-                <a href="installation_android.html">
-                    <img alt="Gažaldatmearka" width="50"
-                    src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Sajáiduhttinveahkki
-                </a>
-            </td>
-
-            <td>
-                <a href="installation_ios.html">
-                    <img alt="Gažaldatmearka" width="50"
-                    src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Sajáiduhttinveahkki
-                </a>
-            </td>
-        </tr>
-
-    </table>
-    <p>Mis lea oktageardánis siidu <a href="privacy.html">persovdnasuodjaleami</a> dáid prográmmažiid oktavuođas.</p>
    </body>
 </document>

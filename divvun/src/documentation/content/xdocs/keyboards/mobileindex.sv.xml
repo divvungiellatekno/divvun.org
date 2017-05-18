@@ -3,87 +3,77 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Tangentbord</title>
+        <title>Tangentbord för mobiltelefoner</title>
     </header>
     <body>
-
-<!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
         <p>Divvun har gjort appen «Samiske tastaturer» med mobiltangentbord för
             nord-, lule-, syd-, pite-, enare- och skoltsamiska. Appen finns
             för <a
             href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> och <a
 href="https://itunes.apple.com/se/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOS (iPhone og iPad)</a>.</p>
+                >iOS (iPhone och iPad)</a>.</p>
 
-    <table>
-        <tr>
-            <td>
-                <img alt="Skärmbild av Google Play-entryn"
-                src="images/google_play_entry.png"
-                width="300" />
-            </td>
-            <td>
-                <img alt="Skärmbild av App Store-entryn"
-                src="images/app_store_entry.png"
-                width="300" />
-            </td>
-        </tr>
-        <tr><td> </td></tr>
-        <tr>
-            <td>
-                <img alt="Android-skärmbild"
-                src="/images/sami_keyboard_android.png"
-                width="300" />
-            </td>
-            <td>
-                <img alt="iPhone-skärmbild"
-                src="/images/sami_keyboard_ios.png"
-                width="300" />
-            </td>
-        </tr>
-        <tr>
-              <td>
-                <a
-href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+      <section>
+        <title>Nerladdning och installation</title>
+
+      <ul class="col-sm-12 nobullet center">
+        <li class="col-sm-6">
+            <a href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+            <img alt="Skärmbild av Google Play-entryn" class="scaling" src="images/google_play_entry.png"/><br/>
                  <img
                     alt="Ladda ner från Google Play"
-src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
-                </a>
-              </td>
-
-              <td>
-                  <a
-href="https://itunes.apple.com/se/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >
-                <img
-        alt="Ladda ner från App Store"
-        class="soon"
-        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
-                </a>
-              </td>
-          </tr>
-
-        <tr>
-              <td>
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/><br/>
+            Android</a>
+            <br/>
                 <a href="installation_android.html">
                  <img alt="Frågetecken" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
                     Installationshjälp
                 </a>
-              </td>
+        </li>
 
-              <td>
+        <li class="col-sm-6">
+            <a href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8">
+            <img alt="Skärmbild av App Store-entryn" class="scaling" src="images/app_store_entry.png"/><br/>
+                <img
+        alt="Ladda ner från App Store"
+        class="soon"
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/><br/>
+            iPhone/iPad</a>
+            <br/>
                 <a href="installation_ios.html">
                  <img alt="Frågetecken" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/><br/>
                     Installationshjälp
                 </a>
-              </td>
-          </tr>
+        </li>
+      </ul>
+      </section>
 
-        </table>
-        <p>Vi har en enkel sida om <a href="privacy.html">personskydd</a> och
-        tangentbordsapparna.</p>
+      <section>
+        <title>Skärmbilder</title>
+
+      <ul class="col-sm-12 nobullet center">
+        <li class="col-sm-6">
+                <img alt="ndroid-skärmbild"
+                src="/images/sami_keyboard_android.png"
+                width="300" />
+        </li>
+
+        <li class="col-sm-6">
+                <img alt="iPhone-skärmbild"
+                src="/images/sami_keyboard_ios.png"
+                width="300" />
+        </li>
+      </ul>
+      </section>
+
+      <section>
+        <title>Personskydd</title>
+        <p>Läs vår sida om <a href="privacy.html">personskydd</a>
+        och tangentbordsapparna.</p>
+      </section>
+
    </body>
 </document>
