@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Keyboards</title>
+    </header>
+    <body>
+
+<!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
+
+        <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
+            containing mobile phone and tablet keyboards for North, Julev, South,
+            Pite, Inari and Skolt Sami. The app is available
+            for <a
+href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
+                >Android</a> and <a
+href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >iOS (iPhone and iPad)</a>.</p>
+
+    <table>
+        <tr>
+            <td>
+                <img alt="Screen shot of the Google Play entry"
+                src="images/google_play_entry.png"
+                width="300" />
+            </td>
+            <td>
+                <img alt="Screen shot of the App Store entry"
+                src="images/app_store_entry.png"
+                width="300" />
+            </td>
+        </tr>
+        <tr><td> </td></tr>
+        <tr>
+            <td>
+                <img alt="Android screen shot"
+                src="/images/sami_keyboard_android.png"
+                width="300" />
+            </td>
+            <td>
+                <img alt="iPhone screen shot"
+                src="/images/sami_keyboard_ios.png"
+                width="300" />
+            </td>
+        </tr>
+        <tr>
+              <td>
+                <a
+href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+                 <img
+                    alt="Last ned fra Google Play"
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
+                </a>
+              </td>
+
+              <td>
+                  <a
+href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
+                >
+                <img
+        alt="Last ned fra App Store"
+        class="soon"
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
+                </a>
+              </td>
+          </tr>
+
+        <tr>
+              <td>
+                <a href="installation_android.html">
+                 <img alt="Question mark icon" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Installation guide
+                </a>
+              </td>
+
+              <td>
+                <a href="installation_ios.html">
+                 <img alt="Question mark icon" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/><br/>
+                    Installation guide
+                </a>
+              </td>
+          </tr>
+
+        </table>
+        <p>We have a very short <a href="privacy.html">privacy statement</a>
+        regarding the keyboard app.</p>
+   </body>
+</document>
