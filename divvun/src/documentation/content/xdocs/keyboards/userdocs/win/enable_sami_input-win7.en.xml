@@ -28,11 +28,12 @@
                 </li>
 
                 <li>The dialog <strong>Add Input Language</strong> appears. Go to Sami, Northern (Norway), Sami, Northern (Finland) or Sami, Northern (Sweden). Choose <strong>Sami Extended Norway</strong> <strong>Sami Extended Finland-Sweden</strong>.
-                    <p><img src="images/win7_legg_til_inndatasprak_sme_no.png" alt="Add Input Language"/></p>. Then click <strong>OK</strong>.
+                    <p><img src="images/win7_legg_til_inndatasprak_sme_no.png" alt="Add Input Language"/></p>
+                    Then click <strong>OK</strong>.
                 </li>
 
                 <li>The dialog <strong>Text Services and Input Languages</strong> now shows the input method you chose in the previous step in addition to the other input languages that was active earlier.
-                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sme_no.png" alt="Text Services and Input Languages after that Northern Sami has been chosen."/></p>.
+                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sme_no.png" alt="Text Services and Input Languages after that Northern Sami has been chosen."/></p>
                 </li>
 
                 <li>Then click the <strong>OK</strong> button in all dialogs.</li>
