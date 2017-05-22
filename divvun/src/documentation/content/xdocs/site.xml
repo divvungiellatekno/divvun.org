@@ -168,8 +168,9 @@
               <win7  label="Windows 7"  href="enable_sami_input-win7.html" />
             </win>
             <mac label="macOS" href="mac/">
-              <keyb108    label="MacOSX 10.6-10.8" href="enable-keyboard-osx10.8-nob.html" />
-              <keyb105    label="MacOSX 10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
+              <keyb1012   label="10.9-10.12"    href="enable-keyboard-osx10.12.html"/>
+              <keyb108    label="10.6-10.8"     href="enable-keyboard-osx10.8-nob.html" />
+              <keyb105    label="10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
             </mac>
           </userdocs>
         </desktop>
