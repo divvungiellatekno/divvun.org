@@ -3,11 +3,109 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Computer Keyboards</title>
+        <title>Sámi keyboards</title>
     </header>
     <body>
 
-        <p>Work in progress - come back soon!</p>
+        <section>
+            <title>Keyboards for Windows</title>
+            <table>
+            <tr>
+            <th>Downloads</th>
+            <th>User Guides</th>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download">Julev Sámi keyboard:
+                <ul>
+                  <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    for Norway</a></li>
+                  <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    for Sweden</a></li>
+                </ul>
+              </li>
+              <li class="Download">South Sámi keyboard:
+                <ul>
+                  <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    for Norway</a></li>
+                  <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    for Sweden</a></li>
+                </ul>
+              </li>
+            </ul></td>
+            <td>
+            <ul>
+              <li><a href="userdocs/win/enable_sami_input-win10.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 10</a></li>
+              <li><a href="userdocs/win/enable_sami_input-win8.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 8</a></li>
+              <li><a href="userdocs/win/enable_sami_input-win7.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 7</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Keyboards for macOS</title>
+            <table>
+            <tr>
+            <th>Downloads</th>
+            <th>User Guides</th>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Julev Sámi keyboards</a>
+              </li>
+              <li><a
+                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    South Sámi keyboards</a>
+              </li>
+            </ul></td>
+            <td>
+            <ul>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.9+</a></li>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.8-nob.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.6-10.8</a></li>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.5-swe.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.2-10.5</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Keyboards for Linux</title>
+        </section>
 
    </body>
 </document>
