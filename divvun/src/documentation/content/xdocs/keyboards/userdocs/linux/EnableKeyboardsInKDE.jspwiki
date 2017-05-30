@@ -1,1 +1,19 @@
-KDE - tbw.
+!!!Initial configuration
+
+If one only needs one keyboard layout, one can choose to add it during the initial setup of the machine.
+
+[images/KDE_initial_1_select_layout-no.png]
+
+[images/KDE_initial_2_select_language-no.png]
+
+!!!Adding more keyboard layouts
+
+To add additional keyboard layouts in KDE, follow these steps:
+
+[images/KDE_1_start_sysprefs-no.png]
+
+[images/KDE_2_keyboard-no.png]
+
+[images/KDE_3_keyboard_prefs_layout_tab-no.png]
+
+[images/KDE_4_adding_layout-no.png]
