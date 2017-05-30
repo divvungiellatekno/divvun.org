@@ -1,3 +1,7 @@
+When you first configure Linux Mint / Cinnamon, you will be asked to select a
+keyboard layout during the initial configuration. If you want additional
+keyboard layouts, follow these steps:
+
 # Open the Menu and click on __System Settings__:\\
   [images/mint_1_menu-no.png]
 # Click on __Keyboards__:\\
