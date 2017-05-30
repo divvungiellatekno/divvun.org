@@ -1,0 +1,17 @@
+# Open the Menu and click on __System Settings__:\\
+  [images/mint_1_menu-no.png]
+# Click on __Keyboards__:\\
+  [images/mint_2_select_keyboard-no.png]
+# Click on the __Layouts__ tab and then on the plus sign in the lower
+  left corner:\\
+  [images/mint_3_select_layout_tab-no.png]
+# Find and select the keyboard layout you want, and click __Add__:\\
+  [images/mint_4_add_sme-no.png]
+# If you want to enable a keyboard shortcut for easy switching between the
+  keyboard layouts, click on __Options…__, expand the section
+  __Switching to another layout__ and select the wanted keyboard combo:\\
+  [images/mint_5_enable_kbd_shortcut-no.png]
+# When done, you can easily switch keyboards via the keyboard menu in the lower
+  right corner of the screen (or via the keyboard shortcut you defined in the
+  previous step):\\
+  [images/mint_6_keyboard_menu-no.png]
