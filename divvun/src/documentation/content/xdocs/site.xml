@@ -172,6 +172,12 @@
               <keyb108    label="10.6-10.8"     href="enable-keyboard-osx10.8-nob.html" />
               <keyb105    label="10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
             </mac>
+            <linux label="Linux" href="linux/">
+              <GNOME   label="Enable Keyboards In Linux Mint"   href="EnableKeyboardsInLinuxMint.html"/>
+              <GNOME   label="Enable Keyboards In Ubuntu Unity" href="EnableKeyboardsInUbuntu.html"/>
+              <GNOME   label="Enable Keyboards In GNOME"        href="EnableKeyboardsInGNOME.html"/>
+              <GNOME   label="Enable Keyboards In KDE"          href="EnableKeyboardsInKDE.html"/>
+            </linux>
           </userdocs>
         </desktop>
     </tastatur>
