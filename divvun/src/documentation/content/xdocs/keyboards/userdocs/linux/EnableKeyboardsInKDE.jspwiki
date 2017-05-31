@@ -20,15 +20,17 @@ To add additional keyboard layouts in KDE, follow these steps:
   another keyboard layout, you need to click the check mark
   __Configure layouts__, and then click the __+ Add__ button:\\
   [images/KDE_3_keyboard_prefs_layout_tab-en.png]
-# Make sure that the top drop-down menu says __All languages__, then leave the
-  second drop-down as is, and in the __Variant:__ drop-down menu select the
+# Make sure that the top drop-down menu says __Any language__, and in the
+  second drop-down select the keyboard layout of your country:\\
+  [images/KDE_3a_select_layout-en.png]
+# In the __Variant:__ drop-down menu select the
   target language layout:\\
   [images/KDE_4_select_language-en.png]
 # Edit the label (used in the KDE environment to signal which keyboard layout
   is active), and press __OK__:\\
   [images/KDE_5_confirm_language-en.png]
 # If you forgot to change the label, you can still change it in the main
-  keyboard preferences window:\\
+  keyboard settings window:\\
   [images/KDE_6_edit_label-en.png]
 # Finally, if you want to have a keyboard shortcut to easily switch between
   keyboard layouts, switch to the __Advanced__ tab, and enable the preferred
@@ -37,3 +39,4 @@ To add additional keyboard layouts in KDE, follow these steps:
 # When done, the keyboard layout label is visible in the bottom tray; the full
   name is visible when hovering over the label:\\
   [images/KDE_8_keyboard_switching-en.png]
+# Switch layout by clicking on the label or using the keyboard shortcut.
