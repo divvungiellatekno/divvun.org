@@ -21,35 +21,48 @@
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">
+            Android<br/>
             <img alt="icon" class="scaling" src="images/google_play_entry.png"/><br/>
                  <img
                     alt="Last ned fra Google Play"
-src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/><br/>
-            Android</a>
+src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
+            </a>
             <br/>
-                <a href="installation_android.html">
-                 <img alt="Spørsmålsteikn" width="50"
-                    src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Viehkie
-                </a>
         </li>
 
         <li class="col-sm-6">
             <a href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8">
+            iPhone/iPad<br/>
             <img alt="icon" class="scaling" src="images/app_store_entry.png"/><br/>
                 <img
         alt="Last ned fra App Store"
         class="soon"
-        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/><br/>
-            iPhone/iPad</a>
+        src="/images/Download_on_the_App_Store_Badge_NO_135x40.png"/>
+            </a>
             <br/>
-                <a href="installation_ios.html">
-                 <img alt="Spørsmålsteikn" width="50"
-                    src="/images/240px-Blue_question_mark.jpg"/><br/>
-                    Viehkie
-                </a>
         </li>
       </ul>
+      </section>
+
+      <section>
+        <title>Viehkie</title>
+        <ul class="col-sm-12 nobullet center">
+          <li class="col-sm-6">
+                <a href="installation_android.html">
+                 <img alt="Spørsmålsteikn" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/>
+                    Viehkie
+                </a>
+          </li>
+  
+          <li class="col-sm-6">
+                <a href="installation_ios.html">
+                 <img alt="Spørsmålsteikn" width="50"
+                    src="/images/240px-Blue_question_mark.jpg"/>
+                    Viehkie
+                </a>
+          </li>
+        </ul>
       </section>
 
       <section>
