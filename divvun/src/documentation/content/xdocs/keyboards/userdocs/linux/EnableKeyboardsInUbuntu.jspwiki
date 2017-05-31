@@ -1,1 +1,15 @@
-Ubuntu with Unity - TBW.
+To add to or replace the preselected keyboard layout in Ubuntu with the Unity
+desktop, follow these steps:
+
+# Open __Text Entry Settings…__ by clicking in the input language menu and
+  selecting it:\\
+  [images/UUnity_1_open_text_entry_settings-en.png]
+# Click the plus sign in the lower left corner of the window to add a new
+  keyboard layout:\\
+  [images/UUnity_2_text_entry_settings-en.png]
+# Select your keyboard (type the first letters of its name in the search field
+  to narrow the list), and then click __Add__:\\
+  [images/UUnity_3_add_sme-en.png]
+# Now you can easily switch keyboard layout and language using the keyboard
+  menu (or using the keyboard shortcuts):\\
+  [images/UUnity_4_input_menu_with_sme-en.png]
