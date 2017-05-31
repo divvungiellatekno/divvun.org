@@ -14,11 +14,11 @@ To add additional keyboard layouts in KDE, follow these steps:
 
 # Click on the KDE menu, then select __System Settings__:\\
   [images/KDE_1_start_sysprefs-en.png]
-# Within __System preferences__, click on __Input units__:\\
+# Within __System Settings__, click on __Input Devices__:\\
   [images/KDE_2_keyboard-en.png]
-# Select the __Keyboard__ tab, and then the __Layout__ tab. To be able to add
+# Select the __Keyboard__ tab, and then the __Layouts__ tab. To be able to add
   another keyboard layout, you need to click the check mark
-  __Configure keyboard layouts__, and then click the __+ Add__ button:\\
+  __Configure layouts__, and then click the __+ Add__ button:\\
   [images/KDE_3_keyboard_prefs_layout_tab-en.png]
 # Make sure that the top drop-down menu says __All languages__, then leave the
   second drop-down as is, and in the __Variant:__ drop-down menu select the
