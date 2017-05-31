@@ -12,7 +12,7 @@ If one only needs one keyboard layout, one can choose to add it during the initi
 
 To add additional keyboard layouts in KDE, follow these steps:
 
-# Click on the KDE menu, then select __System preferences__:\\
+# Click on the KDE menu, then select __System Settings__:\\
   [images/KDE_1_start_sysprefs-en.png]
 # Within __System preferences__, click on __Input units__:\\
   [images/KDE_2_keyboard-no.png]
