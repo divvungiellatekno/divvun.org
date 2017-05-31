@@ -1,19 +1,39 @@
 !!!Initial configuration
 
-If one only needs one keyboard layout, one can choose to add it during the initial setup of the machine.
+If one only needs one keyboard layout, one can choose to add it during the initial setup of the machine, as seen in the screen shots below:
 
-[images/KDE_initial_1_select_layout-no.png]
-
-[images/KDE_initial_2_select_language-no.png]
+# First, choose the major keyboard layout:\\
+  [images/KDE_initial_1_select_layout-no.png]\\
+   
+# Then choose one of the available variants for that layout:\\
+  [images/KDE_initial_2_select_language-no.png]
 
 !!!Adding more keyboard layouts
 
 To add additional keyboard layouts in KDE, follow these steps:
 
-[images/KDE_1_start_sysprefs-no.png]
-
-[images/KDE_2_keyboard-no.png]
-
-[images/KDE_3_keyboard_prefs_layout_tab-no.png]
-
-[images/KDE_4_adding_layout-no.png]
+# Click on the KDE menu, then select __System preferences__:\\
+  [images/KDE_1_start_sysprefs-no.png]
+# Within __System preferences__, click on __Input units__:\\
+  [images/KDE_2_keyboard-no.png]
+# Select the __Keyboard__ tab, and then the __Layout__ tab. To be able to add
+  another keyboard layout, you need to click the check mark
+  __Configure keyboard layouts__, and then click the __+ Add__ button:\\
+  [images/KDE_3_keyboard_prefs_layout_tab-no.png]
+# Make sure that the top drop-down menu says __All languages__, then leave the
+  second drop-down as is, and in the __Variant:__ drop-down menu select the
+  target language layout:\\
+  [images/KDE_4_select_language-no.png]
+# Edit the label (used in the KDE environment to signal which keyboard layout
+  is active), and press __OK__:\\
+  [images/KDE_5_confirm_language-no.png]
+# If you forgot to change the label, you can still change it in the main
+  keyboard preferences window:\\
+  [images/KDE_6_edit_label-no.png]
+# Finally, if you want to have a keyboard shortcut to easily switch between
+  keyboard layouts, switch to the __Advanced__ tab, and enable the preferred
+  keyboard shortcut:\\
+  [images/KDE_7_add_shortcut-no.png]
+# When done, the keyboard layout label is visible in the bottom tray; the full
+  name is visible when hovering over the label:\\
+  [images/KDE_8_keyboard_switching-no.png]
