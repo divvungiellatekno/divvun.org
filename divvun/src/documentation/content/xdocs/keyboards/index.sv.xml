@@ -3,26 +3,26 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Keyboards</title>
+        <title>Tangentbord</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun makes keyboards for both computers and hand-held
-           devices. Click the relevant section below to get to the download
-           links!</p>
+        <p>Divvun-gruppen gör tangentbord för både datorer och mobilsystem.
+           Klicka på det relevanta ikonet nedanför för att ladda ner
+           tangentborden!</p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Mobile phone keyboards</a>
+            Tangentbord för mobiltelefoner</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
-            Computer keyboards</a>
+            Datortangentbord</a>
         </li>
       </ul>
 

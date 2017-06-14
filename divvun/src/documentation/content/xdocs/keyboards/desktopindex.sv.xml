@@ -3,46 +3,46 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Samiska tangentbord</title>
     </header>
     <body>
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Tangentbord för Windows</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Ladda ner</th>
+            <th>Hjälp</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li class="Download">Julev Sámi keyboard:
+              <li class="Download">Lulesamiska tangentbord:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    för Norge</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    för Sverige</a></li>
                 </ul>
               </li>
-              <li class="Download">South Sámi keyboard:
+              <li class="Download">Sydsamiska tangentbord:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    för Norge</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    för Sverige</a></li>
                 </ul>
               </li>
             </ul></td>
@@ -64,11 +64,11 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>Tangentbord för macOS</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Ladda ner</th>
+            <th>Hjälp</th>
             </tr>
             <tr>
             <td>
@@ -77,13 +77,13 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards</a>
+                    Lulesamiska tangentbord</a>
               </li>
               <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards</a>
+                    Sydsamiska tangentbord</a>
               </li>
             </ul></td>
             <td>
@@ -104,16 +104,16 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Tangentbord för Linux</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides (English only)</th>
+            <th width="50%">Ladda ner</th>
+            <th>Hjälp (enbart på engelska)</th>
             </tr>
             <tr>
-            <td>Linux keyboards must be included in the core system by the
-            developers. As keyboards for various languages settle, we will
-            submit them for inclusion in the system.
+            <td>Tangentbord för Linux måste byggas in i Linux-systemet av
+            utvecklarna. Vi vill skicka in tangentborden efter hand som dom blir
+            klara, för att sen inkluderas i Linux.
             </td>
             <td>
             <ul>
