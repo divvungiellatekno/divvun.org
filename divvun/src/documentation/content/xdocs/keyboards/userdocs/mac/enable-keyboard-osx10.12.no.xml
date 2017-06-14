@@ -3,41 +3,47 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
    <header>
-      <title>Enable the Sámi keyboards in macOS 10.9-10.12</title>
+      <title>Slå på samisk tastatur i macOS 10.9-10.12</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you need to use a Sámi keyboard.
-       On this page we describe how to enable it.</p>
-       <p>If you need a keyboard layout other than North
-       sámi, then you first need to <a href="../../desktopindex.html">install
-       the desired keyboard</a>.</p>
+       <p>For å skrive raskt og effektivt på samisk bør du bruke et samisk
+       tastatur. På denne siden beskriver vi hvordan du slår på de samiske
+       tastaturene som er installert.</p>
 
-       <p>1. Open <strong>Systemvalg…</strong></p>
+       <p>Dersom du behøver et annet tastatur enn det nordsamiske, må du først
+       <a href="../../desktopindex.html">installere tastaturet du behøver</a>.</p>
+
+       <p>1. Åpne <strong>Systemvalg…</strong></p>
 
        <p><img alt="Åpne &quot;Systemvalg…&quot;"
        src="images/systempref_menu-osx10.12-nob.png" /></p>
 
-       <p>2. Click <strong>Keyboard</strong> or type a relevant search term
-       in the search field:</p>
+       <p>2. Klikk <strong>Tastatur</strong> eller skriv inn et passende søkeord
+       i søkefeltet:</p>
 
        <p><img alt="Systemvalg…"
        src="images/systempref-osx10.12-nob.png" /></p>
 
-       <p>3. Click on the <strong>Input Methond</strong> tab and click on the
-       plus sign in the lower left corner:</p>
+       <p>3. Klikk på fliken <strong>Inndatametoder</strong> og klikk på
+       plusstegnet i nedre, venstre hjørne:</p>
 
        <p><img alt="Legge til samisk tastatur"
        src="images/systempref_input_method-osx10.12-nob.png" /></p>
 
-       <p>4. Select the Sámi keyboard you want, and click <strong>add</strong>:</p>
+       <p>4. Velg det samiske tastaturet du ønsker, og klikk <strong>Legg
+       til</strong>:</p>
 
        <p><img alt="Legge til samisk tastatur"
        src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
 
-       <p>5. Finally choose the Sámi keyboard in the keyboard menu to the right
-       in the menu list when writing Sámi:</p>
+       <p>5. Nå kan du velge det samiske tastaturet i tastaturmenyen, og
+       skrive samisk raskt og effektivt:</p>
 
        <p><img alt="Velg samisk tastatur for skriving"
        src="images/keyboard_menu-osx10.12-nob.png" /></p>
+
+       <p>6. For å bytte raskt mellom ulike tastatur kan du bruke
+       tastekombinasjonen <strong>Cmd-mellomrom (⌘-␣ )</strong>.</p>
+
    </body>
 </document>
