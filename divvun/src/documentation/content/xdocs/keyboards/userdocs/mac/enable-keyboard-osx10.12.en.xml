@@ -23,7 +23,7 @@
        <p><img alt="Systemvalg…"
        src="images/systempref-osx10.12-nob.png" /></p>
 
-       <p>3. Click on the <strong>Input Methond</strong> tab and click on the
+       <p>3. Click on the <strong>Input Method</strong> tab and click on the
        plus sign in the lower left corner:</p>
 
        <p><img alt="Legge til samisk tastatur"
@@ -39,5 +39,9 @@
 
        <p><img alt="Velg samisk tastatur for skriving"
        src="images/keyboard_menu-osx10.12-nob.png" /></p>
+
+       <p>6. To switch quickly between keyboard layouts you can use the keyboard
+       shortcut <strong>Cmd-space (⌘-␣ )</strong>.</p>
+
    </body>
 </document>
