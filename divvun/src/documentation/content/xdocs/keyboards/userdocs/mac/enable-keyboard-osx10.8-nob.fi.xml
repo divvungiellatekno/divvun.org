@@ -3,11 +3,11 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
    <header>
-      <title>Saamenkielisen näppäimistön kytkeminen päälle MacOSX 10.8:ssa</title>
+      <title>Saamenkielisen näppäimistön kytkeminen päälle MacOSX 10.6-10.8:ssa</title>
    </header>
    <body>
       <section>
-         <title>MacOS X 10.8 -asetukset kirjoitettaessa saameksi</title>
+         <title>MacOS X 10.6-10.8 -asetukset kirjoitettaessa saameksi</title>
 
          <p>Ota käyttöön saamenkieliset näppäimistöasetukset, jotta voit
          kirjoittaa saameksi.</p>
