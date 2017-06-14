@@ -3,46 +3,46 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Samiske datamaskintastatur</title>
     </header>
     <body>
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Tastatur for Windows</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Nedlasting</th>
+            <th>Hjelp</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li class="Download">Julev Sámi keyboard:
+              <li class="Download">Lulesamiske tastatur:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    for Norge</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    for Sverige</a></li>
                 </ul>
               </li>
-              <li class="Download">South Sámi keyboard:
+              <li class="Download">Sørsamiske tastatur:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    for Norge</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    for Sverige</a></li>
                 </ul>
               </li>
             </ul></td>
@@ -64,11 +64,11 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>Tastatur for macOS</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Nedlasting</th>
+            <th>Hjelp</th>
             </tr>
             <tr>
             <td>
@@ -77,13 +77,13 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards</a>
+                    Lulesamiske tastatur</a>
               </li>
               <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards</a>
+                    Sørsamiske tastatur</a>
               </li>
             </ul></td>
             <td>
@@ -104,16 +104,16 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Tastatur for Linux</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides (English only)</th>
+            <th width="50%">Nedlasting</th>
+            <th>Hjelp (bare på engelsk)</th>
             </tr>
             <tr>
-            <td>Linux keyboards must be included in the core system by the
-            developers. As keyboards for various languages settle, we will
-            submit them for inclusion in the system.
+            <td>Linux-tastatur må bygges inn i Linux-systemet av utviklerne.
+            Etter hvert som tastaturene blir ferdige vil vi sende dem inn slik
+            at de blir inkludert i fremtidige versjoner av Linux.
             </td>
             <td>
             <ul>
