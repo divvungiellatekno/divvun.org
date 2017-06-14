@@ -3,22 +3,19 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
    <header>
-      <title>Installation och användning av Divvun på MacOS X</title>
+     <title>Inställningar i MacOS X för att kunna skriva på samiska</title>
    </header>
    <body>
-      <section>
-         <title>Inställningar i MacOS X för att kunna skriva på samiska</title>
-         <p>För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning.</p>
-         <p>1. Öppna <strong>Systeminställningar</strong></p>
-         <p><img alt="Öppna Systeminställningar" src="images/keyboard-open-systemprefs-osx10.5-swe.png" /></p>
-         <p>2. Klicka på <strong>Internationellt</strong> eller skriv ett närliggande sökord i sökfältet:</p>
-         <p><img alt="Systeminställningar" src="images/keyboard-selectintl-osx10.5-swe.png" /></p>
-         <p>3. Klicka på fliken <strong>Indatameny</strong> och kryssa för <strong>Nordsamisk:</strong></p>
-         <p><img alt="Lägga till samiskt tangentbord"
-         src="images/keyboard-select_se_keyboard-osx10.5-swe.png" /></p>
-         <p>4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du vill skriva på samiska:</p>
-         <p><img alt="Välj samiskt tangentbord för inskrivning"
-         src="images/keyboard-keyboard_menu-osx10.5-swe.png" /></p>
-      </section>
+     <p>För att kunna skriva på samiska måste du använda en samisk tangentbordsuppsättning.</p>
+     <p>1. Öppna <strong>Systeminställningar</strong></p>
+     <p><img alt="Öppna Systeminställningar" src="images/keyboard-open-systemprefs-osx10.5-swe.png" /></p>
+     <p>2. Klicka på <strong>Internationellt</strong> eller skriv ett närliggande sökord i sökfältet:</p>
+     <p><img alt="Systeminställningar" src="images/keyboard-selectintl-osx10.5-swe.png" /></p>
+     <p>3. Klicka på fliken <strong>Indatameny</strong> och kryssa för <strong>Nordsamisk:</strong></p>
+     <p><img alt="Lägga till samiskt tangentbord"
+     src="images/keyboard-select_se_keyboard-osx10.5-swe.png" /></p>
+     <p>4. Välj sedan samisk tangentbordsuppsättning i menyn till höger när du vill skriva på samiska:</p>
+     <p><img alt="Välj samiskt tangentbord för inskrivning"
+     src="images/keyboard-keyboard_menu-osx10.5-swe.png" /></p>
    </body>
 </document>
