@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="se">
     <header>
-        <title>Keyboards</title>
+        <title>Boallobeavddit</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun makes keyboards for both computers and hand-held
-           devices. Click the relevant section below to get to the download
-           links!</p>
+        <p>
+            Divvun lea ráhkadan boallabevddiid sihke dihtoriidda ja
+            mátketelefovnnaide.</p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Mobile phone keyboards</a>
+            Boallobeavddit mátketelefovnnaide</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
-            Computer keyboards</a>
+            Boallobeavddit dihtoriidda</a>
         </li>
       </ul>
 

@@ -3,46 +3,46 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Sámi boallobeavddit</title>
     </header>
     <body>
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Windows-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Viežžanliŋkkat</th>
+            <th>Bagadusat</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li class="Download">Julev Sámi keyboard:
+              <li class="Download">Julevsámi boallobeavddit:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    norggalaš</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    ruoŧŧilaš</a></li>
                 </ul>
               </li>
-              <li class="Download">South Sámi keyboard:
+              <li class="Download">Lullisámi boallobeavddit:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    norggalaš</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    ruoŧŧilaš</a></li>
                 </ul>
               </li>
             </ul></td>
@@ -64,11 +64,11 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>macOS-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides</th>
+            <th width="50%">Viežžanliŋkkat</th>
+            <th>Bagadusat</th>
             </tr>
             <tr>
             <td>
@@ -77,13 +77,13 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards</a>
+                    Julevsámi boallobeavddit</a>
               </li>
               <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards</a>
+                    Lullisámi boallobeavddit</a>
               </li>
             </ul></td>
             <td>
@@ -104,16 +104,17 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Linux-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Downloads</th>
-            <th>User Guides (English only)</th>
+            <th width="50%">Viežžanliŋkkat</th>
+            <th>Bagadusat (dušše eŋgelasgillii)</th>
             </tr>
             <tr>
-            <td>Linux keyboards must be included in the core system by the
-            developers. As keyboards for various languages settle, we will
-            submit them for inclusion in the system.
+            <td>Ovdánahttit fertejit lasihit boallobeavddiid
+                Linux-vuogádahkii. Dađistaga go iešguđet gielaid boallobeavddit
+                gárvánit, mii sáddet daid sisa nu ahte dat šaddet oassin
+                vuogádagas boahtteáiggis.
             </td>
             <td>
             <ul>
