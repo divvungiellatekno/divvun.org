@@ -8,7 +8,7 @@
     <body>
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Båaloebuertie Windows:asse</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
@@ -64,7 +64,7 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>Båaloebuertie macOS:asse</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
@@ -77,13 +77,13 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards</a>
+                    Julevsaemien båaloebuertie</a>
               </li>
               <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards</a>
+                    Åarjelsaemien båaloebuertie</a>
               </li>
             </ul></td>
             <td>
@@ -104,7 +104,7 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Båaloebuertie Linux:asse</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
