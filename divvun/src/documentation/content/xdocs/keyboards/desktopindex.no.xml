@@ -11,7 +11,7 @@
             <title>Tastatur for Windows</title>
             <table>
             <tr>
-            <th width="50%">Nedlasting</th>
+            <th class="halfwidth">Nedlasting</th>
             <th>Hjelp</th>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
             <title>Tastatur for macOS</title>
             <table>
             <tr>
-            <th width="50%">Nedlasting</th>
+            <th class="halfwidth">Nedlasting</th>
             <th>Hjelp</th>
             </tr>
             <tr>
@@ -107,7 +107,7 @@
             <title>Tastatur for Linux</title>
             <table>
             <tr>
-            <th width="50%">Nedlasting</th>
+            <th class="halfwidth">Nedlasting</th>
             <th>Hjelp (bare på engelsk)</th>
             </tr>
             <tr>

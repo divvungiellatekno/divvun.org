@@ -11,7 +11,7 @@
             <title>Tangentbord för Windows</title>
             <table>
             <tr>
-            <th width="50%">Ladda ner</th>
+            <th class="halfwidth">Ladda ner</th>
             <th>Hjälp</th>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
             <title>Tangentbord för macOS</title>
             <table>
             <tr>
-            <th width="50%">Ladda ner</th>
+            <th class="halfwidth">Ladda ner</th>
             <th>Hjälp</th>
             </tr>
             <tr>
@@ -107,7 +107,7 @@
             <title>Tangentbord för Linux</title>
             <table>
             <tr>
-            <th width="50%">Ladda ner</th>
+            <th class="halfwidth">Ladda ner</th>
             <th>Hjälp (enbart på engelska)</th>
             </tr>
             <tr>

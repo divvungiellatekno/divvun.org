@@ -11,7 +11,7 @@
             <title>Windows-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Viežžanliŋkkat</th>
+            <th class="halfwidth">Viežžanliŋkkat</th>
             <th>Bagadusat</th>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
             <title>macOS-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Viežžanliŋkkat</th>
+            <th class="halfwidth">Viežžanliŋkkat</th>
             <th>Bagadusat</th>
             </tr>
             <tr>
@@ -107,7 +107,7 @@
             <title>Linux-boallobeavddit</title>
             <table>
             <tr>
-            <th width="50%">Viežžanliŋkkat</th>
+            <th class="halfwidth">Viežžanliŋkkat</th>
             <th>Bagadusat (dušše eŋgelasgillii)</th>
             </tr>
             <tr>

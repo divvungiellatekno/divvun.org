@@ -149,6 +149,10 @@ img.scaling {
     width: 20vw;
 }
 
+th.halfwidth {
+    width: 50%;
+}
+
 ul.center {
     text-align: center;
 }
