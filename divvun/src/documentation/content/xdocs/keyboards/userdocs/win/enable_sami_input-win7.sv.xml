@@ -2,40 +2,53 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
     <header>
-        <title>Sørsamisk som innspråk i Windows 7</title>
+        <title>Sydsamiska som inmatningsspråk i Windows 7</title>
     </header>
     <body>
         <section>
-            <title>Innstillinger i Windows 7 for å kunne skrive på sørsamisk</title>
+            <title>Inställningar i Windows 7 för att kunna skriva på sydsamiska</title>
 
-            <p>Vi viser hvordan man setter opp sørsamisk som inndataspråk. Når man velger sørsamisk som inndataspråk, vil stavekontrollen automatisk gjøres på sørsamisk når man har installert Divvun-verktøyene.</p>
+            <p>Vi visar hur man lägger till sydsamiska som inmatningsspråk. När
+            man väljer sydsamiska som inmatningsspråk, vill rättstavningen
+            automatiskt anavända sydsamiska om Divvun-verktygen är installerade.</p>
 
             <ol>
-                <li>Gå til <strong>Start</strong>, velg <strong>Kontrollpanelen</strong>
+                <li>Gå till <strong>Start</strong>, välj <strong>Kontrollpanelen</strong>
                     <p><img src="images/win7_start_sv.png" alt="Startmeny" /></p>
                 </li>
 
-                <li>Velg <strong>Endre tastatur- eller andre inndatametoder</strong> kontrollpanel.
+                <li>Välj kontrollpanelen <strong>Byt tangentbord eller andra indatametoder</strong>.
                     <p><img src="images/win7_kontrollpanel_sv.png" alt="Kontrollpanel"/></p>
                 </li>
 
-                <li>Dialogen Region og språk dukker opp. Velg <strong>Endre tastaturer...</strong>.
+                <li>Dialogrutan <strong>Nationella inställningar och
+                språkinställningar</strong> dyker upp. Välj <strong>Byt
+                tangentbord…</strong>.
                     <p><img src="images/win7_region_og_sprak_sv.png" alt="Region og språk" /></p>
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> dukker opp. Velg <strong>Legg til...</strong>.
-                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sv.png" alt="Teksttjenester og inndataspråk"/></p>
+                <li>Dialogrutan <strong>Texttjänster och inmatningsspråk</strong>
+                dyker upp. Välj <strong>Lägg till…</strong>.
+                <p><img src="images/win7_teksttjenester_og_inndatasprak_sv.png"
+                alt="Teksttjenester og inndataspråk"/></p>
                 </li>
 
-                <li>Dialogen <strong>Legg til inndataspråk</strong> dukker opp. Gå til Sørsamisk (Norge). Velg <strong>Norsk med samisk</strong>.
-                    <p><img src="images/win7_legg_til_inndatasprak_sma_sv.png" alt="Legg til inndataspråk"/>. Trykk deretter <strong>OK</strong>.</p>
+                <li>Dialogrutan <strong>Lägg till inmatningsspråk</strong> dyker
+                upp. Gå till Sydsamiska (Sverige). Välj <strong>Svensk med
+                samiska språk</strong> eller ett annat passande tangentbord.
+                <p><img src="images/win7_legg_til_inndatasprak_sma_sv.png"
+                alt="Legg til inndataspråk"/></p>
+                Tryck sen <strong>OK</strong>.
                 </li>
 
-                <li>Dialogen <strong>Teksttjenester og inndataspråk</strong> viser nå <strong>Sørsamisk (Norge)</strong> i tillegg til norsk.
-                    <p><img src="images/win7_teksttjenester_og_inndatasprak_sma_sv.png" alt="Teksttjenester og inndataspråk etter å ha valgt sørsamisk"/>.</p>
+                <li>Dialogrutan <strong>Texttjänster och inmatningsspråk</strong>
+                visar nu <strong>Sydsamiska (Sverige)</strong> bredvid
+                <strong>Svenska (Sverige)</strong>.
+                <p><img src="images/win7_teksttjenester_og_inndatasprak_sma_sv.png"
+                alt="Teksttjenester og inndataspråk etter å ha valgt sørsamisk"/>.</p>
                 </li>
 
-                <li>Trykk deretter på <strong>OK</strong>-knappen i alle dialogene.</li>
+                <li>Tryck sen på <strong>OK</strong>-knappen i alla dialogrutor.</li>
             </ol>
         </section>
     </body>
