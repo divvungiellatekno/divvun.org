@@ -16,19 +16,19 @@
                 <li>Mana <strong>Start</strong>:ii, čális <strong>kontrollpanel</strong>, raba <strong>Kontrollpanel</strong>
                     <p><img src="images/win8_start_no.png" alt="Start" /></p>
                 </li>
-                <li>Mana <strong>Klokke, språk, område</strong>:ii. Válljes <strong>Legg til et språk</strong>.
+                <li>Mana <strong>Klokke, språk og område</strong>:ii. Válljes <strong>Legg til et språk</strong>.
                     <p><img src="images/win8_kontrollpanel_no.png" alt="Kontrollpanel"/></p>
                 </li>
                 <li>Deaddil <strong>Legg til et språk</strong>.
                     <p><img src="images/win8_sprak_no.png" alt="Språk" /></p>
                 </li>
-                <li>Válljes <strong>Nordsamisk</strong>. Deaddil <strong>Åpne</strong>
+                <li>Válljes <strong>Davvisámegiella</strong>. Deaddil <strong>Åpne</strong>
                     <p><img src="images/win8_legg_til_sprak_sme_no.png" alt="Legg til språk"/></p>
                 </li>
-                <li>Válljes <strong>Nordsamisk</strong>. Deaddil <strong>Legg till</strong>.
+                <li>Válljes <strong>Davvisámegiella</strong>. Deaddil <strong>Legg till</strong>.
                     <p><img src="images/win8_regionale_varianter_sme_no.png" alt="Regionale varianter"/></p>
                 </li>
-                <li><em>Tasturoppsett:+Norsk+med+samisk</em> olgešbealde: Deaddil <strong>Alternativer</strong>
+                <li><strong>Tasturoppsett: Norsk med samisk</strong> olgešbealde: Deaddil <strong>Alternativer</strong>
                     <p><img src="images/win8_sprak_sme_alternativer_no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
                 </li>
                 <li>Válljes <strong>Legg til en inndatametode</strong>
@@ -41,7 +41,7 @@
                         <img src="images/win8_inndatametode_sme_no.png" alt="Inndatametode"/>
                     </p>
                 </li>
-                <li><em>Norsk med samisk</em> olgešbealde: Deaddil <strong>Fjern</strong>
+                <li><strong>Norsk med samisk</strong> olgešbealde: Deaddil <strong>Fjern</strong>
                     <p>
                         <img src="images/win8_sprak_fjern_norsk_med_samisk_sme_no.png" alt="Språkalternativer: Fjern norsk med samisk"/>
                     </p>
