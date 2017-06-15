@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document>
+<document xml:lang="sma">
    <header>
       <title>Enable the Sámi keyboards in macOS 10.9-10.12</title>
    </header>
@@ -38,7 +38,7 @@
        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
        <p>6. JIs edtjh sneehpeslaakan båaloebuertieh målsodh, dle maahtah daejtie nuhtjedh
-       <strong>Cmd-mellomrom (⌘-␣ )</strong>.</p>
+       <strong>Cmd-gaskoe (⌘-␣ )</strong>.</p>
 
    </body>
 </document>
