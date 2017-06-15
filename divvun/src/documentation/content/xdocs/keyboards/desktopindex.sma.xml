@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Saemien båaloebuertieh</title>
     </header>
     <body>
 
@@ -11,24 +11,24 @@
             <title>Båaloebuertie Windows:asse</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>User Guides</th>
+            <th class="halfwidth">Veedtjelh daestie</th>
+            <th>boejhkehts</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li class="Download">Julev Sámi keyboard:
+              <li class="Download">Julevsaemien båaloebuertie:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    Nöörjese</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    Sveerjese</a></li>
                 </ul>
               </li>
               <li class="Download">South Sámi keyboard:
@@ -37,12 +37,12 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    Nöörjese</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    Sveerjese</a></li>
                 </ul>
               </li>
             </ul></td>
@@ -67,8 +67,8 @@
             <title>Båaloebuertie macOS:asse</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>User Guides</th>
+            <th class="halfwidth">Veedtjelh daestie</th>
+            <th>boejhkehts</th>
             </tr>
             <tr>
             <td>
@@ -108,7 +108,7 @@
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
-            <th>User Guides (English only)</th>
+            <th>Boejhkehts(Barre Englaaantegïelesne)</th>
             </tr>
             <tr>
             <td>Linux keyboards must be included in the core system by the
