@@ -3,45 +3,45 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
    <header>
-      <title>Enable the Sámi keyboards in macOS 10.9-10.12</title>
+      <title>Bidjat sámi boallobeavddi johtui macOS 10.9-10.12:s</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you need to use a Sámi keyboard.
-       On this page we describe how to enable it.</p>
-       <p>If you need a keyboard layout other than North
-       sámi, then you first need to <a href="../../desktopindex.html">install
-       the desired keyboard</a>.</p>
+       <p>Jus áiggut čállit sámegiela de dárbbašat sámi
+           boallobeavdeheivehusa.</p>
+       <p>Jus dárbbašat eará boallobeavddi go davvisámi boallobeavddi
+           de fertet vuos <a href="../../desktopindex.html">sajáiduhttit
+           boallobeavddi maid dárbbašat</a>.</p>
 
-       <p>1. Open <strong>Systemvalg…</strong></p>
+       <p>1. Raba <strong>Systemvalg…</strong></p>
 
-       <p><img alt="Åpne &quot;Systemvalg…&quot;"
+       <p><img alt="Raba &quot;Systemvalg…&quot;"
        src="images/systempref_menu-osx10.12-nob.png" /></p>
 
-       <p>2. Click <strong>Keyboard</strong> or type a relevant search term
-       in the search field:</p>
+       <p>2. Coahkkal <strong>Tastatur</strong></p>
 
        <p><img alt="Systemvalg…"
        src="images/systempref-osx10.12-nob.png" /></p>
 
-       <p>3. Click on the <strong>Input Methond</strong> tab and click on the
-       plus sign in the lower left corner:</p>
+       <p>3. Coahkkal gilkora <strong>Inndatametorder</strong> ja coahkkal
+           plussmearkka vuollin gurut čiegas:</p>
 
-       <p><img alt="Legge til samisk tastatur"
+       <p><img alt="Lasihit sámi boallobeavddi"
        src="images/systempref_input_method-osx10.12-nob.png" /></p>
 
-       <p>4. Select the Sámi keyboard you want, and click <strong>add</strong>:</p>
+       <p>4. Vállje dan sámi boallobeavddi maid háliidat ja coahkkal
+           <strong>Legg til</strong>:</p>
 
-       <p><img alt="Legge til samisk tastatur"
+       <p><img alt="Lasihit sámi boallobeavddi"
        src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
 
-       <p>5. Finally choose the Sámi keyboard in the keyboard menu to the right
-       in the menu list when writing Sámi:</p>
+       <p>5. Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit
+           sámegiela:</p>
 
-       <p><img alt="Velg samisk tastatur for skriving"
+       <p><img alt="Vállje sámi boallobeavddi čállimii"
        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p>6. For å bytte raskt mellom ulike tastatur kan du bruke
-       tastekombinasjonen <strong>Cmd-mellomrom (⌘-␣ )</strong>.</p>
+       <p>6. Jođáneamus vuogi molsut boallobevddiid gaskkas
+           lea deaddilit <strong>Cmd-gaska (⌘-␣ )</strong>.</p>
 
    </body>
 </document>
