@@ -3,46 +3,46 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Saamen näppäimistö</title>
     </header>
     <body>
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Näppäimistö Windowsille</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>User Guides</th>
+            <th class="halfwidth">Lataukset</th>
+            <th>Käyttö ohjeet</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li class="Download">Julev Sámi keyboard:
+              <li class="Download">Luulajansaamen näppäimistö:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    Norjalle</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    Ruotsille</a></li>
                 </ul>
               </li>
-              <li class="Download">South Sámi keyboard:
+              <li class="Download">Eteläsaamen näppäimistö:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Norway</a></li>
+                    Norjalle</a></li>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    for Sweden</a></li>
+                    Ruotsille</a></li>
                 </ul>
               </li>
             </ul></td>
@@ -64,11 +64,11 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>macOS näppäimistö</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>User Guides</th>
+            <th class="halfwidth">Lataukset</th>
+            <th>Käyttö ohjeet</th>
             </tr>
             <tr>
             <td>
@@ -77,13 +77,13 @@
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards</a>
+                    Luulajansaamen näppäimistöt</a>
               </li>
               <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards</a>
+                    Eteläsaamen näppäimistöt</a>
               </li>
             </ul></td>
             <td>
@@ -104,25 +104,25 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Linux näppäimistöt</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>User Guides (English only)</th>
+            <th class="halfwidth">Lataukset</th>
+            <th>Käyttö ohjeet (Englanti vain)</th>
             </tr>
             <tr>
-            <td>Linux keyboards must be included in the core system by the
-            developers. As keyboards for various languages settle, we will
-            submit them for inclusion in the system.
+            Linux näppäimistöt pitää sisällytttää ydin järjestelmään
+            kehittäjien kautta. Kuten näppäimistöt monille kielille asettuvat,
+            me tulemme antautumaan ne järjestelmän sisllyttämiseen.
             </td>
             <td>
             <ul>
               <li><a href="userdocs/linux/EnableKeyboardsInLinuxMint.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-              Linux Mint / Cinnamon</a></li>
+              Linux Minttu / Kaneli</a></li>
               <li><a href="userdocs/linux/EnableKeyboardsInUbuntu.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-              Ubuntu / Unity</a></li>
+              Ubuntu / Yhtenäisyys</a></li>
               <li><a href="userdocs/linux/EnableKeyboardsInGNOME.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               GNOME</a></li>

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
     <header>
-        <title>Installering på iOS (iPhone / iPad / iPod)</title>
+        <title>iOS asennus (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>Etter å ha lastet ned appen fra App Store, kan det se omtrent slik ut:
+        <p>Latauksen jälkeen ohjelmisto App Storesta, kotiruutusi voi näyttää tältä:
         </p>
 
         <p>
             <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Hjemmeskjerm med Samiske tastaturer"/>
         </p>
-        <p>Åpne appen:</p>
+        <p>Avaa ohjelmisto:</p>
         <p>
             <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="App-skjermbilde"/>
         </p>
-        <p>Klikk på lenka «Åpne Innstillinger»</p>
+        <p>Paina linkkiä «Avaa Asetukset»</p>
         <p>Gå til
 <strong>
-«Generelt &gt; Tastatur &gt; Tastaturer &gt; Legg til nytt tastatur..»
+Yleinen &gt; Näppäimistö &gt; Näppäimistöt &gt; Lisää uusi näppäimistö..»
 </strong>
         </p>
 
@@ -28,32 +28,32 @@
             <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Velg Legg til nytt tastatur..."/>
         </p>
 
-        <p>Under teksten «Tredjepartstastaturer» velg «Samiske tastaturer»:</p>
+        <p>Tekstin alla «Kolmannen osapuolen näppäimistöt» valitse «Saamelaiset näppäimistöt»:</p>
 
         <p>
             <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Velg Samiske tastaturer"/>
         </p>
-        <p>Slå på de tastaturene du er interessert i å bruke:</p>
+        <p>Mahdollista näppäimistöt joita haluat käyttää:</p>
         <p>
             <img width="213" src="images/ios_enable_keyboards.no.png" alt="Slå på ønskede tastaturer"/>
         </p>
-        <p>Installasjonen er ferdig!</p>
+        <p>Asennus on valmis!</p>
 
-        <p>For å bytte til et samisk tastatur når du skriver, trykk og hold på globustasten til
-            venstre for mellomromstasten:</p>
+        <p>Vaihtaaksesi Saamen näppäimistöön, kosketa ja pidä maapallonäppäintä
+          vasemmalle välinäppäimestä:</p>
         <p>
             <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Meny med tilgjengelige tastaturer"/>
         </p>
 
-        <p>Alternativt kan du bare trykke noen ganger på globustasten til du får
-        det tastaturet du vil ha.</p>
+        <p>Voit myös vain koskettaa maapallonäppäintä toistetusti kunnes saat
+          sen näppäimistön jonka haluat.</p>
 
-        <p>Merk at trykk-og-hold ikke fungerer når ett av de samiske tastaturene
-        er aktive. Dette er en <link
+        <p>Huomaa että kosketa-ja-paina ei toimi kun yksi Saamen näppäimistöistä
+          on toiminnassa. Tämä on <link
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begrensing fra Apple</link> («there is no API to obtain a list of
-        enabled keyboards or for picking a particular keyboard to switch to»),
-        og gjelder alle tredjepartstastaturer.</p>
+        >rajaus Applelta</link> («Ei ole APIa jolla saadaan lista valituista
+        näppäimistöistä tai poimia tietty näppäimistö johon vaihtaa»),
+        ja koskee kaikkia kolmannen osapuolen näppäimistöjä.</p>
 
     </body>
 </document>

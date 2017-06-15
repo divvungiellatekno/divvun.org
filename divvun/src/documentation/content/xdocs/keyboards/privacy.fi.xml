@@ -3,9 +3,9 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Divvun - tastatur</title>
+        <title>Divvun - näppäimistö</title>
     </header>
     <body>
-        <p>Divvuns keyboards do not harvest text written with them.</p>
+        <p>Divvunin näppäimistöt eivät kerää satoa tekstistä joka on kirjoitettu niillä.</p>
     </body>
 </document>

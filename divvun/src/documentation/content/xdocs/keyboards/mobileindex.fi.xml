@@ -3,23 +3,22 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Keyboards for mobile phones</title>
+        <title>Näppäimistöt matkapuhelimille</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
-            containing mobile phone and tablet keyboards for North, Julev, South,
-            Pite, Inari and Skolt Sami. The app is available
-            for <a
+        <p>Divvun on tehnyt ohjelman «Samiske tastaturer» (Saamen näppäimistöt)
+          sisältäen matkapuhelin- ja tablettinäppäimistöt pohjois-, luulajan-,
+          etelä-, inari- ja koltansaamelle. Tämä ohjelmisto on saatavilla <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
-                >Android</a> and <a
+                >Androidille</a> ja <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOS (iPhone and iPad)</a>.</p>
+                >iOSlle (iPhone and iPad)</a>.</p>
 
       <section>
-        <title>Download</title>
+        <title>Lataa</title>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
@@ -46,28 +45,28 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Help</title>
+        <title>Apu</title>
         <ul class="col-sm-12 nobullet center">
           <li class="col-sm-6">
                 <a href="installation_android.html">
                  <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/>
-                    Installation guide
+                    Asennusohje
                 </a>
           </li>
-  
+
           <li class="col-sm-6">
                 <a href="installation_ios.html">
                  <img alt="Question mark icon" width="50"
                     src="/images/240px-Blue_question_mark.jpg"/>
-                    Installation guide
+                    Asennusohje
                 </a>
           </li>
         </ul>
       </section>
 
       <section>
-        <title>Screen shots</title>
+        <title>Ruutukaappaukset</title>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
@@ -85,9 +84,9 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Privacy</title>
-        <p>See our <a href="privacy.html">privacy statement</a>
-        regarding the keyboard apps.</p>
+        <title>Yksityisyys</title>
+        <p>Näe meidän <a href="privacy.html">yksityisyys lausunto</a>
+        joka koskee näppäimistö ohjelmistoa.</p>
       </section>
 
    </body>

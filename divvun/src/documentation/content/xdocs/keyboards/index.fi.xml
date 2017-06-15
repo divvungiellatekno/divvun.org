@@ -9,20 +9,19 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun makes keyboards for both computers and hand-held
-           devices. Click the relevant section below to get to the download
-           links!</p>
+        <p>Divvun tekee näppäimistöt molemmille tietokoneille ja käsinpideltäville
+       laitteille. Klikkaa asiaankuuluvaa osaa alhaalla ladataksesi linkit!</p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Mobile phone keyboards</a>
+            Matkapuhelinnäppäimistöt</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
-            Computer keyboards</a>
+            Tietokonenäppäimistöt</a>
         </li>
       </ul>
 

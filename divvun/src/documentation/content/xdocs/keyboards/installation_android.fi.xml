@@ -1,56 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document>
     <header>
-        <title>Installering på Android</title>
+        <title>Asennus Androidiis</title>
     </header>
     <body>
-        <p>Etter at du har hentet programmet i Google Play, kan det se slik ut:</p>
+        <p>Latauksen jälkeen ohjelmisto Google Playstä, puhelimesi saattaa näyttää tältä:</p>
         <p>
             <img width="240" src="images/android_app_downloaded.no.png"
         alt="Hjemmeskjerm med installert tastaturapp"/>
         </p>
-        <p>Start appen:</p>
+        <p>Aloita ohjelmisto:</p>
         <p>
             <img width="240" src="images/android_app_start.no.png"
         alt="App-velkomstskjerm"/>
         </p>
-        <p>Gå videre til konfigureringa:</p>
+        <p>Jatka kokoonpanoon:</p>
         <p>
             <img width="240" src="images/android_app_steg1.no.png"
         alt="Første konfigureringssteg i appen"/>
         </p>
-        <p>Trykk på lenka som tar deg til innstillingspanelet for å slå på de samiske
-        tastaturene:</p>
+        <p>Kosketa linkkiä joka vie sinut asetusruutuun ottaaksesi Saamen
+          näppäimistöt käyttöön:</p>
         <p>
             <img width="240" src="images/android_config_steg1.no.png"
         alt="Android-konfigurering, første steg"/>
         </p>
-        <p>Når du slår dem på, får du en advarsel. Divvun registrerer ikke noe
-        av det du skriver, så du kan trygt trykke ok:</p>
+        <p>Kun kytket näppäimistöt päälle, saat varoituksen antaaksessasi käytön
+          kaikelle mitä kirjoitat. Divvun ei kerää mitään, se on turvallista painaa
+          ok:</p>
         <p>
             <img width="240" src="images/android_config_steg1_warning.no.png"
             alt="Advarsel om å gi full tilgang til utvikleren til alt du skriver"/>
         </p>
-        <p>Etter at du har aktivert Samiske tastaturer, må du bytte til det -
-            trykk på «Bytt inndatametode»:</p>
+        <p>Kun olet aktivoinut Saamen näppäimistöt, sinun tulee kytkeä niihin - paina
+          «Vaihda syöttö menetelmä»:</p>
         <p>
             <img width="240" src="images/android_app_steg2.no.png"
         alt="Andre konfigureringssteg i appen"/>
             <img width="240" src="images/android_config_steg2.no.png"
         alt="Android-konfigurering, andre steg"/>
         </p>
-        <p>Det kan se ut som om du er ferdig, men for å aktivere de samiske
-        tastaturene i appen må du klikke på «Konfigurer flere språk»:</p>
+        <p>Voin näyttää siltä että olet valmis, mutta oikeasti aktivoidaksesi
+          Saamen näppäimistön sinun tulee painaa «Määritä enemmän kieliä»:</p>
         <p>
             <img width="240" src="images/android_app_steg3.no.png"
         alt="Tredje konfigureringssteg i appen"/>
         </p>
-        <p>Fjern det øverste krysset i lista («Bruk systemspråk»):</p>
+        <p>Poista ylin rastiruutu («Käytä järjestelmäkieltä»):</p>
         <p>
             <img width="240" src="images/android_config_steg3a.no.png"
         alt="Android-konfigurering, tredje steg"/>
         </p>
-        <p>Deretter kan du krysse av de språkene du vil bruke:</p>
+        <p>Nyt voit valita näppäimistöt kielille joita haluat käyttää:</p>
         <p>
             <img width="240" src="images/android_config_steg3b.no.png"
         alt="Android-konfigurering, fjerde steg"/>
@@ -60,20 +61,20 @@
             <img width="240" src="images/android_app_steg3.no.png"
         alt="Tredje konfigureringssteg i appen - ferdig"/>
         </p>
-        <p>Du bytter tastatur når du skriver ved å trykke og holde på
-        globustasten til venstre for mellomromstasten:</p>
+        <p>Vaihtaaksesi näppäimistöä kun kirjoitat, paina ja pidä maapallo näppäintä
+          välinäppäimen vasemmalle puolelle:</p>
         <p>
             <img width="240" src="images/android_writing.no.png"
         alt="Skriv med samisk tastatur"/>
             <img width="240" src="images/android_switching_keyboards.no.png"
         alt="Bytt til et annet tastatur"/>
         </p>
-        <p>Du kan også bla mellom de ulike tastaturene ved å bare trykke på
-        globustasten.</p>
-        <p>Dersom du har byttet til et fabrikktastatur, kommer du tilbake til de
-        samiske tastaturene ved å dra med én finger fra toppen av skjermen to
-        ganger. Da kommer det opp en liste med alternativ, bl.a. for å
-        velge inndatametode (tastatur):</p>
+        <p>Voit myös vaihtaa seuraavaan näppäimistöön vain napauttamalla maapallo
+          näppäintä.</p>
+        <p>Jos olet vaihtanut tehdäs näppäimistöön ilman maapallo näppäintä, voit
+          vaihtaa takaisin Saamen näppäimistöön liu'uttamalle sormea ruudun päältä
+          kahdesti. Saat silloin vaihtoehtolistan, niiden joukossa yhden vaihtaaksesi
+          syöttömenetelmän (näppäimistö):</p>
         <p>
             <img width="240" src="images/android_switch_keyboard_alt.no.png"
         alt="Alternativ for å bytte tastatur"/>
