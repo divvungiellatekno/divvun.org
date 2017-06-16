@@ -12,7 +12,7 @@
             <table>
             <tr>
             <th class="halfwidth">Veedtjelh daestie</th>
-            <th>boejhkehts</th>
+            <th>Boejhkehts</th>
             </tr>
             <tr>
             <td>
@@ -31,7 +31,7 @@
                     Sveerjese</a></li>
                 </ul>
               </li>
-              <li class="Download">South Sámi keyboard:
+              <li class="Download">Åarjelsaemien båaloebuertie:
                 <ul>
                   <li><a
                     href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
@@ -68,7 +68,7 @@
             <table>
             <tr>
             <th class="halfwidth">Veedtjelh daestie</th>
-            <th>boejhkehts</th>
+            <th>Boejhkehts</th>
             </tr>
             <tr>
             <td>
@@ -107,8 +107,8 @@
             <title>Båaloebuertie Linux:asse</title>
             <table>
             <tr>
-            <th class="halfwidth">Downloads</th>
-            <th>Boejhkehts(Barre Englaaantegïelesne)</th>
+            <th class="halfwidth">Veedtjelh daestie</th>
+            <th>Boejhkehts (barre englaaantegïelesne)</th>
             </tr>
             <tr>
             <td>Linux keyboards must be included in the core system by the
