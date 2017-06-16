@@ -18,10 +18,10 @@
                 <strong>Instälningar</strong>:
                 <p><img src="images/win10/start_menu-sv.png" alt="Startmeny"/></p>
             </li>
-            <li>Diedtieh <strong>Tïjje jïh gïele</strong>:
+            <li>Diedtieh <strong>Tid och språk</strong>:
                 <p><img src="images/win10/prefs-sv.png" alt="Kontrollpanel"/></p>
             </li>
-            <li>Diedtieh <strong>Lïssehth gïelem</strong>:
+            <li>Diedtieh <strong>Lägg till ett språk</strong>:
                 <p><img src="images/win10/prefs-time_and_lang-sv.png" alt="Språk" /></p>
             </li>
             <li>Veeljh <strong>Åarjelsaemiengïele</strong> diedtieh daam:
@@ -33,13 +33,13 @@
             <li>Mïerkesjh <strong>Åarjelsaemiengïelem</strong> jïh diedtieh <strong>Alternativ</strong>:
                 <p><img src="images/win10/prefs-modify-sma-sv.png" alt="Språk etter å ha valgt nordsamisk"/></p>
             </li>
-            <li>Diedtieh <strong>Lïssehth aktem båaloebuertiem</strong>:
+            <li>Diedtieh <strong>Lägg till ett tangentbord</strong>:
                 <p><img src="images/win10/prefs-add-keyboard-sv.png" alt="Språkalternativer"/></p>
             </li>
-            <li>Veeljh <strong>Svïenskegïelem saemien gïelide</strong>:
+            <li>Veeljh <strong>Svensk för samiska språk</strong>:
                 <p><img src="images/win10/prefs-add-sma-keyboard-sweden-sv.png" alt="Inndatametode"/></p>
             </li>
-            <li>Mïerkesjh <strong>nöörjengïelem saemien gïelide</strong> jïh diedtieh <strong>Sliejhtieh</strong>:
+            <li>Mïerkesjh <strong>Norsk med samiska språk</strong> jïh diedtieh <strong>Ta bort</strong>:
                 <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-sv.png"
                 alt="Språkalternativer: Fjern norsk med samisk"/></p>
             </li>
