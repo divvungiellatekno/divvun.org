@@ -7,6 +7,16 @@
     </header>
     <body>
 
+        <note label="Note">
+        <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
+        The desktop keyboards are presently in a testing phase. Download and
+        install only if you want to test unfinished software, and know how to
+        uninstall and reinstall. Use and install on your own risk. Despite this,
+        we believe the available keyboards are already quite useful.
+        <a href="mailto:feedback@divvun.no">Please give us
+        feedback and corrections</a>!
+        </note>
+
         <section>
             <title>Båaloebuertie Windows:asse</title>
             <table>
@@ -17,33 +27,26 @@
             <tr>
             <td>
             <ul>
-              <li class="Download">Julevsaemien båaloebuertie:
-                <ul>
-                  <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North%20Sami%20Keyboard%200.1.0.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nöörjese</a></li>
-                  <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Sveerjese</a></li>
-                </ul>
+                    Noerhtesaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
               </li>
-              <li class="Download">Åarjelsaemien båaloebuertie:
-                <ul>
-                  <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule%20Sami%20Keyboards%200.1.0.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nöörjese</a></li>
-                  <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    Julevsaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+              </li>
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern%20Sami%20Keyboards%201.0.0-beta1.exe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Sveerjese</a></li>
-                </ul>
+                    Åarjelsaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
               </li>
             </ul></td>
             <td>
@@ -74,16 +77,25 @@
             <td>
             <ul>
               <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0-beta2.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsaemien båaloebuertie</a>
+                    Noerhtesaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
               </li>
               <li><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%200.2.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Åarjelsaemien båaloebuertie</a>
+                    Julevsaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+              </li>
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0-beta2.pkg"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Åarjelsaemien båaloebuertie
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
               </li>
             </ul></td>
             <td>
@@ -133,6 +145,21 @@
             </td>
             </tr>
             </table>
+        </section>
+
+        <section>
+            <title>More information</title>
+
+            <p>Further information about the layouts and other details can be
+            found on the pages below:</p>
+            <ul>
+              <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sme/doc/index.html">
+              North Sámi</a></li>
+              <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smj/doc/index.html">
+              Julev Sámi</a></li>
+              <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sma/doc/index.html">
+              South Sámi</a></li>
+            </ul>
         </section>
 
    </body>
