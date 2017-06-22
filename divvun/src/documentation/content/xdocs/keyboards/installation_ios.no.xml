@@ -51,9 +51,9 @@
         det tastaturet du vil ha.</p>
 
         <p>Merk at trykk-og-hold ikke fungerer når ett av de samiske tastaturene
-        er aktive. Dette er en <link
+        er aktive. Dette er en <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begrensing fra Apple</link> («there is no API to obtain a list of
+        >begrensing fra Apple</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         og gjelder alle tredjepartstastaturer.</p>
 

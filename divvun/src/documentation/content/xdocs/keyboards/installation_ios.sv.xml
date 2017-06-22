@@ -51,9 +51,9 @@
         tangentbordet du vill använda dyker upp.</p>
 
         <p>Observera att tryck-och-håll inte fungerar när ett av de samiska
-            tangentborden är aktiva. Detta är en <link
+            tangentborden är aktiva. Detta är en <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >begränsning från Apple§s sida</link> («there is no API to obtain a list of
+        >begränsning från Apple§s sida</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         och gäller alla externa tangentbord.</p>
 

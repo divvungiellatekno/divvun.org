@@ -51,9 +51,9 @@ Yleinen &gt; Näppäimistö &gt; Näppäimistöt &gt; Lisää uusi näppäimist�
           sen näppäimistön jonka haluat.</p>
 
         <p>Huomaa että kosketa-ja-paina ei toimi kun yksi Saamen näppäimistöistä
-          on toiminnassa. Tämä on <link
+          on toiminnassa. Tämä on <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >rajaus Applelta</link> («Ei ole APIa jolla saadaan lista valituista
+        >rajaus Applelta</a> («Ei ole APIa jolla saadaan lista valituista
         näppäimistöistä tai poimia tietty näppäimistö johon vaihtaa»),
         ja koskee kaikkia kolmannen osapuolen näppäimistöjä.</p>
 

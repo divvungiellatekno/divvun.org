@@ -48,9 +48,9 @@
 
         <p>Maahtah aaj måedtien aejkien dam globusbåaloem diedtedh, gosk åadtjoeh dam båaloebuertiem maam sïjhth.</p>
 
-        <p>Vueptesth, ij gåaredh diedtedh-jïh-steeredh gosse akte dejtsie saemien båaloebuertijste lea juhtiemisnie. Daate lea <link
+        <p>Vueptesth, ij gåaredh diedtedh-jïh-steeredh gosse akte dejtsie saemien båaloebuertijste lea juhtiemisnie. Daate lea <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >Apple mij lea gaertjiedamme</link> («there is no API to obtain a list of
+        >Apple mij lea gaertjiedamme</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         gaajhki ammes programmi åvteste.</p>
 

@@ -48,9 +48,9 @@
 
         <p>Máhtá aj dåssju globusboalov moaddi dieddelit dasik boadá dan tastatuvrraj majt lágeda.</p>
 
-        <p>Gå sáme tastatuvrra la juo anon de ij dåhkki oanegattjat diebttjit globusboalov listav åttjutjit. Dát la  <link
+        <p>Gå sáme tastatuvrra la juo anon de ij dåhkki oanegattjat diebttjit globusboalov listav åttjutjit. Dát la  <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >gártjedus Apple bieles</link> («there is no API to obtain a list of
+        >gártjedus Apple bieles</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         majt goasská divna goalmátbieltastatuvrajda.</p>
 

@@ -19,9 +19,9 @@
         </p>
         <p>Press the link «Open Preferences»</p>
         <p>Select
-<strong>
-«General &gt; Keyboard &gt; Keyboards &gt; Add new keyboard...»
-</strong>
+            <strong>
+            «General &gt; Keyboard &gt; Keyboards &gt; Add new keyboard...»
+            </strong>
         </p>
 
         <p>
@@ -52,9 +52,9 @@
             keyboard you want.</p>
 
         <p>Please note that touch-and-hold does not work when one of the Sami
-            keyboards is active. This is a <link
+            keyboards is active. This is a <a
         href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
-        >limitation by Apple</link> («there is no API to obtain a list of
+        >limitation by Apple</a> («there is no API to obtain a list of
         enabled keyboards or for picking a particular keyboard to switch to»),
         and concerns all third party keyboards.</p>
 
