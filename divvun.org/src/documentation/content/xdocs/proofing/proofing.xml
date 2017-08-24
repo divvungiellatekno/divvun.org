@@ -97,6 +97,20 @@
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
+           <td>Cornish
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kw_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/cor/index.html">Cornish documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/cor">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Estonian
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
