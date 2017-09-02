@@ -163,6 +163,20 @@
             </td>
          </tr>
          <tr>
+           <td>Irish
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html">Irish documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Kven
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
