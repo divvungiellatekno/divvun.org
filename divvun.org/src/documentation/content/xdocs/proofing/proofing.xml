@@ -13,7 +13,12 @@
       contain known errors and often a very limited lexicon. Use on your own
       risk! See the project pages for further details. See the <a
       href="devinfo.html">developer info page</a> if you want to build your
-      speller from source.</p>
+      speller from source.
+
+      If you would like to use (or just test) the spellers without downloading them,
+      there is an <a href="online-speller.html">online version of the spellers below</a>
+      available as well.</p>
+
 
       <section>
          <title>Spelling checkers for Microsoft Office (Windows only)</title>
