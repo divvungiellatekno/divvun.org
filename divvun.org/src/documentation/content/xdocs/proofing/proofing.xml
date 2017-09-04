@@ -31,10 +31,22 @@
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
+           <td>Cornish
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-cor-latest.exe">Download installer</a> </td>
+           <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/lang/cor/index.html">Cornish documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/langs/cor">source code</a>.
+            </td>
+         </tr>
+         <tr>
            <td>Estonian
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">Download installer (forthcoming)</a> </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">Download installer</a> </td>
            <td> </td>
            <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
            <td>The <a href="http://giellatekno.uit.no/doc/lang/est/index.html">Estonian documentation</a>
