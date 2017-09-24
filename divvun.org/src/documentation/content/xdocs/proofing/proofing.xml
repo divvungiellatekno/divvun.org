@@ -87,6 +87,18 @@
             </td>
          </tr>
          <tr>
+           <td>Irish
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-gle-latest.exe">Download installer</a> </td>
+           <td> </td>
+           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
+           <td>The <a href="http://giellatekno.uit.no/doc/startup-lang/gle/index.html">Irish documentation</a>
+               and
+               <a href="https://victorio.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+            </td>
+         </tr>
+         <tr>
            <td>Skolt Saami
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
