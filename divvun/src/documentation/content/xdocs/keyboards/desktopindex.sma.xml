@@ -27,26 +27,52 @@
             <tr>
             <td>
             <ul>
-              <li><a
+              <li>Noerhtesaemien båaloebuertie:
+                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <ul>
+                  <li>
+                    <a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta1.exe"
-                    ><icon alt="Download" height="44" width="44"
+                    ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Noerhtesaemien båaloebuertie
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    Windows 8, 10
+                    </a>
+                  </li>
+                </ul>
               </li>
-              <li><a
+              <li>Julevsaemien båaloebuertie:
+                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <ul>
+                  <li>
+                    <a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule%20Sami%20Keyboards%200.1.2.exe"
-                    ><icon alt="Download" height="44" width="44"
+                    ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsaemien båaloebuertie
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    Windows 8, 10
+                    </a>
+                  </li>
+                </ul>
               </li>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta4.exe"
-                    ><icon alt="Download" height="44" width="44"
+              <li>Åarjelsaemien båaloebuertie:
+                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <ul>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.exe"
+                    ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Åarjelsaemien båaloebuertie
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    Windows 8, 10
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.win7.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 7
+                    </a>
+                  </li>
+                </ul>
               </li>
             </ul></td>
             <td>
