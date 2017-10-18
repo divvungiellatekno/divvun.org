@@ -32,10 +32,18 @@
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta1.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.win7.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 7
                     </a>
                   </li>
                 </ul>
