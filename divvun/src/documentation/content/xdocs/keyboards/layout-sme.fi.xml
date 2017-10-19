@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Keyboard layouts for North Sámi</title>
+    </header>
+    <body>
+        <p>Sámi letters are marked with an
+        <em class="samikey">orange background</em>.
+        The keys with Sámi letters have their original letter available
+        via AltGr: press AltGr + the sámi letter to get the letter
+        that has been replaced with a Sámi one.</p>
+
+        <p>Example: to type the letter <code>x</code>, press AltGr +
+        <code>č</code>.</p>
+
+        <p>All other letters and symbols are placed as on the Norwegian
+        keyboard.</p>
+
+        <section>
+            <title>North Sámi for Windows, Norway</title>
+
+            <p>
+                <img alt="layout for norsk sma for Windows" src="images/sme_NO-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>North Sámi for macOS, Norway</title>
+            <p>
+                <img alt="layout for norsk sma for mac"  src="images/sme_NO-mac-layout.png"/>
+            </p>
+        </section>
+    </body>
+</document>
