@@ -166,7 +166,9 @@ ul.center {
         list-style: disc;
     }
 }
-
+.samikey {
+    background-color: #D0B24D ;
+}
   </extra-css>
   <colors>
   </colors>
