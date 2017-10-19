@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Keyboard layouts for Julev Sámi</title>
+    </header>
+    <body>
+        <p>Sámi letters are marked with an
+        <em class="samikey">orange background</em>.
+        The keys with Sámi letters have their original letter available
+        via AltGr: press AltGr + the sámi letter to get the letter
+        that has been replaced with a Sámi one.</p>
+
+        <p>Example: to type a Norwegian <code>ø</code>, press AltGr +
+        <code>ö</code>.</p>
+
+        <p>All other letters and symbols are placed as on the Norwegian
+        keyboard.</p>
+
+        <section>
+            <title>Julev Sámi for Windows, Norway</title>
+
+            <p>
+                <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Julev Sámi for macOS, Norway</title>
+            <p>
+                <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
+            </p>
+        </section>
+    </body>
+</document>
