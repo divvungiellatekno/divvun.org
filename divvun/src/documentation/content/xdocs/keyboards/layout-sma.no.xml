@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Tastaturutforming</title>
+    </header>
+    <body>
+        <p>Samiske bokstaver er merket med
+        <em class="samikey">oransje bakgrunnsfarge</em>.
+        Der vi har lagt inn samiske bokstaver er originalbokstaven
+        tilgjengelig via AltGr: trykk AltGr + den samiske bokstaven, så får du
+        den bokstaven som har blitt byttet ut med den samiske.</p>
+
+        <p>Eksempel: for å skrive norsk <code>ø</code>, trykk AltGr +
+        <code>ö</code>.</p>
+
+        <p>Alle andre bokstaver og tegn er som på det norske tastaturet.</p>
+
+        <section>
+            <title>Sørsamisk for Windows, Norge</title>
+
+            <p>
+                <img alt="layout for norsk sma" src="images/sma_NO-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Sørsamisk for macOS, Norge</title>
+            <p>
+                <img src="images/sma_NO-mac-layout.png" alt="images/sma_NO-mac-layout.png"/>
+            </p>
+        </section>
+    </body>
+</document>

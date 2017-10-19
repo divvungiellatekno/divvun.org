@@ -14,7 +14,7 @@
         asentaa uudelleen. Käytä ja asenna omalla riskillä. Tästä huolimatta,
         uskomme näppäimistöjen olevan jo melko hyödyllisiä.
         <a href="mailto:feedback@divvun.no">Lähetä meille palautetta ja
-        korjauksia</a>!
+        korjauksia!</a>
         </note>
 
         <section>
@@ -22,6 +22,7 @@
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
+            <th>Layouts</th>
             <th>Käyttöohjeet</th>
             </tr>
             <tr>
@@ -93,6 +94,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Pohjoissaame</a></li>
+              <li><a href="layout-smj.html">
+              Luulajansaame</a></li>
+              <li><a href="layout-sma.html">
+              Eteläsaame</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -113,6 +124,7 @@
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
+            <th>Layouts</th>
             <th>Käyttöohjeet</th>
             </tr>
             <tr>
@@ -142,6 +154,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Pohjoissaame</a></li>
+              <li><a href="layout-smj.html">
+              Luulajansaame</a></li>
+              <li><a href="layout-sma.html">
+              Eteläsaame</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -162,6 +184,7 @@
             <table>
             <tr>
             <th class="halfwidth">Lataukset</th>
+            <th>Layouts</th>
             <th>Käyttöohjeet (englanti vain)</th>
             </tr>
             <tr>
@@ -169,6 +192,16 @@
             Linux näppäimistöt pitää sisällytttää ydin järjestelmään
             kehittäjien kautta. Kuten näppäimistöt monille kielille asettuvat,
             me tulemme antautumaan ne järjestelmän sisllyttämiseen.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Pohjoissaame</a></li>
+              <li><a href="layout-smj.html">
+              Luulajansaame</a></li>
+              <li><a href="layout-sma.html">
+              Eteläsaame</a></li>
+            </ul>
             </td>
             <td>
             <ul>
@@ -197,11 +230,11 @@
             muista yksityiskohdista:</p>
             <ul>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sme/doc/index.html">
-              North Sámi</a></li>
+              pohjoissaame</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smj/doc/index.html">
-              Julev Sámi</a></li>
+              luulajansaame</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sma/doc/index.html">
-              South Sámi</a></li>
+              eteläsaame</a></li>
             </ul>
         </section>
 

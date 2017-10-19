@@ -13,7 +13,7 @@
         dušše jus háliidat iskat beallegárvves buktagiid, ja dieđát mo daid
         sajáiduhttá ja váldá eret.  Váikko leat beallegárvásat, min doaivva lea
         ahte dát ráhkadusat leat geavahahtti.
-        <a href="mailto:feedback@divvun.no">Sáddes cuoigumiid dahje divvumiid</a>!
+        <a href="mailto:feedback@divvun.no">Sáddes cuoigumiid dahje divvumiid!</a>
         </note>
 
         <section>
@@ -21,6 +21,7 @@
             <table>
             <tr>
             <th class="halfwidth">Viežžanliŋkkat</th>
+            <th>Ráhkadaus</th>
             <th>Bagadusat</th>
             </tr>
             <tr>
@@ -92,6 +93,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Davvisámi</a></li>
+              <li><a href="layout-smj.html">
+              Julevsámi</a></li>
+              <li><a href="layout-sma.html">
+              Lullisámi</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -112,6 +123,7 @@
             <table>
             <tr>
             <th class="halfwidth">Viežžanliŋkkat</th>
+            <th>Ráhkadaus</th>
             <th>Bagadusat</th>
             </tr>
             <tr>
@@ -141,6 +153,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Davvisámi</a></li>
+              <li><a href="layout-smj.html">
+              Julevsámi</a></li>
+              <li><a href="layout-sma.html">
+              Lullisámi</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -161,6 +183,7 @@
             <table>
             <tr>
             <th class="halfwidth">Viežžanliŋkkat</th>
+            <th>Ráhkadaus</th>
             <th>Bagadusat (dušše eŋgelasgillii)</th>
             </tr>
             <tr>
@@ -168,6 +191,16 @@
                 Linux-vuogádahkii. Dađistaga go iešguđet gielaid boallobeavddit
                 gárvánit, mii sáddet daid sisa nu ahte dat šaddet oassin
                 vuogádagas boahtteáiggis.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Davvisámi</a></li>
+              <li><a href="layout-smj.html">
+              Julevsámi</a></li>
+              <li><a href="layout-sma.html">
+              Lullisámi</a></li>
+            </ul>
             </td>
             <td>
             <ul>

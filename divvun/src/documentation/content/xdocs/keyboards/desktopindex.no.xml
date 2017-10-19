@@ -14,7 +14,7 @@
         og installerer på nytt. Bruk på eget ansvar. Tross dette tror vi at
         tastaturene allerede nå er svært nyttige.
         <a href="mailto:feedback@divvun.no">Gi oss gjerne
-        tilbakemeldinger og rettinger</a>!
+        tilbakemeldinger og rettinger!</a>
         </note>
 
         <section>
@@ -22,6 +22,7 @@
             <table>
             <tr>
             <th class="halfwidth">Nedlasting</th>
+            <th>Utforming</th>
             <th>Hjelp</th>
             </tr>
             <tr>
@@ -93,6 +94,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Nordsamisk</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamisk</a></li>
+              <li><a href="layout-sma.html">
+              Sørsamisk</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -113,6 +124,7 @@
             <table>
             <tr>
             <th class="halfwidth">Nedlasting</th>
+            <th>Utforming</th>
             <th>Hjelp</th>
             </tr>
             <tr>
@@ -142,6 +154,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Nordsamisk</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamisk</a></li>
+              <li><a href="layout-sma.html">
+              Sørsamisk</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -162,12 +184,23 @@
             <table>
             <tr>
             <th class="halfwidth">Nedlasting</th>
+            <th>Utforming</th>
             <th>Hjelp (bare på engelsk)</th>
             </tr>
             <tr>
             <td>Linux-tastatur må bygges inn i Linux-systemet av utviklerne.
             Etter hvert som tastaturene blir ferdige vil vi sende dem inn slik
             at de blir inkludert i fremtidige versjoner av Linux.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Nordsamisk</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamisk</a></li>
+              <li><a href="layout-sma.html">
+              Sørsamisk</a></li>
+            </ul>
             </td>
             <td>
             <ul>

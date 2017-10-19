@@ -14,7 +14,7 @@
         och installerar på nytt. Använd på egen risk. Trots detta tror vi att
         tangentborden redan nu är mycket användbara.
         <a href="mailto:feedback@divvun.no">Skicka gärna
-        feedback och rättelser</a>!
+        feedback och rättelser!</a>
         </note>
 
         <section>
@@ -22,6 +22,7 @@
             <table>
             <tr>
             <th class="halfwidth">Ladda ner</th>
+            <th>Layout</th>
             <th>Hjälp</th>
             </tr>
             <tr>
@@ -93,6 +94,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Nordsamiska</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamiska</a></li>
+              <li><a href="layout-sma.html">
+              Sydsamiska</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -113,6 +124,7 @@
             <table>
             <tr>
             <th class="halfwidth">Ladda ner</th>
+            <th>Layout</th>
             <th>Hjälp</th>
             </tr>
             <tr>
@@ -142,6 +154,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Nordsamiska</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamiska</a></li>
+              <li><a href="layout-sma.html">
+              Sydsamiska</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -162,12 +184,23 @@
             <table>
             <tr>
             <th class="halfwidth">Ladda ner</th>
+            <th>Layout</th>
             <th>Hjälp (på engelska)</th>
             </tr>
             <tr>
             <td>Tangentbord för Linux måste byggas in i Linux-systemet av
             utvecklarna. Vi vill skicka in tangentborden efter hand som dom blir
             klara, för att sen inkluderas i Linux.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Nordsamiska</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamiska</a></li>
+              <li><a href="layout-sma.html">
+              Sydsamiska</a></li>
+            </ul>
             </td>
             <td>
             <ul>

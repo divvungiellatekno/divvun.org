@@ -14,7 +14,7 @@
         uninstall and reinstall. Use and install on your own risk. Despite this,
         we believe the available keyboards are already quite useful.
         <a href="mailto:feedback@divvun.no">Please give us
-        feedback and corrections</a>!
+        feedback and corrections!</a>
         </note>
 
         <section>
@@ -22,6 +22,7 @@
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
+            <th>Layouts</th>
             <th>User Guides</th>
             </tr>
             <tr>
@@ -93,6 +94,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sami</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -113,6 +124,7 @@
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
+            <th>Layouts</th>
             <th>User Guides</th>
             </tr>
             <tr>
@@ -142,6 +154,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sami</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -162,12 +184,23 @@
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
+            <th>Layouts</th>
             <th>User Guides (English only)</th>
             </tr>
             <tr>
             <td>Linux keyboards must be included in the core system by the
             developers. As keyboards for various languages settle, we will
             submit them for inclusion in the system.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sami</a></li>
+            </ul>
             </td>
             <td>
             <ul>

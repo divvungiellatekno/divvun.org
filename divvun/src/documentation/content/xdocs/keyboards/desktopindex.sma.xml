@@ -9,8 +9,13 @@
 
         <note label="Vuep!">
         <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
-        Dah desktop-båaloebuertieh leah annje pryövemisnie. Veedtjelh jis sïjhth byölehts programvaarem daelie joe voejhkelidh, jis daajrah guktie sijjiedehtedh jïh jis daajrah guktie dam programmem destie vaeltedh.  Jilhts byölehts barkoe lea, dle vïenhtijibie gåarede dejtie båaloebuertide daelie joe åtnose vaeltedh.  
-        <a href="mailto:feedback@divvun.no">Bïeljelh mijjide jis mij joem båajhtode. </a>!
+        Dah desktop-båaloebuertieh leah annje pryövemisnie. Veedtjelh jis sïjhth
+        byölehts programvaarem daelie joe voejhkelidh, jis daajrah guktie
+        sijjiedehtedh jïh jis daajrah guktie dam programmem destie vaeltedh.
+        Jilhts byölehts barkoe lea, dle vïenhtijibie gåarede dejtie
+        båaloebuertide daelie joe åtnose vaeltedh.
+        <a href="mailto:feedback@divvun.no">Bïeljelh mijjide jis mij joem
+        båajhtode!</a>
         </note>
 
         <section>
@@ -18,6 +23,7 @@
             <table>
             <tr>
             <th class="halfwidth">Veedtjelh daestie</th>
+            <th>Hammoeh</th>
             <th>Boejhkehts</th>
             </tr>
             <tr>
@@ -89,6 +95,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Noerhtesaemien</a></li>
+              <li><a href="layout-smj.html">
+              Julevsaemien</a></li>
+              <li><a href="layout-sma.html">
+              Åarjelsaemien</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/win/enable_sami_input-win10.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               Windows 10</a></li>
@@ -109,6 +125,7 @@
             <table>
             <tr>
             <th class="halfwidth">Veedtjelh daestie</th>
+            <th>Hammoeh</th>
             <th>Boejhkehts</th>
             </tr>
             <tr>
@@ -138,6 +155,16 @@
             </ul></td>
             <td>
             <ul>
+              <li><a href="layout-sme.html">
+              Noerhtesaemien</a></li>
+              <li><a href="layout-smj.html">
+              Julevsaemien</a></li>
+              <li><a href="layout-sma.html">
+              Åarjelsaemien</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
               <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
               <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
               macOS 10.9+</a></li>
@@ -158,12 +185,23 @@
             <table>
             <tr>
             <th class="halfwidth">Veedtjelh daestie</th>
+            <th>Hammoeh</th>
             <th>Boejhkehts (barre englaaantegïelesne)</th>
             </tr>
             <tr>
             <td>Evtidedæjjah tjoeverieh Linux-båaloebuertiem Linux-systeemese
             bïejedh. Båaloebuertieh iktemearan sïjse seedtesuvvieh gosse riejries
             dejgujmie guktie mealtan båetijen versjovnesne sjidtieh.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Noerhtesaemien</a></li>
+              <li><a href="layout-smj.html">
+              Julevsaemien</a></li>
+              <li><a href="layout-sma.html">
+              Åarjelsaemien</a></li>
+            </ul>
             </td>
             <td>
             <ul>
