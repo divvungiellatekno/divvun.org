@@ -3,23 +3,23 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboard layouts for Julev Sámi</title>
+        <title>Näppäimitöleiskat luulajansaamelle</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+      <p>Saamen kirjeet on merkattu
+        <em class="samikey">oranssilla taustalla</em>.
+        Saamelaisilla kirjaimilla on alkuperäinen kirjain
+         AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
+         joka on korvattu saamelaisella.
+        </p>
 
-        <p>Example: to type the letter <code>q</code>, press AltGr +
+        <p>Esimerkki: Kirjoita kirjain <code>q</code>, paina AltGr +
         <code>á</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Norwegian
-        keyboard.</p>
+        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen näppäimistöön.</p>
 
         <section>
-            <title>Julev Sámi for Windows, Norway</title>
+            <title>Luulajansaame Windows, Norway</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -27,7 +27,7 @@
         </section>
 
         <section>
-            <title>Julev Sámi for macOS, Norway</title>
+            <title>Luulajansaame macOS, Norway</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
             </p>
