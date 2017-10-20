@@ -3,33 +3,33 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboard layouts</title>
+        <title>Tangentbords-layouter</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Samiska bokstäver har
+        <em class="samikey">orange bakgrund</em>.
+        Tangenterna med samiska bokstäver har sina ursprungliga bokstäver 
+        via AltGr: tryck AltGr + den samiska bokstaven för att få bokstaven
+        som har blivit utbytt med en samisk.</p>
 
-        <p>Example: to type a Norwegian <code>ø</code>, press AltGr +
+        <p>Exempel: för att skriva norskt <code>ø</code>, tryck AltGr +
         <code>ö</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Norwegian
-        keyboard.</p>
+        <p>Alla andra bokstäver och symboler är placerade som på norska
+        tangentbord.</p>
 
         <section>
-            <title>South Sámi for Windows, Norway</title>
+            <title>Sydsamiska för Windows, Norge</title>
 
             <p>
-                <img alt="layout for norsk sma for Windows" src="images/sma_NO-win-layout.png"/>
+                <img alt="layout för norsk sma på Windows" src="images/sma_NO-win-layout.png"/>
             </p>
         </section>
 
         <section>
-            <title>South Sámi for macOS, Norway</title>
+            <title>Sydsamiska för macOS, Norge</title>
             <p>
-                <img alt="layout for norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
+                <img alt="layout för norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
             </p>
         </section>
     </body>

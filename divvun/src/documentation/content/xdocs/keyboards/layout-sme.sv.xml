@@ -3,36 +3,36 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboard layouts for North Sámi</title>
+        <title>Nordsamiska tangentbords-layouter</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Samiska bokstäver har
+        <em class="samikey">orange bakgrund</em>.
+        Tangenterna med samiska bokstäver har sina ursprungliga bokstäver 
+        via AltGr: tryck AltGr + den samiska bokstaven för att få bokstaven
+        som har blivit utbytt med en samisk.</p>
 
-        <p>Example: to type the letter <code>x</code>, press AltGr +
+        <p>Exempel: för att skriva bokstaven <code>x</code>, tryck AltGr +
         <code>č</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Norwegian
-        keyboard.</p>
+        <p>Alla andra bokstäver och symboler är placerade som på norska
+        tangentbord.</p>
 
-        <p>Please note that the North Sámi letter <code>Ŧ</code>  is available
+        <p>Observera att man får nordsamiska bokstaven <code>Ŧ</code>
         via <code>AltGr + T</code>.</p>
 
         <section>
-            <title>North Sámi for Windows, Norway</title>
+            <title>Nordsamiska för Windows, Norge</title>
 
             <p>
-                <img alt="layout for norsk sma for Windows" src="images/sme_NO-win-layout.png"/>
+                <img alt="layout för norsk sma på Windows" src="images/sme_NO-win-layout.png"/>
             </p>
         </section>
 
         <section>
-            <title>North Sámi for macOS, Norway</title>
+            <title>Nordsamiska för macOS, Norge</title>
             <p>
-                <img alt="layout for norsk sma for mac"  src="images/sme_NO-mac-layout.png"/>
+                <img alt="layout för norsk sma på mac"  src="images/sme_NO-mac-layout.png"/>
             </p>
         </section>
     </body>
