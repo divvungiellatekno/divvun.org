@@ -3,11 +3,11 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Sámi keyboards</title>
+        <title>Boallobievde</title>
     </header>
     <body>
 
-        <note label="Note">
+        <!--note label="Note">
         <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
         The desktop keyboards are presently in a testing phase. Download and
         install only if you want to test unfinished software, and know how to
@@ -15,7 +15,7 @@
         we believe the available keyboards are already quite useful.
         <a href="mailto:feedback@divvun.no">Please give us
         feedback and corrections!</a>
-        </note>
+        </note-->
 
         <section>
             <title>Keyboards for Windows</title>
@@ -29,11 +29,11 @@
             <td>
             <ul>
               <li>North Sámi keyboards:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -41,7 +41,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -50,11 +50,11 @@
                 </ul>
               </li>
               <li>Julev Sámi keyboards:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0beta1.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -62,7 +62,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0beta1.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -71,11 +71,11 @@
                 </ul>
               </li>
               <li>South Sámi keyboards:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -83,7 +83,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -131,25 +131,25 @@
             <td>
             <ul>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0-beta3.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     North Sámi keyboards
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.0beta1.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Julev Sámi keyboards
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0-beta4.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     South Sámi keyboards
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
             </ul></td>
             <td>

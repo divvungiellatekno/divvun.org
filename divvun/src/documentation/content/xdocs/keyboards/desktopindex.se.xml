@@ -7,14 +7,14 @@
     </header>
     <body>
 
-        <note label="Fuomáš">
+        <!--note label="Fuomáš">
         <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
         Dihtorboallobeavderáhkadusat leat iskandilis. Viečča ja sajáiduhtte daid
         dušše jus háliidat iskat beallegárvves buktagiid, ja dieđát mo daid
         sajáiduhttá ja váldá eret.  Váikko leat beallegárvásat, min doaivva lea
         ahte dát ráhkadusat leat geavahahtti.
         <a href="mailto:feedback@divvun.no">Sáddes cuoigumiid dahje divvumiid!</a>
-        </note>
+        </note-->
 
         <section>
             <title>Windows-boallobeavddit</title>
@@ -28,11 +28,11 @@
             <td>
             <ul>
               <li>Davvisámi boallobeavddit:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -40,7 +40,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0-beta2.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -49,11 +49,11 @@
                 </ul>
               </li>
               <li>Julevsámi boallobeavddit:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0beta1.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -61,7 +61,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0beta1.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -70,11 +70,11 @@
                 </ul>
               </li>
               <li>Lullisámi boallobeavddit:
-                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -82,7 +82,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0-beta5.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -130,25 +130,25 @@
             <td>
             <ul>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0-beta3.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Davvisámi boallobeavddit
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.0beta1.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Julevsámi boallobeavddit
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0-beta4.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lullisámi boallobeavddit
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
             </ul></td>
             <td>
