@@ -9,26 +9,27 @@
 
         <!--note label="Note">
         <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
-        The desktop keyboards are presently in a testing phase. Download and
-        install only if you want to test unfinished software, and know how to
-        uninstall and reinstall. Use and install on your own risk. Despite this,
-        we believe the available keyboards are already quite useful.
-        <a href="mailto:feedback@divvun.no">Please give us
-        feedback and corrections!</a>
+        Dáhtámasjijnnaboallobievde gæhttjaluvvi dálla gåktu doajmmi. Viettja ja
+        sajájduhte jus sidá gæhttjalit gåktu doajmmá juska prográmma ij la
+        gárves, ja dåssju jus diedá gåktu sajájduhtá ja vas gåktu ​prográmmav
+        gádoda. Aneduvvá ietjat åvdåsvásstádusájn. Vájku ij la gárves jáhkkep
+        boallobievdde sjaddá ávkken.
+        <a href="mailto:feedback@divvun.no">Diededa midjijda vuojnojt ja
+        duollidimijt!</a>
         </note-->
 
         <section>
-            <title>Keyboards for Windows</title>
+            <title>Boallobievde Windowsij</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
-            <th>Layouts</th>
-            <th>User Guides</th>
+            <th>Hábbmimvuoge</th>
+            <th>Giehtagirjijt</th>
             </tr>
             <tr>
             <td>
             <ul>
-              <li>North Sámi keyboards:
+              <li>Boallobievde nuorttasámegiellaj:
                 <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
@@ -49,7 +50,7 @@
                   </li>
                 </ul>
               </li>
-              <li>Julev Sámi keyboards:
+              <li>Boallobievde julevsámegiellaj:
                 <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
@@ -70,7 +71,7 @@
                   </li>
                 </ul>
               </li>
-              <li>South Sámi keyboards:
+              <li>Boallobievde oarjjelsámegiellaj:
                 <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
@@ -95,11 +96,11 @@
             <td>
             <ul>
               <li><a href="layout-sme.html">
-              North Sámi</a></li>
+              Nuorttasámegiella</a></li>
               <li><a href="layout-smj.html">
-              Julev Sámi</a></li>
+              Julevsámegiella</a></li>
               <li><a href="layout-sma.html">
-              South Sami</a></li>
+              Oarjjelsámegiella</a></li>
             </ul>
             </td>
             <td>
@@ -120,12 +121,12 @@
         </section>
 
         <section>
-            <title>Keyboards for macOS</title>
+            <title>Boallobievde macOS:ij</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
-            <th>Layouts</th>
-            <th>User Guides</th>
+            <th>Hábbmimvuoge</th>
+            <th>Giehtagirjijt</th>
             </tr>
             <tr>
             <td>
@@ -134,32 +135,32 @@
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    North Sámi keyboards
+                    Boallobievde nuorttasámegiellaj
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards
+                    Boallobievde julevsámegiellaj
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
               <li><a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards
+                    Boallobievde oarjjelsámegiellaj
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
             </ul></td>
             <td>
             <ul>
               <li><a href="layout-sme.html">
-              North Sámi</a></li>
+              Nuorttasámegiella</a></li>
               <li><a href="layout-smj.html">
-              Julev Sámi</a></li>
+              Julevsámegiella</a></li>
               <li><a href="layout-sma.html">
-              South Sami</a></li>
+              Oarjjelsámegiella</a></li>
             </ul>
             </td>
             <td>
@@ -180,26 +181,26 @@
         </section>
 
         <section>
-            <title>Keyboards for Linux</title>
+            <title>Boallobievde Linuxij</title>
             <table>
             <tr>
             <th class="halfwidth">Downloads</th>
-            <th>Layouts</th>
-            <th>User Guides (English only)</th>
+            <th>Hábbmimvuoge</th>
+            <th>Giehtagirjijt (dåssju ieŋŋilsij))</th>
             </tr>
             <tr>
-            <td>Linux keyboards must be included in the core system by the
-            developers. As keyboards for various languages settle, we will
-            submit them for inclusion in the system.
+            <td>Linux-boallobievdde viertti åvddånahttijs dagáduvvat
+            Linux-systebmaj. Maŋenagi gå boallobievde li gárvvása galggap rádjat
+            sisi vaj båhti boahtteájggásasj Linux-versjåvnåjda.
             </td>
             <td>
             <ul>
               <li><a href="layout-sme.html">
-              North Sámi</a></li>
+              Nuorttasámegiella</a></li>
               <li><a href="layout-smj.html">
-              Julev Sámi</a></li>
+              Julevsámegiella</a></li>
               <li><a href="layout-sma.html">
-              South Sami</a></li>
+              Oarjjelsámegiella</a></li>
             </ul>
             </td>
             <td>
@@ -223,17 +224,17 @@
         </section>
 
         <section>
-            <title>More information</title>
+            <title>Ienep diedo</title>
 
-            <p>Further information about the layouts and other details can be
-            found on the pages below (in English only):</p>
+            <p>Vil ienep diedojt boallobievdehábbmima hárráj ja ietjá ássje dán
+            bielen gávnnu (dåssju ieŋŋilsij):</p>
             <ul>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sme/doc/index.html">
-              North Sámi</a></li>
+              Nuorttasámegiella</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smj/doc/index.html">
-              Julev Sámi</a></li>
+              Julevsámegiella</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sma/doc/index.html">
-              South Sámi</a></li>
+              Oarjjelsámegiella</a></li>
             </ul>
         </section>
 
