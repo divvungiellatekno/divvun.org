@@ -18,7 +18,7 @@
         <p>Alle andre bokstaver og tegn er som på det norske tastaturet.</p>
 
         <section>
-            <title>Sørsamisk for Windows, Norge</title>
+            <title>Sørsamisk, Windows, Norge</title>
 
             <p>
                 <img alt="layout for norsk sma" src="images/sma_NO-win-layout.png"/>
@@ -26,7 +26,7 @@
         </section>
 
         <section>
-            <title>Sørsamisk for macOS, Norge</title>
+            <title>Sørsamisk, macOS, Norge</title>
             <p>
                 <img src="images/sma_NO-mac-layout.png" alt="images/sma_NO-mac-layout.png"/>
             </p>
