@@ -9,17 +9,18 @@
       <p>Saamen kirjeet on merkattu
         <em class="samikey">oranssilla taustalla</em>.
         Saamelaisilla kirjaimilla on alkuperäinen kirjain
-         AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
-         joka on korvattu saamelaisella.
+        AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
+        joka on korvattu saamelaisella.
         </p>
 
-        <p>Esimerkki: Kirjoita kirjain <code>q</code>, paina AltGr +
-        <code>á</code>.</p>
+        <p>Esimerkki: Kirjoita kirjain <code>Q</code>, paina
+        <code>AltGr + Á</code>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen näppäimistöön.</p>
+        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
+        näppäimistöön.</p>
 
         <section>
-            <title>Luulajansaame Windows, Norway</title>
+            <title>Luulajansaame Windows, Norja</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -27,7 +28,7 @@
         </section>
 
         <section>
-            <title>Luulajansaame macOS, Norway</title>
+            <title>Luulajansaame macOS, Norja</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
             </p>

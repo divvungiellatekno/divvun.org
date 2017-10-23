@@ -3,23 +3,24 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Näppäimistöleiskat</title>
+        <title>Näppäimistöleiskat eteläsaamelle</title>
     </header>
     <body>
       <p>Saamen kirjeet on merkattu
         <em class="samikey">oranssilla taustalla</em>.
         Saamelaisilla kirjaimilla on alkuperäinen kirjain
-         AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
-         joka on korvattu saamelaisella.
+        AltGr: n kautta: paina AltGr + saamelaista kirjainta saadaksesi kirjeen
+        joka on korvattu saamelaisella.
         </p>
 
-        <p>Esimerkki: Kirjoita kirjain <code>q</code>, paina AltGr +
-        <code>á</code>.</p>
+        <p>Esimerkki: Kirjoita norjalainen kirjain <code>Ø</code>, paina
+        <code>AltGr + Ö</code>.</p>
 
-        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen näppäimistöön.</p>
+        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
+        näppäimistöön.</p>
 
         <section>
-            <title>Eteläsaame Windows, Norway</title>
+            <title>Eteläsaame Windows, Norja</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/sma_NO-win-layout.png"/>
@@ -27,7 +28,7 @@
         </section>
 
         <section>
-            <title>Eteläsaame macOS, Norway</title>
+            <title>Eteläsaame macOS, Norja</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
             </p>

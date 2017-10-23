@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="sma">
     <header>
-        <title>Båaloebuertien hammoeh</title>
+        <title>Åarjelsaemien båaloebuertien hammoeh</title>
     </header>
     <body>
         <p>Saemien boktsaavh leah naemhtie mïerhkesjamme 
         <em class="samikey">orange duekie</em>.
-        Dah båaloeh gusnie saemien bokstaavh, dejtie aaj  daej båaloejgujmie jaksh
-        AltGr: press AltGr + dam saemien bokstaavem jis sïjhth åadtjodh dam bokstaavem, mij lea daelie sjïere båaloem åådtjeme.</p>
+        Dah båaloeh gusnie saemien bokstaavh, dejtie aaj  daej båaloejgujmie
+        jaksh AltGr: diedtieh AltGr + dam saemien bokstaavem jis sïjhth åadtjodh
+        dam bokstaavem, mij lea daelie sjïere båaloem åådtjeme.</p>
 
-        <p>Vuesiehtæmman: Gosse daaroen <code>ø</code>, diedtieh dellie AltGr +
-        <code>ö</code>.</p>
+        <p>Vuesiehtæmman: Gosse daaroen <code>Ø</code>, diedtieh dellie
+        <code>AltGr + Ö</code>.</p>
 
-        <p>Gaajhkh dah jeatjah bokstaavh jïh væhtah leah seamma sijjesne goh daaroen båaloebuertesne.</p>
+        <p>Gaajhkh dah jeatjah bokstaavh jïh væhtah leah seamma sijjesne goh
+        daaroen båaloebuertesne.</p>
 
         <section>
-            <title>Åarjelsaemien Windows:asse, Norway</title>
+            <title>Åarjelsaemien Windows:asse, Nöörje</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/sma_NO-win-layout.png"/>
@@ -25,7 +27,7 @@
         </section>
 
         <section>
-            <title>Åarjelsaemien macOS:asse, Norway</title>
+            <title>Åarjelsaemien macOS:asse, Nöörje</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
             </p>

@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="sma">
     <header>
-        <title>Keyboard layouts for Julev Sámi</title>
+        <title>Julevsaemien båaloebuertien hammoeh</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Saemien boktsaavh leah naemhtie mïerhkesjamme
+        <em class="samikey">orange duekie</em>.
+        Dah båaloeh gusnie saemien bokstaavh, dejtie aaj  daej båaloejgujmie
+        jaksh AltGr: diedtieh AltGr + dam saemien bokstaavem jis sïjhth åadtjodh
+        dam bokstaavem, mij lea daelie sjïere båaloem åådtjeme.</p>
 
-        <p>Example: to type the letter <code>q</code>, press AltGr +
-        <code>á</code>.</p>
+        <p>Vuesiehtæmman: gosse <code>Q</code>, diedtieh
+        <code>AltGr + Á</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Norwegian
-        keyboard.</p>
+        <p>Gaajhkh dah jeatjah bokstaavh jïh væhtah leah seamma sijjesne goh
+        daaroen båaloebuertesne.</p>
 
         <section>
-            <title>Julev Sámi for Windows, Norway</title>
+            <title>Julevsaemien Windows:asse, Nöörje</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -27,7 +27,7 @@
         </section>
 
         <section>
-            <title>Julev Sámi for macOS, Norway</title>
+            <title>Julevsaemien macOS:asse, Nöörje</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
             </p>

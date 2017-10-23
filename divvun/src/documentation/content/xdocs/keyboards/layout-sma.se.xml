@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Boallobeavdehámuhusat</title>
+        <title>Lullisámi boallobeavdehámuhusat</title>
     </header>
     <body>
         <p>Sámi bustávain lea
@@ -12,8 +12,8 @@
         bakte: deaddil AltGr + sámi bustáva oažžut bustáva
         mii lea buhttejuvvon sámi bustávain.</p>
 
-        <p>Ovdamearka: čállit bustáva <code>ø</code>, deaddil AltGr +
-        <code>ö</code>.</p>
+        <p>Ovdamearka: čállit bustáva <code>Ø</code>, deaddil
+        <code>AltGr + Ö</code>.</p>
 
         <p>Visot iežá bustávat ja symbolat leat seamma ládje dugo dáru
         boallobeavddis.</p>
