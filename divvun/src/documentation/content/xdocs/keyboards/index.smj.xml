@@ -3,26 +3,24 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Keyboards</title>
+        <title>Boallobievdde</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun makes keyboards for both computers and hand-held
-           devices. Click the relevant section below to get to the download
-           links!</p>
+        <p>Divvun la dahkam boallobievdde sihke dáhtámasjijnnaj ja giehtatelefåvnnåj.</p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Mobile phone keyboards</a>
+            Boallobievdde giehtatelefåvnnåj</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
-            Computer keyboards</a>
+            Boallobievdde dáhtámasjijnnaj</a>
         </li>
       </ul>
 
