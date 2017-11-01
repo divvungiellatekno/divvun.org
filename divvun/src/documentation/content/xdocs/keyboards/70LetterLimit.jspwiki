@@ -1,0 +1,17 @@
+The default encoding system for SMS allows 160 letters per message. But this
+encoding only covers the English alphabet + a few more letters, none of them
+Sámi.
+
+[images/160_letter_sms.png]
+
+As soon as you type a letter outside of this alphabet, the encoding of the SMS
+is changed to a Unicode-compatible encoding, which can encode any letter and
+Emoji in the world, including all the Sámi letters.
+
+Unfortunately this Unicode encoding takes more space, and the SMS standard
+limits the length of the message in terms of bytes. The end result is that when
+using the Unicode encoding, you can only type 70 letters within one SMS.
+
+[images/70_letter_sms.png]
+
+This is a fact of the SMS standard, and can not be changed.
