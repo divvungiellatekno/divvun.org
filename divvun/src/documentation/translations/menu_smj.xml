@@ -17,7 +17,7 @@
 -->
 <catalogue xml:lang="smj">
   <message key="Fiks 3.0">Fix 3.0</message>
-  <message key="About">Divvuna birra</message>
+  <message key="AboutUs">Divvuna birra</message>
   <message key="Davvisámegiella">Sijdda</message>
   <message key="Álgosiidu">Álggosijddo</message>
   <message key="Giellapolitihkka">Giellapolitihkka</message>
@@ -232,5 +232,21 @@
   <message key="May '06">May '06</message>
   <message key="Apr '06">Apr '06</message>
   <message key="Jun '05">Jun '05</message>
-  <message key="Divvun future plans">Divvun future plans</message>
+  <message key="Divvun future plans">Divvuna boahtteájge ájggomusá</message>
+  <message key="Ruoktu">Sijdda</message>
+  <message key="Events">Ásadime</message>
+  <message key="Korrektur">Korrektuvrra</message>
+  <message key="Browsers">Næhttalågån</message>
+  <message key="AndreProgram">Ietjá prográmma</message>
+  <message key="AndreSprak">Ietjá giela</message>
+  <message key="DevInfo">DevInfo</message>
+  <message key="Tastatur">Boallobievdde</message>
+  <message key="Mobil">Giehtatelefåvnnå</message>
+  <message key="Desktop">Dáhtámasjijnna</message>
+  <message key="Tale">Hålla</message>
+  <message key="Ordbøker">Báhkogirje</message>
+  <message key="Oversettelse">Jårggålibme</message>
+  <message key="Læring">Oahppam</message>
+  <message key="adm">adm</message>
+  <message key="Plan">Plan</message>
 </catalogue>
