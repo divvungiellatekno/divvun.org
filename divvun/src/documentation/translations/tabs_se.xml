@@ -17,19 +17,6 @@
     -->
 <catalogue xml:lang="se">
   <message key="Ruoktu">Ruoktu</message>
-  <!--<message key="Administra&#x161;uvdna">H&#225;lddahus</message>-->
-  <!--<message key="Oppala&#x161;">Oahp&#225;smahttin</message>-->
-  <!--<message key="Raporttat">Raporttat</message>-->
-  <!--<message key="Outsourcing">Olgguldas bargu</message>-->
-  <!--<message key="Styringsgruppa">Stivrenjoavku</message>-->
-  <!--<message key="Legal">Juridihkala&#353; &#225;&#353;&#353;it</message>-->
-  <!--<message key="Proofing">&#268;&#225;llind&#225;rkkisteapmi</message>-->
-  <!--<message key="Future">Boahtte &#225;igi</message>-->
-  <!--<message key="Polderland">Polderland</message>-->
-  <!--<message key="Giellatekno">Giellatekno</message>-->
-  <!--<message key="TechDoc">TechDoc</message>-->
-  <!--<message key="TTS">TTS</message>-->
-  <!--<message key="Wiki">Wiki</message>-->
   <message key="AboutUs">Dieđut min birra</message>
   <message key="Events">Lágideamit</message>
   <message key="Korrektur">Čallindárkkisteapmi</message>
@@ -44,6 +31,6 @@
   <message key="Ordbøker">Sátnegirjjit</message>
   <message key="Oversettelse">Jorgalus</message>
   <message key="LangLearn">Giellaoahppan</message>
-  <message key="Mobile">Mobile</message>
-  <message key="Desktop">Desktop</message>
+  <message key="Mobile">Telefovnnaide ja duolbosiidda</message>
+  <message key="Desktop">Dihtoriidda</message>
 </catalogue>
