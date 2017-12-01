@@ -3,13 +3,13 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document>
   <header>
-    <title>Installerit ja adnet Divvun-ræjdojt MS Officen</title>
+    <title>Sajájduhttet ja adnet Divvun-ræjdojt MS Officen</title>
   </header>
   <body>
     <ol>
       <li>
         <img alt="image" height="44pt" width="44pt" src="/images/Icon-installation.png"/>
-        Installerit Divvunav:
+        Sajájduhttet Divvunav:
         <ul>
            <li><a href="install-msoff-win10.html">MS Windows 10</a></li>
            <li><a href="install-msoff-win8.html" >MS Windows 8</a></li>
