@@ -3,25 +3,25 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Fjern 4.0, installer 3.0.</title>
+        <title>Gádoda 4.0, sajájduhte 3.0.</title>
     </header>
     <body>
         <section>
-            <title>Fjern 4.0</title>
+            <title>Gádoda 4.0</title>
             <ol>
                 <li>
-                    Åpne Kontrollpanel
+                    Rabá Kontrollpanel
                 </li>
                 <li>
-                    Gå til «Avinstaller program». Velg Divvun (Tino Didriksen Consult) og trykk «Avinstaller»
+                    Maná diek: «Avinstaller program». Vállji Divvun (Tino Didriksen Consult) ja dieddela «Avinstaller»
                 </li>
             </ol>
             <figure alt="Fjern 4.0" src="images/remove.4.0.png" width="100%" />
         </section>
         <section>
-            <title>Installer 3.0</title>
+            <title>Sajájduhte 3.0</title>
             <ol>
-                <li>Hent <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
+                <li>Viettja <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
                 <li>Kjør installasjonsprogrammet</li>
                 <li>Åpne Filhåndtereren, gå til «Min datamaskin -> Lokal disk -> Programfiler (x86) -> Divvun»</li>
                 <li>Dobbelttrykk create_hkcu</li>
