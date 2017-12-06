@@ -3,23 +3,22 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboard layouts for Inari Sámi</title>
+        <title>Anársáme boallobievddehábbmim</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Sáme bokstávajn la
+        <em class="samikey">oránssja duogásj</em>.
+        Danne gånnå li sáme bokstáva gávna originálbokstávav AltGr:a baktu.
+        Debtjasta AltGr + sáme bokstávav, de oattjo dav bokstávav mij la
+        målsoduvvam sáme bokstávajn.</p>
 
-        <p>Example: to type a Finnish <code>Ö</code>, press
+        <p>Buojkulvis: tjále suoma <code>Ö</code>, debtjasta
         <code>AltGr + Đ</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Finnish
-        keyboard.</p>
+        <p>Divna ietjá bokstáva ja symbåvlå li sæmmi gå suoma boallobievden.</p>
 
         <section>
-            <title>Inari Sámi (Windows &amp; macOS)</title>
+            <title>Anársáme (Windows &amp; macOS)</title>
 
             <p>
                 <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
