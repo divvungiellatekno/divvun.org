@@ -19,7 +19,7 @@
         daaroen båaloebuertesne.</p>
 
         <section>
-            <title>Julevsaemien, Windows, Nöörje</title>
+            <title>Julevsaemien, Nöörje (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -27,9 +27,16 @@
         </section>
 
         <section>
-            <title>Julevsaemien, macOS, Nöörje</title>
+            <title>Julevsaemien, Nöörje (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Julevsaemien, Sveerje (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/smj_SE-layout.png"/>
             </p>
         </section>
     </body>

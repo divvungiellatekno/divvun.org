@@ -18,7 +18,7 @@
         <p>Divna ietjá bokstáva ja symbåvlå li sæmmi gå dáro boallobievden.</p>
 
         <section>
-            <title>Julevsáme, Windows, Vuodna</title>
+            <title>Julevsáme, Vuodna (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -26,9 +26,16 @@
         </section>
 
         <section>
-            <title>Julevsáme, macOS, Vuodna</title>
+            <title>Julevsáme, Vuodna (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac" src="images/smj_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Julevsáme, Svierik (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/smj_SE-layout.png"/>
             </p>
         </section>
     </body>

@@ -20,7 +20,7 @@
         näppäimistöön.</p>
 
         <section>
-            <title>Luulajansaame, Windows, Norja</title>
+            <title>Luulajansaame, Norja (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/smj_NO-win-layout.png"/>
@@ -28,10 +28,18 @@
         </section>
 
         <section>
-            <title>Luulajansaame, macOS, Norja</title>
+            <title>Luulajansaame, Norja (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/smj_NO-mac-layout.png"/>
             </p>
         </section>
+
+        <section>
+            <title>Luulajansaame, Ruotsi (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/smj_SE-layout.png"/>
+            </p>
+        </section>
+    </body>
     </body>
 </document>

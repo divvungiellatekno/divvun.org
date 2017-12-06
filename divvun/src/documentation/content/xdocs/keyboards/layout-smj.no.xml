@@ -18,7 +18,7 @@
         <p>Alle andre bokstaver og tegn er som på det norske tastaturet.</p>
 
         <section>
-            <title>Lulesamisk, Windows, Norge</title>
+            <title>Lulesamisk, Norge (Windows)</title>
 
             <p>
                 <img alt="layout for norsk smj" src="images/smj_NO-win-layout.png"/>
@@ -26,9 +26,16 @@
         </section>
 
         <section>
-            <title>Lulesamisk, macOS, Norge</title>
+            <title>Lulesamisk, Norge (macOS)</title>
             <p>
                 <img alt="layout for norsk smj for mac" src="images/smj_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Lulesamisk, Sverige (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/smj_SE-layout.png"/>
             </p>
         </section>
     </body>

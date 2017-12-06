@@ -19,7 +19,7 @@
         boallobeavddis.</p>
 
         <section>
-            <title>Julevsámi, Windows, Norga</title>
+            <title>Julevsámi, Norga (Windows)</title>
 
             <p>
                 <img alt="norgga sma boallobeavdehámuhus Windowsis" src="images/smj_NO-win-layout.png"/>
@@ -27,9 +27,16 @@
         </section>
 
         <section>
-            <title>Julevsámi, macOS:s, Norway</title>
+            <title>Julevsámi, Norga (macOS)</title>
             <p>
                 <img alt="norgga sma boallobeavdehámuhus macas"  src="images/smj_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Julevsámi, Ruoŧŧa (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/smj_SE-layout.png"/>
             </p>
         </section>
     </body>
