@@ -19,7 +19,7 @@
         tangentbord.</p>
 
         <section>
-            <title>Sydsamiska, Windows, Norge</title>
+            <title>Sydsamiska, Norge (Windows)</title>
 
             <p>
                 <img alt="layout för norsk sma på Windows" src="images/sma_NO-win-layout.png"/>
@@ -27,9 +27,16 @@
         </section>
 
         <section>
-            <title>Sydsamiska, macOS, Norge</title>
+            <title>Sydsamiska, Norge (macOS)</title>
             <p>
                 <img alt="layout för norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Sydsamiska, Sverige (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för sydsamiska i Sverige"  src="images/sma_SE-layout.png"/>
             </p>
         </section>
     </body>

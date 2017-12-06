@@ -19,7 +19,7 @@
         boallobeavddis.</p>
 
         <section>
-            <title>Lullisámi, Windows, Norga</title>
+            <title>Lullisámi, Norga (Windows)</title>
 
             <p>
                 <img alt="norgga sma boallobeavdehámuhus Windowsis" src="images/sma_NO-win-layout.png"/>
@@ -27,9 +27,16 @@
         </section>
 
         <section>
-            <title>Lullisámi, macOS, Norga</title>
+            <title>Lullisámi, Norga (macOS)</title>
             <p>
                 <img alt="norgga sma boallobeavdehámuhus macas"  src="images/sma_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Lullisámi, Ruoŧŧa (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för sydsamiska i Sverige"  src="images/sma_SE-layout.png"/>
             </p>
         </section>
     </body>

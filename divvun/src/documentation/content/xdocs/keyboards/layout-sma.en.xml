@@ -19,7 +19,7 @@
         keyboard.</p>
 
         <section>
-            <title>South Sámi, Windows, Norway</title>
+            <title>South Sámi, Norway (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/sma_NO-win-layout.png"/>
@@ -27,9 +27,16 @@
         </section>
 
         <section>
-            <title>South Sámi, macOS, Norway</title>
+            <title>South Sámi, Norway (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/sma_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>South Sámi, Sweden (Windows &amp; macOS)</title>
+            <p>
+                <img alt="layout för sydsamiska i Sverige"  src="images/sma_SE-layout.png"/>
             </p>
         </section>
     </body>
