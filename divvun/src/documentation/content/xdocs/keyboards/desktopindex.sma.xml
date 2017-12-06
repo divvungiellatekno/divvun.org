@@ -92,7 +92,7 @@
                   </li>
                 </ul>
               </li>
-              <li>Enaresamiska tangentbord:
+              <li>Enaresaemien båaloebuertie:
                 <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
@@ -123,7 +123,7 @@
               <li><a href="layout-sma.html">
               Åarjelsaemien</a></li>
               <li><a href="layout-smn.html">
-              Inari Sami</a></li>
+              Enaresaemien</a></li>
             </ul>
             </td>
             <td>
@@ -179,7 +179,7 @@
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/macos/Inari%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Enaresamiska tangentbord
+                    Enaresaemien båaloebuertie
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
             </ul></td>
@@ -192,7 +192,7 @@
               <li><a href="layout-sma.html">
               Åarjelsaemien</a></li>
               <li><a href="layout-smn.html">
-              Inari Sami</a></li>
+              Enaresaemien</a></li>
             </ul>
             </td>
             <td>
@@ -234,7 +234,7 @@
               <li><a href="layout-sma.html">
               Åarjelsaemien</a></li>
               <li><a href="layout-smn.html">
-              Inari Sami</a></li>
+              Enaresaemien</a></li>
             </ul>
             </td>
             <td>
@@ -269,7 +269,7 @@
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sma/doc/index.html">
               åarjelsaemien</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smn/doc/index.html">
-              enaresamiska</a></li>
+              enaresaemien</a></li>
             </ul>
         </section>
 

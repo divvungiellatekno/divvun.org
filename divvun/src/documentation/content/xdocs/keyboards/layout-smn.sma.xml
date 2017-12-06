@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="sma">
     <header>
-        <title>Keyboard layouts for Inari Sámi</title>
+        <title>Enaresaemien båaloebuertien hammoeh</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Saemien boktsaavh leah naemhtie mïerhkesjamme
+        <em class="samikey">orange duekie</em>.
+        Dah båaloeh gusnie saemien bokstaavh, dejtie aaj daej båaloejgujmie
+        jaksh AltGr: diedtieh AltGr + dam saemien bokstaavem jis sïjhth åadtjodh
+        dam bokstaavem, mij lea daelie sjïere båaloem åådtjeme.</p>
 
-        <p>Example: to type a Finnish <code>Ö</code>, press
+        <p>Vuesiehtæmman: Gosse såevmien <code>Ö</code>, diedtieh dellie
         <code>AltGr + Đ</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Finnish
-        keyboard.</p>
+        <p>Gaajhkh dah jeatjah bokstaavh jïh væhtah leah seamma sijjesne goh
+        såevmien båaloebuertesne.</p>
 
         <section>
-            <title>Inari Sámi (Windows &amp; macOS)</title>
+            <title>Enaresaemien (Windows &amp; macOS)</title>
 
             <p>
                 <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
