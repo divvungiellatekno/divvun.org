@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="en">
+<document xml:lang="fi">
     <header>
-        <title>Keyboard layouts for Inari Sámi</title>
+        <title>Näppäimistöleiska inarinsaamelle</title>
     </header>
     <body>
-        <p>Sámi letters are marked with an
-        <em class="samikey">orange background</em>.
-        The keys with Sámi letters have their original letter available
-        via AltGr: press AltGr + the sámi letter to get the letter
-        that has been replaced with a Sámi one.</p>
+        <p>Saamen kirjeet on merkattu
+        <em class="samikey">oranssilla taustalla</em>.
+        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr: n kautta: paina
+        AltGr + saamelaista kirjainta saadaksesi kirjeen joka on korvattu
+        saamelaisella.</p>
 
-        <p>Example: to type a Finnish <code>Ö</code>, press
+        <p>Esimerkki: Kirjoita suomalainen kirjain <code>Ö</code>, paina
         <code>AltGr + Đ</code>.</p>
 
-        <p>All other letters and symbols are placed as on the Finnish
-        keyboard.</p>
+        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
+        näppäimistöön.</p>
 
         <section>
-            <title>Inari Sámi (Windows &amp; macOS)</title>
+            <title>Inarinsaame (Windows &amp; macOS)</title>
 
             <p>
                 <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
