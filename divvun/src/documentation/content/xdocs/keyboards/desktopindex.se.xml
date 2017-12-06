@@ -90,6 +90,27 @@
                   </li>
                 </ul>
               </li>
+              <li>Anársámi boallobeavddit:
+                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
+                <ul>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/win/Inari_Sami_Keyboards_1.0.0.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 8, 10
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/win/Inari_Sami_Keyboards_1.0.0.win7.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 7
+                    </a>
+                  </li>
+                </ul>
+              </li>
             </ul></td>
             <td>
             <ul>
@@ -148,6 +169,13 @@
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Lullisámi boallobeavddit
+                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+              </li>
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/macos/Inari%20Sami%20Keyboards%201.0.0.pkg"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Anársámi boallobeavdi
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
             </ul></td>
