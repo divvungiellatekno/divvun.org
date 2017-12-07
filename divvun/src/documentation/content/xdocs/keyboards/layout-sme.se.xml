@@ -35,5 +35,21 @@
                 <img alt="norgga sma boallobeavdehámuhus macas"  src="images/sme_NO-mac-layout.png"/>
             </p>
         </section>
+
+        <section>
+            <title>Davvisámi, Suopma &amp; Ruoŧŧa (Windows)</title>
+
+            <p>
+                <img alt="layout för norsk sma på Windows" src="images/sme_FI-SE-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Davvisámi, Suopma &amp; Ruoŧŧa (macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/sme_FI-SE-mac-layout.png"/>
+            </p>
+        </section>
+
     </body>
 </document>

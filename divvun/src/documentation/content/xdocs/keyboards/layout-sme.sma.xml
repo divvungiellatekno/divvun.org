@@ -22,7 +22,7 @@
         åadtjodh <code>AltGr + T</code>.</p>
 
         <section>
-            <title>Noerhtesaemien, Windows, Nöörje</title>
+            <title>Noerhtesaemien, Nöörje (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/sme_NO-win-layout.png"/>
@@ -30,10 +30,26 @@
         </section>
 
         <section>
-            <title>Noerhtesaemien, macOS, Nöörje</title>
+            <title>Noerhtesaemien, Nöörje (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/sme_NO-mac-layout.png"/>
             </p>
         </section>
+
+        <section>
+            <title>Noerhtesaemien, Såevmie &amp; Sveerje (Windows)</title>
+
+            <p>
+                <img alt="layout för norsk sma på Windows" src="images/sme_FI-SE-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Noerhtesaemien, Såevmie &amp; Sveerje (macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/sme_FI-SE-mac-layout.png"/>
+            </p>
+        </section>
+
     </body>
 </document>

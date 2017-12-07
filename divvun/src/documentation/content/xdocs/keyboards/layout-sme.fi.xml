@@ -23,7 +23,7 @@
           kautta <code>AltGr + T</code>.</p>
 
         <section>
-            <title>Phjoissaame, Windows, Norja</title>
+            <title>Pohjoissaame, Norja (Windows)</title>
 
             <p>
                 <img alt="layout for norsk sma for Windows" src="images/sme_NO-win-layout.png"/>
@@ -31,10 +31,26 @@
         </section>
 
         <section>
-            <title>Phjoissaame, macOS, Norja</title>
+            <title>Pohjoissaame, Norja (macOS)</title>
             <p>
                 <img alt="layout for norsk sma for mac"  src="images/sme_NO-mac-layout.png"/>
             </p>
         </section>
+
+        <section>
+            <title>Pohjoissaame, Suomi &amp; Ruotsi (Windows)</title>
+
+            <p>
+                <img alt="layout för norsk sma på Windows" src="images/sme_FI-SE-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>Pohjoissaame, Suomi &amp; Ruotsi (macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/sme_FI-SE-mac-layout.png"/>
+            </p>
+        </section>
+
     </body>
 </document>
