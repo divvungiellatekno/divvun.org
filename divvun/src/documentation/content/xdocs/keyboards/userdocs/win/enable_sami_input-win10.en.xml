@@ -3,56 +3,119 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Setting up Northern Sámi keyboard and Northern Sámi as input language
-        in Windows 10</title>
+        <title>Installing, configuring and switching keyboards in
+        Windows 10</title>
     </header>
     <body>
-
-        <p>We show how to set up Northern Sámi as an input language. When one
-        chooses Northern Sámi as an input language, the spelling checker will
-        automatically be run in Northern Sámi when the Divvun tools are installed.</p>
+      <section>
+      <title>Installation</title>
+        <ol>
+          <li>Go to the <a
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
+            keyboard download page</a>, and click on the
+            <strong>download link for Windows 10</strong>:
+            <p><img src="images/win10/01_download-sme-en.png"
+            alt="Download"/></p>
+          </li>
+          <li><strong>Run</strong> the downloaded installer:
+            <p><img src="images/win10/02_run-installer-sme-en.png"
+            alt="Run installer"/></p>
+          </li>
+          <li><strong>Allow</strong> the installer to make changes:
+            <p><img src="images/win10/03_allow_changes-sme-en.png"
+            alt="Allow changes"/></p>
+          </li>
+          <li>Select installer language:
+            <p><img src="images/win10/04_select_inst_lang-sme-en.png"
+            alt="Select installer language"/></p>
+          </li>
+          <li>Choose install location, the default is fine:
+            <p><img src="images/win10/05_inst_location-sme-en.png"
+            alt="Installation location"/></p>
+          </li>
+          <li>Select Start Menu location, the default is fine:
+            <p><img src="images/win10/06_start_menu-sme-en.png"
+            alt="Start menu"/></p>
+          </li>
+          <li>You are now ready to install:
+            <p><img src="images/win10/07_ready_to_install-sme-en.png"
+            alt="Ready to install"/></p>
+            <p><img src="images/win10/08_installing-sme-en.png"
+            alt="Installing"/></p>
+          </li>
+          <li>You have to <strong>Restart</strong> after installation to ensure
+            the keyboard is working properly:
+            <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
+          </li>
+          <li>After the restart, the new keyboard(s) should show up in the
+            keyboard menu (if not, continue as described below):
+            <p><img src="images/win10/10_keyboard_menu-sme-en.png"
+            alt="Keyboard menu"/></p>
+          </li>
+        </ol>
+      </section>
+      <section>
+      <title>Configuration</title>
+        <p>The installation done above should automatically have turned on the
+        installed keyboards. In case it has not happened, or you want to change
+        the configuration, do as follows:</p>
   
         <ol>
-            <li>Go to the <strong>Start</strong> menu, and click on
-                <strong>Settings</strong>:
-                <p><img src="images/win10/start_menu-en.png" alt="Startmeny"/></p>
-            </li>
-            <li>Click on <strong>Time &amp; language</strong>:
-                <p><img src="images/win10/prefs-en.png" alt="Kontrollpanel"/></p>
-            </li>
-            <li>Click <strong>Add a language</strong>:
-                <p><img src="images/win10/prefs-time_and_lang-en.png" alt="Språk" /></p>
-            </li>
-            <li>Choose <strong>Davvisámegiella</strong> by clicking the name:
-                <p><img src="images/win10/prefs-add-sme-en.png" alt="Legg til språk"/></p>
-            </li>
-            <li>Choose the variant of <strong>Davvisámegiella</strong> you want:
-                <p><img src="images/win10/prefs-add-sme-norway-en.png" alt="Regionale varianter"/></p>
-            </li>
-            <li>Click <strong>Davvisámegiella</strong> followed by <strong>Alternatives</strong>:
-                <p><img src="images/win10/prefs-modify-sme-en.png" alt="Språk etter å ha valgt nordsamisk"/></p>
-            </li>
-            <li>Click <strong>Add Keyboard</strong>:
-                <p><img src="images/win10/prefs-add-keyboard-en.png" alt="Språkalternativer"/></p>
-            </li>
-            <li>Choose <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/prefs-add-sme-extended-norway-en.png" alt="Inndatametode"/></p>
-            </li>
-            <li>Select <strong>Norsk med samisk</strong> and click <strong>Remove</strong>:
-                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-en.png"
-                alt="Språkalternativer: Fjern norsk med samisk"/></p>
-            </li>
-            <li>Now you have <strong>Davvisámegiella (Norga)</strong> as an
-                input language with the keyboard <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/keyboard-done-sme-en.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
-            <li>To switch between the keyboard and thus language, press
-                <strong>Windows+space</strong> until the Northern Sami keyboard
-                is activated:
-                <p><img src="images/win10/switching-keyboards-sme-en.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
+          <li>Go to the <strong>Start</strong> menu, and click on
+            <strong>Settings</strong>:
+            <p><img src="images/win10/start_menu-en.png" alt="Startmeny"/></p>
+          </li>
+          <li>Click on <strong>Time &amp; language</strong>:
+            <p><img src="images/win10/prefs-en.png" alt="Kontrollpanel"/></p>
+          </li>
+          <li>Click <strong>Add a language</strong>:
+            <p><img src="images/win10/prefs-time_and_lang-en.png"
+            alt="Språk" /></p>
+          </li>
+          <li>Choose <strong>Davvisámegiella</strong> by clicking the name:
+            <p><img src="images/win10/prefs-add-sme-en.png"
+            alt="Legg til språk"/></p>
+          </li>
+          <li>Choose the variant of <strong>Davvisámegiella</strong> you want:
+            <p><img src="images/win10/prefs-add-sme-norway-en.png"
+            alt="Regionale varianter"/></p>
+          </li>
+          <li>Click <strong>Davvisámegiella</strong> followed by
+            <strong>Alternatives</strong>:
+            <p><img src="images/win10/prefs-modify-sme-en.png"
+            alt="Språk etter å ha valgt nordsamisk"/></p>
+          </li>
+          <li>Click <strong>Add Keyboard</strong>:
+            <p><img src="images/win10/prefs-add-keyboard-en.png"
+            alt="Språkalternativer"/></p>
+          </li>
+          <li>Choose <strong>Samisk, utvidet Norge</strong>:
+            <p><img src="images/win10/prefs-add-sme-extended-norway-en.png"
+            alt="Inndatametode"/></p>
+          </li>
+          <li>Select <strong>Norsk med samisk</strong> and click
+            <strong>Remove</strong>:
+            <p><img
+              src="images/win10/prefs-remove-norw_with_sami-keyboard-en.png"
+            alt="Språkalternativer: Fjern norsk med samisk"/></p>
+          </li>
+          <li>Now you have <strong>Davvisámegiella (Norga)</strong> as an
+            input language with the keyboard <strong>Samisk, utvidet
+            Norge</strong>:
+            <p><img src="images/win10/keyboard-done-sme-en.png"
+            alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
         </ol>
+      </section>
+      <section>
+      <title>Switching keyboards</title>
+        <ol>
+          <li>To switch between the keyboards, and thus switch language, press
+            <strong>Windows+space</strong> until your keyboard is activated:
+            <p><img src="images/win10/switching-keyboards-sme-en.png"
+            alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
+        </ol>
+      </section>
     </body>
 </document>
