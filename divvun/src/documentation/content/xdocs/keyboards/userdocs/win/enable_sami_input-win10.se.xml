@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Sajáiduhttit, heivehit ja molsut boallobevddiid Windows 10:s</title>
+        <title>Sajáiduhttit, heivehit ja molsut boallobeavdehámuhusaid Windows 10:s</title>
     </header>
     <body>
       <section>
@@ -11,7 +11,7 @@
         <ol>
           <li>Mana <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvuma
-            siidui gos gávnnat boallobevddiid</a>, ja coahkkal
+            siidui gos gávnnat boallobeavdehámuhusaid</a>, ja coahkkal
             <strong>Windows 10 viežžanliŋkka</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
             alt="Viežžan"/></p>
@@ -44,12 +44,12 @@
             <p><img src="images/win10/08_installing-sme-en.png"
             alt="Sajáiduhttin"/></p>
           </li>
-          <li>Ođđa boallobevddit doaibmagohtet albma láhkai easka maŋŋago
-              leat <strong>vuolggahan dihtora ođđasit</strong>:
+          <li>Ođđa boallobeavdehámuhusat doaibmagohtet albma láhkai easka 
+            maŋŋágo leat <strong>vuolggahan dihtora ođđasit</strong>:
             <p><img src="images/win10/09_restart-sme-en.png"
                 alt="Vuolggahit dihtora ođđasit"/></p>
           </li>
-          <li>Maŋŋágo dihtor lea ođđasit vuolggahuvvon, ođđa boallobeavddit
+          <li>Maŋŋágo dihtor lea ođđasit vuolggahuvvon, ođđa boallobeavdehámuhusat
               galggašedje ihtit boallobeavdefálus (jus eai, čuovo bagadasa
               vuollelis):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
@@ -59,7 +59,7 @@
       </section>
       <section>
         <title>Heivehus</title>
-        <p>Sajáiduhtti dábálaččat heiveha ođđa sajáiduvvon boallobevddiid.
+        <p>Sajáiduhtti dábálaččat heiveha ođđa sajáiduvvon boallobeavdehámuhusaid.
             Jus dát ii leat dáhpáhuvvan, dahje jus háliidat rievdadit heivehusa,
             daga ná:</p>
 
@@ -111,11 +111,11 @@
         </ol>
       </section>
       <section>
-        <title>Molsut boallobeavddi</title>
+        <title>Molsut boallobeavdehámuhusaid</title>
         <p>
           Boallobeavddis deaddilat
-          <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea
-          aktiiva:
+          <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdehámuhusat leat
+          aktiivvat:
         </p>
         <p><img src="images/win10/switching-keyboards-sme-no.png"
           alt="Giella go davvisámegiella lea heivehuvvon"/></p>
