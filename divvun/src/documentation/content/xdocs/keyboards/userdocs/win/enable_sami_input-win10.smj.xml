@@ -61,51 +61,61 @@
         the configuration, do as follows:</p>
   
         <ol>
-            <li>Maná <strong>Start</strong>-menijjaj, ja dieddelaste
-                <strong>Innstillinger</strong>:
-                <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
-            </li>
-            <li>Maná <strong>Klokkeslett og språk</strong>:
-                <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
-            </li>
-            <li>Dieddela <strong>Legg til et språk</strong>:
-                <p><img src="images/win10/prefs-time_and_lang-no.png" alt="Språk" /></p>
-            </li>
-            <li>Válljitjit <strong>Julevsámegielav</strong> dieddelaste:
-                <p><img src="images/win10/prefs-add-smj-no.png" alt="Legg til språk"/></p>
-            </li>
-            <li>Vállji makkir <strong>Julevsámegiella</strong> dunji hiehpá:
-                <p><img src="images/win10/prefs-add-smj-norway-no.png" alt="Regionale varianter"/></p>
-            </li>
-            <li>Markieri <strong>Julevsámegiella</strong> ja dieddela <strong>Alternativer</strong>:
-                <p><img src="images/win10/prefs-modify-smj-no.png" alt="Språk etter å ha valgt nordsamisk"/></p>
-            </li>
-            <li>Dieddela <strong>Legg til tastatur</strong>:
-                <p><img src="images/win10/prefs-add-keyboard-smj-no.png" alt="Språkalternativer"/></p>
-            </li>
-            <li>Vállji <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/prefs-add-smj-extended-norway-no.png" alt="Inndatametode"/></p>
-            </li>
-            <li>Markieri <strong>Norsk med samisk</strong> ja dieddela <strong>Fjern</strong>:
-                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-smj-no.png"
-                alt="Språkalternativer: Fjern norsk med samisk"/></p>
-            </li>
-            <li>De la dujna <strong>Julevsámegiela (Vuodna)</strong> tjállemgiellan
-                boallonbievdijn <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/keyboard-done-smj-no.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
+          <li>Maná <strong>Start</strong>-menijjaj, ja dieddelaste
+              <strong>Innstillinger</strong>:
+              <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
+          </li>
+          <li>Maná <strong>Klokkeslett og språk</strong>:
+              <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
+          </li>
+          <li>Dieddela <strong>Legg til et språk</strong>:
+              <p><img src="images/win10/prefs-time_and_lang-no.png"
+              alt="Språk" /></p>
+          </li>
+          <li>Válljitjit <strong>Julevsámegielav</strong> dieddelaste:
+              <p><img src="images/win10/prefs-add-smj-no.png"
+              alt="Legg til språk"/></p>
+          </li>
+          <li>Vállji makkir <strong>Julevsámegiella</strong> dunji hiehpá:
+              <p><img src="images/win10/prefs-add-smj-norway-no.png"
+              alt="Regionale varianter"/></p>
+          </li>
+          <li>Markieri <strong>Julevsámegiella</strong> ja dieddela
+              <strong>Alternativer</strong>:
+              <p><img src="images/win10/prefs-modify-smj-no.png"
+              alt="Språk etter å ha valgt nordsamisk"/></p>
+          </li>
+          <li>Dieddela <strong>Legg til tastatur</strong>:
+              <p><img src="images/win10/prefs-add-keyboard-smj-no.png"
+              alt="Språkalternativer"/></p>
+          </li>
+          <li>Vállji <strong>Samisk, utvidet Norge</strong>:
+              <p><img src="images/win10/prefs-add-smj-extended-norway-no.png"
+              alt="Inndatametode"/></p>
+          </li>
+          <li>Markieri <strong>Norsk med samisk</strong> ja dieddela
+              <strong>Fjern</strong>:
+              <p><img
+              src="images/win10/prefs-remove-norw_with_sami-keyboard-smj-no.png"
+              alt="Språkalternativer: Fjern norsk med samisk"/></p>
+          </li>
+          <li>De la dujna <strong>Julevsámegiela (Vuodna)</strong>
+              tjállemgiellan
+              boallonbievdijn <strong>Samisk, utvidet Norge</strong>:
+              <p><img src="images/win10/keyboard-done-smj-no.png"
+              alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
         </ol>
       </section>
       <section>
       <title>Switching keyboards</title>
         <ol>
-            <li>Målsotjit boallobievdij, ja navti aj gielaj gaskan, dieddelaste 
-                <strong>Windows+gasska</strong> dasik julevsáme boallobievdde l
-                anon:
-                <p><img src="images/win10/switching-keyboards-smj-no.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
+          <li>Målsotjit boallobievdij, ja navti aj gielaj gaskan, dieddelaste 
+              <strong>Windows+gasska</strong> dasik julevsáme boallobievdde l
+              anon:
+              <p><img src="images/win10/switching-keyboards-smj-no.png"
+              alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
         </ol>
       </section>
     </body>

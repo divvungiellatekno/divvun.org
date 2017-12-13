@@ -61,49 +61,61 @@
         the configuration, do as follows:</p>
   
         <ol>
-            <li>Mana <strong>Start</strong>-fállui ja coahkkal
-                <strong>Innstillinger</strong>:
-                <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
-            </li>
-            <li>Mana <strong>Tid og språk</strong>-merkošii:
-                <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
-            </li>
-            <li>Coahkkal <strong>Legg til et språk</strong>:
-                <p><img src="images/win10/prefs-time_and_lang-no.png" alt="Giella" /></p>
-            </li>
-            <li>Coahkkal <strong>Davvisámegiella</strong>:
-                <p><img src="images/win10/prefs-add-sme-no.png" alt="Lasit giela"/></p>
-            </li>
-            <li>Vállje dan <strong>Davvisámegieleavttu</strong> mii heive dutnje:
-                <p><img src="images/win10/prefs-add-sme-norway-no.png" alt="Báikkálaš molssaeavttut"/></p>
-            </li>
-            <li>Merke <strong>Davvisámegiella</strong> ja coahkkal <strong>Alternativer</strong>:
-                <p><img src="images/win10/prefs-modify-sme-no.png" alt="Giella maŋŋágo lea válljen davvisámegiela"/></p>
-            </li>
-            <li>Coahkkal <strong>Legg til et tastatur</strong>:
-                <p><img src="images/win10/prefs-add-keyboard-no.png" alt="Giellamolssaeavttut"/></p>
-            </li>
-            <li>Vállje <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/prefs-add-sme-extended-norway-no.png" alt="Čállingiellavuohki"/></p>
-            </li>
-            <li>Merke <strong>Norsk med samisk</strong> ja coahkkal <strong>Fjern</strong>:
-                <p><img src="images/win10/prefs-remove-norw_with_sami-keyboard-no.png"
-                alt="Giellamolssaeavttut: Váldde eret «norsk med samisk»"/></p>
-            </li>
-            <li>Dál dus lea <strong>Davvisámegiella (Norga)</strong> čállingiellan ja boallobeavdi mii gullá dasa lea <strong>Samisk, utvidet Norge</strong>:
-                <p><img src="images/win10/keyboard-done-sme-no.png"
-                alt="Giella go davvisámegiella lea heivehuvvon"/></p>
-            </li>
+          <li>Mana <strong>Start</strong>-fállui ja coahkkal
+              <strong>Innstillinger</strong>:
+              <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
+          </li>
+          <li>Mana <strong>Tid og språk</strong>-merkošii:
+              <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
+          </li>
+          <li>Coahkkal <strong>Legg til et språk</strong>:
+              <p><img src="images/win10/prefs-time_and_lang-no.png"
+              alt="Giella" /></p>
+          </li>
+          <li>Coahkkal <strong>Davvisámegiella</strong>:
+              <p><img src="images/win10/prefs-add-sme-no.png"
+              alt="Lasit giela"/></p>
+          </li>
+          <li>Vállje dan <strong>Davvisámegieleavttu</strong> mii heive dutnje:
+              <p><img src="images/win10/prefs-add-sme-norway-no.png"
+              alt="Báikkálaš molssaeavttut"/></p>
+          </li>
+          <li>Merke <strong>Davvisámegiella</strong> ja coahkkal
+              <strong>Alternativer</strong>:
+              <p><img src="images/win10/prefs-modify-sme-no.png"
+              alt="Giella maŋŋágo lea válljen davvisámegiela"/></p>
+          </li>
+          <li>Coahkkal <strong>Legg til et tastatur</strong>:
+              <p><img src="images/win10/prefs-add-keyboard-no.png"
+              alt="Giellamolssaeavttut"/></p>
+          </li>
+          <li>Vállje <strong>Samisk, utvidet Norge</strong>:
+              <p><img src="images/win10/prefs-add-sme-extended-norway-no.png"
+              alt="Čállingiellavuohki"/></p>
+          </li>
+          <li>Merke <strong>Norsk med samisk</strong> ja coahkkal
+              <strong>Fjern</strong>:
+              <p><img
+              src="images/win10/prefs-remove-norw_with_sami-keyboard-no.png"
+              alt="Giellamolssaeavttut: Váldde eret «norsk med samisk»"/></p>
+          </li>
+          <li>Dál dus lea <strong>Davvisámegiella (Norga)</strong> čállingiellan
+              ja boallobeavdi mii gullá dasa lea <strong>Samisk, utvidet
+              Norge</strong>:
+              <p><img src="images/win10/keyboard-done-sme-no.png"
+              alt="Giella go davvisámegiella lea heivehuvvon"/></p>
+          </li>
         </ol>
       </section>
       <section>
       <title>Switching keyboards</title>
         <ol>
-            <li>Boallobeavddis deaddilat
-                <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea aktiiva:
-                <p><img src="images/win10/switching-keyboards-sme-no.png"
-                alt="Giella go davvisámegiella lea heivehuvvon"/></p>
-            </li>
+          <li>Boallobeavddis deaddilat
+              <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea
+              aktiiva:
+              <p><img src="images/win10/switching-keyboards-sme-no.png"
+              alt="Giella go davvisámegiella lea heivehuvvon"/></p>
+          </li>
         </ol>
       </section>
     </body>

@@ -60,50 +60,62 @@
         the configuration, do as follows:</p>
   
         <ol>
-            <li>Mene <strong>Aloitus</strong>-valikkoon, ja klikkaa
-                <strong>Asetukset</strong>:
-                <p><img src="images/win10/start_menu-fi.png" alt="Startmeny"/></p>
-            </li>
-            <li>Mene <strong>Aika ja kieli</strong>:
-                <p><img src="images/win10/prefs-fi.png" alt="Kontrollpanel"/></p>
-            </li>
-            <li>Paina <strong>Lisää kieli</strong>:
-                <p><img src="images/win10/prefs-time_and_lang-fi.png" alt="Språk" /></p>
-            </li>
-            <li>Valitse <strong>Davvisámegiella</strong> klikkaamalla sitä:
-                <p><img src="images/win10/prefs-add-sme-fi.png" alt="Legg til språk"/></p>
-            </li>
-            <li>Valitse seuraavista <strong>Davvisámegiella</strong> joka sopii sinulle:
-                <p><img src="images/win10/prefs-add-sme-finland-fi.png" alt="Regionale varianter"/></p>
-            </li>
-            <li>Merkkaa <strong>Davvisámegiella</strong> ja paina <strong>Asetukset</strong>:
-                <p><img src="images/win10/prefs-modify-sme-fi.png" alt="Språk etter å ha valgt nordsamisk"/></p>
-            </li>
-            <li>Paina <strong>Lisää näppäimistö</strong>:
-                <p><img src="images/win10/prefs-add-keyboard-fi.png" alt="Språkalternativer"/></p>
-            </li>
-            <li>Valitse <strong>Saame, Suomen ja Ruotsin kieliversiot</strong>:
-                <p><img src="images/win10/prefs-add-sme-finland-sweden-fi.png" alt="Inndatametode"/></p>
-            </li>
-            <li>Merkkaa <strong>Suomi ja saame</strong> ja paina <strong>Poista</strong>:
-                <p><img src="images/win10/prefs-remove-finnish_with_sami-keyboard-fi.png"
-                alt="Språkalternativer: Fjern norsk med samisk"/></p>
-            </li>
-            <li>Silloin on <strong>Davvisámegiella (Suopma)</strong> kuin
-                sisäänkieli näppäimistöllä <strong>Saame, Suomen ja Ruotsin kieliversiot</strong>:
-                <p><img src="images/win10/keyboard-done-sme-fi.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
+          <li>Mene <strong>Aloitus</strong>-valikkoon, ja klikkaa
+              <strong>Asetukset</strong>:
+              <p><img src="images/win10/start_menu-fi.png" alt="Startmeny"/></p>
+          </li>
+          <li>Mene <strong>Aika ja kieli</strong>:
+              <p><img src="images/win10/prefs-fi.png" alt="Kontrollpanel"/></p>
+          </li>
+          <li>Paina <strong>Lisää kieli</strong>:
+              <p><img src="images/win10/prefs-time_and_lang-fi.png"
+              alt="Språk" /></p>
+          </li>
+          <li>Valitse <strong>Davvisámegiella</strong> klikkaamalla sitä:
+              <p><img src="images/win10/prefs-add-sme-fi.png"
+              alt="Legg til språk"/></p>
+          </li>
+          <li>Valitse seuraavista <strong>Davvisámegiella</strong> joka sopii
+              sinulle:
+              <p><img src="images/win10/prefs-add-sme-finland-fi.png"
+              alt="Regionale varianter"/></p>
+          </li>
+          <li>Merkkaa <strong>Davvisámegiella</strong> ja paina
+              <strong>Asetukset</strong>:
+              <p><img src="images/win10/prefs-modify-sme-fi.png"
+              alt="Språk etter å ha valgt nordsamisk"/></p>
+          </li>
+          <li>Paina <strong>Lisää näppäimistö</strong>:
+              <p><img src="images/win10/prefs-add-keyboard-fi.png"
+              alt="Språkalternativer"/></p>
+          </li>
+          <li>Valitse <strong>Saame, Suomen ja Ruotsin kieliversiot</strong>:
+              <p><img src="images/win10/prefs-add-sme-finland-sweden-fi.png"
+              alt="Inndatametode"/></p>
+          </li>
+          <li>Merkkaa <strong>Suomi ja saame</strong> ja paina
+              <strong>Poista</strong>:
+              <p><img
+              src="images/win10/prefs-remove-finnish_with_sami-keyboard-fi.png"
+              alt="Språkalternativer: Fjern norsk med samisk"/></p>
+          </li>
+          <li>Silloin on <strong>Davvisámegiella (Suopma)</strong> kuin
+              sisäänkieli näppäimistöllä <strong>Saame, Suomen ja Ruotsin
+              kieliversiot</strong>:
+              <p><img src="images/win10/keyboard-done-sme-fi.png"
+              alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
         </ol>
       </section>
       <section>
       <title>Switching keyboards</title>
         <ol>
-            <li>Vaihtaminen kielten välillä tapahtuu
-                <strong>Windows+väli</strong> kunnes pohjoissaame näppäimistö on aktiivinen:
-                <p><img src="images/win10/switching-keyboards-sme-fi.png"
-                alt="Språk med nordsamisk ferdigvalgt"/></p>
-            </li>
+          <li>Vaihtaminen kielten välillä tapahtuu
+              <strong>Windows+väli</strong> kunnes pohjoissaame näppäimistö on
+              aktiivinen:
+              <p><img src="images/win10/switching-keyboards-sme-fi.png"
+              alt="Språk med nordsamisk ferdigvalgt"/></p>
+          </li>
         </ol>
       </section>
     </body>
