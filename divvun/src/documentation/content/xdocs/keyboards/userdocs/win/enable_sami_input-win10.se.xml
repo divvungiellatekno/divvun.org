@@ -112,14 +112,13 @@
       </section>
       <section>
       <title>Molsut boallobeavddi</title>
-        <ol>
-          <li>Boallobeavddis deaddilat
-              <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea
-              aktiiva:
-              <p><img src="images/win10/switching-keyboards-sme-no.png"
-              alt="Giella go davvisámegiella lea heivehuvvon"/></p>
-          </li>
-        </ol>
+        <p>
+          Boallobeavddis deaddilat
+          <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea
+          aktiiva:
+        </p>
+        <p><img src="images/win10/switching-keyboards-sme-no.png"
+          alt="Giella go davvisámegiella lea heivehuvvon"/></p>
       </section>
     </body>
 </document>
