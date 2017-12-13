@@ -7,7 +7,7 @@
     </header>
     <body>
       <section>
-      <title>Sajáiduhttin</title>
+        <title>Sajáiduhttin</title>
         <ol>
           <li>Mana <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvuma
@@ -58,7 +58,7 @@
         </ol>
       </section>
       <section>
-      <title>Heivehus</title>
+        <title>Heivehus</title>
         <p>Sajáiduhtti dábálaččat heiveha ođđa sajáiduvvon boallobevddiid.
             Jus dát ii leat dáhpáhuvvan, dahje jus háliidat rievdadit heivehusa,
             daga ná:</p>
@@ -111,7 +111,7 @@
         </ol>
       </section>
       <section>
-      <title>Molsut boallobeavddi</title>
+        <title>Molsut boallobeavddi</title>
         <p>
           Boallobeavddis deaddilat
           <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea

@@ -8,7 +8,7 @@
     </header>
     <body>
       <section>
-      <title>Installation</title>
+        <title>Installation</title>
         <ol>
           <li>Go to the <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
@@ -55,7 +55,7 @@
         </ol>
       </section>
       <section>
-      <title>Configuration</title>
+        <title>Configuration</title>
         <p>The installation done above should automatically have turned on the
         installed keyboards. In case it has not happened, or you want to change
         the configuration, do as follows:</p>
@@ -108,7 +108,7 @@
         </ol>
       </section>
       <section>
-      <title>Switching keyboards</title>
+        <title>Switching keyboards</title>
         <p>
           To switch between the keyboards, and thus switch language, press
           <strong>Windows+space</strong> until your keyboard is activated:

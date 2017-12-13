@@ -7,7 +7,7 @@
     </header>
     <body>
       <section>
-      <title>Installation</title>
+        <title>Installation</title>
         <ol>
           <li>Gå till <a
             href="http://divvun.no/no/keyboards/desktopindex.html"
@@ -56,7 +56,7 @@
         </ol>
       </section>
       <section>
-      <title>Inställning</title>
+        <title>Inställning</title>
         <p>Installationen som gjordes här ovan borde automatiskt ha slagit på
         det nya tangentbordet / de nya tangentborden. I annat fall, eller om du
         vill ändra inställningarna, kan du göra följande:</p>
@@ -110,7 +110,7 @@
         </ol>
       </section>
       <section>
-      <title>Växla mellan tangentbord</title>
+        <title>Växla mellan tangentbord</title>
         <p>
           För att växla mellan tangentbord och därigenom också språk
           trycker du <strong>Windows+mellanrum</strong> tills det önskade

@@ -7,7 +7,7 @@
     </header>
     <body>
       <section>
-      <title>Installering</title>
+        <title>Installering</title>
         <ol>
           <li>Gå til <a
             href="http://divvun.no/no/keyboards/desktopindex.html"
@@ -54,7 +54,7 @@
         </ol>
       </section>
       <section>
-      <title>Innstillinger</title>
+        <title>Innstillinger</title>
         <p>Installeringen over burde automatisk ha slått på det nye tastaturet /
         de nye tastaturene. Dersom dette ikke skjer, eller du ønsker å endre
         innstillingene, kan du gjøre følgende:</p>
@@ -108,7 +108,7 @@
         </ol>
       </section>
       <section>
-      <title>Bytte tastatur</title>
+        <title>Bytte tastatur</title>
         <p>
           For å bytte mellom tastatur og dermed språk trykker du 
           <strong>Windows+mellomrom</strong> til tastaturet ditt er aktivt:
