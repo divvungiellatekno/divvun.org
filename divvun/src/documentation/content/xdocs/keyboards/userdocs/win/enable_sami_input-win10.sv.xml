@@ -3,62 +3,63 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Installing, configuring and switching keyboards in
-        Windows 10</title>
+        <title>Installera, ställa in och byta tangentbord i Windows 10</title>
     </header>
     <body>
       <section>
       <title>Installation</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+          <li>Gå till <a
+            href="http://divvun.no/no/keyboards/desktopindex.html"
+            >nerladdningssidan för tangentbord</a>, och klicka på
+            <strong>nerladdningslänken för Windows 10</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
-            alt="Download"/></p>
+            alt="Ladda ner"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Kör</strong> installeraren:
             <p><img src="images/win10/02_run-installer-sme-en.png"
-            alt="Run installer"/></p>
+            alt="Kör installeraren"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Tillåt</strong> att installeraren gör ändringar:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
-            alt="Allow changes"/></p>
+            alt="Tillåt ändringar"/></p>
           </li>
-          <li>Select installer language:
+          <li>Välj språk för installeraren:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
-            alt="Select installer language"/></p>
+            alt="Välj språk för installeraren"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Välj plats för installeringen, standardval är bra:
             <p><img src="images/win10/05_inst_location-sme-en.png"
-            alt="Installation location"/></p>
+            alt="Installationsplats"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Välj plats i Start-menyn, standardval är bra:
             <p><img src="images/win10/06_start_menu-sme-en.png"
-            alt="Start menu"/></p>
+            alt="Start-menyplats"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Du är nu redo att installera:
             <p><img src="images/win10/07_ready_to_install-sme-en.png"
-            alt="Ready to install"/></p>
+            alt="Redo att installera"/></p>
             <p><img src="images/win10/08_installing-sme-en.png"
-            alt="Installing"/></p>
+            alt="Installerar"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
-            <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
+          <li>Du måste <strong>Starta om</strong> efter installationen för att
+            säkerställa att tangentbordet fungerar som det skall:
+            <p><img src="images/win10/09_restart-sme-en.png"
+            alt="Starta om"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>EFter omstarten borde det nyinstallerade tangentbordet / de
+            nyinstallerade tangentborden dyka upp i tangentbordsmenyn
+            (i annat fall kan du följa beksrivningen nedanför):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
-            alt="Keyboard menu"/></p>
+            alt="Tangentbordsmeny"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
+      <title>Inställning</title>
+        <p>Installationen som gjordes här ovan borde automatiskt ha slagit på
+        det nya tangentbordet / de nya tangentborden. I annat fall, eller om du
+        vill ändra inställningarna, kan du göra följande:</p>
   
         <ol>
           <li>Gå till <strong>Start</strong>-menyn, och klicka på
@@ -74,50 +75,49 @@
           </li>
           <li>Välj <strong>Åarjelsaemiengïele</strong> genom att klicka på det:
               <p><img src="images/win10/prefs-add-sma-sv.png"
-              alt="Legg til språk"/></p>
+              alt="Lägg till språk"/></p>
           </li>
           <li>Välj den varianten av <strong>Åarjelsaemiengïele</strong> du
               önskar använda:
               <p><img src="images/win10/prefs-add-sma-sweden-sv.png"
-              alt="Regionale varianter"/></p>
+              alt="Välj regional variant"/></p>
           </li>
           <li>Klicka på <strong>Åarjelsaemiengïele</strong>, sen på
               <strong>Alternativ</strong>:
               <p><img src="images/win10/prefs-modify-sma-sv.png"
-              alt="Språk etter å ha valgt nordsamisk"/></p>
+              alt="Ändra alternativen för språket"/></p>
           </li>
           <li>Klicka på <strong>Lägg till ett tangentbord</strong>:
               <p><img src="images/win10/prefs-add-keyboard-sv.png"
-              alt="Språkalternativer"/></p>
+              alt="Lägg till ett nytt tangentbord"/></p>
           </li>
           <li>Välj till exempel <strong>Svenska för samiska språk</strong>:
               <p><img src="images/win10/prefs-add-sma-keyboard-sweden-sv.png"
-              alt="Inndatametode"/></p>
+              alt="Välj tangentbord"/></p>
           </li>
           <li>Klicka på <strong>Norska med samiska språk</strong>, sen
               <strong>Ta bort</strong>:
               <p><img
               src="images/win10/prefs-remove-norw_with_sami-keyboard-sv.png"
-              alt="Språkalternativer: Fjern norsk med samisk"/></p>
+              alt="Ta bort gammalt tangentbord"/></p>
           </li>
           <li>Nu har du <strong>Åarjelsaemiengïele (Sveerje)</strong> som ett
               indataspråk med tangentbordet <strong>Svenska för samiska
               språk</strong>:
               <p><img src="images/win10/keyboard-done-sma-sv.png"
-              alt="Språk med nordsamisk ferdigvalgt"/></p>
+              alt="Språket är nu klart för användning"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Switching keyboards</title>
-        <ol>
-          <li>För att växla mellan tangentbord och därigenom också språk
-              trycker du <strong>Windows+mellanrum</strong> tills det sydsamiska
-              tangentbordet är aktivt:
-              <p><img src="images/win10/switching-keyboards-sma-sv.png"
-              alt="Språk med nordsamisk ferdigvalgt"/></p>
-          </li>
-        </ol>
+      <title>Växla mellan tangentbord</title>
+        <p>
+          För att växla mellan tangentbord och därigenom också språk
+          trycker du <strong>Windows+mellanrum</strong> tills det önskade
+          tangentbordet är aktivt:
+        </p>
+        <p><img src="images/win10/switching-keyboards-sma-sv.png"
+          alt="Växla mellan tangentbord och språk"/></p>
       </section>
     </body>
 </document>

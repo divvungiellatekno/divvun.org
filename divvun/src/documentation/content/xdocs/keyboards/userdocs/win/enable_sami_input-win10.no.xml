@@ -3,62 +3,61 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Installing, configuring and switching keyboards in
-        Windows 10</title>
+        <title>Installere, stille inn og bytte tastatur i Windows 10</title>
     </header>
     <body>
       <section>
-      <title>Installation</title>
+      <title>Installering</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+          <li>Gå til <a
+            href="http://divvun.no/no/keyboards/desktopindex.html"
+            >nedlastingssida for tastaturer</a>, og klikk på
+            <strong>nedlastingslenka for Windows 10</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
-            alt="Download"/></p>
+            alt="Last ned"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Kjør</strong> den nedlastede installereren:
             <p><img src="images/win10/02_run-installer-sme-en.png"
-            alt="Run installer"/></p>
+            alt="Kjør installerer"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Tillat</strong> installereren å gjøre endringer:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
-            alt="Allow changes"/></p>
+            alt="Tillat endringer"/></p>
           </li>
-          <li>Select installer language:
+          <li>Velg språk for installereren:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
-            alt="Select installer language"/></p>
+            alt="Velg språk for installereren"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Velg sted for installeringen, forhåndsvalget er bra:
             <p><img src="images/win10/05_inst_location-sme-en.png"
-            alt="Installation location"/></p>
+            alt="Installeringssted"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Velg Start-menyplassering, forhåndsvalget er bra:
             <p><img src="images/win10/06_start_menu-sme-en.png"
-            alt="Start menu"/></p>
+            alt="Start-menyplassering"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Du er nå klar til å installere:
             <p><img src="images/win10/07_ready_to_install-sme-en.png"
-            alt="Ready to install"/></p>
+            alt="Klar til å installere"/></p>
             <p><img src="images/win10/08_installing-sme-en.png"
-            alt="Installing"/></p>
+            alt="Installerer"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
-            <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
+          <li>Du må <strong>Omstart</strong>e etter installeringen for å sikre
+            at tastaturet fungerer som det skal:
+            <p><img src="images/win10/09_restart-sme-en.png" alt="Omstart"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>Etter omstarten dukker det nye tastaturet / de nye tastaturene opp
+            i tastaturmenyen (om ikke: fortsett som beskrevet i neste avsnitt):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
             alt="Keyboard menu"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
+      <title>Innstillinger</title>
+        <p>Installeringen over burde automatisk ha slått på det nye tastaturet /
+        de nye tastaturene. Dersom dette ikke skjer, eller du ønsker å endre
+        innstillingene, kan du gjøre følgende:</p>
   
         <ol>
           <li>Gå til <strong>Start</strong>-menyen, og klikk på
@@ -70,54 +69,52 @@
           </li>
           <li>Trykk <strong>Legg til et språk</strong>:
               <p><img src="images/win10/prefs-time_and_lang-no.png"
-              alt="Språk" /></p>
+              alt="Knapp for å legge til språk" /></p>
           </li>
           <li>Velg <strong>Julevsámegiella</strong> ved å klikke på det:
               <p><img src="images/win10/prefs-add-smj-no.png"
-              alt="Legg til språk"/></p>
+              alt="Legg til valgt språk"/></p>
           </li>
           <li>Velg den varianten av <strong>Julevsámegiella</strong> som passer
               for deg:
               <p><img src="images/win10/prefs-add-smj-norway-no.png"
-              alt="Regionale varianter"/></p>
+              alt="Velg regional variant"/></p>
           </li>
           <li>Marker <strong>Julevsámegiella</strong> og trykk
               <strong>Alternativer</strong>:
               <p><img src="images/win10/prefs-modify-smj-no.png"
-              alt="Språk etter å ha valgt nordsamisk"/></p>
+              alt="Innstillinger for språket du har valgt"/></p>
           </li>
           <li>Trykk <strong>Legg til et tastatur</strong>:
               <p><img src="images/win10/prefs-add-keyboard-smj-no.png"
-              alt="Språkalternativer"/></p>
+              alt="Legg til tastatur for språket"/></p>
           </li>
           <li>Velg <strong>Samisk, utvidet Norge</strong>:
               <p><img src="images/win10/prefs-add-smj-extended-norway-no.png"
-              alt="Inndatametode"/></p>
+              alt="Velg tastatur"/></p>
           </li>
           <li>Marker <strong>Norsk med samisk</strong> og trykk
               <strong>Fjern</strong>:
               <p><img
               src="images/win10/prefs-remove-norw_with_sami-keyboard-smj-no.png"
-              alt="Språkalternativer: Fjern norsk med samisk"/></p>
+              alt="Fjern det forrige tastaturet"/></p>
           </li>
           <li>Da har du <strong>Julevsámegiella (Vuodna)</strong> som et
               inndataspråk med tastaturet <strong>Samisk, utvidet
               Norge</strong>:
               <p><img src="images/win10/keyboard-done-smj-no.png"
-              alt="Språk med nordsamisk ferdigvalgt"/></p>
+              alt="Språk med tastatur ferdigkonfigurert"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Switching keyboards</title>
-        <ol>
-          <li>For å skifte mellom tastatur og dermed språk trykker du 
-              <strong>Windows+mellomrom</strong> til det lulesamiske tastaturet
-              er aktivt:
-              <p><img src="images/win10/switching-keyboards-smj-no.png"
-              alt="Språk med nordsamisk ferdigvalgt"/></p>
-          </li>
-        </ol>
+      <title>Bytte tastatur</title>
+        <p>
+          For å bytte mellom tastatur og dermed språk trykker du 
+          <strong>Windows+mellomrom</strong> til tastaturet ditt er aktivt:
+        </p>
+        <p><img src="images/win10/switching-keyboards-smj-no.png"
+          alt="Bytte mellom tastatur og språk"/></p>
       </section>
     </body>
 </document>
