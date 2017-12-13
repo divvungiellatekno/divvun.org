@@ -22,9 +22,9 @@
             <title>Sajájduhte 3.0</title>
             <ol>
                 <li>Viettja <a href="http://divvun.no/static_files/msofficedivvuntools-3.0.0.msi">3.0</a></li>
-                <li>Kjør installasjonsprogrammet</li>
-                <li>Åpne Filhåndtereren, gå til «Min datamaskin -> Lokal disk -> Programfiler (x86) -> Divvun»</li>
-                <li>Dobbelttrykk create_hkcu</li>
+                <li>Álge sajájduhttemprográmmav</li>
+                <li>Rabá Filhåndtereren, maná diek: «Min datamaskin -> Lokal disk -> Programfiler (x86) -> Divvun»</li>
+                <li>Guokti dieddela create_hkcu</li>
             </ol>
             <figure alt="Aktiver 3.0" src="images/windows-fix-3.0.png" width="100%" />
         </section>
