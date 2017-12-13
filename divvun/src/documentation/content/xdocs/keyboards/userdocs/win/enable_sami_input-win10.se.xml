@@ -3,66 +3,69 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Installing, configuring and switching keyboards in
-        Windows 10</title>
+        <title>Sajáiduhttit, heivehit ja molsut boallobevddiid Windows 10:s</title>
     </header>
     <body>
       <section>
-      <title>Installation</title>
+      <title>Sajáiduhttin</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+          <li>Mana <a
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvuma
+            siidui gos gávnnat boallobevddiid</a>, ja coahkkal
+            <strong>Windows 10 viežžanliŋkka</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
-            alt="Download"/></p>
+            alt="Viežžan"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Vuoje</strong> sajáiduhtti maid vižžet:
             <p><img src="images/win10/02_run-installer-sme-en.png"
-            alt="Run installer"/></p>
+            alt="Vuoje sajáiduhtti"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Suova</strong> sajáiduhtti dahkat rievdadusaid:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
-            alt="Allow changes"/></p>
+            alt="Suova sajáiduhtti dahkat rievdadusaid"/></p>
           </li>
-          <li>Select installer language:
+          <li>Vállje sajáiduhtti giela:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
-            alt="Select installer language"/></p>
+            alt="Vállje sajáiduhtti giela"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Vállje gosa bidjá fiillaid. Ale rievdat jus eai
+          leat erenoamáš dárbbut:
             <p><img src="images/win10/05_inst_location-sme-en.png"
-            alt="Installation location"/></p>
+            alt="Gosa bidjá fiillaid"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Vállje báikki <strong>Start</strong>-fálus. Ale rievdat jus eai
+          leat erenoamáš dárbbut:
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Dál leat gárvvis sajáiduhttigoahtit:
             <p><img src="images/win10/07_ready_to_install-sme-en.png"
-            alt="Ready to install"/></p>
+            alt="Gárvvis sajáiduhttigoahtit"/></p>
             <p><img src="images/win10/08_installing-sme-en.png"
-            alt="Installing"/></p>
+            alt="Sajáiduhttin"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
-            <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
+          <li>Ođđa boallobevddit doaibmagohtet albma láhkai easka maŋŋago
+              leat <strong>vuolggahan dihtora ođđasit</strong>:
+            <p><img src="images/win10/09_restart-sme-en.png"
+                alt="Vuolggahit dihtora ođđasit"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>Maŋŋágo dihtor lea ođđasit vuolggahuvvon, ođđa boallobeavddit
+              galggašedje ihtit boallobeavdefálus (jus eai, čuovo bagadasa
+              vuollelis):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
-            alt="Keyboard menu"/></p>
+            alt="Boallobeavdefállu"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
-  
+      <title>Heivehus</title>
+        <p>Sajáiduhtti dábálaččat heiveha ođđa sajáiduvvon boallobevddiid.
+            Jus dát ii leat dáhpáhuvvan, dahje jus háliidat rievdadit heivehusa,
+            daga ná:</p>
+
         <ol>
           <li>Mana <strong>Start</strong>-fállui ja coahkkal
-              <strong>Innstillinger</strong>:
+              <strong>heivehusaid</strong>:
               <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
           </li>
           <li>Mana <strong>Tid og språk</strong>-merkošii:
@@ -108,7 +111,7 @@
         </ol>
       </section>
       <section>
-      <title>Switching keyboards</title>
+      <title>Molsut boallobeavddi</title>
         <ol>
           <li>Boallobeavddis deaddilat
               <strong>Windows+gaska</strong> dassáigo davvisámi boallobeavdi lea
