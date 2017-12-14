@@ -7,9 +7,10 @@
         10.9-10.12</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
-       Below you'll find instructions on how to download and install keyboards,
-       enable them, and how to switch easily among the enabled keyboards.</p>
+       <p>För att enkelt kunna skriva på samiska så bör du använda ett samiskt 
+       tangentbord. Under finner du instruktioner för hur man laddar ned och
+       installerar tangentbord, slår på dem, och hur man smidigt växlar mellan
+       påslagna tangentbord.</p>
       <section>
         <title>Installation</title>
         <ol>
@@ -22,7 +23,7 @@
           </li>
           <li>Klicka på <strong>Show downloads</strong>-knappen, och sen
             på <strong>Show in Finder</strong>-symbolen:
-            <p><img alt="Visa installerarpaketet i Finder"
+            <p><img alt="Visa installationspaketet i Finder"
             src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
           </li>
           <li>Dubbelklicka på installationspaketet:
@@ -58,10 +59,10 @@
         använda dem. Gör så här:</p>
   
         <ol>
-          <li>Öppna <strong>Systemvalg…</strong> via the Apple menu:
+          <li>Öppna <strong>Systemvalg…</strong> via Apple-menyn:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
-            Or via the Dock:
+            Eller via the Docken:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
@@ -73,7 +74,7 @@
           </li>
 
           <li>Klicka på fliken <strong>Indatametoder</strong> och klicka sen på
-            pluss-tecknet i nedra, vänstra hörnet:
+            plus-tecknet i nedre, vänstra hörnet:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
             Försäkra dig om att avkryssningsrutan <strong>Visa tangentbordsmenyn
@@ -81,7 +82,7 @@
           </li>
 
           <li>Välj det samiska tangentbordet du vill använda, och klicka på
-            <strong>Lägg til</strong>:
+            <strong>Lägg till</strong>:
             <p><img alt="Legge til samisk tastatur"
             src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
           </li>

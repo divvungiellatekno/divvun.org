@@ -7,9 +7,9 @@
         10.9:s-10.12:s</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
-       Below you'll find instructions on how to download and install keyboards,
-       enable them, and how to switch easily among the enabled keyboards.</p>
+       <p>Jos sámi áigu čállit, de galggalii atnit sámi boallobeavdehámuhusaid.
+       Vuollelis leat bagadusat das got viežžá, sajáiduhttá
+       ja heiveha daid, ja got daid álkit molsu.</p>
       <section>
         <title>Sajáiduhttin</title>
         <ol>
@@ -34,7 +34,7 @@
             <p><img alt="Álggat sajáiduhttima"
             src="images/04-10.12-installer-start-eng.png" /></p>
           </li>
-          <li>Muhtin sajáiduhtiin leat dieđut boallobeavdehámuhusaid birra:
+          <li>Muhtin sajáiduhttiin leat dieđut boallobeavdehámuhusaid birra:
             <p><img alt="Sajáiduhtti Readme"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
@@ -42,7 +42,7 @@
             <p><img alt="Gárvvis sajáiduhttimii"
             src="images/06-10.12-installation-type-eng.png" /></p>
           </li>
-          <li>Dárbbašat hálddašanvuoigatvuođaid go sajáiduhttá dán páhka:
+          <li>Dárbbašat hálddašanvuoigatvuođaid go sajáiduhtát dán páhka:
             <p><img alt="Hálddašanvuoigatvuođat"
             src="images/07-10.12-installer-admin-eng.png" /></p>
           </li>
@@ -56,14 +56,14 @@
       <section>
         <title>Heivehit</title>
         <p>
-            Maŋŋa sajáiduhttima fertet heivehit ođđa boallobeavdehámuhusaid.
+            Maŋŋá sajáiduhttima fertet heivehit ođđa boallobeavdehámuhusaid.
             Daga ná:</p>
 
         <ol>
           <li>Raba <strong>Systemvalg…</strong> Apple-fálus:
             <p><img alt="Raba &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
-            Or via the Dock:
+            Dehege Dock-fálus:
             <p><img alt="Raba &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
@@ -73,8 +73,8 @@
             src="images/21-10.12-systempref-nob.png" /></p>
           </li>
 
-          <li>Coahkkal gilkora <strong>Inndatametorder</strong> ja coahkkal
-            plussmearkka vuollin gurut čiegas:
+          <li>Coahkkal gilkora <strong>Inndatametoder</strong> ja coahkkal
+            plussa-mearkka vuollin gurut čiegas:
             <p><img alt="Lasihit sámi boallobeavddi"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
             Dárkkis ahte <strong>Show Input menu in menu bar</strong>-boksa
@@ -97,7 +97,7 @@
         <p><img alt="Vállje sámi boallobeavddi čállimii"
         src="images/30-10.12-keyboard_menu-nob.png" /></p>
 
-        <p>Njuovžileamus vuohki molsut boallobevddiid gaskkas
+        <p>Njuovžileamos vuohki molsut boallobevddiid gaskkas
            lea deaddilit <strong>Ctrl-gaska (⌃-␣ )</strong>.</p>
       </section>
 
