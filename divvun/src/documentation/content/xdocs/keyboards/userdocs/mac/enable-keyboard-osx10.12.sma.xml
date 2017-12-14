@@ -3,49 +3,48 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-        <title>Installing, enabling and switching keyboards in macOS
+        <title>Sijjiedehtedh, sjïehtesjidh jïh målsodh båaloebuertiej gaskems macOS:sne
         10.9-10.12</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
-       Below you'll find instructions on how to download and install keyboards,
-       enable them, and how to switch easily among the enabled keyboards.</p>
+       <p>Gosse aelhkieslaakan saemiengïelesne tjaeledh, dle saemien båaloebuertiem daarpesjh.
+       Vuelelen gaavnah bïhkedassh guktie båaloebuertide sijjiedehtedh, jïh sjïehtesjidh  guktie maahta aelhkieslaakan målsodh dej baåloejbuertiej gaskems.</p>
       <section>
-        <title>Installation</title>
+        <title>Sijjiedehtedh</title>
         <ol>
-          <li>Go to the <a
+          <li>Mïnnh <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for the keyboard installer</strong>:
+            båaloebuertiej sæjrose</a>, jïh diedtieh
+            <strong>svaalhtesem gosse båaloebuertiem sijjiedehtedh</strong>:
             <p><img alt="Download installer"
             src="images/01-10.12-download-keyboard-eng.png" /></p>
           </li>
-          <li>Click on the <strong>Show downloads</strong> button, and then
-            click on the <strong>Show in Finder</strong> button:
+          <li>Diedtieh <strong>Vuesehth</strong> båaloem, jïh dle diedtieh
+            <strong>Show in Finder</strong> båaloem:
             <p><img alt="Show installer package in Finder"
             src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
           </li>
-          <li>Double click the installer package:
+          <li>Guektien aejkien diedtieh dam sijjiedehteme-klåbpoem:
             <p><img alt="Open installer package"
             src="images/03-10.12-keyboard-installer-eng.png" /></p>
           </li>
-          <li>The installer will start:
+          <li>Dle aalka sijjiedehtedh:
             <p><img alt="Start installation"
             src="images/04-10.12-installer-start-eng.png" /></p>
           </li>
-          <li>Some installers will contain information about the keyboard(s):
+          <li>Gosse sijjiedehtedh, dle naakenh naan bïevnesh dej båaloebuertiej bïjre utnieh:
             <p><img alt="Installer Readme"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
-          <li>You are ready to install:
+          <li>Datne daelie sijjiedahteme:
             <p><img alt="Ready to install"
             src="images/06-10.12-installation-type-eng.png" /></p>
           </li>
-          <li>Installation requires administrator privileges:
+          <li>Gosse sijjiedehtedh, tjoeverh administratovrine årrodh:
             <p><img alt="Administrator privileges required"
             src="images/07-10.12-installer-admin-eng.png" /></p>
           </li>
-          <li>Installation is done:
+          <li>Sijjiedahteme:
             <p><img alt="Installation done"
             src="images/08-10.12-installer-done-eng.png" /></p>
           </li>
@@ -53,9 +52,8 @@
       </section>
 
       <section>
-        <title>Enabling</title>
-        <p>After installation you still need to enable the new keyboard(s) to be
-        able to use it/them. Do as follows:</p>
+        <title>Sjïiehtesjidh</title>
+        <p>Mænngan goh leah sijjiedahteme, dle tjoeverh sjïehtesjidh dam orre båaloebuertiem jis edtjh buektiehtidh dam/dejtie utnedh. Darjoeh dle nimhtie:</p>
   
         <ol>
           <li>Rïhpesth <strong>Systemvalg…</strong> via the Apple menu:
@@ -89,7 +87,7 @@
       </section>
 
       <section>
-        <title>Switching keyboards</title>
+        <title>målsodh båaloebuertiej gaskems</title>
         <p>Minngiegeatjan dle veeljh dam saemien båaloebuertiem, gosse saemien
         tjaeledh:</p>
 
