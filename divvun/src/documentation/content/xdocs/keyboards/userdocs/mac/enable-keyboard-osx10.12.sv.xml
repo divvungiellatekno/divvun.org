@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
    <header>
-        <title>Installing, enabling and switching keyboards in macOS
+        <title>Installera, slå på och växla mellan tangentbord i macOS
         10.9-10.12</title>
    </header>
    <body>
@@ -13,49 +13,49 @@
       <section>
         <title>Installation</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for the keyboard installer</strong>:
-            <p><img alt="Download installer"
+          <li>Gå till <a
+            href="http://divvun.no/no/keyboards/desktopindex.html"
+            >nerladdningssidan för tangentbord</a>, och klicka på
+            <strong>nerladdningslänken för tangentbordsinstalleraren</strong>:
+            <p><img alt="Ladda ner installeraren"
             src="images/01-10.12-download-keyboard-eng.png" /></p>
           </li>
-          <li>Click on the <strong>Show downloads</strong> button, and then
-            click on the <strong>Show in Finder</strong> button:
-            <p><img alt="Show installer package in Finder"
+          <li>Klicka på <strong>Show downloads</strong>-knappen, och sen
+            på <strong>Show in Finder</strong>-symbolen:
+            <p><img alt="Visa installerarpaketet i Finder"
             src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
           </li>
-          <li>Double click the installer package:
-            <p><img alt="Open installer package"
+          <li>Dubbelklicka på installationspaketet:
+            <p><img alt="Öppna installationspaketet"
             src="images/03-10.12-keyboard-installer-eng.png" /></p>
           </li>
-          <li>The installer will start:
-            <p><img alt="Start installation"
+          <li>Installeraren startar:
+            <p><img alt=">Installeraren startar"
             src="images/04-10.12-installer-start-eng.png" /></p>
           </li>
-          <li>Some installers will contain information about the keyboard(s):
-            <p><img alt="Installer Readme"
+          <li>Vissa installerare innehåller information om tangentborden:
+            <p><img alt="Läsmig för tangentborden"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
-          <li>You are ready to install:
-            <p><img alt="Ready to install"
+          <li>Du är nu redo att installera:
+            <p><img alt="Redo att installera"
             src="images/06-10.12-installation-type-eng.png" /></p>
           </li>
-          <li>Installation requires administrator privileges:
-            <p><img alt="Administrator privileges required"
+          <li>Installationen kräver administratorsrättigheter:
+            <p><img alt="Administratorsrättigheter behövs"
             src="images/07-10.12-installer-admin-eng.png" /></p>
           </li>
-          <li>Installation is done:
-            <p><img alt="Installation done"
+          <li>Installationen är klar:
+            <p><img alt="Installationen är klar"
             src="images/08-10.12-installer-done-eng.png" /></p>
           </li>
         </ol>
       </section>
 
       <section>
-        <title>Enabling</title>
-        <p>After installation you still need to enable the new keyboard(s) to be
-        able to use it/them. Do as follows:</p>
+        <title>Slå på tangentborden</title>
+        <p>Efter installationen måste du aktivera tangentborden för att kunna
+        använda dem. Gör så här:</p>
   
         <ol>
           <li>Öppna <strong>Systemvalg…</strong> via the Apple menu:
@@ -76,8 +76,8 @@
             pluss-tecknet i nedra, vänstra hörnet:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
-            Ensure that the <strong>Show Input menu in menu bar</strong> check
-            box is checked.</p>
+            Försäkra dig om att avkryssningsrutan <strong>Visa tangentbordsmenyn
+            i menylinjen</strong> är ikryssad.</p>
           </li>
 
           <li>Välj det samiska tangentbordet du vill använda, och klicka på
@@ -89,7 +89,7 @@
       </section>
 
       <section>
-        <title>Switching keyboards</title>
+        <title>Växla mellan tangentborden</title>
         <p>Du kan välja det samiska tangentbordet i tangentbordsmenyn till
         höger i menyraden när du skriver samiska:</p>
 
