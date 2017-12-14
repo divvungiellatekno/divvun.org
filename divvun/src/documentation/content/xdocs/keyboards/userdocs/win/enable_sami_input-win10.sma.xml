@@ -3,29 +3,29 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Installing, configuring and switching keyboards in
-        Windows 10</title>
+        <title>Sijjiedehtedh, configuring jïh målsodh båaloebuertiej gaskems
+        Windows 10:sne</title>
     </header>
     <body>
       <section>
-        <title>Installation</title>
+        <title>Sijjiedehtedh</title>
         <ol>
-          <li>Go to the <a
+          <li>Mïnnh <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+            båaloebuertiej sijjiedehteme-sæjrose</a>, diedtieh
+            <strong>sijjiedehteme-svaalhtesem Windows 10:an</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
             alt="Download"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Vuejehth</strong>aalka sijjiedehtedh:
             <p><img src="images/win10/02_run-installer-sme-en.png"
             alt="Run installer"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Baajh</strong>the installer to make changes:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
             alt="Allow changes"/></p>
           </li>
-          <li>Select installer language:
+          <li>Veeljh magkerem sijjiedehteme-gïelem datne sïjhth:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
             alt="Select installer language"/></p>
           </li>
@@ -37,18 +37,17 @@
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Aelkieh dle daelie sijjiedehtedh:
             <p><img src="images/win10/07_ready_to_install-sme-en.png"
             alt="Ready to install"/></p>
             <p><img src="images/win10/08_installing-sme-en.png"
             alt="Installing"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
+          <li>Tjoeverh ikth vielie <strong>Vuejiehtidh</strong> Mænngan sijjiedehtemem, tjoeverh vuartasjidh mejtie båaloebuertie jåhta guktie edtja juhtedh:
             <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>Mænngan goh leah ikth-vielie aelkiehtamme, dellie dïhte orre båaloebuertie jæjhta 
+             (jis ij, darjoeh dle dam mij vuelelen tjåådtje):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
             alt="Keyboard menu"/></p>
           </li>
@@ -95,7 +94,7 @@
               alt="Inndatametode"/></p>
           </li>
           <li>Mïerkesjh <strong>Norsk med samiska språk</strong> jïh diedtieh
-              <strong>Ta bort</strong>:
+              <strong>sliejhtieh</strong>:
               <p><img
               src="images/win10/prefs-remove-norw_with_sami-keyboard-sv.png"
               alt="Språkalternativer: Fjern norsk med samisk"/></p>
@@ -109,9 +108,9 @@
         </ol>
       </section>
       <section>
-        <title>Switching keyboards</title>
+        <title>Målsodh båaloebuertiej gaskems</title>
         <p>
-          Gosse båaloebuertiem låtnodh jïh aaj gïelem 
+          Gosse båaloebuertiem målsodh jïh aaj gïelem 
           <strong>Windows+gaskoe</strong> gosk dïhte åarjelsaemien
           båaloebuertie lea juhtiemisnie:
         </p>
