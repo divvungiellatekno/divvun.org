@@ -3,66 +3,68 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
    <header>
-        <title>Installing, enabling and switching keyboards in macOS
-        10.9-10.12</title>
+        <title>Sajáiduhttit, heivehit ja molsut boallobeavdehámuhusaid macOS
+        10.9:s-10.12:s</title>
    </header>
    <body>
        <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
        Below you'll find instructions on how to download and install keyboards,
        enable them, and how to switch easily among the enabled keyboards.</p>
       <section>
-        <title>Installation</title>
+        <title>Sajáiduhttin</title>
         <ol>
-          <li>Go to the <a
+          <li>Mana <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for the keyboard installer</strong>:
-            <p><img alt="Download installer"
+            Divvuma
+            siidui gos gávnnat boallobeavdehámuhusaid</a>, ja coahkkal
+            <strong>viežžanliŋkka sajáiduhttái</strong>:
+            <p><img alt="Viežžat sajáiduhtti"
             src="images/01-10.12-download-keyboard-eng.png" /></p>
           </li>
-          <li>Click on the <strong>Show downloads</strong> button, and then
-            click on the <strong>Show in Finder</strong> button:
-            <p><img alt="Show installer package in Finder"
+          <li>Coahkkal <strong>Show downloads</strong>-boalu, ja de
+              coahkkal <strong>Show in Finder</strong>-boalu:
+            <p><img alt="Čájet sajáiduhttinpáhka Finderis"
             src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
           </li>
-          <li>Double click the installer package:
-            <p><img alt="Open installer package"
+          <li>Duppalcoahkkal sajáiduhttinpáhka:
+            <p><img alt="Raba sajáiduhttinpáhka"
             src="images/03-10.12-keyboard-installer-eng.png" /></p>
           </li>
-          <li>The installer will start:
-            <p><img alt="Start installation"
+          <li>Sajáiduhtti vuolgá johtui:
+            <p><img alt="Álggat sajáiduhttima"
             src="images/04-10.12-installer-start-eng.png" /></p>
           </li>
-          <li>Some installers will contain information about the keyboard(s):
-            <p><img alt="Installer Readme"
+          <li>Muhtin sajáiduhtiin leat dieđut boallobeavdehámuhusaid birra:
+            <p><img alt="Sajáiduhtti Readme"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
-          <li>You are ready to install:
-            <p><img alt="Ready to install"
+          <li>Dál sáhtát duođas sajáiduhttigoahtit:
+            <p><img alt="Gárvvis sajáiduhttimii"
             src="images/06-10.12-installation-type-eng.png" /></p>
           </li>
-          <li>Installation requires administrator privileges:
-            <p><img alt="Administrator privileges required"
+          <li>Dárbbašat hálddašanvuoigatvuođaid go sajáiduhttá dán páhka:
+            <p><img alt="Hálddašanvuoigatvuođat"
             src="images/07-10.12-installer-admin-eng.png" /></p>
           </li>
-          <li>Installation is done:
-            <p><img alt="Installation done"
+          <li>Sajáiduhttin gearggai:
+            <p><img alt="Sajáiduhttin gearggai"
             src="images/08-10.12-installer-done-eng.png" /></p>
           </li>
         </ol>
       </section>
 
       <section>
-        <title>Enabling</title>
-        <p>After installation you still need to enable the new keyboard(s) to be
-        able to use it/them. Do as follows:</p>
-  
+        <title>Heivehit</title>
+        <p>
+            Maŋŋa sajáiduhttima fertet heivehit ođđa boallobeavdehámuhusaid.
+            Daga ná:</p>
+
         <ol>
-          <li>Raba <strong>Systemvalg…</strong> via the Apple menu:
+          <li>Raba <strong>Systemvalg…</strong> Apple-fálus:
             <p><img alt="Raba &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
             Or via the Dock:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            <p><img alt="Raba &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
@@ -75,8 +77,8 @@
             plussmearkka vuollin gurut čiegas:
             <p><img alt="Lasihit sámi boallobeavddi"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
-            Ensure that the <strong>Show Input menu in menu bar</strong> check
-            box is checked.</p>
+            Dárkkis ahte <strong>Show Input menu in menu bar</strong>-boksa
+            lea merkejuvvon.</p>
           </li>
 
           <li>Vállje dan sámi boallobeavddi maid háliidat ja coahkkal
@@ -88,7 +90,7 @@
       </section>
 
       <section>
-        <title>Switching keyboards</title>
+        <title>Molsut boallobeavdehámuhusaid</title>
         <p>Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit
            sámegiela:</p>
 
