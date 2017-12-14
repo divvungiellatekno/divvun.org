@@ -3,14 +3,59 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-      <title>Enable the Sámi keyboards in macOS 10.9-10.12</title>
+        <title>Installing, enabling and switching keyboards in macOS
+        10.9-10.12</title>
    </header>
    <body>
-       <p>Gosse aelhkieslaakan saemien tjaeledh, dle saemien båaloebuertiem daaarpsjh.
-       Daennie bielesne boejhkelibie guktie dam åtnose vaeltedh.</p>
-       <p>JIs daarpesjh jeatjah båaloebuertiem goh noerhtesaemien, dle daarpsjh dam voestegh darjodh <a href="../../desktopindex.html">Bïejh
-       dam båaloebuertiem maam sïjhth</a>.</p>
-
+       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
+       Below you'll find instructions on how to download and install keyboards,
+       enable them, and how to switch easily among the enabled keyboards.</p>
+      <section>
+        <title>Installation</title>
+        <ol>
+          <li>Go to the <a
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
+            keyboard download page</a>, and click on the
+            <strong>download link for the keyboard installer</strong>:
+            <p><img alt="Download installer"
+            src="images/01-10.12-download-keyboard-eng.png" /></p>
+          </li>
+          <li>Click on the <strong>Show downloads</strong> button, and then
+            click on the <strong>Show in Finder</strong> button:
+            <p><img alt="Show installer package in Finder"
+            src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
+          </li>
+          <li>Double click the installer package:
+            <p><img alt="Open installer package"
+            src="images/03-10.12-keyboard-installer-eng.png" /></p>
+          </li>
+          <li>The installer will start:
+            <p><img alt="Start installation"
+            src="images/04-10.12-installer-start-eng.png" /></p>
+          </li>
+          <li>Some installers will contain information about the keyboard(s):
+            <p><img alt="Installer Readme"
+            src="images/05-10.12-installer-readme-eng.png" /></p>
+          </li>
+          <li>You are ready to install:
+            <p><img alt="Ready to install"
+            src="images/06-10.12-installation-type-eng.png" /></p>
+          </li>
+          <li>Installation requires administrator privileges:
+            <p><img alt="Administrator privileges required"
+            src="images/07-10.12-installer-admin-eng.png" /></p>
+          </li>
+          <li>Installation is done:
+            <p><img alt="Installation done"
+            src="images/08-10.12-installer-done-eng.png" /></p>
+          </li>
+        </ol>
+      </section>
+      <section>
+        <title>Enabling</title>
+        <p>After installation you still need to enable the new keyboard(s) to be
+        able to use it/them. Do as follows:</p>
+  
        <p>1. Rïhpesth <strong>Systemvalg…</strong></p>
 
        <p><img alt="Åpne &quot;Systemvalg…&quot;"
@@ -32,6 +77,10 @@
        <p><img alt="Legge til samisk tastatur"
        src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
 
+      </section>
+      <section>
+        <title>Switching keyboards</title>
+
        <p>5. Minngiegeatjan dle veeljh dam saemien båaloebuertiem, gosse saemien tjaeledh:</p>
 
        <p><img alt="Velg samisk tastatur for skriving"
@@ -39,6 +88,8 @@
 
        <p>6. JIs edtjh sneehpeslaakan båaloebuertieh målsodh, dle maahtah daejtie nuhtjedh
        <strong>Cmd-gaskoe (⌘-␣ )</strong>.</p>
+
+      </section>
 
    </body>
 </document>
