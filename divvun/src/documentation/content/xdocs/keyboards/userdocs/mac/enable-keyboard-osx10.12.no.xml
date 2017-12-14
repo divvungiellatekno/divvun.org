@@ -55,30 +55,31 @@
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
         able to use it/them. Do as follows:</p>
-  
-       <p>1. Åpne <strong>Systemvalg…</strong></p>
 
-       <p><img alt="Åpne &quot;Systemvalg…&quot;"
-       src="images/systempref_menu-osx10.12-nob.png" /></p>
+        <ol>
+          <li>Åpne <strong>Systemvalg…</strong>
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/systempref_menu-osx10.12-nob.png" /></p>
+          </li>
 
-       <p>2. Klikk <strong>Tastatur</strong> eller skriv inn et passende søkeord
-       i søkefeltet:</p>
+          <li>Klikk <strong>Tastatur</strong> eller skriv inn et passende
+            søkeord i søkefeltet:
+            <p><img alt="Systemvalg…"
+            src="images/systempref-osx10.12-nob.png" /></p>
+          </li>
 
-       <p><img alt="Systemvalg…"
-       src="images/systempref-osx10.12-nob.png" /></p>
+          <li>Klikk på fliken <strong>Inndatametoder</strong> og klikk på
+            plusstegnet i nedre, venstre hjørne:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_input_method-osx10.12-nob.png" /></p>
+          </li>
 
-       <p>3. Klikk på fliken <strong>Inndatametoder</strong> og klikk på
-       plusstegnet i nedre, venstre hjørne:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_input_method-osx10.12-nob.png" /></p>
-
-       <p>4. Velg det samiske tastaturet du ønsker, og klikk <strong>Legg
-       til</strong>:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
-
+          <li>Velg det samiske tastaturet du ønsker, og klikk <strong>Legg
+            til</strong>:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
+          </li>
+        </ol>
       </section>
       <section>
         <title>Switching keyboards</title>

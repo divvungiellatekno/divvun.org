@@ -56,28 +56,30 @@
         <p>After installation you still need to enable the new keyboard(s) to be
         able to use it/them. Do as follows:</p>
   
-       <p>1. Avaa <strong>Järjestelmävalinta…</strong></p>
+        <ol>
+          <li>Avaa <strong>Järjestelmävalinta…</strong>
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/systempref_menu-osx10.12-nob.png" /></p>
+          </li>
 
-       <p><img alt="Åpne &quot;Systemvalg…&quot;"
-       src="images/systempref_menu-osx10.12-nob.png" /></p>
+          <li>Klikkaa <strong>Näppäimistö</strong> tai näppäile olennainen
+            hakutermi hakukenttään:
+            <p><img alt="Systemvalg…"
+            src="images/systempref-osx10.12-nob.png" /></p>
+          </li>
 
-       <p>2. Klikkaa <strong>Näppäimistö</strong> tai näppäile olennainen hakutermi
-       hakukenttään:</p>
+          <li>Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
+            plusmerkkiä alavasenkulmassa:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_input_method-osx10.12-nob.png" /></p>
+          </li>
 
-       <p><img alt="Systemvalg…"
-       src="images/systempref-osx10.12-nob.png" /></p>
-
-       <p>3. Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
-       plusmerkkiä alavasenkulmassa:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_input_method-osx10.12-nob.png" /></p>
-
-       <p>4. Valitse Saamen näppäimistö jonka haluat ja klikkaa <strong>Lisää</strong>:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
-
+          <li>Valitse Saamen näppäimistö jonka haluat ja klikkaa
+            <strong>Lisää</strong>:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
+          </li>
+        </ol>
       </section>
       <section>
         <title>Switching keyboards</title>

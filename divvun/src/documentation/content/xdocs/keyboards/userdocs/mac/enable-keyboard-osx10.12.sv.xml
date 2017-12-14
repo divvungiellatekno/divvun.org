@@ -56,29 +56,30 @@
         <p>After installation you still need to enable the new keyboard(s) to be
         able to use it/them. Do as follows:</p>
   
-       <p>1. Öppna <strong>Systemvalg…</strong></p>
+        <ol>
+          <li>Öppna <strong>Systemvalg…</strong>:
+          <p><img alt="Åpne &quot;Systemvalg…&quot;"
+          src="images/systempref_menu-osx10.12-nob.png" /></p>
+          </li>
 
-       <p><img alt="Åpne &quot;Systemvalg…&quot;"
-       src="images/systempref_menu-osx10.12-nob.png" /></p>
+          <li>Klicka på <strong>Tangentbord</strong> eller skriv in en relevant
+            sökterm i sökfältet:
+            <p><img alt="Systemvalg…"
+            src="images/systempref-osx10.12-nob.png" /></p>
+          </li>
 
-       <p>2. Klicka på <strong>Tangentbord</strong> eller skriv in en relevant
-       sökterm i sökfältet:</p>
+          <li>Klicka på fliken <strong>Indatametoder</strong> och klicka sen på
+            pluss-tecknet i nedra, vänstra hörnet:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_input_method-osx10.12-nob.png" /></p>
+          </li>
 
-       <p><img alt="Systemvalg…"
-       src="images/systempref-osx10.12-nob.png" /></p>
-
-       <p>3. Klicka på fliken <strong>Indatametoder</strong> och klicka sen på
-       pluss-tecknet i nedra, vänstra hörnet:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_input_method-osx10.12-nob.png" /></p>
-
-       <p>4. Välj det samiska tangentbordet du vill använda, och klicka på
-       <strong>Lägg til</strong>:</p>
-
-       <p><img alt="Legge til samisk tastatur"
-       src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
-
+          <li>Välj det samiska tangentbordet du vill använda, och klicka på
+            <strong>Lägg til</strong>:
+            <p><img alt="Legge til samisk tastatur"
+            src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
+          </li>
+        </ol>
       </section>
       <section>
         <title>Switching keyboards</title>
