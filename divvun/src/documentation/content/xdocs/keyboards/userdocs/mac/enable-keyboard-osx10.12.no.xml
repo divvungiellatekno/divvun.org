@@ -3,66 +3,66 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
    <header>
-        <title>Installing, enabling and switching keyboards in macOS
-        10.9-10.12</title>
+        <title>Installere, slå på og bytte tastatur i macOS 10.9-10.13</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
-       Below you'll find instructions on how to download and install keyboards,
-       enable them, and how to switch easily among the enabled keyboards.</p>
+       <p>For å kunne skrive effektivt på samisk bør man benytte et samisk
+       tastatur. Her er instruksjoner for hvordan du laster ned og installerer
+       tastaturene, hvordan du slår dem på, og hvordan du enkelt bytter mellom
+       dem.</p>
       <section>
-        <title>Installation</title>
+        <title>Installere tastaturene</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for the keyboard installer</strong>:
-            <p><img alt="Download installer"
+          <li>Gå til <a
+            href="http://divvun.no/no/keyboards/desktopindex.html"
+            >nedlastingssiden for tastaturer</a>, og klikk på
+            <strong>nedlastingslenken for tastaturinstallereren</strong>:
+            <p><img alt="Last ned installerer"
             src="images/01-10.12-download-keyboard-eng.png" /></p>
           </li>
-          <li>Click on the <strong>Show downloads</strong> button, and then
-            click on the <strong>Show in Finder</strong> button:
-            <p><img alt="Show installer package in Finder"
+          <li>Klikk på <strong>Show downloads</strong>-knappen, og deretter
+            på <strong>Show in Finder</strong>-symbolet:
+            <p><img alt="Vis installerer i Finder"
             src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
           </li>
-          <li>Double click the installer package:
-            <p><img alt="Open installer package"
+          <li>Dobbeltklikk på installererpakken:
+            <p><img alt="Åpne installererpakken"
             src="images/03-10.12-keyboard-installer-eng.png" /></p>
           </li>
-          <li>The installer will start:
-            <p><img alt="Start installation"
+          <li>Installereren starter:
+            <p><img alt="Installereren starter"
             src="images/04-10.12-installer-start-eng.png" /></p>
           </li>
-          <li>Some installers will contain information about the keyboard(s):
-            <p><img alt="Installer Readme"
+          <li>Noen installeringspakker inneholder informasjon om tastaturene:
+            <p><img alt="Lesmeg for installereren"
             src="images/05-10.12-installer-readme-eng.png" /></p>
           </li>
-          <li>You are ready to install:
-            <p><img alt="Ready to install"
+          <li>Du er nå klar til å installere:
+            <p><img alt="Klar til å installere"
             src="images/06-10.12-installation-type-eng.png" /></p>
           </li>
-          <li>Installation requires administrator privileges:
-            <p><img alt="Administrator privileges required"
+          <li>Installeringen krever administratorretter:
+            <p><img alt="Administratorretter kreves"
             src="images/07-10.12-installer-admin-eng.png" /></p>
           </li>
-          <li>Installation is done:
-            <p><img alt="Installation done"
+          <li>Installeringen er ferdig:
+            <p><img alt="Installeringen ferdig"
             src="images/08-10.12-installer-done-eng.png" /></p>
           </li>
         </ol>
       </section>
 
       <section>
-        <title>Enabling</title>
-        <p>After installation you still need to enable the new keyboard(s) to be
-        able to use it/them. Do as follows:</p>
+        <title>Slå på tastaturene</title>
+        <p>Etter installeringen må du slå på de nye tastaturene for å kunne
+        bruke dem. Gjør som følger:</p>
 
         <ol>
-          <li>Åpne <strong>Systemvalg…</strong> via the Apple menu:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+          <li>Åpne <strong>Systemvalg…</strong> via Apple-menyen:
+            <p><img alt="Åpne &quot;Systemvalg…&quot; via Eple-menyen"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
-            Or via the Dock:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            Eller via dokken:
+            <p><img alt="Åpne &quot;Systemvalg…&quot;via dokken"
             src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
@@ -76,8 +76,8 @@
             plusstegnet i nedre, venstre hjørne:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
-            Ensure that the <strong>Show Input menu in menu bar</strong> check
-            box is checked.</p>
+            Forsikre deg om at avkryssingsboksen <strong>Vis tastaturmenyen i
+            menylinjen</strong> er markert.</p>
           </li>
 
           <li>Velg det samiske tastaturet du ønsker, og klikk <strong>Legg
@@ -89,7 +89,7 @@
       </section>
 
       <section>
-        <title>Switching keyboards</title>
+        <title>Bytte mellom tastaturene</title>
         <p>Du kan velge det samiske tastaturet i tastaturmenyen, og
         skrive samisk raskt og effektivt:</p>
 
