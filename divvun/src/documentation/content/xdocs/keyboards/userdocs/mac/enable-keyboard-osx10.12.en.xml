@@ -58,26 +58,31 @@
         able to use it/them. Do as follows:</p>
   
         <ol>
-          <li>Open <strong>Systemvalg…</strong>
+          <li>Open <strong>System Preferences…</strong> via the Apple menu:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/20-10.12-systempref_menu-nob.png" /></p>
+            src="images/20-10.12-systempref_menu-eng.png" /></p>
+            Or via the Dock:
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
           <li>Click <strong>Keyboard</strong> or type a relevant search term
             in the search field:
             <p><img alt="Systemvalg…"
-            src="images/21-10.12-systempref-nob.png" /></p>
+            src="images/21-10.12-systempref-eng.png" /></p>
           </li>
 
-          <li>Click on the <strong>Input Method</strong> tab and click on the
+          <li>Click on the <strong>Input Sources</strong> tab and click on the
             plus sign in the lower left corner:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-eng.png" /><br/>
+            Ensure that the <strong>Show Input menu in menu bar</strong> check
+            box is checked.</p>
           </li>
 
           <li>Select the Sámi keyboard you want, and click <strong>Add</strong>:
             <p><img alt="Legge til samisk tastatur"
-            src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
+            src="images/23-10.12-systempref_add_keyboard-eng.png" /></p>
           </li>
         </ol>
       </section>
@@ -88,7 +93,7 @@
         in the menu list when writing Sámi:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"
-        src="images/30-10.12-keyboard_menu-nob.png" /></p>
+        src="images/30-10.12-keyboard_menu-eng.png" /></p>
 
         <p>To switch quickly between keyboard layouts you can use the keyboard
         shortcut <strong>Ctrl-space (⌃-␣ )</strong>.</p>

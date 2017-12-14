@@ -58,9 +58,12 @@
         able to use it/them. Do as follows:</p>
 
         <ol>
-          <li>Åpne <strong>Systemvalg…</strong>
+          <li>Åpne <strong>Systemvalg…</strong> via the Apple menu:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
+            Or via the Dock:
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
           <li>Klikk <strong>Tastatur</strong> eller skriv inn et passende
@@ -72,7 +75,9 @@
           <li>Klikk på fliken <strong>Inndatametoder</strong> og klikk på
             plusstegnet i nedre, venstre hjørne:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-nob.png" /><br/>
+            Ensure that the <strong>Show Input menu in menu bar</strong> check
+            box is checked.</p>
           </li>
 
           <li>Velg det samiske tastaturet du ønsker, og klikk <strong>Legg

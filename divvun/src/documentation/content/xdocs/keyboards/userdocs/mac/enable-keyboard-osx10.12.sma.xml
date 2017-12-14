@@ -58,9 +58,12 @@
         able to use it/them. Do as follows:</p>
   
         <ol>
-          <li>Rïhpesth <strong>Systemvalg…</strong>
+          <li>Rïhpesth <strong>Systemvalg…</strong> via the Apple menu:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
+            Or via the Dock:
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
           <li>Diedtieh <strong>Tastatur</strong> jallh tjaelieh dam maam ohtsh
@@ -72,7 +75,9 @@
           <li>Diedtieh <strong>Inndatametoder</strong> jïh diedtieh dam
             pluss-væhtam mij lea vuelnie dennie gårroeh kroenesne:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-nob.png" /><br/>
+            Ensure that the <strong>Show Input menu in menu bar</strong> check
+            box is checked.</p>
           </li>
 
           <li>Veeljh dam båaloebuertiem maam sïjhth jïh dle diedtieh

@@ -58,9 +58,12 @@
         able to use it/them. Do as follows:</p>
   
         <ol>
-          <li>Avaa <strong>Järjestelmävalinta…</strong>
+          <li>Avaa <strong>Järjestelmävalinta…</strong> via the Apple menu:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
+            Or via the Dock:
+            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+            src="images/20-10.12-systempref_dock-eng.png" /></p>
           </li>
 
           <li>Klikkaa <strong>Näppäimistö</strong> tai näppäile olennainen
@@ -72,7 +75,9 @@
           <li>Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
             plusmerkkiä alavasenkulmassa:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-nob.png" /><br/>
+            Ensure that the <strong>Show Input menu in menu bar</strong> check
+            box is checked.</p>
           </li>
 
           <li>Valitse Saamen näppäimistö jonka haluat ja klikkaa
