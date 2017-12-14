@@ -60,25 +60,25 @@
         <ol>
           <li>Avaa <strong>Järjestelmävalinta…</strong>
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/systempref_menu-osx10.12-nob.png" /></p>
+            src="images/20-10.12-systempref_menu-nob.png" /></p>
           </li>
 
           <li>Klikkaa <strong>Näppäimistö</strong> tai näppäile olennainen
             hakutermi hakukenttään:
             <p><img alt="Systemvalg…"
-            src="images/systempref-osx10.12-nob.png" /></p>
+            src="images/21-10.12-systempref-nob.png" /></p>
           </li>
 
           <li>Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
             plusmerkkiä alavasenkulmassa:
             <p><img alt="Legge til samisk tastatur"
-            src="images/systempref_input_method-osx10.12-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-nob.png" /></p>
           </li>
 
           <li>Valitse Saamen näppäimistö jonka haluat ja klikkaa
             <strong>Lisää</strong>:
             <p><img alt="Legge til samisk tastatur"
-            src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
+            src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
           </li>
         </ol>
       </section>
@@ -89,7 +89,7 @@
         valikkolistassa kun kirjoitat saamea:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"
-        src="images/keyboard_menu-osx10.12-nob.png" /></p>
+        src="images/30-10.12-keyboard_menu-nob.png" /></p>
 
         <p>Vaihtaaksesi nopeasti näppäimistösommitteiden välillä voit käyttää
         näppäimistöoikotietä <strong>Ctrl-väli (⌃-␣ )</strong>.</p>

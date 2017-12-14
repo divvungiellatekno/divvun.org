@@ -60,25 +60,25 @@
         <ol>
           <li>Öppna <strong>Systemvalg…</strong>:
           <p><img alt="Åpne &quot;Systemvalg…&quot;"
-          src="images/systempref_menu-osx10.12-nob.png" /></p>
+          src="images/20-10.12-systempref_menu-nob.png" /></p>
           </li>
 
           <li>Klicka på <strong>Tangentbord</strong> eller skriv in en relevant
             sökterm i sökfältet:
             <p><img alt="Systemvalg…"
-            src="images/systempref-osx10.12-nob.png" /></p>
+            src="images/21-10.12-systempref-nob.png" /></p>
           </li>
 
           <li>Klicka på fliken <strong>Indatametoder</strong> och klicka sen på
             pluss-tecknet i nedra, vänstra hörnet:
             <p><img alt="Legge til samisk tastatur"
-            src="images/systempref_input_method-osx10.12-nob.png" /></p>
+            src="images/22-10.12-systempref_input_method-nob.png" /></p>
           </li>
 
           <li>Välj det samiska tangentbordet du vill använda, och klicka på
             <strong>Lägg til</strong>:
             <p><img alt="Legge til samisk tastatur"
-            src="images/systempref_add_keyboard-osx10.12-nob.png" /></p>
+            src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
           </li>
         </ol>
       </section>
@@ -89,7 +89,7 @@
         höger i menyraden när du skriver samiska:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"
-        src="images/keyboard_menu-osx10.12-nob.png" /></p>
+        src="images/30-10.12-keyboard_menu-nob.png" /></p>
 
         <p>För att växla snabbt mellan olika tangentbord kan du använda
         genvägen <strong>Ctrl-mellanrum (⌃-␣ )</strong>.</p>
