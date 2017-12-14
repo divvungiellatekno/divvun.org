@@ -51,6 +51,7 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
@@ -81,18 +82,17 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Switching keyboards</title>
+        <p>Du kan välja det samiska tangentbordet i tangentbordsmenyn till
+        höger i menyraden när du skriver samiska:</p>
 
-       <p>5. Nu kan du välja det samiska tangentbordet i tangentbordsmenyn till
-       höger i menyraden när du skriver samiska:</p>
+        <p><img alt="Velg samisk tastatur for skriving"
+        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p><img alt="Velg samisk tastatur for skriving"
-       src="images/keyboard_menu-osx10.12-nob.png" /></p>
-
-       <p>6. För att växla snabbt mellan olika tangentbord kan du använda
-       genvägen <strong>Cmd-mellanrum (⌘-␣ )</strong>.</p>
-
+        <p>För att växla snabbt mellan olika tangentbord kan du använda
+        genvägen <strong>Ctrl-mellanrum (⌃-␣ )</strong>.</p>
       </section>
 
    </body>

@@ -51,6 +51,7 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
@@ -81,17 +82,17 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Switching keyboards</title>
+        <p>Minngiegeatjan dle veeljh dam saemien båaloebuertiem, gosse saemien
+        tjaeledh:</p>
 
-       <p>5. Minngiegeatjan dle veeljh dam saemien båaloebuertiem, gosse saemien tjaeledh:</p>
+        <p><img alt="Velg samisk tastatur for skriving"
+        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p><img alt="Velg samisk tastatur for skriving"
-       src="images/keyboard_menu-osx10.12-nob.png" /></p>
-
-       <p>6. JIs edtjh sneehpeslaakan båaloebuertieh målsodh, dle maahtah daejtie nuhtjedh
-       <strong>Cmd-gaskoe (⌘-␣ )</strong>.</p>
-
+        <p>JIs edtjh sneehpeslaakan båaloebuertieh målsodh, dle maahtah daejtie
+        nuhtjedh <strong>Ctrl-gaskoe (⌃-␣ )</strong>.</p>
       </section>
 
    </body>

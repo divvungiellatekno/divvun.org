@@ -51,6 +51,7 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
@@ -81,18 +82,17 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Switching keyboards</title>
+        <p>Du kan velge det samiske tastaturet i tastaturmenyen, og
+        skrive samisk raskt og effektivt:</p>
 
-       <p>5. Nå kan du velge det samiske tastaturet i tastaturmenyen, og
-       skrive samisk raskt og effektivt:</p>
+        <p><img alt="Velg samisk tastatur for skriving"
+        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p><img alt="Velg samisk tastatur for skriving"
-       src="images/keyboard_menu-osx10.12-nob.png" /></p>
-
-       <p>6. For å bytte raskt mellom ulike tastatur kan du bruke
-       tastekombinasjonen <strong>Cmd-mellomrom (⌘-␣ )</strong>.</p>
-
+        <p>For å bytte raskt mellom ulike tastaturer kan du bruke
+        tastekombinasjonen <strong>Ctrl-mellomrom (⌃-␣ )</strong>.</p>
       </section>
 
    </body>

@@ -51,6 +51,7 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
@@ -80,18 +81,17 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Switching keyboards</title>
+        <p>Choose the Sámi keyboard in the keyboard menu to the right
+        in the menu list when writing Sámi:</p>
 
-       <p>5. Finally choose the Sámi keyboard in the keyboard menu to the right
-       in the menu list when writing Sámi:</p>
+        <p><img alt="Velg samisk tastatur for skriving"
+        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p><img alt="Velg samisk tastatur for skriving"
-       src="images/keyboard_menu-osx10.12-nob.png" /></p>
-
-       <p>6. For å bytte raskt mellom ulike tastatur kan du bruke
-       tastekombinasjonen <strong>Cmd-mellomrom (⌘-␣ )</strong>.</p>
-
+        <p>For å bytte raskt mellom ulike tastatur kan du bruke
+        tastekombinasjonen <strong>Ctrl-mellomrom (⌃-␣ )</strong>.</p>
       </section>
 
    </body>

@@ -51,6 +51,7 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Enabling</title>
         <p>After installation you still need to enable the new keyboard(s) to be
@@ -80,18 +81,17 @@
           </li>
         </ol>
       </section>
+
       <section>
         <title>Switching keyboards</title>
-
-       <p>5. Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit
+        <p>Vállje de sámi boallobeavddi fálus olgešbealde go áiggut čállit
            sámegiela:</p>
 
-       <p><img alt="Vállje sámi boallobeavddi čállimii"
-       src="images/keyboard_menu-osx10.12-nob.png" /></p>
+        <p><img alt="Vállje sámi boallobeavddi čállimii"
+        src="images/keyboard_menu-osx10.12-nob.png" /></p>
 
-       <p>6. Njuovžileamus vuohki molsut boallobevddiid gaskkas
-           lea deaddilit <strong>Cmd-gaska (⌘-␣ )</strong>.</p>
-
+        <p>Njuovžileamus vuohki molsut boallobevddiid gaskkas
+           lea deaddilit <strong>Ctrl-gaska (⌃-␣ )</strong>.</p>
       </section>
 
    </body>
