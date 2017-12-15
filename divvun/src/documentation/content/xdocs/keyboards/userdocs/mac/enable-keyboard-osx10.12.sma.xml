@@ -3,12 +3,15 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
    <header>
-        <title>Sijjiedehtedh, sjïehtesjidh jïh målsodh båaloebuertiej gaskems macOS:sne
-        10.9-10.12</title>
+        <title>Sijjiedehtedh, sjïehtesjidh jïh målsodh båaloebuertiej gaskems
+        macOS:sne 10.9-10.13</title>
    </header>
    <body>
-       <p>Gosse aelhkieslaakan saemiengïelesne tjaeledh, dle saemien båaloebuertiem daarpesjh.
-       Vuelelen gaavnah bïhkedassh guktie båaloebuertide sijjiedehtedh, jïh sjïehtesjidh  guktie maahta aelhkieslaakan målsodh dej baåloejbuertiej gaskems.</p>
+       <p>Gosse aelhkieslaakan saemiengïelesne tjaeledh, dle saemien
+       båaloebuertiem daarpesjh.
+       Vuelelen gaavnah bïhkedassh guktie båaloebuertide sijjiedehtedh, jïh
+       sjïehtesjidh  guktie maahta aelhkieslaakan målsodh dej baåloejbuertiej
+       gaskems.</p>
       <section>
         <title>Sijjiedehtedh</title>
         <ol>
@@ -17,68 +20,72 @@
             båaloebuertiej sæjrose</a>, jïh diedtieh
             <strong>svaalhtesem gosse båaloebuertiem sijjiedehtedh</strong>:
             <p><img alt="Download installer"
-            src="images/01-10.12-download-keyboard-eng.png" /></p>
+            src="images/01-10.12-download-keyboard-nob.png" /></p>
           </li>
-          <li>Diedtieh <strong>Vuesehth</strong> båaloem, jïh dle diedtieh
-            <strong>Show in Finder</strong> båaloem:
+          <li>Diedtieh <strong>Vis nedlastinger</strong>-båaloem, jïh dle
+            diedtieh <strong>Vis i Finder</strong>-båaloem:
             <p><img alt="Show installer package in Finder"
-            src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
+            src="images/02-10.12-downloaded-keyboard-nob.png" /></p>
           </li>
           <li>Guektien aejkien diedtieh dam sijjiedehteme-klåbpoem:
             <p><img alt="Open installer package"
-            src="images/03-10.12-keyboard-installer-eng.png" /></p>
+            src="images/03-10.12-keyboard-installer-nob.png" /></p>
           </li>
           <li>Dle aalka sijjiedehtedh:
             <p><img alt="Start installation"
-            src="images/04-10.12-installer-start-eng.png" /></p>
+            src="images/04-10.12-installer-start-nob.png" /></p>
           </li>
-          <li>Gosse sijjiedehtedh, dle naakenh naan bïevnesh dej båaloebuertiej bïjre utnieh:
+          <li>Gosse sijjiedehtedh, dle naakenh naan bïevnesh dej båaloebuertiej
+            bïjre utnieh:
             <p><img alt="Installer Readme"
-            src="images/05-10.12-installer-readme-eng.png" /></p>
+            src="images/05-10.12-installer-readme-nob.png" /></p>
           </li>
           <li>Datne daelie sijjiedahteme:
             <p><img alt="Ready to install"
-            src="images/06-10.12-installation-type-eng.png" /></p>
+            src="images/06-10.12-installation-type-nob.png" /></p>
           </li>
           <li>Gosse sijjiedehtedh, tjoeverh administratovrine årrodh:
             <p><img alt="Administrator privileges required"
-            src="images/07-10.12-installer-admin-eng.png" /></p>
+            src="images/07-10.12-installer-admin-nob.png" /></p>
           </li>
           <li>Sijjiedahteme:
             <p><img alt="Installation done"
-            src="images/08-10.12-installer-done-eng.png" /></p>
+            src="images/08-10.12-installer-done-nob.png" /></p>
           </li>
         </ol>
       </section>
 
       <section>
         <title>Sjïehtesjidh</title>
-        <p>Mænngan goh leah sijjiedahteme, dle tjoeverh sjïehtesjidh dam orre båaloebuertiem jis edtjh buektiehtidh dam/dejtie utnedh. Darjoeh dle nimhtie:</p>
+        <p>Mænngan goh leah sijjiedahteme, dle tjoeverh sjïehtesjidh dam orre
+        båaloebuertiem jis edtjh buektiehtidh dam/dejtie utnedh. Darjoeh dle
+        nimhtie:</p>
   
         <ol>
-          <li>Rïhpesth <strong>Systeemeveeljemem…</strong> Apple menyine:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+          <li>Rïhpesth <strong>Systemvalg…</strong> Apple-menyine:
+            <p><img alt="Rïhpesth Systeemeveeljemem"
             src="images/20-10.12-systempref_menu-nob.png" /></p>
             Jallh Dock:en baaktoe:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/20-10.12-systempref_dock-eng.png" /></p>
+            <p><img alt="Åpne &quot;Systeemeveeljeme…&quot;"
+            src="images/20-10.12-systempref_dock-nob.png" /></p>
           </li>
 
-          <li>Diedtieh <strong>Båaloebuertiem</strong> jallh tjaelieh dam maam ohtsh
-            daase:
-            <p><img alt="Systemvalg…"
+          <li>Diedtieh <strong>Tastatur</strong> jallh tjaelieh dam maam
+            ohtsh daase:
+            <p><img alt="Båaloebuertie"
             src="images/21-10.12-systempref-nob.png" /></p>
           </li>
 
-          <li>Diedtieh <strong>Inndatametovde</strong> jïh diedtieh dam
+          <li>Diedtieh <strong>Inndatametoder</strong> jïh diedtieh dam
             pluss-væhtam mij lea vuelnie dennie gårroeh kroenesne:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-nob.png" /><br/>
-            Vuartesjh mejtie <strong>Inputmeny menyesne</strong>Vuartasjamme.</p>
+            Vuartesjh mejtie <strong>Vis tastaturmenyen i menylinjen</strong>
+            vuartasjamme.</p>
           </li>
 
           <li>Veeljh dam båaloebuertiem maam sïjhth jïh dle diedtieh
-            <strong>Lïssehth</strong>:
+            <strong>Legg til</strong>:
             <p><img alt="Legge til samisk tastatur"
             src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
           </li>
@@ -86,7 +93,7 @@
       </section>
 
       <section>
-        <title>målsodh båaloebuertiej gaskems</title>
+        <title>Målsodh båaloebuertiej gaskems</title>
         <p>Minngiegeatjan dle veeljh dam saemien båaloebuertiem, gosse saemien
         tjaeledh:</p>
 
