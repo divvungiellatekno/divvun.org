@@ -21,7 +21,7 @@
             <p><img src="images/win10/02_run-installer-sme-en.png"
             alt="Run installer"/></p>
           </li>
-          <li><strong>Baajh</strong>the installer to make changes:
+          <li><strong>Baajh</strong>sijjiedehtijem barkedh:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
             alt="Allow changes"/></p>
           </li>
@@ -29,11 +29,11 @@
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
             alt="Select installer language"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Veeljh dellie gosse sïjhth sijjiedehtedh, default lea hijven:
             <p><img src="images/win10/05_inst_location-sme-en.png"
             alt="Installation location"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Veeljh dellie gosse menyem bïejedh, default lea hijven:
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
@@ -55,19 +55,16 @@
       </section>
       <section>
         <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
-  
+        <p>Gosse sijjiedahteme dellie båaloebuertieh automatihke-laakan rïihpesieh. Jis eah leah rïhpesamme, jallh sïjhth dam sijjiedehtemem jeatjahtehtedh, darjoeh dle nimhtie:</p>
         <ol>
           <li>Mïnnh <strong>Start</strong>-menyese, jïh diedtieh
               <strong>Instälningar</strong>:
               <p><img src="images/win10/start_menu-sv.png" alt="Startmeny"/></p>
           </li>
-          <li>Diedtieh <strong>Tid och språk</strong>:
+          <li>Diedtieh <strong>Tïjje jïh gïele</strong>:
               <p><img src="images/win10/prefs-sv.png" alt="Kontrollpanel"/></p>
           </li>
-          <li>Diedtieh <strong>Lägg till ett språk</strong>:
+          <li>Diedtieh <strong>Lïssehth aktem vielie gïelem</strong>:
               <p><img src="images/win10/prefs-time_and_lang-sv.png"
               alt="Språk" /></p>
           </li>
@@ -81,19 +78,19 @@
               alt="Regionale varianter"/></p>
           </li>
           <li>Mïerkesjh <strong>Åarjelsaemiengïelem</strong> jïh diedtieh
-              <strong>Alternativ</strong>:
+              <strong>hiehtievuerriem</strong>:
               <p><img src="images/win10/prefs-modify-sma-sv.png"
               alt="Språk etter å ha valgt nordsamisk"/></p>
           </li>
-          <li>Diedtieh <strong>Lägg till ett tangentbord</strong>:
+          <li>Diedtieh <strong>Lïssehth aktem båaloebuertiem</strong>:
               <p><img src="images/win10/prefs-add-keyboard-sv.png"
               alt="Språkalternativer"/></p>
           </li>
-          <li>Veeljh <strong>Svensk för samiska språk</strong>:
+          <li>Veeljh <strong>Sveerjengïele saemien gïeligujmie</strong>:
               <p><img src="images/win10/prefs-add-sma-keyboard-sweden-sv.png"
               alt="Inndatametode"/></p>
           </li>
-          <li>Mïerkesjh <strong>Norsk med samiska språk</strong> jïh diedtieh
+          <li>Mïerkesjh <strong>Nöörjengïele saemiengïeligujmie</strong> jïh diedtieh
               <strong>sliejhtieh</strong>:
               <p><img
               src="images/win10/prefs-remove-norw_with_sami-keyboard-sv.png"
