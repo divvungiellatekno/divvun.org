@@ -60,7 +60,7 @@
         <ol>
           <li>Avaa <strong>Järjestelmäasetukset…</strong> Apple valikosta:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/20-10.12-systempref_menu-nob.png" /></p>
+            src="images/20-10.12-systempref_menu-fin.png" /></p>
             Tai Dockista:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_dock-fin.png" /></p>
@@ -72,7 +72,7 @@
             src="images/21-10.12-systempref-fin.png" /></p>
           </li>
 
-          <li>Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
+          <li>Klikkaa <strong>Syöttölähteet</strong> välilehteä ja klikkaa
             plusmerkkiä alavasenkulmassa:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-fin.png" /><br/>
@@ -94,7 +94,7 @@
         valikkolistassa kun kirjoitat saamea:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"
-        src="images/30-10.12-keyboard_menu-nob.png" /></p>
+        src="images/30-10.12-keyboard_menu-fin.png" /></p>
 
         <p>Vaihtaaksesi nopeasti näppäimistösommitteiden välillä voit käyttää
         näppäimistöoikotietä <strong>Ctrl-väli (⌃-␣ )</strong>.</p>
