@@ -19,36 +19,36 @@
             >nerladdningssidan för tangentbord</a>, och klicka på
             <strong>nerladdningslänken för tangentbordsinstalleraren</strong>:
             <p><img alt="Ladda ner installeraren"
-            src="images/01-10.12-download-keyboard-eng.png" /></p>
+            src="images/01-10.12-download-keyboard-swe.png" /></p>
           </li>
-          <li>Klicka på <strong>Show downloads</strong>-knappen, och sen
-            på <strong>Show in Finder</strong>-symbolen:
+          <li>Klicka på <strong>Visa hämtningar</strong>-knappen, och sen
+            på <strong>Visa i Finder</strong>-symbolen:
             <p><img alt="Visa installationspaketet i Finder"
-            src="images/02-10.12-downloaded-keyboard-eng.png" /></p>
+            src="images/02-10.12-downloaded-keyboard-swe.png" /></p>
           </li>
           <li>Dubbelklicka på installationspaketet:
             <p><img alt="Öppna installationspaketet"
-            src="images/03-10.12-keyboard-installer-eng.png" /></p>
+            src="images/03-10.12-keyboard-installer-swe.png" /></p>
           </li>
           <li>Installeraren startar:
             <p><img alt=">Installeraren startar"
-            src="images/04-10.12-installer-start-eng.png" /></p>
+            src="images/04-10.12-installer-start-swe.png" /></p>
           </li>
           <li>Vissa installerare innehåller information om tangentborden:
             <p><img alt="Läsmig för tangentborden"
-            src="images/05-10.12-installer-readme-eng.png" /></p>
+            src="images/05-10.12-installer-readme-swe.png" /></p>
           </li>
           <li>Du är nu redo att installera:
             <p><img alt="Redo att installera"
-            src="images/06-10.12-installation-type-eng.png" /></p>
+            src="images/06-10.12-installation-type-swe.png" /></p>
           </li>
           <li>Installationen kräver administratorsrättigheter:
             <p><img alt="Administratorsrättigheter behövs"
-            src="images/07-10.12-installer-admin-eng.png" /></p>
+            src="images/07-10.12-installer-admin-swe.png" /></p>
           </li>
           <li>Installationen är klar:
             <p><img alt="Installationen är klar"
-            src="images/08-10.12-installer-done-eng.png" /></p>
+            src="images/08-10.12-installer-done-swe.png" /></p>
           </li>
         </ol>
       </section>
@@ -59,32 +59,32 @@
         använda dem. Gör så här:</p>
   
         <ol>
-          <li>Öppna <strong>Systemvalg…</strong> via Apple-menyn:
+          <li>Öppna <strong>Systeminställningar…</strong> via Apple-menyn:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/20-10.12-systempref_menu-nob.png" /></p>
+            src="images/20-10.12-systempref_menu-swe.png" /></p>
             Eller via Docken:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
-            src="images/20-10.12-systempref_dock-eng.png" /></p>
+            src="images/20-10.12-systempref_dock-swe.png" /></p>
           </li>
 
           <li>Klicka på <strong>Tangentbord</strong> eller skriv in en relevant
             sökterm i sökfältet:
             <p><img alt="Systemvalg…"
-            src="images/21-10.12-systempref-nob.png" /></p>
+            src="images/21-10.12-systempref-swe.png" /></p>
           </li>
 
-          <li>Klicka på fliken <strong>Indatametoder</strong> och klicka sen på
-            plus-tecknet i nedre, vänstra hörnet:
+          <li>Klicka på fliken <strong>Inmatningskällor</strong> och klicka sen
+            på plus-tecknet i nedre, vänstra hörnet:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /><br/>
-            Försäkra dig om att avkryssningsrutan <strong>Visa tangentbordsmenyn
-            i menylinjen</strong> är ikryssad.</p>
+            src="images/22-10.12-systempref_input_method-swe.png" /><br/>
+            Försäkra dig om att avkryssningsrutan <strong>Visa inmatningsmeny
+            i menyraden</strong> är ikryssad.</p>
           </li>
 
           <li>Välj det samiska tangentbordet du vill använda, och klicka på
             <strong>Lägg till</strong>:
             <p><img alt="Legge til samisk tastatur"
-            src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
+            src="images/23-10.12-systempref_add_keyboard-swe.png" /></p>
           </li>
         </ol>
       </section>
@@ -95,7 +95,7 @@
         höger i menyraden när du skriver samiska:</p>
 
         <p><img alt="Velg samisk tastatur for skriving"
-        src="images/30-10.12-keyboard_menu-nob.png" /></p>
+        src="images/30-10.12-keyboard_menu-swe.png" /></p>
 
         <p>För att växla snabbt mellan olika tangentbord kan du använda
         genvägen <strong>Ctrl-mellanrum (⌃-␣ )</strong>.</p>
