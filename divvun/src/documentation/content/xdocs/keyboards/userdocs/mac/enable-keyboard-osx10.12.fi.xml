@@ -27,27 +27,27 @@
           </li>
           <li>Tuplaklikkaa asennuspakettia:
             <p><img alt="Open installer package"
-            src="images/03-10.12-keyboard-installer-eng.png" /></p>
+            src="images/03-10.12-keyboard-installer-fin.png" /></p>
           </li>
           <li>Asennus aloittaa:
             <p><img alt="Start installation"
-            src="images/04-10.12-installer-start-eng.png" /></p>
+            src="images/04-10.12-installer-start-fin.png" /></p>
           </li>
           <li>Jotkin asentajat tulevat sisältämään tietoa näppäimistöistä:
             <p><img alt="Installer Readme"
-            src="images/05-10.12-installer-readme-eng.png" /></p>
+            src="images/05-10.12-installer-readme-fin.png" /></p>
           </li>
           <li>Olet valmis asentamaan:
             <p><img alt="Ready to install"
-            src="images/06-10.12-installation-type-eng.png" /></p>
+            src="images/06-10.12-installation-type-fin.png" /></p>
           </li>
           <li>Asennus tarvitsee ylläpitäjän oikeudet:
             <p><img alt="Administrator privileges required"
-            src="images/07-10.12-installer-admin-eng.png" /></p>
+            src="images/07-10.12-installer-admin-fin.png" /></p>
           </li>
           <li>Asennus on tehty:
             <p><img alt="Installation done"
-            src="images/08-10.12-installer-done-eng.png" /></p>
+            src="images/08-10.12-installer-done-fin.png" /></p>
           </li>
         </ol>
       </section>
@@ -69,13 +69,13 @@
           <li>Klikkaa <strong>Näppäimistö</strong> tai näppäile olennainen
             hakutermi hakukenttään:
             <p><img alt="Systemvalg…"
-            src="images/21-10.12-systempref-nob.png" /></p>
+            src="images/21-10.12-systempref-fin.png" /></p>
           </li>
 
           <li>Klikkaa <strong>Syöttö Menetelmä</strong> välilehteä ja klikkaa
             plusmerkkiä alavasenkulmassa:
             <p><img alt="Legge til samisk tastatur"
-            src="images/22-10.12-systempref_input_method-nob.png" /><br/>
+            src="images/22-10.12-systempref_input_method-fin.png" /><br/>
             Varmista että <strong>Show Input valikko </strong> tsekkaa
             laatikko on tsekattu.</p>
           </li>
@@ -83,7 +83,7 @@
           <li>Valitse Saamen näppäimistö jonka haluat ja klikkaa
             <strong>Lisää</strong>:
             <p><img alt="Legge til samisk tastatur"
-            src="images/23-10.12-systempref_add_keyboard-nob.png" /></p>
+            src="images/23-10.12-systempref_add_keyboard-fin.png" /></p>
           </li>
         </ol>
       </section>
