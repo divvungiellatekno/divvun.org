@@ -2,63 +2,63 @@
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN" "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Installing, configuring and switching keyboards in
+        <title>Asennus, konfigurointi ja vaihtaminen näppäimistöt
         Windows 10</title>
     </header>
     <body>
       <section>
         <title>Installation</title>
         <ol>
-          <li>Go to the <a
+          <li>Mene <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+            näppäimistö lataus sivu</a>, ja klikkaa
+            <strong>lataus linkkiä Windows 10</strong>:
             <p><img src="images/win10/01_download-sme-en.png"
             alt="Download"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Aja</strong> lataus asentaja:
             <p><img src="images/win10/02_run-installer-sme-en.png"
             alt="Run installer"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Anna</strong> asentajan tehdä muutoksia:
             <p><img src="images/win10/03_allow_changes-sme-en.png"
             alt="Allow changes"/></p>
           </li>
-          <li>Select installer language:
+          <li>Valitse asentaja kieli:
             <p><img src="images/win10/04_select_inst_lang-sme-en.png"
             alt="Select installer language"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Valitse asennus paikka, defaultti on hyvä:
             <p><img src="images/win10/05_inst_location-sme-en.png"
             alt="Installation location"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Valitse Aloitus Valikko paikka, defaultti on hyvä:
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Nyt voit asentaa:
             <p><img src="images/win10/07_ready_to_install-sme-en.png"
             alt="Ready to install"/></p>
             <p><img src="images/win10/08_installing-sme-en.png"
             alt="Installing"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
+          <li>Sinun täytyy <strong>Uudelleenkäynnistää</strong> jälkeen asennus
+            jotta näppäimistö toimii oikein:
             <p><img src="images/win10/09_restart-sme-en.png" alt="Restart"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>Uudelleenkäynnistyksen jälkeen, uudet näppäimistöt tulisi esiintyä
+            ylhäällä näppäimistö valikossa (jos ei, jatka kuten alla):
             <p><img src="images/win10/10_keyboard_menu-sme-en.png"
             alt="Keyboard menu"/></p>
           </li>
         </ol>
       </section>
       <section>
-        <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
-  
+        <title>Konfiguraatio</title>
+        <p>Asennus tehty ylhäällä tulisi automaattisesti olla pistää päälle
+        asennetut näppäimistöt. Siinä tapauksessa että ei näin käy, tai haluat vaihtaa
+        konfiguraation, tee:</p>
+
         <ol>
           <li>Mene <strong>Aloitus</strong>-valikkoon, ja klikkaa
               <strong>Asetukset</strong>:
@@ -108,7 +108,7 @@
         </ol>
       </section>
       <section>
-        <title>Switching keyboards</title>
+        <title>Vaihtaminen näppäimistöt</title>
         <p>
           Vaihtaminen kielten välillä tapahtuu
           <strong>Windows+väli</strong> kunnes pohjoissaame näppäimistö on
