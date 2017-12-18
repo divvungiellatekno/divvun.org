@@ -41,21 +41,22 @@
             <p><img alt="Klar til å installere"
             src="images/06-10.12-installation-type-nob.png" /></p>
           </li>
-          <li>Installeringen krever administratorretter:
+          <li>Installeringa krever administratorretter:
             <p><img alt="Administratorretter kreves"
             src="images/07-10.12-installer-admin-nob.png" /></p>
           </li>
-          <li>Installeringen er ferdig:
-            <p><img alt="Installeringen ferdig"
+          <li>Installeringa er ferdig:
+            <p><img alt="Installeringa ferdig"
             src="images/08-10.12-installer-done-nob.png" /></p>
           </li>
-          <li>After installation you should <strong>restart</strong>.</li>
+          <li>Etter installeringa bør du <strong>starte datamaskinen på
+          nytt</strong>.</li>
         </ol>
       </section>
 
       <section>
         <title>Slå på tastaturene</title>
-        <p>Etter installeringen må du slå på de nye tastaturene for å kunne
+        <p>Etter installeringa må du slå på de nye tastaturene for å kunne
         bruke dem. Gjør som følger:</p>
 
         <ol>
