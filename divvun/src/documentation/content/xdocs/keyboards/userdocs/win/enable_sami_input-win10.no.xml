@@ -13,23 +13,23 @@
             href="http://divvun.no/no/keyboards/desktopindex.html"
             >nedlastingssida for tastaturer</a>, og klikk på
             <strong>nedlastingslenka for Windows 10</strong>:
-            <p><img src="images/win10/01_download-sme-en.png"
+            <p><img src="images/win10/01_download-sme-no.png"
             alt="Last ned"/></p>
           </li>
           <li><strong>Kjør</strong> den nedlastede installereren:
-            <p><img src="images/win10/02_run-installer-sme-en.png"
+            <p><img src="images/win10/02_run-installer-sme-no.png"
             alt="Kjør installerer"/></p>
           </li>
           <li><strong>Tillat</strong> installereren å gjøre endringer:
-            <p><img src="images/win10/03_allow_changes-sme-en.png"
+            <p><img src="images/win10/03_allow_changes-sme-no.png"
             alt="Tillat endringer"/></p>
           </li>
           <li>Velg språk for installereren:
-            <p><img src="images/win10/04_select_inst_lang-sme-en.png"
+            <p><img src="images/win10/04_select_inst_lang-sme-no.png"
             alt="Velg språk for installereren"/></p>
           </li>
           <li>Velg sted for installeringen, forhåndsvalget er bra:
-            <p><img src="images/win10/05_inst_location-sme-en.png"
+            <p><img src="images/win10/05_inst_location-sme-no.png"
             alt="Installeringssted"/></p>
           </li>
           <li>Velg Start-menyplassering, forhåndsvalget er bra:
@@ -37,18 +37,18 @@
             alt="Start-menyplassering"/></p>
           </li>
           <li>Du er nå klar til å installere:
-            <p><img src="images/win10/07_ready_to_install-sme-en.png"
+            <p><img src="images/win10/07_ready_to_install-sme-no.png"
             alt="Klar til å installere"/></p>
-            <p><img src="images/win10/08_installing-sme-en.png"
+            <p><img src="images/win10/08_installing-sme-no.png"
             alt="Installerer"/></p>
           </li>
           <li>Du må <strong>Omstart</strong>e etter installeringen for å sikre
             at tastaturet fungerer som det skal:
-            <p><img src="images/win10/09_restart-sme-en.png" alt="Omstart"/></p>
+            <p><img src="images/win10/09_restart-sme-no.png" alt="Omstart"/></p>
           </li>
           <li>Etter omstarten dukker det nye tastaturet / de nye tastaturene opp
             i tastaturmenyen (om ikke: fortsett som beskrevet i neste avsnitt):
-            <p><img src="images/win10/10_keyboard_menu-sme-en.png"
+            <p><img src="images/win10/10_keyboard_menu-sme-no.png"
             alt="Keyboard menu"/></p>
           </li>
         </ol>
