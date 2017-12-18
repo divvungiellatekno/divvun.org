@@ -13,23 +13,23 @@
             href="http://divvun.no/no/keyboards/desktopindex.html"
             >nerladdningssidan för tangentbord</a>, och klicka på
             <strong>nerladdningslänken för Windows 10</strong>:
-            <p><img src="images/win10/01_download-sme-en.png"
+            <p><img src="images/win10/01_download-sme-no.png"
             alt="Ladda ner"/></p>
           </li>
           <li><strong>Kör</strong> installeraren:
-            <p><img src="images/win10/02_run-installer-sme-en.png"
+            <p><img src="images/win10/02_run-installer-sme-no.png"
             alt="Kör installeraren"/></p>
           </li>
           <li><strong>Tillåt</strong> att installeraren gör ändringar:
-            <p><img src="images/win10/03_allow_changes-sme-en.png"
+            <p><img src="images/win10/03_allow_changes-sme-no.png"
             alt="Tillåt ändringar"/></p>
           </li>
           <li>Välj språk för installeraren:
-            <p><img src="images/win10/04_select_inst_lang-sme-en.png"
+            <p><img src="images/win10/04_select_inst_lang-sme-no.png"
             alt="Välj språk för installeraren"/></p>
           </li>
           <li>Välj plats för installeringen, standardval är bra:
-            <p><img src="images/win10/05_inst_location-sme-en.png"
+            <p><img src="images/win10/05_inst_location-sme-no.png"
             alt="Installationsplats"/></p>
           </li>
           <li>Välj plats i Start-menyn, standardval är bra:
@@ -37,20 +37,20 @@
             alt="Start-menyplats"/></p>
           </li>
           <li>Du är nu redo att installera:
-            <p><img src="images/win10/07_ready_to_install-sme-en.png"
+            <p><img src="images/win10/07_ready_to_install-sme-no.png"
             alt="Redo att installera"/></p>
-            <p><img src="images/win10/08_installing-sme-en.png"
+            <p><img src="images/win10/08_installing-sme-no.png"
             alt="Installerar"/></p>
           </li>
           <li>Du måste <strong>Starta om</strong> efter installationen för att
             säkerställa att tangentbordet fungerar som det skall:
-            <p><img src="images/win10/09_restart-sme-en.png"
+            <p><img src="images/win10/09_restart-sme-no.png"
             alt="Starta om"/></p>
           </li>
           <li>Efter omstarten borde det nyinstallerade tangentbordet / de
             nyinstallerade tangentborden dyka upp i tangentbordsmenyn
             (i annat fall kan du följa beskrivningen nedanför):
-            <p><img src="images/win10/10_keyboard_menu-sme-en.png"
+            <p><img src="images/win10/10_keyboard_menu-sme-no.png"
             alt="Tangentbordsmeny"/></p>
           </li>
         </ol>
