@@ -3,49 +3,47 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
    <header>
-        <title>Installing, enabling and switching keyboards in macOS
-        10.9-10.12</title>
+        <title>Sajájduhttet, sjiehtadit ja målssot boallobievtijt gaskajnisá macOS
+        10.9-10.12:an</title>
    </header>
    <body>
-       <p>To be able to write easily in Sámi, you should use a Sámi keyboard.
-       Below you'll find instructions on how to download and install keyboards,
-       enable them, and how to switch easily among the enabled keyboards.</p>
+       <p>Jus sábmáj ájgo tjállet, de lulu adnet sáme boallobievddehábbmimav. Vuollelin gávna bagádusá gåktu viedtjat, sajájduhttet ja sjiehtadit boallobievdijt, ja gåktu álkkesláhkáj målssot dajt.</p>
       <section>
-        <title>Installation</title>
+        <title>Sajájduhttem</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for the keyboard installer</strong>:
+          <li>Maná <a
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvuna boalloabievde sajájduhttema bælláj
+            </a>, ja dieddela
+            <strong>sajájduhttemliŋkav boallobævddáj</strong>:
             <p><img alt="Download installer"
             src="images/01-10.12-download-keyboard-swe.png" /></p>
           </li>
-          <li>Click on the <strong>Visa hämtningar</strong> button, and then
-            click on the <strong>Visa i Finder</strong> button:
+          <li>Dieddela <strong>Visa hämtningar</strong>-boalov, ja
+            dieddela <strong>Visa i Finder</strong>-boalov:
             <p><img alt="Show installer package in Finder"
             src="images/02-10.12-downloaded-keyboard-swe.png" /></p>
           </li>
-          <li>Double click the installer package:
+          <li>Guokti dieddela sajájduhttema páhkev:
             <p><img alt="Open installer package"
             src="images/03-10.12-keyboard-installer-swe.png" /></p>
           </li>
-          <li>The installer will start:
+          <li>Sajájduhttem álggá:
             <p><img alt="Start installation"
             src="images/04-10.12-installer-start-swe.png" /></p>
           </li>
-          <li>Some installers will contain information about the keyboard(s):
+          <li>Muhtem sajájduhttemijn li diedo boallobievddehámuhusaid birra:
             <p><img alt="Installer Readme"
             src="images/05-10.12-installer-readme-swe.png" /></p>
           </li>
-          <li>You are ready to install:
+          <li>Dálla máhtá sajájduhttegoahtet:
             <p><img alt="Ready to install"
             src="images/06-10.12-installation-type-swe.png" /></p>
           </li>
-          <li>Installation requires administrator privileges:
+          <li>Sajájduhttem gájbbet háldadiddjebessambágov:
             <p><img alt="Administrator privileges required"
             src="images/07-10.12-installer-admin-swe.png" /></p>
           </li>
-          <li>Installation is done:
+          <li>Sajájduhttem ållij:
             <p><img alt="Installation done"
             src="images/08-10.12-installer-done-swe.png" /></p>
           </li>
@@ -55,35 +53,33 @@
       </section>
 
       <section>
-        <title>Enabling</title>
-        <p>After installation you still need to enable the new keyboard(s) to be
-        able to use it/them. Do as follows:</p>
+        <title>Sjiehtadit</title>
+        <p>Sajájduhttema maŋŋela hæhttu sjiehtadit dan ådå boallobievdev. Dagá náv:</p>
   
         <ol>
-          <li>Open <strong>Systeminställningar…</strong> via the Apple menu:
-            <p><img alt="Åpne &quot;Systemvalg…&quot;"
+          <li>Rabá <strong>Systeminställningar…</strong> Apple-fálluma baktu:
+            <p><img alt="Rabá &quot;Systeminställningar…&quot;"
             src="images/20-10.12-systempref_menu-swe.png" /></p>
-            Or via the Dock:
+            Jali Dock:a baktu:
             <p><img alt="Åpne &quot;Systemvalg…&quot;"
             src="images/20-10.12-systempref_dock-swe.png" /></p>
           </li>
 
-          <li>Click <strong>Tangentbord</strong> or type a relevant search term
-            in the search field:
+          <li>Dieddela <strong>Tangentbord</strong>:
             <p><img alt="Systemvalg…"
             src="images/21-10.12-systempref-swe.png" /></p>
           </li>
 
-          <li>Click on the <strong>Inmatningskällor</strong> tab and click on
-            the plus sign in the lower left corner:
+          <li>Dieddela <strong>Inmatningskällor</strong> ja dieddela
+            pluss-mærkkaj vuollelin gåråbiel-tjiehkan:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-swe.png" /><br/>
-            Ensure that the <strong>Visa inmatningsmeny i menyraden</strong>
-            check box is checked.</p>
+            Tjårggi jus <strong>Visa inmatningsmeny i menyraden</strong>
+            la mierkkiduvvam.</p>
           </li>
 
-          <li>Select the Sámi keyboard you want, and click <strong>Lägg
-            til</strong>:
+          <li>Váljji makkir sámegiel-boallobievdde dån sidá, ja dieddela
+            <strong>Lägg til</strong>:
             <p><img alt="Legge til samisk tastatur"
             src="images/23-10.12-systempref_add_keyboard-swe.png" /></p>
           </li>
@@ -91,15 +87,14 @@
       </section>
 
       <section>
-        <title>Switching keyboards</title>
-        <p>Choose the Sámi keyboard in the keyboard menu to the right
-        in the menu list when writing Sámi:</p>
+        <title>Boallobievdij gasskan vállji</title>
+        <p>Gå sámegiellaj galga tjállet de vállji sáme boallobievdev rievtes bielen boallobievde-fálon 
+         </p>
 
         <p><img alt="Velg samisk tastatur for skriving"
         src="images/30-10.12-keyboard_menu-swe.png" /></p>
 
-        <p>For å bytte raskt mellom ulike tastatur kan du bruke
-        tastekombinasjonen <strong>Ctrl-mellomrom (⌃-␣ )</strong>.</p>
+        <p>Målssot boallobievde gasskan de dieddela <strong>Ctrl-mellomrom (⌃-␣ )</strong>.</p>
       </section>
 
    </body>
