@@ -3,69 +3,64 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Installing, configuring and switching keyboards in
-        Windows 10</title>
+        <title>Sajájduhttet, sjiehtadit ja målssot boallobievdij gaskajnisá Windows 10:an</title>
     </header>
     <body>
       <section>
-      <title>Installation</title>
+      <title>Sajájduhttem</title>
         <ol>
-          <li>Go to the <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvun
-            keyboard download page</a>, and click on the
-            <strong>download link for Windows 10</strong>:
+          <li>Maná <a
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvuna boalloabievde sajájduhttema bælláj</a>, ja dieddela 
+            <strong>sajájduhttemliŋkav Windows 10:ij</strong>:
             <p><img src="images/win10/01_download-sme-no.png"
             alt="Download"/></p>
           </li>
-          <li><strong>Run</strong> the downloaded installer:
+          <li><strong>Álge</strong> sajájduhttemav majt la viedtjam:
             <p><img src="images/win10/02_run-installer-sme-no.png"
             alt="Run installer"/></p>
           </li>
-          <li><strong>Allow</strong> the installer to make changes:
+          <li><strong>Suova</strong> sajájduhttemav dahkat rievddadimijt:
             <p><img src="images/win10/03_allow_changes-sme-no.png"
             alt="Allow changes"/></p>
           </li>
-          <li>Select installer language:
+          <li>Vállji sajáiduhttema gielav:
             <p><img src="images/win10/04_select_inst_lang-sme-no.png"
             alt="Select installer language"/></p>
           </li>
-          <li>Choose install location, the default is fine:
+          <li>Vállji gåsi fijlav biedjat. Ale rievda jus ij la sierralágásj dárbbo:
             <p><img src="images/win10/05_inst_location-sme-no.png"
             alt="Installation location"/></p>
           </li>
-          <li>Select Start Menu location, the default is fine:
+          <li>Vállji gåsi <strong>Start</strong>-fálluj biedjat. Ale rievda jus ij la sierralágásj dárbbo:
             <p><img src="images/win10/06_start_menu-sme-en.png"
             alt="Start menu"/></p>
           </li>
-          <li>You are now ready to install:
+          <li>Dálla máhtá sajájduhttegoahtet:
             <p><img src="images/win10/07_ready_to_install-sme-no.png"
             alt="Ready to install"/></p>
             <p><img src="images/win10/08_installing-sme-no.png"
             alt="Installing"/></p>
           </li>
-          <li>You have to <strong>Restart</strong> after installation to ensure
-            the keyboard is working properly:
+          <li>Ådå boallobievdde doajmmagoahtá almmaláhkáj iesski gå la <strong>álgadam dáhtámasjijnav ådåsis</strong>:
             <p><img src="images/win10/09_restart-sme-no.png" alt="Restart"/></p>
           </li>
-          <li>After the restart, the new keyboard(s) should show up in the
-            keyboard menu (if not, continue as described below):
+          <li>Maŋŋela gå la dáhtámasjijnav ådåsis álgadam, ådå boallobievdde galggá ihtet (jus ij, dagá gåk la vuollelin tjielggidum):
             <p><img src="images/win10/10_keyboard_menu-sme-no.png"
             alt="Keyboard menu"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Configuration</title>
-        <p>The installation done above should automatically have turned on the
-        installed keyboards. In case it has not happened, or you want to change
-        the configuration, do as follows:</p>
+      <title>Sjiehtadibme</title>
+        <p>Sajájduhttemav baddjet dábálattjat ådå boallobievdev automáhtalasj álgat.
+Jus dát ij la dáhpáduvvam, jali jus sidá sjiehtadallamav rievddat, dagá náv:</p>
   
         <ol>
-          <li>Maná <strong>Start</strong>-menijjaj, ja dieddelaste
+          <li>Maná <strong>Start</strong>-fálluj, ja dieddelaste
               <strong>Innstillinger</strong>:
               <p><img src="images/win10/start_menu-no.png" alt="Startmeny"/></p>
           </li>
-          <li>Maná <strong>Klokkeslett og språk</strong>:
+          <li>Maná diek: <strong>Klokkeslett og språk</strong>
               <p><img src="images/win10/prefs-no.png" alt="Kontrollpanel"/></p>
           </li>
           <li>Dieddela <strong>Legg til et språk</strong>:
@@ -101,16 +96,16 @@
           </li>
           <li>De la dujna <strong>Julevsámegiela (Vuodna)</strong>
               tjállemgiellan
-              boallonbievdijn <strong>Samisk, utvidet Norge</strong>:
+              boallobievdijn <strong>Samisk, utvidet Norge</strong>:
               <p><img src="images/win10/keyboard-done-smj-no.png"
               alt="Språk med nordsamisk ferdigvalgt"/></p>
           </li>
         </ol>
       </section>
       <section>
-      <title>Switching keyboards</title>
+      <title>Målssot boallobievdij gaskajnisá </title>
         <p>
-          Målsotjit boallobievdij, ja navti aj gielaj gaskan, dieddelaste 
+          Målsotjit boallobievdij gaskan, ja navti aj gielaj gaskan, dieddelaste 
           <strong>Windows+gasska</strong> dasik julevsáme boallobievdde l
           anon:
         </p>
