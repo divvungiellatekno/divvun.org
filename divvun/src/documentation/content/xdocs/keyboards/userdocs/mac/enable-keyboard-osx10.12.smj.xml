@@ -3,17 +3,19 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
    <header>
-        <title>Sajájduhttet, sjiehtadit ja målssot boallobievtijt gaskajnisá macOS
-        10.9-10.12:an</title>
+        <title>Sajájduhttet, sjiehtadit ja målssot boallobievdijt gaskajnisá
+        macOS 10.9-10.12:an</title>
    </header>
    <body>
-       <p>Jus sábmáj ájgo tjállet, de lulu adnet sáme boallobievddehábbmimav. Vuollelin gávna bagádusá gåktu viedtjat, sajájduhttet ja sjiehtadit boallobievdijt, ja gåktu álkkesláhkáj målssot dajt.</p>
+      <p>Jus sábmáj ájgo tjállet, de lulu adnet sáme boallobievddehábbmimav.
+      Vuollelin gávna bagádusá gåktu viedtjat, sajájduhttet ja sjiehtadit
+      boallobievdijt, ja gåktu álkkesláhkáj målssot dajt.</p>
       <section>
         <title>Sajájduhttem</title>
         <ol>
           <li>Maná <a
-            href="http://divvun.no/no/keyboards/desktopindex.html">Divvuna boalloabievde sajájduhttema bælláj
-            </a>, ja dieddela
+            href="http://divvun.no/no/keyboards/desktopindex.html">Divvuna
+            boallobievde sajájduhttema bælláj</a>, ja dieddela
             <strong>sajájduhttemliŋkav boallobævddáj</strong>:
             <p><img alt="Download installer"
             src="images/01-10.12-download-keyboard-swe.png" /></p>
@@ -54,7 +56,8 @@
 
       <section>
         <title>Sjiehtadit</title>
-        <p>Sajájduhttema maŋŋela hæhttu sjiehtadit dan ådå boallobievdev. Dagá náv:</p>
+        <p>Sajájduhttema maŋŋela hæhttu sjiehtadit dan ådå boallobievdev. Dagá
+        náv:</p>
   
         <ol>
           <li>Rabá <strong>Systeminställningar…</strong> Apple-fálluma baktu:
@@ -71,7 +74,7 @@
           </li>
 
           <li>Dieddela <strong>Inmatningskällor</strong> ja dieddela
-            pluss-mærkkaj vuollelin gåråbiel-tjiehkan:
+            plussamærkkaj vuollelin gåråbiel-tjiehkan:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-swe.png" /><br/>
             Tjårggi jus <strong>Visa inmatningsmeny i menyraden</strong>
@@ -88,13 +91,15 @@
 
       <section>
         <title>Boallobievdij gasskan vállji</title>
-        <p>Gå sámegiellaj galga tjállet de vállji sáme boallobievdev rievtes bielen boallobievde-fálon 
+        <p>Gå sámegiellaj galga tjállet de vállji sáme boallobievdev rievtes
+        bielen boallobievde-fálon 
          </p>
 
         <p><img alt="Velg samisk tastatur for skriving"
         src="images/30-10.12-keyboard_menu-swe.png" /></p>
 
-        <p>Målssot boallobievde gasskan de dieddela <strong>Ctrl-gasska (⌃-␣ )</strong>.</p>
+        <p>Målssot boallobievde gasskan de dieddela <strong>Ctrl-gasska
+        (⌃-␣ )</strong>.</p>
       </section>
 
    </body>
