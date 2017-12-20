@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
    <header>
-        <title>Sajájduhttet, hiebadit ja målssot boallobievdij
+        <title>Sajájduhttet, hiebadit ja målssot boallobievdij gaskav
         macOS 10.9-10.12:an</title>
    </header>
    <body>
@@ -16,12 +16,12 @@
           <li>Maná <a
             href="http://divvun.no/no/keyboards/desktopindex.html">Divvuna
             boallobievde sajájduhttema bælláj</a>, ja dieddela
-            <strong>sajájduhttemaliŋkav boallobævddáj</strong>:
+            <strong>sajájduhttem liŋkav boallobævddáj</strong>:
             <p><img alt="Download installer"
             src="images/01-10.12-download-keyboard-swe.png" /></p>
           </li>
           <li>Dieddela <strong>Visa hämtningar</strong>-boalov, ja
-            dieddela <strong>Visa i Finder</strong>-boalov:
+            dieddela <strong>Visa i Finder</strong>-gåvåstagáv:
             <p><img alt="Show installer package in Finder"
             src="images/02-10.12-downloaded-keyboard-swe.png" /></p>
           </li>
@@ -29,11 +29,11 @@
             <p><img alt="Open installer package"
             src="images/03-10.12-keyboard-installer-swe.png" /></p>
           </li>
-          <li>Sajájduhttem álggá:
+          <li>Sajájduhttem álggá gå dieddela <strong>Fortsätt</strong>:
             <p><img alt="Start installation"
             src="images/04-10.12-installer-start-swe.png" /></p>
           </li>
-          <li>Muhtem sajájduhttemijn li diedo boallobievddehábbmima birra:
+          <li>Muhtem sajájduhttemijn li diedo boallobievde hábbmima birra:
             <p><img alt="Installer Readme"
             src="images/05-10.12-installer-readme-swe.png" /></p>
           </li>
@@ -76,11 +76,11 @@
             plussamærkkaj vuollelin, gåråbieltjiehkan:
             <p><img alt="Legge til samisk tastatur"
             src="images/22-10.12-systempref_input_method-swe.png" /><br/>
-            Tjårggi jus <strong>Visa inmatningsmeny i menyraden</strong>
+            Tjårggi jut <strong>Visa inmatningsmeny i menyraden</strong>
             la mierkkiduvvam.</p>
           </li>
 
-          <li>Vállji makkir sámegiel-boallobievdde dån sidá, ja dieddela
+          <li>Vállji makkir sámegielboallobievdde dån sidá, ja dieddela
             <strong>Lägg til</strong>:
             <p><img alt="Legge til samisk tastatur"
             src="images/23-10.12-systempref_add_keyboard-swe.png" /></p>
@@ -91,7 +91,7 @@
       <section>
         <title>Boallobievdij gaskav vállji</title>
         <p>Gå sámegiellaj galga tjállet de vállji sáme boallobievdev rievtes
-        bielen boallobievdefálon 
+        bielen boallobievdefálon. 
          </p>
 
         <p><img alt="Velg samisk tastatur for skriving"
