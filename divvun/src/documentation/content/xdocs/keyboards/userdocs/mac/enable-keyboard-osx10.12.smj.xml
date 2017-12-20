@@ -3,12 +3,12 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
    <header>
-        <title>Sajájduhttet, sjiehtadit ja målssot boallobievdij gaskajnisá
+        <title>Sajájduhttet, hiebadit ja målssot boallobievdij
         macOS 10.9-10.12:an</title>
    </header>
    <body>
-      <p>Jus sábmáj ájgo tjállet, de lulu adnet sáme boallobievddehábbmimav.
-      Vuollelin gávna bagádusá gåktu viedtjat, sajájduhttet ja sjiehtadit
+      <p>Jus sábmáj ájgo ruvva tjállet, de lulu sáme boallobievdev adnet.
+      Vuollelin gávna bagádusájt gåktu viedtjat, sajájduhttet ja hiebadit
       boallobievdijt, ja gåktu álkkesláhkáj målssot dajt.</p>
       <section>
         <title>Sajájduhttem</title>
@@ -54,8 +54,8 @@
       </section>
 
       <section>
-        <title>Sjiehtadit</title>
-        <p>Sajájduhttema maŋŋela hæhttu sjiehtadit dan ådå boallobievdev. Dagá
+        <title>Hiebadit</title>
+        <p>Sajájduhttema maŋŋela hæhttu hiebadit dan ådå boallobievdev. Dagá
         náv:</p>
   
         <ol>
@@ -89,7 +89,7 @@
       </section>
 
       <section>
-        <title>Boallobievdij gasskan vállji</title>
+        <title>Boallobievdij gaskav vállji</title>
         <p>Gå sámegiellaj galga tjállet de vállji sáme boallobievdev rievtes
         bielen boallobievdefálon 
          </p>
@@ -97,7 +97,7 @@
         <p><img alt="Velg samisk tastatur for skriving"
         src="images/30-10.12-keyboard_menu-swe.png" /></p>
 
-        <p>Målssot boallobievde gasskan de dieddela <strong>Ctrl-gasska
+        <p>Målssot boallobievdij gaskav de dieddela <strong>Ctrl-gasska
         (⌃-␣ )</strong>.</p>
       </section>
 
