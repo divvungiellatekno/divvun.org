@@ -8,10 +8,11 @@
     </header>
     <body>
 
-        <!--note label="NYHET! 20.12.2016">Divvun 4.1 er tilgjengelig, med mange
-        nye ord og oppdatert ortografi etter de siste rettskrivningsvedtakene.
+      <note label="NYHET! 21.12.2017">Divvun lanserer datamaskintastatur for
+        mange samiske språk!
         <a href="korrektur/korrektur.html">Les mer her!</a>
-      </note-->
+        <a href="keyboards/desktopindex.html">Last ned her!</a>
+      </note>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
