@@ -8,10 +8,9 @@
     </header>
     <body>
 
-      <note label="NYHET! 21.12.2017">Divvun lanserar datortangentbord för
-        många samiska språk!
+      <note label="NYHET! 21.12.2017">Divvun almot boallobievdijt moadda sáme gielajda!
         <a href="korrektur/korrektur.html">Lågå ienebut dánna!</a>
-        <a href="keyboards/desktopindex.html">Ladda ned dánna!</a>
+        <a href="keyboards/desktopindex.html">Sajájduhte dánna!</a>
       </note>
 
       <ul class="col-sm-12 nobullet center">
@@ -23,7 +22,7 @@
         <li class="col-sm-4">
             <a href="keyboards/index.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_mobiltastatur.png"/><br/>
-            Tastatuvra</a>
+            Boallobievde</a>
         </li>
         <li class="col-sm-4">
             <a href="tale/tale.html">
