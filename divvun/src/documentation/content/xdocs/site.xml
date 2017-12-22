@@ -160,7 +160,7 @@
             <userguideios     href="installation_ios.html"     label="User guide for the iOS keyboard app"/>
         </mobile>
         <desktop tab="Desktop" label="Computer keyboards">
-            <index href="desktopindex.html" label="Overview"/>
+            <index href="desktopindex.html" label="Download"/>
           <layouts label="Layouts">
             <sme label="North Sámi" href="layout-sme.html"/>
             <smj label="Julev Sámi" href="layout-smj.html"/>
