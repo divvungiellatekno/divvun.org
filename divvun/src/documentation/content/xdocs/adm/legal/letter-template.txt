@@ -1,0 +1,22 @@
+Sametingets tekstbank
+
+
+Vi samler inn bøker i elektronisk format til den samiske tekstbanken, som Sametinget er den formelle eier av​. Bøkene i denne tekstbanken er beskyttet mot misbruk, og bare personer med avtale med Sametinget får tilgang til innholdet.
+
+Tekstbanken er grunnlaget  for å lage samiske språkverktøy. Vi finner ord som er i bruk, vi finner  setningsoppbygging og modellerer stavekontroll, grammatikkontroll,  maskinoversettelse og alle  de andre språkverktøyene våre etter dette.  Tekstbanken er også grunnlaget for ordboksarbeidet vårt.
+
+Bøkene blir også søkbare i det nettbaserte søkeverktøyet vårt, der en og en setning som inneholder et søkeord blir presentert. Det er ikke mulig å liste opp verket i sin helhet der. Et eksempel på et slikt søk ser du her: http://gtweb.uit.no/korp/?mode=smj#?lang=nb&cqp=%5Bword%20%5E%3D%20%22sjokol%C3%A1da%22%5D&search_tab=1&search=cqp
+
+For å kunne legge disse bøkene inn i denne tekstbanken behøver vi en avtale med deg om å få lov og bruke boka di/bøkene dine i denne sammenhengen. Avtalen  skal underskrives av forfatter, forlaget og Sametinget.
+
+Avtalen sier i hovedsak to ting: 1) vi lover å passe på innholdet slik at det  ikke blir misbrukt eller kommer på avveie, og 2) vi får lov til å benytte teksten til språkteknologiske formål.
+
+I den sammenheng ønsker vi å inngå kontrakt vedrørende følgende bok:
+Forfatter: Tittel, ISBN.
+
+Har du andre bøker enn de nevnte, så ønsker vi også å inngå avtale for disse verkene.
+
+
+Her kan du lese kontrakten som inngås  mellom deg, forlaget og Sametinget: http://www.divvun.no/adm/legal/sd-contract.html
+
+Avtale som brukere av tekstbanken inngår med Sametinget: http://www.divvun.no/adm/legal/sd-contract-part-3.html
