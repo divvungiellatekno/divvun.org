@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+  <header>
+    <title>Folk</title>
+  </header>
+
+  <body>
+     <p class="small">
+ <a href="index.html"    ><img src="images/smeflag.png"  alt="På nordsamisk"     width="15" height="10"/> </a> <a href="people.sme.html">Davvisámegillii</a>
+ <a href="index.nob.html"><img src="images/norsk.png"   alt="På norsk"          width="15" height="10"/> </a> <a href="people.nob.html">Norsk</a>
+ <a href="index.eng.html"><img src="images/engelsk.png" alt="På engelsk"      width="15" height="10"/> </a> <a href="people.eng.html">English</a>
+ <a href="index.fin.html"><img src="images/finsk.png" alt="På finsk"      width="15" height="10"/> </a> <a href="people.fin.html">Suomeksi</a>
+ <a href="index.rus.html"><img src="images/russisk.png" alt="По-русский"          width="15" height="10"/> </a> <a href="people.rus.html">Русский</a>
+     </p>
+<table>
+ <tr>
+  <td><img alt="Trond" width="70" class="align-left" src="images/Trond.jpg"/></td>
+  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=41545&amp;p_dimension_id=88149"> Sjur Moshagen</a>
+  er leder av Divvun. Les mer om <a href="https://uit.no/om/enhet/ansatte/person?p_document_id=41545">forskinga hans</a></td>
+  <td><img alt="Lene" width="70" class="align-left" src="images/Lene.jpg"/></td>
+  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=43617&amp;p_dimension_id=88149"> Børre Gaup</a>
+  er cand.philol. med samisk hovedfag. Hun er hovedarkitekten bak Oahpa
+      (interaktive språklæringsprogram), men arbeider også med syntaktisk analyse
+      og maskinoversetting.</td>
+ </tr>
+ <tr>
+  <td><img alt="Ciprian" width="70" class="align-left" src="images/Ciprian.jpg"/></td>
+  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=77186&amp;p_dimension_id=88149"> Maja</a>
+  er programmerer og datalingvist. Han arbeider med infrastruktur, og han
+      har også laga de ulike ordboksgrensesnitta våre.  Les mer om
+      <a href="http://ansatte.uit.no/ciprian.gerstenberger/">hans forsking.</a></td>
+
+<td><img alt="Chiara" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+  <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Chiara Argese</a>
+  er webprogrammerer.</td></tr>
+
+<tr> <td></td> <td></td> <td></td><td></td></tr>
+
+</table>
+
+
+  </body>
+</document>
