@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="se">
+<document xml:lang="no">
   <header>
     <title>Folk</title>
   </header>
 
   <body>
-     <p class="small">
- <a href="index.html"    ><img src="images/smeflag.png"  alt="På nordsamisk"     width="15" height="10"/> </a> <a href="people.sme.html">Davvisámegillii</a>
- <a href="index.nob.html"><img src="images/norsk.png"   alt="På norsk"          width="15" height="10"/> </a> <a href="people.nob.html">Norsk</a>
- <a href="index.eng.html"><img src="images/engelsk.png" alt="På engelsk"      width="15" height="10"/> </a> <a href="people.eng.html">English</a>
- <a href="index.fin.html"><img src="images/finsk.png" alt="På finsk"      width="15" height="10"/> </a> <a href="people.fin.html">Suomeksi</a>
- <a href="index.rus.html"><img src="images/russisk.png" alt="По-русский"          width="15" height="10"/> </a> <a href="people.rus.html">Русский</a>
-     </p>
-<table>
- <tr>
-  <td><img alt="Sjur" width="70" class="align-left" src="images/Trond.jpg"/></td>
-  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=41545&amp;p_dimension_id=88149"> Sjur Nøstebø Moshagen</a>
-  er prosjektleder i Divvun. 
-  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=43617&amp;p_dimension_id=88149"> Børre Gaup</a>
-  er prosjektmedarbeider. </td>
- </tr>
- <tr>
-  <td><img alt="Maja Lisa" width="70" class="align-left" src="images/Ciprian.jpg"/></td>
-  <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=77186&amp;p_dimension_id=88149"> Maja Lisa Kappfjell</a>
-  er sørsamisk lingvist.</a></td>
-  
-  <td><img alt="Thomas" width="70" class="align-left" src="images/Chiara.jpg"/></td>
-  <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Thomas Omma</a>
-  er nordsamisk lingvist.</td></tr>
-
-<td><img alt="Elena" width="70" class="align-left" src="images/Chiara.jpg"/></td>
-  <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Elena Paulsen</a>
-  er lulesamisk lingvist.</td></tr>
-  
-  <td><img alt="Tomi" width="70" class="align-left" src="images/Chiara.jpg"/></td>
-  <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Tomi Pieski</a>
-  er programmerer og datalingvist.</td></tr>
-
-<tr> <td></td> <td></td> <td></td><td></td></tr>
-
-</table>
-
-
+    <table>
+     <tr>
+      <td><img alt="Børre" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=43617&amp;p_dimension_id=88149"> Børre Gaup</a>
+      er prosjektmedarbeider og programmerer.</td>
+     </tr>
+     <tr>
+      <td><img alt="Maja Lisa" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=77186&amp;p_dimension_id=88149"> Maja Lisa Kappfjell</a>
+      er sørsamisk lingvist.</td>
+     </tr>
+     <tr>
+      <td><img alt="Sjur" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://en.uit.no/ansatte/organisasjon/ansatte/person?p_document_id=41545&amp;p_dimension_id=88149"> Sjur Moshagen</a>
+      er prosjektleder i Divvun.</td>
+     </tr>
+     <tr>
+      <td><img alt="Thomas" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Thomas Omma</a>
+      er nordsamisk lingvist.</td>
+     </tr>
+     <tr>
+      <td><img alt="Elena" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Elena Paulsen</a>
+      er lulesamisk lingvist.</td>
+     </tr>
+     <tr>
+      <td><img alt="Tomi" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Tomi Pieski</a>
+      er programmerer og datalingvist.</td>
+     </tr>
+     <tr>
+      <td><img alt="Linda" width="70" class="align-left" src="images/Chiara.jpg"/></td>
+      <td><a href="http://uit.no/om/enhet/ansatte/person?p_document_id=367087&amp;p_dimension_id=88149"> Linda Wiechetech</a>
+      er nordsamisk lingvist og vår grammatikkontrollekspert.</td>
+     </tr>
+    </table>
   </body>
 </document>
