@@ -138,6 +138,20 @@
            </td>
          </tr>
          <tr>
+           <td>Erzya
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/myv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/myv">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Estonian
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
@@ -206,6 +220,20 @@
            </td>
          </tr>
          <tr>
+           <td>Komi
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/kpv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://giellatekno.uit.no/doc/lang/kom/index.html">Komi documentation</a>
+               and
+           <a href="https://victorio.uit.no/langtech/trunk/langs/kpv">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Kven
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
@@ -220,19 +248,21 @@
            </td>
          </tr>
          <tr>
-           <td>Inari Saami</td>
+           <td>Mansi
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/mns_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/mns/MansiDocumentation.html">Mansi documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
+           <a href="https://victorio.uit.no/langtech/trunk/langs/mns">source code</a>.
            </td>
          </tr>
          <tr>
-           <td>Eastern Mari
+           <td>Mari, Eastern
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
            <td><ul>
@@ -246,7 +276,7 @@
            </td>
          </tr>
          <tr>
-           <td>Western Mari
+           <td>Mari, Western
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
            </td>
            <td><ul>
@@ -257,20 +287,6 @@
            <td><a href="http://giellatekno.uit.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/mrj">source code</a>.
-           </td>
-         </tr>
-         <tr>
-           <td>Erzya
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
-           </td>
-           <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/myv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
-           </ul></td>
-           <td> </td>
-           <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
-               and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/myv">source code</a>.
            </td>
          </tr>
          <tr>
@@ -288,17 +304,15 @@
            </td>
          </tr>
          <tr>
-           <td>Komi
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
-           </td>
+           <td>Saami, Inari</td>
            <td><ul>
-                <li><a href="http://divvun.no/static_files/oxts/kpv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+                <li><a href="http://divvun.no/static_files/oxts/smn_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kom/index.html">Komi documentation</a>
+           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/kpv">source code</a>.
+           <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
            </td>
          </tr>
          <tr>
