@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Anársámi boallobeavdehámuhusat</title>
+    </header>
+    <body>
+        <p>Sámi bustávain lea
+        <em class="samikey">oránša duogáš</em>.
+        Sámi bustávvaboaluin oažžu originálabustáva AltGr bakte: deaddil AltGr +
+        sámi bustáva oažžut bustáva mii lea buhttejuvvon sámi bustávain.</p>
+
+        <p>Ovdamearka: čállit bustáva <code>Ö</code>, deaddil
+        <code>AltGr + Đ</code>.</p>
+
+        <p>Visot iežá bustávat ja symbolat leat seamma ládje dugo suoma
+        boallobeavddis.</p>
+
+        <section>
+            <title>Anársámi (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>

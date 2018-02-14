@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="fi">
+    <header>
+        <title>Näppäimistöleiska inarinsaamelle</title>
+    </header>
+    <body>
+        <p>Saamen kirjeet on merkattu
+        <em class="samikey">oranssilla taustalla</em>.
+        Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr: n kautta: paina
+        AltGr + saamelaista kirjainta saadaksesi kirjeen joka on korvattu
+        saamelaisella.</p>
+
+        <p>Esimerkki: Kirjoita suomalainen kirjain <code>Ö</code>, paina
+        <code>AltGr + Đ</code>.</p>
+
+        <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
+        näppäimistöön.</p>
+
+        <section>
+            <title>Inarinsaame (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>

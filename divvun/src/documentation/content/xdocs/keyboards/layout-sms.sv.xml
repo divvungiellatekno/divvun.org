@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sv">
+    <header>
+        <title>Tangentbordslayout för enaresamiska</title>
+    </header>
+    <body>
+        <p>Samiska bokstäver har
+        <em class="samikey">orange bakgrund</em>.
+        Tangenterna med samiska bokstäver har sina ursprungliga bokstäver via
+        AltGr: tryck AltGr + den samiska bokstaven för att få bokstaven som har
+        blivit utbytt med en samisk.</p>
+
+        <p>Exempel: för att skriva finskt <code>Ö</code>, tryck
+        <code>AltGr + Đ</code>.</p>
+
+        <p>Alla andra bokstäver och symboler är placerade som på finska
+        tangentbord.</p>
+
+        <section>
+            <title>Enaresamiska (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>

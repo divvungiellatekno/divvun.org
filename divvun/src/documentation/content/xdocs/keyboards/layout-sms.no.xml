@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Tastaturutforming for enaresamisk</title>
+    </header>
+    <body>
+        <p>Samiske bokstaver er merket med
+        <em class="samikey">oransje bakgrunnsfarge</em>.
+        Der vi har lagt inn samiske bokstaver er originalbokstaven tilgjengelig
+        via AltGr: trykk AltGr + den samiske bokstaven, så får du den bokstaven
+        som har blitt byttet ut med den samiske.</p>
+
+        <p>Eksempel: for å skrive finsk <code>Ö</code>, trykk
+        <code>AltGr + Đ</code>.</p>
+
+        <p>Alle andre bokstaver og tegn er som på det finske tastaturet.</p>
+
+        <section>
+            <title>Enaresamisk (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>

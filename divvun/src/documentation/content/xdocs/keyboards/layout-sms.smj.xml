@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="smj">
+    <header>
+        <title>Anársáme boallobievddehábbmim</title>
+    </header>
+    <body>
+        <p>Sáme bokstávajn la
+        <em class="samikey">oránssja duogásj</em>.
+        Danne gånnå li sáme bokstáva gávna originálbokstávav AltGr:a baktu.
+        Debtjasta AltGr + sáme bokstávav, de oattjo dav bokstávav mij la
+        målsoduvvam sáme bokstávajn.</p>
+
+        <p>Buojkulvis: tjále suoma <code>Ö</code>, debtjasta
+        <code>AltGr + Đ</code>.</p>
+
+        <p>Divna ietjá bokstáva ja symbåvlå li sæmmi gå suoma boallobievden.</p>
+
+        <section>
+            <title>Anársáme (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>
