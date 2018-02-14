@@ -112,6 +112,27 @@
                   </li>
                 </ul>
               </li>
+              <li>Skoltesamisk tastatur:
+                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <ul>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 8, 10
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.win7.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 7
+                    </a>
+                  </li>
+                </ul>
+              </li>
             </ul></td>
             <td>
             <ul>
@@ -123,6 +144,8 @@
               Sørsamisk</a></li>
               <li><a href="layout-smn.html">
               Enaresamisk</a></li>
+              <li><a href="layout-sms.html">
+              Skoltesamisk</a></li>
             </ul>
             </td>
             <td>
@@ -181,6 +204,13 @@
                     Enaresamisk tastatur
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
               </li>
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/macos/Skolt%20Sami%20Keyboards%200.2.2.pkg"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Skoltesamisk tastatur
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+              </li>
             </ul></td>
             <td>
             <ul>
@@ -192,6 +222,8 @@
               Sørsamisk</a></li>
               <li><a href="layout-smn.html">
               Enaresamisk</a></li>
+              <li><a href="layout-sms.html">
+              Skoltesamisk</a></li>
             </ul>
             </td>
             <td>
@@ -234,6 +266,8 @@
               Sørsamisk</a></li>
               <li><a href="layout-smn.html">
               Enaresamisk</a></li>
+              <li><a href="layout-sms.html">
+              Skoltesamisk</a></li>
             </ul>
             </td>
             <td>
@@ -270,6 +304,8 @@
               sørsamisk</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smn/doc/index.html">
               enaresamisk</a></li>
+              <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sms/doc/index.html">
+              skoltesamisk</a></li>
             </ul>
         </section>
 

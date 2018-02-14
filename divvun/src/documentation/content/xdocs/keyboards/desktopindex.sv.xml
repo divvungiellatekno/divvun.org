@@ -91,7 +91,7 @@
                   </li>
                 </ul>
               </li>
-              <li>Enaresamiska tangentbord:
+              <li>Enaresamiskt tangentbord:
                 <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
@@ -112,6 +112,27 @@
                   </li>
                 </ul>
               </li>
+              <li>Skoltsamiskt tangentbord:
+                <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>
+                <ul>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 8, 10
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.win7.exe"
+                    ><icon alt="Download" height="36" width="36"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Windows 7
+                    </a>
+                  </li>
+                </ul>
+              </li>
             </ul></td>
             <td>
             <ul>
@@ -123,6 +144,8 @@
               Sydsamiska</a></li>
               <li><a href="layout-smn.html">
               Enaresamiska</a></li>
+              <li><a href="layout-sms.html">
+              Skoltsamiska</a></li>
             </ul>
             </td>
             <td>
@@ -178,8 +201,15 @@
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/macos/Inari%20Sami%20Keyboards%201.0.2.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Enaresamiska tangentbord
+                    Enaresamiskt tangentbord
                     <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+              </li>
+              <li><a
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/macos/Skolt%20Sami%20Keyboards%200.2.2.pkg"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Skoltsamiskt tangentbord
+                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
               </li>
             </ul></td>
             <td>
@@ -192,6 +222,8 @@
               Sydsamiska</a></li>
               <li><a href="layout-smn.html">
               Enaresamiska</a></li>
+              <li><a href="layout-sms.html">
+              Skoltsamiska</a></li>
             </ul>
             </td>
             <td>
@@ -221,7 +253,7 @@
             </tr>
             <tr>
             <td>Tangentbord för Linux måste byggas in i Linux-systemet av
-            utvecklarna. Vi vill skicka in tangentborden efter hand som dom blir
+            utvecklarna. Vi vill skicka in tangentborden efter hand som de blir
             klara, för att sen inkluderas i Linux.
             </td>
             <td>
@@ -234,6 +266,8 @@
               Sydsamiska</a></li>
               <li><a href="layout-smn.html">
               Enaresamiska</a></li>
+              <li><a href="layout-sms.html">
+              Skoltsamiska</a></li>
             </ul>
             </td>
             <td>
@@ -270,6 +304,8 @@
               sydsamiska</a></li>
               <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/smn/doc/index.html">
               enaresamiska</a></li>
+              <li><a href="http://divvun.no/doc/keyboards/kbdlangdocs/sms/doc/index.html">
+              skoltsamiska</a></li>
             </ul>
         </section>
 
