@@ -169,6 +169,9 @@ ul.center {
 .samikey {
     background-color: #D0B24D ;
 }
+.nonsamikey {
+    background-color: #7098D0 ;
+}
   </extra-css>
   <colors>
   </colors>
