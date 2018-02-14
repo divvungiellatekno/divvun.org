@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Tastaturutforming for enaresamisk</title>
+        <title>Tastaturutforming for skoltesamisk</title>
     </header>
     <body>
         <p>Samiske bokstaver er merket med
@@ -13,15 +13,19 @@
         som har blitt byttet ut med den samiske.</p>
 
         <p>Eksempel: for å skrive finsk <code>Ö</code>, trykk
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Noen ikkesamiske bokstaver har også byttet plass for å få en mere
+        logisk layout. Disse er markerte med <em class="nonsamikey">blå
+        bakgrunn</em>.</p>
 
         <p>Alle andre bokstaver og tegn er som på det finske tastaturet.</p>
 
         <section>
-            <title>Enaresamisk (Windows &amp; macOS)</title>
+            <title>Skoltesamisk (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

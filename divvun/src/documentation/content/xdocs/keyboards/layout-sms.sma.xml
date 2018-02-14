@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sma">
     <header>
-        <title>Enaresaemien båaloebuertien hammoeh</title>
+        <title>Luvliesaemien båaloebuertien hammoeh</title>
     </header>
     <body>
         <p>Saemien boktsaavh leah naemhtie mïerhkesjamme
@@ -13,16 +13,20 @@
         dam bokstaavem, mij lea daelie sjïere båaloem åådtjeme.</p>
 
         <p>Vuesiehtæmman: Gosse såevmien <code>Ö</code>, diedtieh dellie
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Några icke-samiska bokstäver har också bytt plats för att få en mera
+        logisk layout. Dessa är markerade med <em class="nonsamikey">blå
+        bakgrund</em>.</p>
 
         <p>Gaajhkh dah jeatjah bokstaavh jïh væhtah leah seamma sijjesne goh
         såevmien båaloebuertesne.</p>
 
         <section>
-            <title>Enaresaemien (Windows &amp; macOS)</title>
+            <title>Luvliesaemien (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

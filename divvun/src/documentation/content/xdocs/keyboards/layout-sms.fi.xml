@@ -3,26 +3,30 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="fi">
     <header>
-        <title>Näppäimistöleiska inarinsaamelle</title>
+        <title>Näppäimistöleiska koltansaamelle</title>
     </header>
     <body>
-        <p>Saamen kirjeet on merkattu
+        <p>Saamen kirjeet ovat merkattu
         <em class="samikey">oranssilla taustalla</em>.
         Saamelaisilla kirjaimilla on alkuperäinen kirjain AltGr: n kautta: paina
         AltGr + saamelaista kirjainta saadaksesi kirjeen joka on korvattu
         saamelaisella.</p>
 
         <p>Esimerkki: Kirjoita suomalainen kirjain <code>Ö</code>, paina
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Några icke-samiska bokstäver har också bytt plats för att få en mera
+        logisk layout. He ovat merkattu <em class="nonsamikey">sinisillä
+        taustalla</em>.</p>
 
         <p>Kaikki muut kirjaimet ja symbolit sijoitetaan norjalaiseen
         näppäimistöön.</p>
 
         <section>
-            <title>Inarinsaame (Windows &amp; macOS)</title>
+            <title>Koltansaame (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

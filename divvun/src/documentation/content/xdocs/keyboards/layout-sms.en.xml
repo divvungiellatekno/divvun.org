@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboard layout for Inari Sámi</title>
+        <title>Keyboard layout for Skolt Sámi</title>
     </header>
     <body>
         <p>Sámi letters are marked with an
@@ -13,16 +13,20 @@
         that has been replaced with a Sámi one.</p>
 
         <p>Example: to type a Finnish <code>Ö</code>, press
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Some non-Sámi letters have also been moved to get a more logical
+        layout. These are marked with a <em class="nonsamikey">blue background
+        colour</em>.</p>
 
         <p>All other letters and symbols are placed as on the Finnish
         keyboard.</p>
 
         <section>
-            <title>Inari Sámi (Windows &amp; macOS)</title>
+            <title>Skolt Sámi (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
-        <title>Tangentbordslayout för enaresamiska</title>
+        <title>Tangentbordslayout för skoltsamiska</title>
     </header>
     <body>
         <p>Samiska bokstäver har
@@ -13,16 +13,20 @@
         blivit utbytt med en samisk.</p>
 
         <p>Exempel: för att skriva finskt <code>Ö</code>, tryck
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Några icke-samiska bokstäver har också bytt plats för att få en mera
+        logisk layout. Dessa är markerade med <em class="nonsamikey">blå
+        bakgrund</em>.</p>
 
         <p>Alla andra bokstäver och symboler är placerade som på finska
         tangentbord.</p>
 
         <section>
-            <title>Enaresamiska (Windows &amp; macOS)</title>
+            <title>Skoltsamiska (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 

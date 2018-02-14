@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
-        <title>Anársámi boallobeavdehámuhusat</title>
+        <title>Nuortalašsámi boallobeavdehámuhusat</title>
     </header>
     <body>
         <p>Sámi bustávain lea
@@ -12,16 +12,20 @@
         sámi bustáva oažžut bustáva mii lea buhttejuvvon sámi bustávain.</p>
 
         <p>Ovdamearka: čállit bustáva <code>Ö</code>, deaddil
-        <code>AltGr + Đ</code>.</p>
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Några icke-samiska bokstäver har också bytt plats för att få en mera
+        logisk layout. Dessa är markerade med <em class="nonsamikey">blå
+        bakgrund</em>.</p>
 
         <p>Visot iežá bustávat ja symbolat leat seamma ládje dugo suoma
         boallobeavddis.</p>
 
         <section>
-            <title>Anársámi (Windows &amp; macOS)</title>
+            <title>Nuortalašsámi (Windows &amp; macOS)</title>
 
             <p>
-                <img alt="layout for Inari Sámi" src="images/smn-layout.png"/>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
             </p>
         </section>
 
