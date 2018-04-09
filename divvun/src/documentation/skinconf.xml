@@ -125,16 +125,16 @@ which will be used to configure the chosen Forrest skin.
     border-radius:5px;
 }
 
-h3.h4 {
-    margin-left: 1em;
-}
-
 h3.h4 ~ table {
     margin-left: 2em;
 }
 
 h3.h4 ~ p {
     margin-left: 2em;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: bold;
 }
 
 table {
