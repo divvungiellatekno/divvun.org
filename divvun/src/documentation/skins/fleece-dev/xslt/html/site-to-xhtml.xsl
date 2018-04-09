@@ -65,11 +65,11 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     </xsl:if>
                 </title>
                 <xsl:comment>stylesheets</xsl:comment>
+                <link rel="stylesheet" href="{$root}skin/bootstrap.min.css"/>
                 <link rel="stylesheet" href="{$root}skin/basic.css" type="text/css"/>
                 <link rel="stylesheet" href="{$root}skin/screen.css" type="text/css" media="screen" />
                 <link rel="stylesheet" href="{$root}skin/print.css" type="text/css" media="print" />
                 <link rel="stylesheet" href="{$root}skin/profile.css" type="text/css" />
-                <link rel="stylesheet" href="{$root}skin/bootstrap.min.css"/>
                 <xsl:comment>Javascripts</xsl:comment>
                 <script type="text/javascript" language="javascript" src="{$root}skin/getBlank.js"></script>
                 <script type="text/javascript" language="javascript" src="{$root}skin/getMenu.js"></script>
