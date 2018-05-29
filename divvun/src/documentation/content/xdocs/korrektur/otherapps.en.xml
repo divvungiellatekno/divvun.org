@@ -104,15 +104,15 @@
             <p>Download:</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   North Sámi</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Julev Sámi</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   South Sámi</a></li>
@@ -120,7 +120,7 @@
 
             <p>There are more languages in the nightly build directory. Have a
             look by going to <a
-            href="http://apertium.projectjj.com/spellers/">the download directory
+            href="http://apertium.projectjj.com/spellers/nightly/">the download directory
             for nightly builds</a>.</p>
 
       </section>

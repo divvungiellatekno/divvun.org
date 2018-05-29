@@ -14,7 +14,7 @@
 
             <note label="HUOM!">Dát tjielggidus ij gåbtjå <a
             href="korrektur.html#Duollatjállemdárkastus+Officij">
-            tjállemdárkastusájt MS Officej</a> - danna sajájduhtá ålles 
+            tjállemdárkastusájt MS Officej</a> - danna sajájduhtá ålles
             prográmmav iesjguhtik giellaj.</note>
 
             <ol>
@@ -93,7 +93,7 @@
       <section>
          <title>Ådå tjállemdárkastusá juohkka biejve</title>
 
-            <p>MS Office/Windows-tjállemdárkastusá ådåstuhteduvvi juohkka 
+            <p>MS Office/Windows-tjállemdárkastusá ådåstuhteduvvi juohkka
             ijá maŋemus gielalasj rievddadimij.</p>
 
             <warning label="Huomaha!"> Dá versjåvnå ælla almmaláhkáj gæhttjaluvvam,
@@ -105,15 +105,15 @@
             <p>Viettja:</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Nuorttasámegiella</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Julevsámegiella</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Oarjjelsámegiella</a></li>
@@ -121,7 +121,7 @@
 
             <p>Máhtá iesj gávnnat makkir versjåvnå ja giela li sadjihin
              <a
-            href="http://apertium.projectjj.com/spellers/">bæjválasj
+            href="http://apertium.projectjj.com/spellers/nightly/">bæjválasj
             ådåstuhttemij viedtjammáhpan</a>.</p>
 
       </section>
@@ -130,7 +130,7 @@
          <title>Tsieggi ietjat tjállemdárkastusáv</title>
 
          <note>Dá bagádusá ja kommánndu vuollelin gájbbedij vuodulasj máhtudagáv
-         kommánndulinnjabirrasij ådåájggásasj operatijvavuogádagájn. Ij heva 
+         kommánndulinnjabirrasij ådåájggásasj operatijvavuogádagájn. Ij heva
          dåjma Windowsin.</note>
 
          <p>Le vejulasj njuolgga gálldofijlajs allasit tjállemdárkastusáv

@@ -98,22 +98,22 @@
             <p>Lataa:</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Pohjoissaame</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Luulajansaame</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe"><icon
                   alt="Download" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Eteläsaame</a></li>
             </ul>
 
             <p>Näet saatavilla olevat versiot ja kielet kun menet <a
-            href="http://apertium.projectjj.com/spellers/">yöllisten latauskansio</a>.</p>
+            href="http://apertium.projectjj.com/spellers/nightly/">yöllisten latauskansio</a>.</p>
 
       </section>
 

@@ -107,22 +107,22 @@
             <p>Veedtjelh:</p>
 
             <ul>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe"><icon
                   alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Noerhtesaemien</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe"><icon
                   alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Julevsaemien</a></li>
-              <li><a href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"><icon
+              <li><a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe"><icon
                   alt="Veedtjelh" height="44" width="44"
                   src="images/Crystal_Clear_app_download_manager.png" />
                   Åarjelsaemien</a></li>
             </ul>
 
             <p> Jïjtje vuajnah magkerh versjovnh jïh gïelh leah, jis diekie
-            mïnnh <a href="http://apertium.projectjj.com/spellers/">katalogeste,
+            mïnnh <a href="http://apertium.projectjj.com/spellers/nightly/">katalogeste,
             gusnie dah minngemes versjovnh leah jïjjen bïgkesovveme</a>.</p>
 
       </section>
@@ -148,8 +148,8 @@ sudo make install</source>
             </li>
 
             <li><!- - Last ned kildekode-tarballen for språket ditt: - ->
-                Pryövh dam dov gaaltijekovdem dov gïeline sjïere katalogesne (dvs. 
-                ikke inne i <code>giella-core</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne. 
+                Pryövh dam dov gaaltijekovdem dov gïeline sjïere katalogesne (dvs.
+                ikke inne i <code>giella-core</code>-katalogem maam easkan riblih, dennie minngemes tsiehkesne.
                 <!- -ul>
                   <li><a href="http://divvun.no/static_files/tarballs/sme.tgz">Nordsamisk</a></li>
                   <li><a href="http://divvun.no/static_files/tarballs/smj.tgz">Lulesamisk</a></li>

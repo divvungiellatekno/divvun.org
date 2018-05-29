@@ -106,17 +106,17 @@
 
             <ul>
               <li><a
-              href="http://apertium.projectjj.com/spellers/Divvun-sme-latest.msi"
+              href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               Nordsamiska</a></li>
               <li><a
-              href="http://apertium.projectjj.com/spellers/Divvun-smj-latest.msi"
+              href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               Lulesamiska</a></li>
               <li><a
-              href="http://apertium.projectjj.com/spellers/Divvun-sma-latest.msi"
+              href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe"
               ><icon alt="Download" height="44" width="44"
               src="images/Crystal_Clear_app_download_manager.png" />
               Sydsamiska</a></li>
@@ -124,7 +124,7 @@
 
             <p>Du kan själv se vilka versioner och språk som är tillgängliga genom
             att gå till <a
-            href="http://apertium.projectjj.com/spellers/">nerladdningskatalogen
+            href="http://apertium.projectjj.com/spellers/nightly/">nerladdningskatalogen
             för nattliga byggen</a>.</p>
 
       </section>
