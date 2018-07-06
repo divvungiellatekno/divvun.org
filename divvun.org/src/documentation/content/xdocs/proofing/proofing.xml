@@ -25,96 +25,110 @@
 
          <table>
          <tr>
-           <th>Language:</th>
-           <th colspan="2">     Download program:                     </th><!-- lots of nbsp to force a larger width of the column - leave as is -->
-           <th>Version</th>
+           <th colspan="2">Download installer for:   </th><!-- Several of nbsp to force a larger width of the column - leave as is -->
+           <th>Version          </th><!-- Several of nbsp to force a larger width of the column - leave as is -->
            <th>Project documentation and source code:</th>
          </tr>
          <tr>
-           <td>Cornish
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-cor-latest.exe">
+               Cornish
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
-           </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-cor-latest.exe">Download installer</a> </td>
+               </a> </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/cor/index.html">Cornish documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/cor/index.html">Cornish documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/cor">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Estonian
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">
+               Estonian
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               </a>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">Download installer</a> </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/est/index.html">Estonian documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/est/index.html">Estonian documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/est">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Faroese
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.exe">
+               Faroese
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               </a>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.exe">Download installer</a> </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/fao/index.html">Faroese documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/fao">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Greenlandic</td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Kukkuniiaat-latest.exe">Download installer</a> </td>
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Kukkuniiaat-latest.exe">
+               Greenlandic
+               </a>
+           </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/kal/index.html">Greenlandic documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Inari Saami</td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">Download installer</a> </td>
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">
+               Inari Saami
+               </a>
+           </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Irish
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">
+               Skolt Saami
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               </a>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-gle-latest.exe">Download installer</a> </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/startup-lang/gle/index.html">Irish documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/sms/j-sms.html">Skolt Saami documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sms">source code</a>.
             </td>
          </tr>
          <tr>
-           <td>Skolt Saami
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-gle-latest.exe">
+               Irish
                <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               </a>
            </td>
-           <td>     <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">Download installer</a> </td>
            <td> </td>
-           <td><a href="http://apertium.projectjj.com/spellers/">Nightly build</a> </td>
-           <td>The <a href="http://giellatekno.uit.no/doc/lang/sms/j-sms.html">Skolt Saami documentation</a>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/startup-lang/gle/index.html">Irish documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sms">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
             </td>
          </tr>
          </table>
       </section>
 
       <section>
-         <title>Spelling checkers for LibreOffice</title>
+         <title>Spelling checkers for LibreOffice 5+ (Windows and Mac)</title>
 
          <table>
          <tr>
@@ -132,9 +146,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/cor/index.html">Cornish documentation</a>
+           <td><a href="http://divvun.no/doc/lang/cor/index.html">Cornish documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/cor">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
            </td>
          </tr>
          <tr>
@@ -146,9 +160,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
+           <td><a href="http://divvun.no/doc/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/myv">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/myv">source code</a>.
            </td>
          </tr>
          <tr>
@@ -160,9 +174,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/est/index.html">Estonian documentation</a>
+           <td><a href="http://divvun.no/doc/lang/est/index.html">Estonian documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/est">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
            </td>
          </tr>
          <tr>
@@ -174,9 +188,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fao/index.html">Faroese documentation</a>
+           <td><a href="http://divvun.no/doc/lang/fao/index.html">Faroese documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/fao">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
            </td>
          </tr>
          <tr>
@@ -187,9 +201,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish documentation</a>
+           <td><a href="http://divvun.no/doc/lang/fin/j-fin.html">Finnish documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/fin">source code</a>.
             </td>
          </tr>
          <tr>
@@ -200,9 +214,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic documentation</a>
+           <td><a href="http://divvun.no/doc/lang/kal/index.html">Greenlandic documentation</a>
                and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
          </tr>
          <tr>
@@ -214,9 +228,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/gle/IrishDocumentation.html">Irish documentation</a>
+           <td><a href="http://divvun.no/doc/lang/gle/IrishDocumentation.html">Irish documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
            </td>
          </tr>
          <tr>
@@ -228,9 +242,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kom/index.html">Komi documentation</a>
+           <td><a href="http://divvun.no/doc/lang/kom/index.html">Komi documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/kpv">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/kpv">source code</a>.
            </td>
          </tr>
          <tr>
@@ -242,9 +256,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven documentation</a>
+           <td><a href="http://divvun.no/doc/lang/fkv/KvenDocumentation.html">Kven documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/fkv">source code</a>.
            </td>
          </tr>
          <tr>
@@ -256,9 +270,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mns/MansiDocumentation.html">Mansi documentation</a>
+           <td><a href="http://divvun.no/doc/lang/mns/MansiDocumentation.html">Mansi documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/mns">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mns">source code</a>.
            </td>
          </tr>
          <tr>
@@ -270,9 +284,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mhr/EasternMariDocumentation.html">Eastern Mari documentation</a>
+           <td><a href="http://divvun.no/doc/lang/mhr/EasternMariDocumentation.html">Eastern Mari documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/mhr">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mhr">source code</a>.
            </td>
          </tr>
          <tr>
@@ -284,9 +298,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari documentation</a>
+           <td><a href="http://divvun.no/doc/lang/mrj/WesternMariDocumentation.html">Western Mari documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/mrj">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mrj">source code</a>.
            </td>
          </tr>
          <tr>
@@ -298,9 +312,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/mdf/MokshaDocumentation.html">Moksha documentation</a>
+           <td><a href="http://divvun.no/doc/lang/mdf/MokshaDocumentation.html">Moksha documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/mdf">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mdf">source code</a>.
            </td>
          </tr>
          <tr>
@@ -310,9 +324,23 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
+           <td><a href="http://divvun.no/doc/lang/smn/j-smn.html">Inari Saami documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/smn">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
+           </td>
+         </tr>
+         <tr>
+           <td>Saami, Pite
+               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/sje_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://divvun.no/doc/lang/sje/PiteSaamiDocumentation.html">Pite Saami documentation</a>
+               and
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/sje">source code</a>.
            </td>
          </tr>
          <tr>
@@ -324,9 +352,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/udm/UdmurtDocumentation.html">Udmurt documentation</a>
+           <td><a href="http://divvun.no/doc/lang/udm/UdmurtDocumentation.html">Udmurt documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/udm">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/udm">source code</a>.
            </td>
          </tr>
          <tr>
@@ -338,9 +366,9 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/vro/VoroDocumentation.html">Võro documentation</a>
+           <td><a href="http://divvun.no/doc/lang/vro/VoroDocumentation.html">Võro documentation</a>
                and
-           <a href="https://victorio.uit.no/langtech/trunk/langs/vro">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/vro">source code</a>.
            </td>
          </tr>
          </table>
