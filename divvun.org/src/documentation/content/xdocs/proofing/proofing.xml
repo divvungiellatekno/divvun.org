@@ -33,7 +33,7 @@
            <td>
                <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-cor-latest.exe">
                Cornish
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a> </td>
            <td> </td>
            <td>Nightly build</td>
@@ -46,7 +46,7 @@
            <td>
                <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-est-latest.exe">
                Estonian
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a>
            </td>
            <td> </td>
@@ -60,7 +60,7 @@
            <td>
                <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.exe">
                Faroese
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a>
            </td>
            <td> </td>
@@ -98,9 +98,49 @@
          </tr>
          <tr>
            <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-gle-latest.exe">
+               Irish
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
+               </a>
+           </td>
+           <td> </td>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/startup-lang/gle/index.html">Irish documentation</a>
+               and
+               <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe">
+               Lule Saami
+               </a>
+           </td>
+           <td> </td>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/smn/j-smj.html">Lule Saami documentation</a>
+               and
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/smj">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe">
+               North Saami
+               </a>
+           </td>
+           <td> </td>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/smn/j-sme.html">North Saami documentation</a>
+               and
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sme">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>
                <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">
                Skolt Saami
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a>
            </td>
            <td> </td>
@@ -112,16 +152,15 @@
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-gle-latest.exe">
-               Irish
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe">
+               South Saami
                </a>
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="http://divvun.no/doc/startup-lang/gle/index.html">Irish documentation</a>
+           <td>The <a href="http://divvun.no/doc/lang/sms/j-sma.html">South Saami documentation</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sma">source code</a>.
             </td>
          </tr>
          </table>
@@ -139,7 +178,7 @@
          </tr>
          <tr>
            <td>Buryad
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/bxr_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -153,7 +192,7 @@
          </tr>
          <tr>
            <td>Cornish
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/kw_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -167,7 +206,7 @@
          </tr>
          <tr>
            <td>Erzya
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/myv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -181,7 +220,7 @@
          </tr>
          <tr>
            <td>Estonian
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/et_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -195,7 +234,7 @@
          </tr>
          <tr>
            <td>Faroese
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/fo_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -235,7 +274,7 @@
          </tr>
          <tr>
            <td>Irish
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/ga_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -249,7 +288,7 @@
          </tr>
          <tr>
            <td>Komi
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/kpv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -263,7 +302,7 @@
          </tr>
          <tr>
            <td>Kven
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/fkv_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -277,7 +316,7 @@
          </tr>
          <tr>
            <td>Mansi
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/mns_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -291,7 +330,7 @@
          </tr>
          <tr>
            <td>Mari, Eastern
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/mhr_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -305,7 +344,7 @@
          </tr>
          <tr>
            <td>Mari, Western
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/mrj_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -319,7 +358,7 @@
          </tr>
          <tr>
            <td>Moksha
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/mdf_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -345,7 +384,7 @@
          </tr>
          <tr>
            <td>Saami, Pite
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/sje_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -359,7 +398,7 @@
          </tr>
          <tr>
            <td>Udmurt
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/udm_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
@@ -373,7 +412,7 @@
          </tr>
          <tr>
            <td>Võro
-               <img src="images/Beta-Stamp.png" alt="BETA" height="30"/>
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
            <td><ul>
                 <li><a href="http://divvun.no/static_files/oxts/vro_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
