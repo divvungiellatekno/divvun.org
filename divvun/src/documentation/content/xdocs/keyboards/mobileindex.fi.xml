@@ -11,7 +11,10 @@
 
         <p>Divvun on tehnyt ohjelman «Samiske tastaturer» (Saamen näppäimistöt)
           sisältäen matkapuhelin- ja tablettinäppäimistöt pohjois-, luulajan-,
-          etelä-, inari- ja koltansaamelle. Tämä ohjelmisto on saatavilla <a
+          etelä-, inari- ja koltansaamelle.
+          Since 12/20/2018 the app also contains spell checkers for North,
+          Julev, South and Inari Sami.
+          Tämä ohjelmisto on saatavilla <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
                 >Androidille</a> ja <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"

@@ -11,7 +11,9 @@
 
         <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
             containing mobile phone and tablet keyboards for North, Julev, South,
-            Pite, Inari and Skolt Sami. The app is available
+            Pite, Inari and Skolt Sami. Since 12/20/2018 the app also contains
+            spell checkers for these languages North, Julev, South and Inari
+            Sami. The app is available
             for <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
                 >Android</a> and <a
@@ -61,7 +63,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
               <li>How to avoid high costs on Samsung phones</li>
             </ul>
           </li>
-  
+
           <li class="col-sm-6">
             <ul>
               <li>

@@ -8,8 +8,10 @@
     <body>
 
         <p>Divvun har gjort appen «Samiske tastaturer» med mobiltangentbord för
-            nord-, lule-, syd-, pite-, enare- och skoltsamiska. Appen finns
-            för <a
+            nord-, lule-, syd-, pite-, enare- och skoltsamiska.
+            Siden 20.12.2018 har appen også stavekontroller for nord-, lule-, sør- og
+            enaresamisk.
+            Appen finns för <a
             href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> och <a
 href="https://itunes.apple.com/se/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
                 >iOS (iPhone och iPad)</a>.</p>
@@ -51,7 +53,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
                       Installationshjälp
                   </a>
           </li>
-  
+
           <li class="col-sm-6">
                   <a href="installation_ios.html">
                    <img alt="Frågetecken" width="50"

@@ -8,8 +8,10 @@
     <body>
 
         <p>Divvun har laget appen «Samiske tastaturer» med mobiltastaturer for
-            nord-, lule-, sør-, pite-, enare- og skoltesamisk. Appen finnes
-            for <a
+            nord-, lule-, sør-, pite-, enare- og skoltesamisk.
+            Siden 20.12.2018 har appen også stavekontroller for nord-, lule-, sør- og
+            enaresamisk.
+            Appen finnes for <a
             href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami">Android</a> og <a
 href="https://itunes.apple.com/no/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
                 >iOS (iPhone og iPad)</a>.</p>
@@ -51,7 +53,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
                     Installeringshjelp
                 </a>
           </li>
-  
+
           <li class="col-sm-6">
                 <a href="installation_ios.html">
                  <img alt="Question mark icon" width="50"
