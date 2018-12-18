@@ -12,21 +12,17 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
-             ja neahttaloganat Internet Explorer ja Edge.
+         <p>Korjausohjelma toimii ohjelmissa, jotka tukevat Windows-järjestelmän omaa korjausohjelmaa, kuten Skype ja ..
          </p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvunasebtaha</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kieliile haluat korhausohjelman.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>Tämä korjausohjelma ei toimi LibreOfficessa eikä Microsoft Wordissa. Korjausohjelma näille kielille löydät 
+              <a href="korrektur.html">täältä</a>.
          </note>
       </section>
 
@@ -35,15 +31,13 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p>Korjausohjelma toimii ohjelmissa, jotka tukevat Macin järjestelmäkorjausohjelmaa (useimmat ohjelmat).</p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvunasentaja</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kieliile haluat korhausohjelman.
          </p>
          <note>Dát čállindárkkisteaddji ii doaimma
              LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid

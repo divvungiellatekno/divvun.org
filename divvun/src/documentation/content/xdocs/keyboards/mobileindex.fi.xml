@@ -9,12 +9,12 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun on tehnyt ohjelman «Samiske tastaturer» (Saamen näppäimistöt)
-          sisältäen matkapuhelin- ja tablettinäppäimistöt pohjois-, luulajan-,
-          etelä-, inari- ja koltansaamelle.
-          Since 12/20/2018 the app also contains spell checkers for North,
-          Julev, South and Inari Sami.
-          Tämä ohjelmisto on saatavilla <a
+        <p>Divvun on tehnyt ohjelman «Samiske tastaturer» (Saamen näppäimistöt),
+          joka siältää matkapuhelin- ja tablettinäppäimistöt pohjois-, luulajan-,
+          etelä-, inarin- ja koltansaamelle.
+          20.12.2018 lähtien näppäimistöt sisältävät myös korjausohjelmat pohjois-, luulajan-,
+          etelä- ja inarinsaamelle.
+          Ohjelmisto on saatavilla <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
                 >Androidille</a> ja <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
@@ -88,8 +88,8 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
 
       <section>
         <title>Yksityisyys</title>
-        <p>Näe meidän <a href="privacy.html">yksityisyys lausunto</a>
-        joka koskee näppäimistö ohjelmistoa.</p>
+        <p>Näe meidän <a href="privacy.html">yksityisyyslausunto</a>
+        joka koskee näppäimistöohjelmistoa.</p>
       </section>
 
    </body>
