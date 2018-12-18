@@ -8,12 +8,16 @@
     </header>
     <body>
 
-      <note label="NYHET! 22.12.2017">Divvun lanserer datamaskintastatur for
-        mange samiske språk!
+      <note label="NYHET! 20.12.2018">Divvun lanserer mobiltastatur
+          med stavekontroller!
         <br/>
-        <a href="https://uit.no/nyheter/artikkel?p_document_id=554691&#38;p_dim=88147">Les mer her!</a>
+        <a href="/keyboards/mobileindex.htm">Hent her!</a>
         <br/>
-        <a href="keyboards/desktopindex.html">Last ned her!</a>
+        Divvun lanserer stavekontroller til Windows og Mac!
+        <br/>
+        <a href="/korrektur/oswide.html">Hent her!</a>
+        <br/>
+        <a href="#">Les mer her!</a>
       </note>
 
       <ul class="col-sm-12 nobullet center">

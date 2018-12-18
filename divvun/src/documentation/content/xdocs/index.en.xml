@@ -8,13 +8,18 @@
     </header>
     <body>
 
-      <note label="NEWS! 22.12.2017">Divvun releases computer keyboards for
-        many Sámi languages!
+      <note label="NEWS! 12/20/2018">Divvun launches mobile keyboards
+          with spell checkers!
         <br/>
-        <a href="https://uit.no/nyheter/artikkel?p_document_id=554691&#38;p_dim=88147">Read more here!</a>
+        <a href="/keyboards/mobileindex.htm">Download here!</a>
         <br/>
-        <a href="keyboards/desktopindex.html">Download here!</a>
+        Divvun launches spell checkers for Windows and Mac!
+        <br/>
+        <a href="/korrektur/oswide.html">Download here!</a>
+        <br/>
+        <a href="#">Read more here!</a>
       </note>
+
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
