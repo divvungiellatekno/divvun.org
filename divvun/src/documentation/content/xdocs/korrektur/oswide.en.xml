@@ -12,21 +12,21 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
-             ja neahttaloganat Internet Explorer ja Edge.
+         <p>This spell checker works in programs that support the
+             systemwide Windows spell checker, e.g. Skype,
+             Internet Explorer and Edge.
          </p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
-                    ><icon alt="Viečča" height="44" width="44"
+                    ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvun Installer</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>When you have downloaded the Divvun Installer, start it and
+             choose the spell checkers for the languages you want to install.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>These spell checkers will not work for
+             LibreOffice and Microsoft Word. Spell checkers
+             for these programs are <a href="korrektur.html">here</a>.
          </note>
       </section>
 
@@ -35,19 +35,19 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p>This spell checker works in programs that support the
+             systemwide Mac spell checker (most programs).</p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
-                    ><icon alt="Viečča" height="44" width="44"
+                    ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvun Installer</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>When you have downloaded the Divvun Installer, start it and
+             choose the spell checkers for the languages you want to install.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>These spell checkers will not work for
+             LibreOffice and Microsoft Word. Spell checkers
+             for these programs are <a href="korrektur.html">here</a>.
          </note>
       </section>
 
