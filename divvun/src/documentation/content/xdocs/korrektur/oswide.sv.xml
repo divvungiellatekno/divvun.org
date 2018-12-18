@@ -12,98 +12,43 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Vi jobbar på en stavningskontroll som fungerar i hela Windows,
-         men det har vart en del utmaningar. Vi uppdaterar den här sidan så
-         fort som vi vet mer.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Stavningskontroller för hela OSX er fortfarande i betakvalitet. Den
-         viktigaste återstående, öppna saken är knytt till installation av fler
-         än ett språk. Vi har <a
-         href="otherapps.html">en egen sida</a> med instruktioner för hur
-         man kan installera flera språk samtidigt. Språkligt er dom här
-         stavningskontrollerna lika bra som Word-stavningskontrollen.</p>
-
-         <table>
-         <tr>
-           <th>Språk: </th>
-           <th>Version: </th>
-           <th>Dokumentation och källkod:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Lasta ned nordsamiska" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Nordsamiska </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektdokumentation för nordsamiska</a>
-               och
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">källkod</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Lasta ned lulesamiska" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Lulesamiska </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektdokumentation för lulesamiska</a>
-               och
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">källkod</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Lasta ned sydsamiska" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Sydsamiska </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektdokumentation för sydsamiska</a>
-               och
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">källkod</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Installation:</strong> Flytta den nedlastade filen till
-         <code>~/Bibliotek/Services/</code> så här: öppna ett nytt Finder-fönster, gå till
-         menyn <strong>Gå > Gå till mappen ...</strong>, skriv in
-         <code>~/Bibliotek/Services/</code> och tryck enter. Sen kan du flytta
-         den nedlastade filen in i den här mappen. Dubbelklicka på filen efter att du
-         har flyttat den, eller logga ut och in igen.</p>
-
-         <p>För att bekräfta att stavningskontrollen fungerar, öppna
-         <strong>Systeminställningar... > Tangentbord > Text</strong>, och kolla att ditt
-         språk är med på listan i menyn <strong>Stavning</strong>, med
-         <strong>«(MacVoikko)»</strong>
-         bakom språknamnet. Om inte, starta datorn på nytt.</p>
-
-         <figure alt="OSX Systeminställningar > Tangentbord med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-
-         <p><strong>Användning:</strong> I program som använder systemstavningskontrollen
-         (dom flesta program, men inte MS Word, Firefox och några andra vanliga
-         program) kan du bara öppna stavningskontrollfönstret:
-         <strong>Redigera > Stavningskontroll och grammatik > Visa stavningskontroll och
-         grammatik</strong>. Så väljer du ditt språk i språkmenyn.
-         Om du alltid vill använda stavningskontrollen på det här språket kan du göra
-         det till standardspråk för stavningskontrollen i <strong>Systeminställningar >
-         Tangentbord > Text</strong>.</p>
-
-         <figure alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>

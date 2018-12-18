@@ -12,96 +12,49 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Barkeminie libie staeriedæjjine mij edtja abpe Windowisnie juhtedh,
-         badth ij leah aelhkie. Jienebh bïevnesh båetieh dan bealan.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Staeriedæjjah OSXasse leah annje betakvaliteete. Vihkielommes aamhtese daelie lea guktie sijjiedehtedh gosse dan jïjnjh gïelh. 
-          Mijjen lea <a
-         href="otherapps.html">sjïere bielie</a> Gusnie bïhkedassh leah, guktie sijjiedehtedh versjovnem gusnie gellie gïelh mealtan. daej staeriedæjjaj gïele lea seamma hijven goh Word-staeriedæjja.</p>
-
-         <table>
-         <tr>
-           <th>Gïele: </th>
-           <th>Versjovne: </th>
-           <th>Dokumentasjovne jïh gaaltije:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Noerhtesaemien </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Dokumentasjovne noerhtesaemiengïelese</a>
-               jïh
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gaaltijekovde</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Julevsaemien </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Dokumentasjovne julevsaemiengïelese</a>
-               jïh
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gaaltijekovde</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Åarjelsaemien</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Dokumentasjovne åarjelsaemiengïelese</a>
-               jïh
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gaaltijekovde</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Sijjiedehtedh:</strong> Sirtieh dam fijlem maam leah veedtjelamme.
-         <code>~/Bibliotek/Services/</code> naemhtie: Rïhpesth aktem orre Finder-klaasem, Mïnnh
-         læstose <strong>Mïnnh > Mappesne ...</strong>, tjaelieh dellie
-         <code>~/Bibliotek/Services/</code> diedtieh "enter". Dan mænngan maahtah, dam fijlem maam leah veedtjeme, bïejedh dan mappese. Guektien aejkien diedtieh dam fijlem, mænngan goh la særteme dam, dle loggedh olkese jïh viht gåatan tjaangedh.</p>
-
-         <p>Guktie åadtjodh daejredh mejtie staeriedæjja jåhta guktie ussjedamme, rïhpesth 
-         <strong>Systemvalg... > Tastatur> Tekst</strong>, Vuartesjh mejtie dov gïele lea mealtan dennie læstosne
-        <strong>Stavekontroll</strong>, med
-         <strong>«(MacVoikko)»</strong>
-         gïelenommen duekesne. jis ij, ikth vielie maskinam aelkiehtidh.
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
          </p>
-
-         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-         <p><strong>Utnieh:</strong> Programmine gusnie systemstaeriedæjja lea åtnosne 
-         (jeenemes programmine lea, mohte ij leah MS Wordesne, Firefoxesne jïh naan vielie sïejhme programmine) maahtah barre staeriedæjjaklaasem rïhpestidh:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Dan mænngan dellie gïelem dehtie læstoste veeljh.
-         Jis sijht barre ketede dam gïelem utnedh daennie staeriedæjjesne, maahtah sïejhtemgïeline darjodh staeriedæjjesne. daesnie <strong>Systemvalg >
-         Tastatur > Tekst</strong>.
-       </p>
-
-         <figure alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
          <title>Linux</title>
 
-         <p>Staeriedæjjah mah juhtieh Linuxine, lea gaajhke maam desnie daarpesjh.Gaajhkh programmh dam utnieh. 
+         <p>Staeriedæjjah mah juhtieh Linuxine, lea gaajhke maam desnie daarpesjh.Gaajhkh programmh dam utnieh.
          Dan raajan tjoeverh jïjtje staeriedæjjam bigkedh. Mijjieh libie barkeminie åadtjodh gaajhkide paagkide mah leah daerpies, (inklusive våre egne språkmodeller, tilgjengelige
          via de vanlige pakkerepositoriene.)</p>
 

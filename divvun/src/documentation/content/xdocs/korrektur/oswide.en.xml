@@ -12,95 +12,43 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>There is work going on to develop an OS-wide speller for Windows.
-         The page will be updated as soon as we have new information.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>The OSX system-wide spellers are still beta quality. The main
-         remaining issue is related to installing multiple languages. We have <a
-         href="otherapps.html">a separate page</a> with instructions for how to
-         install multiple languages in parallel. Linguistically these spellers
-         are as good as the Word spelling checkers.</p>
-
-         <table>
-         <tr>
-           <th>Language: </th>
-           <th>Version: </th>
-           <th>Documentation and source code:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />North Sámi </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Project documentation for North Sámi</a>
-               and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">source code</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Julev Sámi </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Project documentation for Julev Sámi</a>
-               and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">source code</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />South Sámi </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Project documentation for South Sámi</a>
-               and
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">source code</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Installation:</strong> Move the downloaded file to
-         <code>~/Library/Services/</code> as follows: open a new Finder window,
-         choose the menu item <strong>Go > Go to folder…</strong>, type
-         <code>~/Library/Services/</code> and press enter. Then move the
-         downloaded file into this folder. Double-click the file after you have
-         moved it, or log out and back in.</p>
-
-         <p>To verify that the speller is working, open
-         <strong>System Preferences > Keyboard > Text</strong>, and verify that
-         your language is listed in the menu <strong>Spelling</strong>, with
-         <strong>«(MacVoikko)»</strong>
-         after the language name. If not, restart your computer.
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
          </p>
-
-         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-         <p><strong>Usage:</strong> IIn applications using the system spelling
-         checker services (most apps, but not MS Word, Firefox and a few other
-         common applications) just open the spelling checker dialog:
-         <strong>Edit > Spelling and Grammar > Show Spelling and Grammar</strong>.
-         Select your language in the language menu. If you always want to spell
-         check in this language, you can make it the default spell checking
-         language in <strong>System Preferences > Keyboard > Text</strong>.
-       </p>
-
-         <figure alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>

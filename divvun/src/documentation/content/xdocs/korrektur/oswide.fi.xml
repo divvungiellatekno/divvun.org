@@ -12,94 +12,43 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Työskentelemme oikoluvun saamiseksi koko Windowsille,
-          mutta se on aiheuttanut haasteita. Päivitämme sivua kun meillä on enemmän tietoa.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Oikoluku koko OSX:lle on betalaatua. Tärkein avoin kysymys liittyy asennukseen monien
-          kielien kanssa. Meillä on <a
-         href="otherapps.html">oma sivu</a> ohjeilla miten asentaa useita kieliä samanaikaisesti.
-         Kielellisesti nämä oikoluvut ovat yhtä hyviä kuin Word-oikoluvut.</p>
-
-         <table>
-         <tr>
-           <th>Kieli: </th>
-           <th>Versio: </th>
-           <th>Dokumentointi ja lähdekoodi:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Pohjoissaame</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Projektidokumentaatio</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">kildekode</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Luulajansaame</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Projektidokumentaatio</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">lähdekoodi</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Last ned nordsamisk" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Eteläsaame</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Projektidokumentaatio</a>
-               og
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">lähdekoodi</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Asentaminen:</strong> Siirrä ladattu tiedosto
-         <code>~/Kirjasto/Services/</code> näin: avaa uusi Finder-ikkuna, mene
-         menuun <strong>Siirry > Siirry kansioon ...</strong>, kirjoita
-         <code>~/Kirjasto/Services/</code> ja paina enter. Tämän jälkeen voit
-         siirtää ladatun tiedoston tähän kansioon. Kaksoisnapsauta tiedostoa,
-         kun olet siirtänyt sen, tai kirjaudu ulos ja uudelleen sisään.</p>
-
-         <p>Varmistaaksesi että oikoluku toimii, avaa
-         <strong>Järjestelmäasetukset... > Näppäimistö > Teksti</strong>, ja tarkista
-         että kielesi löytyy menun listalta <strong>Oikeinkirjoitus</strong>,
-         <strong>«(MacVoikko)»</strong>
-         kielen takana. Jos ei, uudelleenkäynnistä kone.
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
          </p>
-
-         <figure alt="OSX Järjestelmäasetukset > MacVoikko Näppäimistö"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-         <p><strong>Käyttö:</strong> Ohjelmissa jotka käyttävät järjestelmäoikolukua
-         (useimmat ohjelmat, mutta ei MS Word, Firefox ja jotkin muut tavalliset
-         ohjelmat) voit vain avata oikolukuikkunan:
-         <strong>Muokkaa > Oikeinkirjoitus ja kielioppi > Näytä oikeinkirjoitus ja
-         kielioppi</strong>. Valitse kielesi valikosta.
-         Voit valita haluamasi kielen oletuskieleksi oikeinkirjoituksessa <strong>
-         Järjestelmäasetukset > Näppäimistö > Teksti</strong>.
-       </p>
-
-         <figure alt="OSX oikolukudialogi"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>

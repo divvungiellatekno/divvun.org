@@ -12,97 +12,43 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Mij lip barggamin åttjudittjat tjállemdárkastusáv mij doajmmá
-         ålles Windowsin, valla li muhtem gássjelisvuoda. Ådåstuhttep dáv
-         bielev nav ruvva gå miján li ienep diedoj.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>OSX-tjállemdárkastusá li vilá betakvalitiehtas. Ájnnasamos
-         ássje mij la báhtsám le gåktu sajájduhttet måttijt gielajt.
-         Miján le <a
-         href="otherapps.html">sierra bielle</a> bagádusáj gåktu 
-         sajájduhttet moadda gielajt sæmmi bále. Gielalattjat li dá
-         tjállemdárkastusá sæmmi buorre dagu Word-tjállemdárkastus.</p>
-
-         <table>
-         <tr>
-           <th>Giella: </th>
-           <th>Versjåvnnå: </th>
-           <th>Dokumentasjåvnnå ja gálldokåvddå:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"
-           ><icon alt="Viettja nuorttasáme tjállemdárkastusáv" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Nuorttasámegiella </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Prosjæktadokumentasjåvnnå nuorttasámegiellaj</a>
-               ja
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gálldokåvddå</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"
-           ><icon alt="Viettja julevsáme tjállemdárkastusáv" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Julevsámegiella </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Prosjæktadokumentasjåvnnå julevsámegiellaj</a>
-               ja
-               <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gálldokåvddå</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"
-           ><icon alt="Viettja oarjjelsáme tjállemdárkastusáv" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png"
-                    />Oarjjelsámegiella </a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Prosjæktadokumentasjåvnnå oarjjelsámegiellaj</a>
-               ja
-               <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gálldokåvddå</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Sajájduhttem:</strong> Sirde viettjaduvvam fijlav máhppaj
-         <code>~/Bibliotek/Services/</code> návti: Rabá ådå Finder-vinndegav,
-         maná fálluj <strong>Gå > Gå til mappe ...</strong>, tjálesta
-         <code>~/Bibliotek/Services/</code> ja dieddela enter-boalov. De besa
-         sirddet viettjaduvvam fijlav dán máhppaj. Dieddela fijlav guokti
-         maŋŋálakkuj gå la dav sirddám, jali låggi dáhtámasjijnas ålgus ja sisi vasten.</p>
-
-         <p>Duodastittjat jus tjállemdárkastus doajmmá, rabá
-         <strong>Systemvalg... > Tastatur > Tekst</strong>, ja gehtja jut
-         giellat le listan <strong>Stavekontroll</strong>, ja jut tjuodtju
-         <strong>«(MacVoikko)»</strong>
-         giela namá duogen. Jus ij, álgada dáhtámasjijnav ådåsit.
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
          </p>
-
-         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-         <p><strong>Adno:</strong> Prográmmajn ma tjállemdárkastusáv bruvkkuji
-         (ienemus prográmma, valla ij MS Word, Firefox ja muhtem ieme prográmma)
-         máhtá dåssju tjállemdárkastusvinndegav rahpat:
-         <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Ja de vállji gielat giellafálon.
-         Máhtá aj biedjat dav tjállemdárkastiddje standárddagiellan: <strong>Systemvalg >
-         Tastatur > Tekst</strong>.
-       </p>
-
-         <figure alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>

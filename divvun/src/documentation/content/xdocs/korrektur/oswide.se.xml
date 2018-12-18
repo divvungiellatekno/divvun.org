@@ -9,62 +9,46 @@
    <body>
 
       <section>
-         <title>Windows<icon alt="Windows" height="27" width="27" src="images/Win10.png"/></title>
+         <title>Windows<icon alt="Windows" height="27" width="27"
+                src="images/Win10.png"/></title>
 
-         <p>Mii leat ráhkadišgoahtán čállindárkkisteami mii doaibmá olles Windowsis, muhto mii eat leat nagodan čoavdit visot teknihkalaš čuolmmaid. Mii ođasmahttit dán siiddu go leat eanet dieđut.</p>
-
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
+             ja neahttaloganat Internet Explorer ja Edge.
+         </p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
+         </p>
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
-         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>OSX<icon
+         <title><img src="images/Beta-Stamp.png" height="30" alt="BETA"/>macOS<icon
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Čállindárkkisteaddjit olles OSX:i doibmet bures gielalaččat (seamma dásis go Windowsis), muhto teknihkalaččat mii eat leat čoavdán mo álkit sajáiduhttá máŋga giela oktanaga. <a href="otherapps.html">Sierra siiddus</a> gávnnat bagadusaid mo sáhttá sajáiduhttit máŋga giela oktanaga.</p>
-
-         <table>
-         <tr>
-           <th>Giella:</th>
-           <th>Veršuvdna:</th>
-           <th>Dokumentašuvdna ja gáldokoda:</th>
-         </tr>
-         <tr>
-           <td><a
-           href="http://divvun.no/static_files/zips/MacVoikko-Northern_Sami-se.service.zip"><icon alt="Viečča davvisámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Davvisámegiella</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sme/index.html">Davvisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sme">gáldokoda</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Lule_Sami-smj.service.zip"><icon alt="Viečča julevsámi čállindárkkisteaddji" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Julevsámegiella</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/smj/index.html">Julevsámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/smj">gáldokoda</a>.
-           </td>
-         </tr>
-         <tr>
-           <td><a href="http://divvun.no/static_files/zips/MacVoikko-Southern_Sami-sma.service.zip"><icon alt="Last ned nordsamisk" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png"/>Lullisámegiella</a></td>
-           <td>4.0.1b </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/sma/index.html">Lullisámi prošeaktadokumentašuvdna</a> ja <a href="https://victorio.uit.no/langtech/trunk/langs/sma">gáldokoda</a>.
-           </td>
-         </tr>
-         </table>
-
-         <p><strong>Sajáiduhttin:</strong> Sirdde vižžon fiilla <code>~/Bibliotek/Services/</code>-máhppii dán lahkái: Raba ođđa Finder-láse, mana <strong>Gå > Gå til mappe ...</strong>-fállui. Čális <code>~/Bibliotek/Services/</code> ja deaddil Enter-boalu. Dalle lea vejolaš loktet vižžon fiilla dán lásii. Go leat dan dahkan duppalcoahkkal fiilla, dahje olggos- ja sisačálit iežat dihtoris.</p>
-
-         <p>Jus háliidat dárkkistit ahte čállindárkkisteaddji doaibmá nugo háliidat, raba <strong>Systemvalg... > Tastatur > Tekst</strong>, ja dárkkis ahte du giella lea mielde listtus <strong>Stavekontroll</strong>-fálus, ja ahte <strong>«(MacVoikko)»</strong> oidno giela nama duohken. Jus dát ii oidno, vuolggahat dihtora ođđasit johtui.
+         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
+             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
+                    ><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                 Divvunsajáiduhtti</a>
          </p>
-
-         <figure alt="OSX Systemvalg > Tastatur med MacVoikko"
-            src="userdocs/mac/images/OSX_Systemvalg_MacVoikko.no.png"/>
-
-         <p><strong>Geavahus:</strong> Prográmmain mat geavahit vuogádatčállindárkkisteaddji (eanaš prográmmat earret MS Word, Firefox ja muhtin eará dábálaš prográmma) sáhtát dušše rahpat čállindárkkistanláse: <strong>Rediger > Stavekontroll og grammatikk > Vis stavekontroll og
-         grammatikk</strong>. Dasto válljet iežat giela giellafálus. Sáhtát maid bidjat dán giela standárdagiellan čállindárkkisteaddjis <strong>Systemvalg >
-         Tastatur > Tekst</strong>-molssaeavttus.
-       </p>
-
-         <figure alt="OSX stavekontrolldialog"
-            src="userdocs/mac/images/OSX_stavekontrolldialog_MacVoikko.no.png"/>
-
+         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
+             guđe gielaid čállindárkkisteaddjiid háliidat.
+         </p>
+         <note>Dát čállindárkkisteaddji ii doaimma
+             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
+             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         </note>
       </section>
 
       <section>
