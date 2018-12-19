@@ -12,21 +12,21 @@
          <title>Windows<icon alt="Windows" height="27" width="27"
                 src="images/Win10.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Windowsa vuogádatčállindárkkisteaddji, nugo omd. Skype
-             ja neahttaloganat Internet Explorer ja Edge.
+         <p>Den här stavningskontrollen fungerar i  program som har stöd för
+             Windows systemstavningskontroll, som tex. Skype
+             och browserna Internet Explorer och Edge.
          </p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvuninstalleraren</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>När Divvuninstalleraren är hämtad, starta upp den och välj
+             vilka språk du vill ha stavningskontroll för.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>Den här stavningskontrollen fungerar inte i
+             LibreOffice og Microsoft Word. Stavningskontroller för
+             dom programmen finns <a href="korrektur.html">här</a>.
          </note>
       </section>
 
@@ -35,19 +35,19 @@
                 alt="Windows" height="27" width="27"
                 src="images/mac.png"/></title>
 
-         <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
-             Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
+         <p>Den här stavningskontrollen fungerer i program som har stöd för
+             systemstavningskontrollen i Mac (dom flesta program).</p>
          <p><a href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
+                 Divvuninstalleraren</a>
          </p>
-         <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
-             guđe gielaid čállindárkkisteaddjiid háliidat.
+         <p>När Divvuninstalleraren är hämtad, start upp den och välj
+             vilka språk du vill ha stavningskontroll för.
          </p>
-         <note>Dát čállindárkkisteaddji ii doaimma
-             LibreOffices og Microsoft Wordas. čállindárkkisteaddjiid
-             daid prográmmaide gávnnat <a href="korrektur.html">dás</a>.
+         <note>Den här stavningskontrollen vill inte
+             fungera i LibreOffice och Microsoft Word. Stavningskontroller för
+             dom programmen finns <a href="korrektur.html">här</a>.
          </note>
       </section>
 
