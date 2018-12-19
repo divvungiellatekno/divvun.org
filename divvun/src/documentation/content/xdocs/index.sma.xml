@@ -8,28 +8,41 @@
     </header>
     <body>
 
+<<<<<<< .mine
+      <note label="NYHET! 22.12.2017">Divvun båaloebuertieh gaajhkide saemien gïelide bæjhkohte!
+||||||| .r175157
+      <note label="NYHET! 22.12.2017">Divvun lanserar datortangentbord för
+        många samiska språk!
+=======
       <note label="SAERNIE! 20.12.2018">Divvun bæjjohte mobiltastatuvrh
         mej leah tjaelemevaaksjojh!
+>>>>>>> .r175205
         <br/>
         <a href="/keyboards/mobileindex.html">Veedtjh daelie!</a>
         <br/>
+<<<<<<< .mine
+        <a href="keyboards/desktopindex.html">Veedtjh maa daestie!</a>
+||||||| .r175157
+        <a href="keyboards/desktopindex.html">Ladda ned daesnie!</a>
+=======
         Divvun tjaelemevaaksjojh bæjjohte Windows jïh Macese!
         <br/>
         <a href="/korrektur/oswide.html">Veedtjh daelie!</a>
         <br/>
         <a href="#">Jiehtieh jeenjelaakan daelie!</a>
+>>>>>>> .r175205
       </note>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_stavekontroll.png"/><br/>
-            Staeriedimmieprogramme</a>
+            Staeriedimmieprogrammh</a>
         </li>
         <li class="col-sm-4">
             <a href="keyboards/index.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_mobiltastatur.png"/><br/>
-            Båaloebuertie</a>
+            Båaloebuertieh</a>
         </li>
         <li class="col-sm-4">
             <a href="tale/tale.html">
@@ -41,12 +54,12 @@
         <li class="col-sm-4">
             <a href="laring/laring.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
-            Gïelelïerehtimmie</a>
+            Gïelelïerehtimmieh</a>
         </li>
         <li class="col-sm-4">
            <a href="ordboker/ordboker.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_ordbok.png"/><br/>
-            Baakoegærja</a>
+            Baakoegærjah</a>
         </li>
         <li class="col-sm-4">
             <a href="oversettelse/oversettelse.html">
