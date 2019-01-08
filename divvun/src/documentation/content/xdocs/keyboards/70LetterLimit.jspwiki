@@ -11,12 +11,14 @@ limits the length of the message in terms of bytes. The end result is that when
 using the Unicode encoding, you can only type 70 letters within one SMS (see
 the second image below).
 
-This is a fact of the SMS standard, and can not be changed.
+This is a fact of the SMS standard, and can not be changed. It is not related to Sámi languages as such, the SMS letter limit will hunt every language or SMS writer using letters outside the default SMS character set.
 
-!Screen shot without accented letters
+!!!Screen shot without accented letters
 
 [images/160_letter_sms.png]
+----
 
-!Screen shot with accented Sámi letter á
+!!!Screen shot with accented Sámi letter á
 
 [images/70_letter_sms.png]
+----
