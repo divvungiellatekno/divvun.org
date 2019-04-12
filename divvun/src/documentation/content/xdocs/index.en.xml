@@ -21,7 +21,7 @@
       </note>
 
 
-      <ul class="col-sm-12 nobullet center">
+      <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_stavekontroll.png"/><br/>
@@ -38,7 +38,7 @@
             Text-to-speech</a>
         </li>
       </ul>
-      <ul class="col-sm-12 nobullet center">
+      <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="laring/laring.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
