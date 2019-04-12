@@ -108,7 +108,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         </div>
                     </xsl:if>-->
                     <xsl:comment>header</xsl:comment>
-                    <div class="header col-sm-12 navbar navbar-default navbar-fixed-top">
+                    <div class="header col-sm-12">
                         <xsl:comment>start Tabs</xsl:comment>
                         <nav class="navbar navbar-expand-lg navbar-light bg-light">
                             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
