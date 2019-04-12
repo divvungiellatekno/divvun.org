@@ -315,7 +315,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
     <xsl:template name="menu">
         <xsl:comment>start Menu</xsl:comment>
         <div id="menu" class="col-sm-3">
-            <ul class="nav nav-sidebar">
+            <ul class="sidebar bg-light">
                 <xsl:comment>menu - inner</xsl:comment>
                 <xsl:for-each select = "div[@id='menu']/ul/li">
                     <xsl:call-template name = "innermenuli" >
@@ -522,19 +522,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         </div>
         <ul> <!--class="{$whichGroup}" id="{$tagid}">-->
             <div class="" id="{$tagid}">
-                <xsl:choose>
-                    <xsl:when test="contains($tagid, '_selected_')" >
-                        <xsl:attribute name="class">
-                            <xsl:text>accordion-collapse collapse in</xsl:text>
-                        </xsl:attribute>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:attribute name="class">
-                            <xsl:text>accordion-collapse collapse</xsl:text>
-                        </xsl:attribute>
-                    </xsl:otherwise>
-                </xsl:choose>
-                <div class="accordion-body">
+                <div>
                     <xsl:for-each select= "ul/li">
                         <xsl:choose>
                             <xsl:when test="a">
