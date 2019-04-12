@@ -14,7 +14,7 @@ which will be used to configure the chosen Forrest skin.
     no search box. @domain will enable sitesearch for the specific domain with google.
     In other words google will search the @domain for the query string.
     -->
-  <search provider="google" domain="www.divvun.no" name="Divvun"
+  <search provider="google" domain="divvun.no" name="Divvun"
           box-location="alt"/>
 
 <!--   <search provider="lucene" name="Divvun" /> -->
@@ -50,7 +50,7 @@ which will be used to configure the chosen Forrest skin.
        default skin: renders it at the top -->
   <project-name>Divvun - Sámi Proofing</project-name>
   <project-description>Sámi Proofing Tools Project</project-description>
-  <project-url>http://www.divvun.no/</project-url>
+  <project-url>http://divvun.no/</project-url>
   <project-logo>images/divvun-logo.png</project-logo>
   <project-logo-height>30</project-logo-height>
 <!-- Alternative static image:
