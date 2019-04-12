@@ -111,10 +111,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     <div class="header col-sm-12">
                         <xsl:comment>start Tabs</xsl:comment>
                         <nav class="navbar navbar-expand-lg navbar-light bg-light">
-                            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                            </button>
-
                             <xsl:comment>start Project Logo</xsl:comment>
                             <xsl:variable name="xtest">
                                 <xsl:choose>
@@ -143,6 +139,12 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                             </xsl:call-template>
 
                             <xsl:comment>end Project Logo</xsl:comment>
+
+                            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+
+
                             <div class="collapse navbar-collapse" id="navbarNavDropdown">
                                 <ul class="navbar-nav">
                                     <xsl:apply-templates select="div[@id='tabs']/li"/>
