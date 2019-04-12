@@ -108,59 +108,48 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                         </div>
                     </xsl:if>-->
                     <xsl:comment>header</xsl:comment>
-                    <div class="header  col-sm-12">
+                    <div class="header col-sm-12 navbar navbar-default navbar-fixed-top">
                         <xsl:comment>start Tabs</xsl:comment>
-                        <nav class="navbar navbar-default" id="topmenu">
-                            <div class="container-fluid">
-                                <div class="navbar-header">
-                                    <xsl:comment>start Project Logo</xsl:comment>
-                                    <xsl:variable name="xtest">
-                                        <xsl:choose>
-                                            <xsl:when test="$config/group-url and $config/search and not($config/search/@box-location = 'alt')">
-                                                <xsl:text>true</xsl:text>
-                                            </xsl:when>
-                                            <xsl:otherwise>
-                                                <xsl:text>false</xsl:text>
-                                            </xsl:otherwise>
-                                        </xsl:choose>
-                                    </xsl:variable>
-                                    <xsl:if test="$xtest='false'" >
-                                        <xsl:attribute name="class">
-                                            <xsl:text>projectlogoA1</xsl:text>
-                                        </xsl:attribute>
-                                    </xsl:if>
-                                    <xsl:call-template name="renderlogo">
-                                        <xsl:with-param name="name" select="$config/project-name"/>
-                                        <xsl:with-param name="url" select="$config/project-url"/>
-                                        <xsl:with-param name="logo" select="$config/project-logo"/>
-                                        <xsl:with-param name="root" select="$root"/>
-                                        <xsl:with-param name="description" select="$config/project-description"/>
-                                        <xsl:with-param name="height" select="30"/>
-                                        <xsl:with-param name="aclass" select="'navbar-brand'"/>
-                                    </xsl:call-template>
-                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-                                        <span class="icon-bar"/>
-                                        <span class="icon-bar"/>
-                                        <span class="icon-bar"/>
-                                    </button>
-                                </div>
-                                <xsl:comment>end Project Logo</xsl:comment>
-                                <div id="myNavbar" class="collapse navbar-collapse">
-                                    <xsl:apply-templates select="div[@id='tabs']/ul"/>
-                                </div>
+                        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="navbar-toggler-icon"></span>
+                            </button>
+
+                            <xsl:comment>start Project Logo</xsl:comment>
+                            <xsl:variable name="xtest">
+                                <xsl:choose>
+                                    <xsl:when test="$config/group-url and $config/search and not($config/search/@box-location = 'alt')">
+                                        <xsl:text>true</xsl:text>
+                                    </xsl:when>
+                                    <xsl:otherwise>
+                                        <xsl:text>false</xsl:text>
+                                    </xsl:otherwise>
+                                </xsl:choose>
+                            </xsl:variable>
+                            <xsl:if test="$xtest='false'" >
+                                <xsl:attribute name="class">
+                                    <xsl:text>projectlogoA1</xsl:text>
+                                </xsl:attribute>
+                            </xsl:if>
+                            <xsl:call-template name="renderlogo">
+                                <xsl:with-param name="name" select="$config/project-name"/>
+                                <xsl:with-param name="url"  select="$config/project-url"/>
+                                <xsl:with-param name="logo" select="$config/project-logo"/>
+                                <xsl:with-param name="root" select="$root"/>
+                                <xsl:with-param name="description" select="$config/project-description"/>
+                                <xsl:with-param name="height" select="$config/project-logo-height"/>
+                                <xsl:with-param name="width"  select="$config/project-logo-width"/>
+                                <xsl:with-param name="aclass" select="'navbar-brand'"/>
+                            </xsl:call-template>
+
+                            <xsl:comment>end Project Logo</xsl:comment>
+                            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                                <ul class="navbar-nav">
+                                    <xsl:apply-templates select="div[@id='tabs']/li"/>
+                                </ul>
                             </div>
                         </nav>
                         <xsl:comment>end Tabs</xsl:comment>
-
-                        <xsl:if test="div[@id='level2tabs']/ul/*">
-                            <xsl:comment>start Subtabs</xsl:comment>
-                            <div id="level2tabs">
-                                <nav  class="navbar navbar-default" role="navigation" id="submenu">
-                                    <xsl:apply-templates select="div[@id='level2tabs']/node()"/>
-                                </nav>
-                            </div>
-                            <xsl:comment>end Subtabs</xsl:comment>
-                        </xsl:if>
 
                         <xsl:if test="$config/search and not($config/search/@box-location = 'alt')">
                             <xsl:comment>start Search</xsl:comment>
