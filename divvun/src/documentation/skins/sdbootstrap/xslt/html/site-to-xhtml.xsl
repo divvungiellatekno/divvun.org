@@ -81,7 +81,7 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </xsl:if>
             </head>
             <xsl:comment>HTML-body</xsl:comment>
-            <body class="container-fluid">
+            <body>
                 <xsl:call-template name="carry-body-attribs"/>
                 <script type="text/javascript">ndeSetTextSize();</script>
                 <xsl:comment> +Site structure
@@ -204,16 +204,18 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                             </xsl:otherwise>
                         </xsl:choose>
                     </div>-->
-                    <xsl:comment>start Menu, mainarea</xsl:comment>
-                    <xsl:if test="div[@id='menu']/ul/li">
-                        <xsl:call-template name="menu"/>
-                    </xsl:if>
-                    <xsl:comment>start content</xsl:comment>
-                    <div id="article" class="col-sm-9">
-                        <xsl:apply-templates select="div[@id='content']"/>
+                    <div class="row">
+                        <xsl:comment>start Menu, mainarea</xsl:comment>
+                        <xsl:if test="div[@id='menu']/ul">
+                            <xsl:call-template name="menu"/>
+                        </xsl:if>
+                        <xsl:comment>start content</xsl:comment>
+                        <div id="article" class="col-md-9">
+                            <xsl:apply-templates select="div[@id='content']"/>
+                        </div>
+                        <xsl:comment>end content</xsl:comment>
+                        <div class="clearboth">&#160;</div>
                     </div>
-                    <xsl:comment>end content</xsl:comment>
-                    <div class="clearboth">&#160;</div>
                 </div>
                 <xsl:comment>bottomstrip with footer</xsl:comment>
                 <div class="row container-fluid">
