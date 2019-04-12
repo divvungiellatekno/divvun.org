@@ -41,30 +41,11 @@ which is then merged by site-to-xhtml.xsl
   <xsl:import href="lm://transform.skin.common.html.tab-to-menu"/>
   <xsl:template match="tabs">
     <div id="tabs">
-        <ul class="nav navbar-nav">
-            <xsl:call-template name="base-tabs"/>
-        </ul>
-    </div>
-    <div id="level2tabs">
-      <ul class="nav navbar-nav">
-      <xsl:call-template name="level2tabs"/>
-      </ul>
+      <xsl:call-template name="base-tabs"/>
     </div>
   </xsl:template>
   <xsl:template name="pre-separator"></xsl:template>
   <xsl:template name="post-separator"></xsl:template>
   <xsl:template name="separator"></xsl:template>
   <xsl:template name="level2-separator"></xsl:template>
-  <xsl:template name="selected">
-    <li class="active dropdown"><xsl:call-template name="base-selected"/></li>
-  </xsl:template>
-  <xsl:template name="not-selected">
-    <li class="dropdown"><xsl:call-template name="base-not-selected"/></li>
-  </xsl:template>
-  <xsl:template name="level2-not-selected">
-    <li><xsl:call-template name="base-not-selected"/></li>
-  </xsl:template>
-  <xsl:template name="level2-selected">
-    <li class="active"><xsl:call-template name="base-selected"/></li>
-  </xsl:template>
 </xsl:stylesheet>
