@@ -212,7 +212,7 @@ which is then merged by site-to-xhtml.xsl
     <xsl:choose>
       <xsl:when test="*">
         <li class="nav-item dropdown active">
-          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <xsl:attribute name="href">
               <xsl:call-template name="calculate-tab-href">
                 <xsl:with-param name="tab" select="."/>
@@ -250,7 +250,7 @@ which is then merged by site-to-xhtml.xsl
     <xsl:choose>
       <xsl:when test="*">
         <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             <xsl:attribute name="href">
               <xsl:call-template name="calculate-tab-href">
                 <xsl:with-param name="tab" select="."/>
