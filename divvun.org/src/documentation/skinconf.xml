@@ -52,6 +52,7 @@ which will be used to configure the chosen Forrest skin.
   <project-description>Sámi Proofing Tools Project</project-description>
   <project-url>http://www.divvun.org/</project-url>
   <project-logo>images/logo.png</project-logo>
+  <project-logo-height>30</project-logo-height>
 <!-- Alternative static image:
   <project-logo>images/project-logo.gif</project-logo> -->
 <!-- optional group logo
