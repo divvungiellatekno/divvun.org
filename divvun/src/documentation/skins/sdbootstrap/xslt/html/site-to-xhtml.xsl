@@ -150,41 +150,23 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                                     <xsl:apply-templates select="div[@id='tabs']/li"/>
                                 </ul>
                             </div>
+
+                            <!-- Search form -->
+                            <script>
+                                //GOOGLE SEARCH
+                                //Enter domain of site to search
+                                var domainroot="divvun.no"
+                                function Gsitesearch(curobj){
+                                curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
+                                }
+                            </script>
+                            <form class="form-inline" action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+                                <input name="q" type="hidden" />
+                                <input name="qfront" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
+                                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                            </form>
                         </nav>
                         <xsl:comment>end Tabs</xsl:comment>
-
-                        <xsl:if test="$config/search and not($config/search/@box-location = 'alt')">
-                            <xsl:comment>start Search</xsl:comment>
-                            <div class="searchbox">
-                                <xsl:variable name="search-prompt">Search the site with <xsl:value-of select="$config/search/@provider"/>
-                                </xsl:variable>
-                                <xsl:choose>
-                                    <xsl:when test="$config/search/@provider = 'lucene'">
-                                        <xsl:comment>Lucene search</xsl:comment>
-                                        <form method="get" action="{$root}{$lucene-search}">
-                                            <input type="text" id="query" name="queryString" size="25" i18n:attr="value placeholder">
-                                                <xsl:attribute name="placeholder">
-                                                    <xsl:value-of select="$search-prompt"/>
-                                                </xsl:attribute>
-                                            </input>&#160;
-                                            <input type="submit" value="Search" name="Search" i18n:attr="value"/>
-                                        </form>
-                                    </xsl:when>
-                                    <xsl:otherwise>
-                                        <form class="roundtopsmall" method="get" action="http://www.google.com/search">
-                                            <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/>
-                                            <input type="text" id="query" name="q" size="25" i18n:attr="value placeholder">
-                                                <xsl:attribute name="placeholder">
-                                                    <xsl:value-of select="$search-prompt"/>
-                                                </xsl:attribute>
-                                            </input>&#160;
-                                            <input type="submit" value="Search" name="Search" i18n:attr="value"/>
-                                        </form>
-                                    </xsl:otherwise>
-                                </xsl:choose>
-                            </div>
-                            <xsl:comment>end search</xsl:comment>
-                        </xsl:if>
                     </div>
                 </div>
                 <xsl:comment>centerstrip with menu and mainarea</xsl:comment>
@@ -341,40 +323,6 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                     </xsl:call-template>
                 </xsl:for-each>
             </ul>
-            <xsl:comment>Search box: alternative location</xsl:comment>
-            <xsl:if test="$config/search and $config/search/@box-location='alt'">
-                <xsl:comment>start Search</xsl:comment>
-                <div class="searchbox">
-                    <hr />
-                    <xsl:variable name="search-prompt">Search the site with <xsl:value-of select="$config/search/@provider"/>
-                    </xsl:variable>
-                    <xsl:choose>
-                        <xsl:when test="$config/search/@provider = 'lucene'">
-                            <xsl:comment>Lucene search</xsl:comment>
-                            <form method="get" action="{$root}{$lucene-search}">
-                                <input type="text" id="query" name="queryString" size="18" onFocus="getBlank (this, '{$search-prompt}');">
-                                    <xsl:attribute name="value">
-                                        <xsl:value-of select="$search-prompt"/>
-                                    </xsl:attribute>
-                                </input>&#160;
-                                <input type="submit" value="Search" name="Search" i18n:attr="value"/>
-                            </form>
-                        </xsl:when>
-                        <xsl:otherwise>
-                            <form method="get" action="http://www.google.com/search">
-                                <input type="hidden" name="sitesearch" value="{$config/search/@domain}"/>
-                                <input type="text" id="query" name="q" size="18" onFocus="getBlank (this, '{$search-prompt}');" i18n:attr="value">
-                                    <xsl:attribute name="value">
-                                        <xsl:value-of select="$search-prompt"/>
-                                    </xsl:attribute>
-                                </input>&#160;
-                                <input type="submit" value="Search" name="Search" i18n:attr="value"/>
-                            </form>
-                        </xsl:otherwise>
-                    </xsl:choose>
-                </div>
-                <xsl:comment>end search</xsl:comment>
-            </xsl:if>
             <xsl:comment>start group logo</xsl:comment>
             <xsl:if test="$config/group-url">
                 <hr/>
