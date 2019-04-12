@@ -230,7 +230,7 @@ which is then merged by site-to-xhtml.xsl
       </xsl:when>
       <xsl:otherwise>
         <li class="nav-item active">
-          <a class="dropdown-item">
+          <a class="nav-link">
             <xsl:attribute name="href">
               <xsl:call-template name="calculate-tab-href">
                 <xsl:with-param name="tab" select="."/>
@@ -268,7 +268,7 @@ which is then merged by site-to-xhtml.xsl
       </xsl:when>
       <xsl:otherwise>
         <li class="nav-item">
-          <a class="dropdown-item">
+          <a class="nav-link">
             <xsl:attribute name="href">
               <xsl:call-template name="calculate-tab-href">
                 <xsl:with-param name="tab" select="."/>
