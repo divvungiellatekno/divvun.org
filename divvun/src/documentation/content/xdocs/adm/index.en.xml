@@ -22,7 +22,7 @@
         - to ease communication and coordination between the two projects.</p>
 
         <p>The memos from the meetings are available <a
-        href="http://divvun.no/doc/admin/meetings.html">in the shared area</a>. The
+        href="http://giellalt.uit.no/admin/meetings.html">in the shared area</a>. The
         memos are written in a <a class="fork"
         href="http://forrest.apache.org/docs/wiki-sample.html"
         title="A page describing the JSPWiki features supported by Forrest">Wiki
@@ -30,7 +30,7 @@
         href="http://forrest.apache.org/"
         title="Forrest home page">Forrest</a>, allowing a near-text memo
         combined with instant publishing. We also have written an internal
-        <a href="http://divvun.no/doc/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
+        <a href="http://giellalt.uit.no/infra/jspwiki-howto.html" title="jspwiki howto">jspwiki
         howto</a>.</p>
 
 

@@ -20,7 +20,7 @@ use optimisation will be implemented soon.
 
 There’s a REST interface for searching and retrieving content in the Sátni
 dictionary and terminology web app. The documentation for the REST API can be
-found [here|http://divvun.no/doc/apps/satni/RESTEndPoints.html]
+found [here|http://giellalt.uit.no/apps/satni/RESTEndPoints.html]
 
 !!!Database monitoring
 

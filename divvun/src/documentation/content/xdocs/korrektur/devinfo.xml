@@ -19,7 +19,7 @@
       Word speller). The exact
       list of libraries and their versions used for the released spellers can
       be found on <a
-      href="http://divvun.no/doc/infra/LibreOfficeVoikkoLibraries.html">a
+      href="http://giellalt.uit.no/infra/LibreOfficeVoikkoLibraries.html">a
       separate page</a>.</p>
 
       <p>The spellers here are a direct application of the normative fst used as
@@ -35,7 +35,7 @@
          <p>The source code for each language is available at the links <a
          href="otherapps.html">here</a>,
          and instructions for how to build each language can be found by
-         following the instructions <a href="http://divvun.no/doc/infra/GettingStarted.html">here.</a></p>
+         following the instructions <a href="http://giellalt.uit.no/infra/GettingStarted.html">here.</a></p>
 
       </section>
 

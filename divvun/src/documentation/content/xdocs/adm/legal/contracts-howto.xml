@@ -37,7 +37,7 @@
            <section>
                <title>Redigering av kontraktsmalen</title>
                <p>
-                   <a href="sd-contract.html">Kontraktsmalen</a> må fylles ut med relevant informasjon og bli skrevet ut av den enkelte medarbeider. For å kunne gjøre dette må man ha <a href="http://divvun.no/doc/infra/forrest-howto.html">installert og konfigurert forrest</a>.
+                   <a href="sd-contract.html">Kontraktsmalen</a> må fylles ut med relevant informasjon og bli skrevet ut av den enkelte medarbeider. For å kunne gjøre dette må man ha <a href="http://giellalt.uit.no/infra/forrest-howto.html">installert og konfigurert forrest</a>.
                </p>
                <p>
                    Malen er beregnet for et verk der en forfatter, en oversetter og et forlag har retter til verket. Den delen av malen som inneholder feltene der denne informasjon skal fylles i ser slik ut:
@@ -163,7 +163,7 @@
                     Man skal altså legge til eller slette de to siste radene før <strong>&lt;/table&gt;</strong>
                 </p>
                 <p>
-                    Når dette er gjort, må man sjekke om kontrakten er fylt ut korrekt. Start opp forrest som forklart i <a href="http://divvun.no/doc/infra/forrest-howto.html#Reading+the+documentation">oppsett av forrest</a>. Når det er klart er kontrakten <a href="http://localhost:8888/adm/legal/sd-contract.pdf">klar til å ses over</a>. Når alt er korrekt, skriv ut like mange eksemplarer av denne kontrakten som det er interessenter. For det første eksempelet vårt blir det tre eksemplar, for det andre skal det være fem.
+                    Når dette er gjort, må man sjekke om kontrakten er fylt ut korrekt. Start opp forrest som forklart i <a href="http://giellalt.uit.no/infra/forrest-howto.html#Reading+the+documentation">oppsett av forrest</a>. Når det er klart er kontrakten <a href="http://localhost:8888/adm/legal/sd-contract.pdf">klar til å ses over</a>. Når alt er korrekt, skriv ut like mange eksemplarer av denne kontrakten som det er interessenter. For det første eksempelet vårt blir det tre eksemplar, for det andre skal det være fem.
                 </p>
             </section>
             <section>

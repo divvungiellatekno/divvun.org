@@ -17,7 +17,7 @@
         <tab dir="about/"  id="AboutUs" label="Om Divvun"   indexfile="about_divvun.html"/>
         <tab dir="events/" id="Events"  label="Arrangement" indexfile="events.html"/>
         <tab label="Giellatekno"             href="http://giellatekno.uit.no"/>
-        <tab label="Developer documentation" href="http://divvun.no/doc/index.html"/>
+        <tab label="Developer documentation" href="http://giellalt.uit.no/index.html"/>
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"            >
         <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"  />
@@ -47,7 +47,7 @@
 
 
     <!-- The Proofing Tech-Doc tab -->
-<!--     <tab href="http://divvun.no/doc/proof/index.html" label="Proofing" /> -->
+<!--     <tab href="http://giellalt.uit.no/proof/index.html" label="Proofing" /> -->
 
     <!-- The TTS documentation tab -->
 <!--     <tab href="http://divvun.no/ttsdoc/index.html" label="TTS" /> -->
