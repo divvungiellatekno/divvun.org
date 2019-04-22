@@ -2,7 +2,7 @@ Buerie båeteme! Välkommna!
 
 Sametinget i Norge bjuder in till en konferens om det sydsamiska språket.
 
-I samband med utvecklingen av en sydsamisk version av de samiska rättstavningsprogrammen (www.divvun.no) blir en del oklarheter i ortografin och grammatiken mycket tydliga. För att ett rättstavningsprogram ska fungera bra, måste sådana oklarheter i största möjliga mån redas ut, och ortografin fastställas.
+I samband med utvecklingen av en sydsamisk version av de samiska rättstavningsprogrammen (divvun.no) blir en del oklarheter i ortografin och grammatiken mycket tydliga. För att ett rättstavningsprogram ska fungera bra, måste sådana oklarheter i största möjliga mån redas ut, och ortografin fastställas.
 
 Några exempel på sådana oklarheter:
 - hur man skriver kasusändelser efter förbokstavsord (t.ex. TV) - ska det vara TV'sne eller TV:sne eller TV:esne eller TV-sne?
@@ -22,6 +22,6 @@ Vill du delta på konferensen eller ha mer information kan du kontakta:
 
 David Jonasson: +46 63 55 67 60
 david.jonasson@samediggi.no
-www.divvun.no
+divvun.no
 
 OBS! Begränsat antal platser.

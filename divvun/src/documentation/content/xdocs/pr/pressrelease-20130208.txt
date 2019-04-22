@@ -29,7 +29,7 @@ Divvun-gruppa planlegger språklige oppdateringer for lule- og sørsamisk senere
 år, og håper å ha en løsning tidlig på våren på problemene en del brukere har
 hatt med Windows 7.
 
-Divvun kan lastes ned fra www.divvun.no. Tilbakemeldinger kan sendes
+Divvun kan lastes ned fra divvun.no. Tilbakemeldinger kan sendes
 til feedback@divvun.no
 
 
@@ -46,7 +46,7 @@ Divvun-ryhmä on aikeissa julkaista julev- ja eteläsaamen kieliset päivitykset
 myöhemmin tänä vuonna ja toivoo löytävänsä ratkaisun ongelmiin joita käyttäjät
 ovat kokeneet Windows 7:n kanssa keväällä.
 
-Voitte ladattaa Divvun-ohjelman osoitteesta www.divvun.no. Tietoja
+Voitte ladattaa Divvun-ohjelman osoitteesta divvun.no. Tietoja
 käyttökokemuksista voitte lähettää osoitteeseen feedback@divvun.no
 
 
@@ -63,7 +63,7 @@ Divvun-gruppen planerar språkliga uppdateringar för lule- och sydsamiska senar
 i år, och hoppas tidigt i vår att ha en lösning på problemen en del användare
 har haft med Windows 7.
 
-Divvun kan laddas ned från www.divvun.no. Feedback kan skickas
+Divvun kan laddas ned från divvun.no. Feedback kan skickas
 till feedback@divvun.no
 
 
