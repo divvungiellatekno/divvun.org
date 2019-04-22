@@ -36,7 +36,7 @@ Nothing new since last time.
 | 630 | xxx | Word (prefix) with hyphen is rejected - and suggested
 | 652 | xxx | UPPERCASE-typos only get acronym-suggestions: VARI -> no sugg, vARI -> VÁRI as sugg; consequence of the sugg. mechanism, unresolvable
 | 581 | xxx | consonant doubling => actual problem is suggestions with hyphens (split compound type); these can be blocked as suggestions, and thus be removed (they would still be recognised, though)
-| 670 | xxx | __REGRESSION:__ hard hyphen replaced with soft, see [latest test results|http://www.divvun.no/doc/proof/hyph/testing/regression-pl-forrest-smj-20090105.html] - since this was fixed earlier, and the hyphenation binary has not changed since then, we should investigate this first to see if we produce illegal PLX entries.
+| 670 | xxx | __REGRESSION:__ hard hyphen replaced with soft, see [latest test results|http://giellalt.uit.no/proof/hyph/testing/regression-pl-forrest-smj-20090105.html] - since this was fixed earlier, and the hyphenation binary has not changed since then, we should investigate this first to see if we produce illegal PLX entries.
 
 !!Under investigation by Polderland
 ||Div ||Pld ||Description

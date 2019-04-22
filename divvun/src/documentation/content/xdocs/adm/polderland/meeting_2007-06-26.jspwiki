@@ -47,7 +47,7 @@ Participants:
 * installed new version of mklex - waiting for the first compilation run with it
   to finish
 * our speller test bench is starting to become really good:) - have a look at
-  [this page|http://www.divvun.no/doc/proof/spelling/testing/spelltest-pl-forrest-Markansluska-publicbeta1.html]
+  [this page|http://giellalt.uit.no/proof/spelling/testing/spelltest-pl-forrest-Markansluska-publicbeta1.html]
   where we measure performance on different editing distances, suggestion
   rating, number of failed suggestions, etc.
 
