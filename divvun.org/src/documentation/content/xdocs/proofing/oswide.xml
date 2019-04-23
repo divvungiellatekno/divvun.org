@@ -33,7 +33,7 @@
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Finnish-fi.service.zip">Finnish</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fin/j-fin.html">Finnish project documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fin/j-fin.html">Finnish project documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
             </td>
@@ -41,7 +41,7 @@
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kalaallisut-kl.service.zip">Greenlandic</a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/kal/index.html">Greenlandic project documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/kal/index.html">Greenlandic project documentation</a>
                and
                <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
@@ -49,7 +49,7 @@
          <tr>
            <td><a href="http://divvun.no/static_files/zips/MacVoikko-Kven_Finnish-fkv.service.zip">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
            <td>N/A </td>
-           <td><a href="http://giellatekno.uit.no/doc/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
                and
            <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
            </td>
@@ -92,7 +92,7 @@
          for the various distributions. Further instructions can be found <a
          href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
          together with links to source tarballs for the supported languages.</p>
-         
+
       </section>
 
    </body>
