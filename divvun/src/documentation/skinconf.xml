@@ -172,6 +172,38 @@ ul.center {
 .nonsamikey {
     background-color: #7098D0 ;
 }
+
+#content {
+  padding-top: 2%;
+  padding-right: 2%;
+}
+
+nav, .navbar, .navbar-expand-lg, .navbar-light, .bg-light{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.accordion-group a, .menuitem a, .menuitem li {
+  font-size: 1em;
+}
+
+.accordion-group a:hover, .menuitem a:hover, .menuitem li:hover {
+  text-decoration: none;
+}
+
+.sidebar, .bg-light, #menu {
+  padding-right: 2%;
+}
+
+.sidebar{
+  padding-top: 4%;
+  padding-bottom: 4%;
+  font-size: medium;
+}
+
+.accordion-title {
+  font-size: larger;
+}
   </extra-css>
   <colors>
   </colors>
