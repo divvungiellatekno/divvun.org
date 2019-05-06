@@ -154,13 +154,11 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                             <!-- Search form -->
                             <script>
                                 //GOOGLE SEARCH
-                                //Enter domain of site to search
-                                var domainroot="divvun.no"
-                                function Gsitesearch(curobj){
+                                function Gsitesearch(curobj, domainroot){
                                 curobj.q.value="site:"+domainroot+" "+curobj.qfront.value
                                 }
                             </script>
-                            <form class="form-inline" action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this)">
+                            <form class="form-inline" action="http://www.google.com/search" method="get" onSubmit="Gsitesearch(this, '{$config/search/@domain}')">
                                 <input name="q" type="hidden" />
                                 <input name="qfront" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" />
                                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
