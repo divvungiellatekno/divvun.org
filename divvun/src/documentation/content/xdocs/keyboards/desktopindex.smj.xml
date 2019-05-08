@@ -30,7 +30,6 @@
             <td>
             <ul>
               <li>Boallobievde nuorttasámegiellaj:
-                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
@@ -51,7 +50,6 @@
                 </ul>
               </li>
               <li>Boallobievde julevsámegiellaj:
-                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
@@ -72,7 +70,6 @@
                 </ul>
               </li>
               <li>Boallobievde oarjjelsámegiellaj:
-                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
@@ -93,7 +90,6 @@
                 </ul>
               </li>
               <li>Boallobievde anársámegiellaj:
-                <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/-->
                 <ul>
                   <li>
                     <a
@@ -118,7 +114,7 @@
                 <ul>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_1.0.0.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 8, 10
@@ -126,7 +122,7 @@
                   </li>
                   <li>
                     <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_0.1.5.win7.exe"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_1.0.0.win7.exe"
                     ><icon alt="Download" height="36" width="36"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Windows 7
@@ -182,35 +178,35 @@
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Boallobievde nuorttasámegiellaj
-                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+                    </a>
               </li>
               <li><a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.2.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Boallobievde julevsámegiellaj
-                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+                    </a>
               </li>
               <li><a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Boallobievde oarjjelsámegiellaj
-                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+                    </a>
               </li>
               <li><a
                     href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/macos/Inari%20Sami%20Keyboards%201.0.2.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Boallobievde anársámegiellaj
-                    <!--img src="/images/Beta-Stamp.png" height="30" alt="BETA"/--></a>
+                    </a>
               </li>
               <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/macos/Skolt%20Sami%20Keyboards%200.2.3.pkg"
+                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/macos/Skolt%20Sami%20Keyboards%201.0.0.pkg"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Boallobievde gålldåsámegiellaj
-                    <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/></a>
+                    </a>
               </li>
             </ul></td>
             <td>
