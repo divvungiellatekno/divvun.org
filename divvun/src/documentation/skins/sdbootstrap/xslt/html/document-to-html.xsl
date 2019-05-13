@@ -128,7 +128,10 @@ imported document-to-html.xsl for details.
       </xsl:when>
       <xsl:when test="$level=3">
         <h4>
-          <xsl:apply-templates select="title"/>
+          <xsl:attribute name="class">
+            <xsl:value-of select="concat('h',$level + 2)"/>
+          </xsl:attribute>
+          <xsl:apply-templates select="title/text()"/>
         </h4>
         <xsl:apply-templates select="*[not(self::title)]"/>
       </xsl:when>
