@@ -316,6 +316,20 @@
            </td>
          </tr>
          <tr>
+           <td>Livvi (Olonetsian)
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
+           </td>
+           <td><ul>
+                <li><a href="http://divvun.no/static_files/oxts/olo_LO-voikko-5.0.oxt">For Windows and MacOSX</a></li>
+           </ul></td>
+           <td> </td>
+           <td>N/A </td>
+           <td><a href="http://divvun.no/doc/lang/olo/OlonetsianDocumentation.html">Livvi (Olonetsian) documentation</a>
+               and
+           <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
+           </td>
+         </tr>
+         <tr>
            <td>Mansi
                <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
            </td>
