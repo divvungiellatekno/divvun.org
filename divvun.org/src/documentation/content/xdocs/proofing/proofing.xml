@@ -112,6 +112,20 @@
          </tr>
          <tr>
            <td>
+               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-olo-latest.exe">
+               Livvi (Olonetsian)
+               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
+               </a>
+           </td>
+           <td> </td>
+           <td>Nightly build</td>
+           <td>The <a href="http://divvun.no/doc/lang/olo/index.html">Livvi documentation</a>
+               and
+               <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
+            </td>
+         </tr>
+         <tr>
+           <td>
                <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe">
                Lule Saami
                </a>
