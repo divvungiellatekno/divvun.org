@@ -41,7 +41,7 @@
 		<p>Oslo, XX.XX.200X</p>
 		<p>For forlag: <em>navn</em> <em>tittel</em></p>
 		<p>For Universitetet i Oslo: <em>navn</em> <em>tittel</em></p>
-		<p class="last_modified">Last changed:
+		
 		$Id$</p>
     	</section>
  </body>
