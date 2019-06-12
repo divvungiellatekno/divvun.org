@@ -19,7 +19,7 @@
       href="http://voikko.puimula.org/sources.html">source code</a>). The exact
       list of libraries and their versions used for the released spellers can
       be found on <a
-      href="http://divvun.no/doc/infra/LibreOfficeVoikkoLibraries.html">a
+      href="https://giellalt.uit.no/infra/LibreOfficeVoikkoLibraries.html">a
       separate page</a>.</p>
 
       <p>The spellers here are a direct application of the normative fst used as
@@ -38,7 +38,7 @@
          <p>The source code repository for each language is found behind the
          links after each download link, and instructions for how to build each
          language can be found by following the instructions <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html"
+         href="https://giellalt.uit.no/infra/GettingStartedOnLinux.html"
          >here.</a></p>
 
       </section>

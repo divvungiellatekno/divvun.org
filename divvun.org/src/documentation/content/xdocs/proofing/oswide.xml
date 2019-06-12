@@ -90,7 +90,7 @@
          <p>OS-wide spellers for Linux have to be built from source, but most of
          the required packages are available as standard, or easily installable
          for the various distributions. Further instructions can be found <a
-         href="http://divvun.no/doc/infra/GettingStartedOnLinux.html">here</a>,
+         href="https://giellalt.uit.no/infra/GettingStartedOnLinux.html">here</a>,
          together with links to source tarballs for the supported languages.</p>
 
       </section>
