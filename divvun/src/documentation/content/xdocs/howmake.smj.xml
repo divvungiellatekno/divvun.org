@@ -4,7 +4,7 @@
 <document xml:lang="smj">
     <header>
         <title>Gåktu stávvimkontroalla dagáduvvá</title>
-    
+
         <authors>
         <person email="borre.gaup@samediggi.no" name="Børre Gaup" />
         </authors>
@@ -13,25 +13,21 @@
     <body>
         <section>
             <title>Gåktu stávvimkontroalla dagáduvvá</title>
-    
+
             <p>
                 Stávvimkontroalla dagáduvvá lahka aktisasjvuodan Råmså universitehtajn <a href="http://giellatekno.uit.no">sáme giellateknoprosjevtajn</a>. Prosjækta Råmsån la dahkam prográmmav mij máhttá såjådit sáme bágojt vuodohámes ietjá hámijda, ja gávnnat man hámen såjådum báhko l. Dát barggo aneduvvá vuodon stávvimkontroalla dagádijn.
             </p>
-    
+
             <p>
                 Programmerára gárvedi vaj lingvista oadtju tjállagijt guoradit ja gæhttjaladdat man buoragit stávvimkontroalla dåbddå bágojt ja jus såjådibme l riekta. Lingvista duoddiji bágojt ma e gávnnu prosjevta báhkolistajn, ja divudi analysáhtura grammatihkav. Dán láhkáj buoreduvvi ja vijdeduvvi báhkolista ålles ájgev.
             </p>
-    
+
             <p>
                 Dajna gå stávvimkontroalla galggá dagáduvvat Windowsij, Mac OS X:j ja Linuxij, de hæhttu doarjjot dajt teknologijajt ma gávnnuji dájda vuododagájda. Prográmma dagáduvvi ma ietjájduhtti Råmså universitehta formáhtav dan formáhttaj, massta l dárbbo ietjá vuododagán.
             </p>
-    
+
             <p>
                 Maŋenagi gå barggo åvddån, de juogadip gæhttjaladdamgiehtojt korrektuvrraprográmmajs. Dá biejaduvvi prosjevta sijddasijdojda vaj berustiddje oadtju viedtjat ja gæhttjalit dajt.
-            </p>
-    
-            
-                Maŋemus rievddaduvvam: $Date$, by $Author$
             </p>
         </section>
     </body>
