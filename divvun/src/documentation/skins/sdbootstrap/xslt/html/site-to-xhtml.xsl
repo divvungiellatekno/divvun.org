@@ -503,8 +503,8 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
         </xsl:variable>
         <xsl:variable name="whichGroup">
             <xsl:choose>
-                <xsl:when test="descendant-or-self::node()/li/div/@class='current'">selectedmenuitemgroup</xsl:when>
-                <xsl:otherwise>menuitemgroup</xsl:otherwise>
+                <xsl:when test="descendant-or-self::node()/li/div/@class='current'"></xsl:when>
+                <xsl:otherwise>collapse</xsl:otherwise>
             </xsl:choose>
         </xsl:variable>
         <div class="accordion-group" id="{$tagid}Title">
@@ -518,8 +518,8 @@ footer, searchbar, css etc.  As input, it takes XML of the form:
                 </div>
             </div>
         </div>
-        <ul> <!--class="{$whichGroup}" id="{$tagid}">-->
-            <div class="" id="{$tagid}">
+        <ul>
+            <div class="{$whichGroup}" id="{$tagid}">
                 <div>
                     <xsl:for-each select= "ul/li">
                         <xsl:choose>
