@@ -47,8 +47,11 @@
             <cg-11 href="cg-11/" label="CG-kurs -11">
                     <program href="CG-kurs.html" label="Program"/>
             </cg-11>
-            <sma-19 href="sma-19/invitasjon.no.html"
-                   label="1. Åarjelsaemien gïeledotkemebiejjieh - sørsamiske språkforskingsdager"/>
+            <sma-19 href="sma-19/" label="1. SMA-BIEJJIEH">
+              <sma href="invitasjon.sma.html" label="1. åarjelsaemien gïeledotkemebiejjieh"/>
+              <nb href="invitasjon.no.html"   label="1. sørsamiske språkforskingsdager"/>
+              <en href="invitasjon.en.html"   label="1. South Sámi Linguistic Days"/>
+            </sma-19>
         </seminars>
         <workshops href="workshops/" label="Workshops">
             <NorWEST2014 href="NorWEST2014/" label="NorWEST2014">
