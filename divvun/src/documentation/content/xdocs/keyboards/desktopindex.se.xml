@@ -238,44 +238,56 @@
         </section>
 
         <section>
-            <title>Tastatur for Chromebook</title>
+            <title>Chromebook-boallobeavddit</title>
             <table>
             <tr>
-            <th class="halfwidth">Nedlasting</th>
-            <th>Utforming</th>
-            <th>Hjelp</th>
+            <th class="halfwidth">Viežžanliŋkkat</th>
+            <th>Ráhkadaus</th>
+            <th>Bagadusat</th>
             </tr>
             <tr>
             <td>
-            <ul>
-              <li><a
+                <a
                     href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nord-, enare-, lule-, skolte- og sørsamiske tastatur
-                    </a>
-              </li>
-            </ul></td>
-            <td>
-            <ul>
-              <li><a href="layout-sme.html">
-              Nordsamisk</a></li>
-              <li><a href="layout-smj.html">
-              Lulesamisk</a></li>
-              <li><a href="layout-sma.html">
-              Sørsamisk</a></li>
-              <li><a href="layout-smn.html">
-              Enaresamisk</a></li>
-              <li><a href="layout-sms.html">
-              Skoltesamisk</a></li>
-            </ul>
+                    Davvi-, anár-, julev-, nuortalaš- og lullisámi boallabeavddit
+                </a>
             </td>
             <td>
             <ul>
-              <li><a href="installation_use_chromebook.html">
-              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
-              Chromebook</a></li>
+                <li>
+                    <a href="layout-sme.html">
+                        Davvisámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-smj.html">
+                        Julevsámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-sma.html">
+                        Lullisámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-smn.html">
+                        Anársámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-sms.html">
+                        Nuortalašsámi
+                    </a>
+                </li>
             </ul>
+            </td>
+            <td>
+                <a href="installation_use_chromebook.html">
+                    <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                    Chromebook
+                </a>
             </td>
             </tr>
             </table>

@@ -240,12 +240,12 @@
         </section>
 
         <section>
-            <title>Tastatur for Chromebook</title>
+            <title>Chromebook-båaloebuertie</title>
             <table>
             <tr>
-            <th class="halfwidth">Nedlasting</th>
-            <th>Utforming</th>
-            <th>Hjelp</th>
+            <th class="halfwidth">Veedtjelh daestie</th>
+            <th>Hammoeh</th>
+            <th>Boejhkehts</th>
             </tr>
             <tr>
             <td>
@@ -254,22 +254,22 @@
                     href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nord-, enare-, lule-, skolte- og sørsamiske tastatur
+                    Noerhte-, julev-, åarjel-, enare- aj luvliesaemien båaloebuertieh
                     </a>
               </li>
             </ul></td>
             <td>
             <ul>
               <li><a href="layout-sme.html">
-              Nordsamisk</a></li>
+              Noerhtesaemien</a></li>
               <li><a href="layout-smj.html">
-              Lulesamisk</a></li>
+              Julevsaemien</a></li>
               <li><a href="layout-sma.html">
-              Sørsamisk</a></li>
+              Åarjelsaemien</a></li>
               <li><a href="layout-smn.html">
-              Enaresamisk</a></li>
+              Enaresaemien</a></li>
               <li><a href="layout-sms.html">
-              Skoltesamisk</a></li>
+              Luvliesaemien</a></li>
             </ul>
             </td>
             <td>

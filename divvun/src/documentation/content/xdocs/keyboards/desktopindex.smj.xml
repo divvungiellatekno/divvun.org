@@ -240,12 +240,12 @@
         </section>
 
         <section>
-            <title>Tastatur for Chromebook</title>
+            <title>Chromebook-boallobievde</title>
             <table>
             <tr>
-            <th class="halfwidth">Nedlasting</th>
-            <th>Utforming</th>
-            <th>Hjelp</th>
+            <th class="halfwidth">Viedtjamsválldasa</th>
+            <th>Hábbmim</th>
+            <th>Giehtagirjijt</th>
             </tr>
             <tr>
             <td>
@@ -254,22 +254,22 @@
                     href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
                     ><icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
-                    Nord-, enare-, lule-, skolte- og sørsamiske tastatur
+                    Nuortta-, julev-, oarjjel-, anár-, gålldåsámegiella boallobievde
                     </a>
               </li>
             </ul></td>
             <td>
             <ul>
               <li><a href="layout-sme.html">
-              Nordsamisk</a></li>
+              Nuorttasámegiella</a></li>
               <li><a href="layout-smj.html">
-              Lulesamisk</a></li>
+              Julevsámegiella</a></li>
               <li><a href="layout-sma.html">
-              Sørsamisk</a></li>
+              Oarjjelsámegiella</a></li>
               <li><a href="layout-smn.html">
-              Enaresamisk</a></li>
+              Anársámegiella</a></li>
               <li><a href="layout-sms.html">
-              Skoltesamisk</a></li>
+              Gålldåsámegiella</a></li>
             </ul>
             </td>
             <td>
