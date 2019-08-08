@@ -250,7 +250,8 @@
             <td>
                 <a
                     href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
-                    ><icon alt="Download" height="44" width="44"
+                    >
+                    <icon alt="Download" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                     Pohjois-, inarin-, luulajan-, koltan- ja eteläsaamen näppäimistö
                 </a>
@@ -285,7 +286,7 @@
             </ul>
             </td>
             <td>
-                <a href="installation_use_chromebook.html">
+                <a href="userdocs/chromebook/installation_use_chromebook.html">
                     <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
                     Chromebook
                 </a>
