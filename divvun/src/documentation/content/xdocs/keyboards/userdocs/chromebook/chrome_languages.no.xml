@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Velge flere språk på Chromebook</title>
+    </header>
+    <body>
+        <p>
+            Trykk på statusområdet nederst til høyre på skrivebordet.
+            <br/>
+            Statuspanelet dukker da opp.
+            <br/>
+            <img alt="Chrome OS statuspanel" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Velg «Innstillinger»
+            <br/>
+            Chromebookens innstillingsside vises i Chrome.
+        </p>
+        <p>
+            Bla ned til «Enhet» og trykk på «Tastatur»
+            <br/>
+            Innstillingene for tastatur vises.
+            <br/>
+            <img alt="Chrome OS tastaturinnstillinger" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Trykk på «Endre språk- og inndatainnstillinger» nederst på siden.
+            <br/>
+            «Språk og inndata»-siden vises.
+        </p>
+        <p>
+            Trykk på «Språk». Boksen utvides og det aktive språket og «Legg til språk» vises.
+            <br/>
+            <img alt="Administrer inndatametoder" src="images/chrome_sprak.png" width="700"/>
+        </p>
+        <p>
+            Trykk på «Legg til språk». En språkliste vises. Velg norsk, svensk eller finsk etter behov.
+            <br/>
+            <img alt="Velg språk" src="images/chrome_velg_sprak.png" width="700"/>
+            <br/>
+            «norsk bokmål» og «svensk» vil gi disse tastaturene.
+        </p>
+        <ul>
+            <li>
+                nordsamisk
+            </li>
+            <li>
+                sørsamisk
+            </li>
+            <li>
+                lulesamisk
+            </li>
+        </ul>
+        <p>
+            «finsk» vil gi disse tastaturene.
+        </p>
+        <ul>
+            <li>
+                nordsamisk
+            </li>
+            <li>
+                enaresamisk
+            </li>
+            <li>
+                skoltesamisk
+            </li>
+        </ul>
+        <p>
+            Når språkene er valgt, gå tilbake til <a href="installation_use_chromebook.html">oppsett av tastatur</a>
+        </p>
+    </body>
+</document>

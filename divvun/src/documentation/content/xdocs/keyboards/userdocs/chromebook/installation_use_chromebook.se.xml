@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Sajáiduhttin ja geavaheapmi Chromebookes</title>
+    </header>
+    <body>
+        <p>
+            Sámi boallobevddiid Chromebookii vieččat <a href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe">dás</a>
+        </p>
+
+        <p>
+            Coahkkal «Legg til i Chrome», nanne dan go coahkkaliat «Legg til utvidelsen». Oanehis áiggis boallobeavddit leat sajáiduhtton ja viežžansiiddus oidno «Fjern fra Chrome». Dat mearkkaša ahte sámi boallobeavddit leat sajáiduhtton.
+        </p>
+        <p>
+            Coahkkal statusguovllu čállinbeavddi vuolit olgeš rávddas.
+            <br/>
+            Statuspanela ihtá dalle.
+            <br/>
+            <img alt="Chrome OS statuspanela" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Vállje «Innstillinger»
+            <br/>
+            Chromebooka heivehussiidu čájehuvvo Chromes.
+        </p>
+        <p>
+            Bláđe vulos dassái go «Enhet» ihtá ja coahkkal «Tastatur»
+            <br/>
+            Boallobeavdeheivehusat ihtet.
+            <br/>
+            <img alt="Chrome OS boallobeavdeheivehusat" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Coahkkal «Endre språk- og inndatainnstillinger» siiddu botnis.
+            <br/>
+            «Språk og inndata»-siidu ihtá.
+        </p>
+        <p>
+            Coahkkal «Inndatametode». Boksá stuorru ja aktiiva boallabeavdji ja «Administrer inndatametoder» čájehuvvo.
+            <br/>
+            <img alt="Hálddaš boallobeavdeheivehusaid" src="images/chrome_before_chosen_keyboards.png" width="700"/>
+        </p>
+        <p>
+            Coahkkal «Administrer inndatametoder»
+            <br/>
+            «norsk» og «svensk» addet dáid boallobevddiid.
+        </p>
+        <ul>
+            <li>
+                davvisámegiella
+            </li>
+            <li>
+                lullisámegiella
+            </li>
+            <li>
+                julevsámegiella
+            </li>
+        </ul>
+        <p>
+            «finsk» addá dáid boallobevddiid.
+        </p>
+        <ul>
+            <li>
+                davvisámegiella
+            </li>
+            <li>
+                anársámegiella
+            </li>
+            <li>
+                nuorttalašgiella
+            </li>
+        </ul>
+        <p>
+            Vállje dan maid háliidat ja gidde heivehusláse.
+            <br/>
+            <img alt="Vállje boallobevddiid" src="images/chrome_chosen_keyboards.png" width="700"/>
+        </p>
+        <note label="Ii bat leat dáro-, ruoŧa- dahje suomagiella?">
+            Jus it oainne sámi boallebevddiid ja dus ii leat dáro-, ruoŧa- dahje suomagiella du mašiinnas, de gávnnat bagadusaid mo lasiha gielaid <a href="chrome_languages.html">dás</a>.
+        </note>
+        <p>
+            Šearpma vuolit olgeš rávddas lea giellaindikáhtora ihtán. Go dan čoahkkalat de sáhtát válljet boallobeavddi. Sáhtát maid molsut sierra boallebevddiid gaskkas jus deaddilat Ctrl-Shift-gaska boaluid oktanaga.
+            <br/>
+            <img alt="Vállje boallobeavddi" src="images/chrome_tastaturvelger.png" width="400"/>
+        </p>
+    </body>
+</document>

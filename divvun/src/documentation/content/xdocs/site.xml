@@ -182,6 +182,10 @@
               <keyb108    label="10.6-10.8"     href="enable-keyboard-osx10.8-nob.html" />
               <keyb105    label="10.5 og eldre" href="enable-keyboard-osx10.5-swe.html" />
             </mac>
+            <chromebook label="Chromebook" href="chromebook/">
+                <install label="Installation" href="installation_use_chromebook.html"/>
+                <morelangs label="Add languages" href="chrome_languages.html"/>
+            </chromebook>
             <linux label="Linux" href="linux/">
               <GNOME   label="Enable Keyboards In Linux Mint"   href="EnableKeyboardsInLinuxMint.html"/>
               <GNOME   label="Enable Keyboards In Ubuntu Unity" href="EnableKeyboardsInUbuntu.html"/>

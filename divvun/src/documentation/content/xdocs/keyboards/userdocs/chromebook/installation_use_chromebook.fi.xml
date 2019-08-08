@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Installation and setup on Chromebook</title>
+    </header>
+    <body>
+        <p>
+            The sami keyboards are available <a href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe">here</a>.
+        </p>
+
+        <p>
+            Click «Add to Chrome», confirm by clicking «Add extension». In a short time the keyboards will be installed, and the download page will display «Remove from Chrome». This indicates that the sami keyboards have been installed.
+        </p>
+        <p>
+            Click the status area in the bottom-right of your desktop.
+            <br/>
+            The settings panel appears.
+            <br/>
+            <img alt="Chrome OS status panel" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Select Settings.
+            <br/>
+            Your Chromebook Settings page loads in the Chrome browser.
+        </p>
+        <p>
+            Scroll down to «Device» and click «Keyboard»
+            <br/>
+            The keyboard settings appears.
+            <br/>
+            <img alt="Chrome OS keyboard settings" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Click «Change language and input settings» on the bottom of the page.
+            <br/>
+            The «Languages and input» page appears.
+        </p>
+        <p>
+            Click on «Input method». The box expands and the active input method and «Manage input methods» appears.
+            <br/>
+            <img alt="Manage input methods" src="images/chrome_before_chosen_keyboards.png" width="700"/>
+        </p>
+        <p>
+            Click «Manage input methods»
+            <br/>
+            Below «Norwegian Bokmål» og «Swedish» these input methods are available.
+        </p>
+        <ul>
+            <li>
+                North Sami
+            </li>
+            <li>
+                South Sami
+            </li>
+            <li>
+                Julev Sami
+            </li>
+        </ul>
+        <p>
+            Below «Finnish» these input methods are available.
+        </p>
+        <ul>
+            <li>
+                North Sami
+            </li>
+            <li>
+                Inari Sami
+            </li>
+            <li>
+                Skolt Sami
+            </li>
+        </ul>
+        <p>
+            Chose the ones you need and close the settings window.
+            <br/>
+            <img alt="Chose input methods" src="images/chrome_chosen_keyboards.png" width="700"/>
+        </p>
+        <note label="Aren't Norwegian, Swedish or Finnish available?">
+            If you don't see the sami input methods and don't have Norwegian, Swedish or Finnish available on your machine, follow the instructions found <a href="chrome_languages.html">here</a>.
+        </note>
+        <p>
+            In the status area in the bottom right of your desktop a language indicator has appeared. When you click it a list av input methods appears. Chose the one you want to use. You can also change input methods with the key combination Ctrl-Shift-Space.
+            <br/>
+            <img alt="Chose input method" src="images/chrome_tastaturvelger.png" width="400"/>
+        </p>
+    </body>
+</document>

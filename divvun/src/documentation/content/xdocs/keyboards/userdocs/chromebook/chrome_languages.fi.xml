@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Chose more languages on Chromebook</title>
+    </header>
+    <body>
+        <p>
+            Click the status area in the bottom-right of your desktop.
+            <br/>
+            The settings panel appears.
+            <br/>
+            <img alt="Chrome OS status panel" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Select Settings.
+            <br/>
+            Your Chromebook Settings page loads in the Chrome browser.
+        </p>
+        <p>
+            Scroll down to «Device» and click «Keyboard»
+            <br/>
+            The keyboard settings appears.
+            <br/>
+            <img alt="Chrome OS keyboard settings" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Click «Change language and input settings» on the bottom of the page.
+            <br/>
+            The «Languages and input» page appears.
+        </p>
+        <p>
+            Click «Language». The box expands and the active language and «Add languages» appears.
+            <br/>
+            <img alt="Setup languages" src="images/chrome_sprak.png" width="700"/>
+        </p>
+        <p>
+            Click «Add languages». A list of languages appears. Chose «Norwegian Bokmål», «Swedish» or «Finnish» according to your needs.
+            <br/>
+            <img alt="Chose language" src="images/chrome_velg_sprak.png" width="700"/>
+            <br/>
+            «Norwegian» and «Swedish» will give access to these keyboards.
+        </p>
+        <ul>
+            <li>
+                North Sami
+            </li>
+            <li>
+                South Sami
+            </li>
+            <li>
+                Lule Sami
+            </li>
+        </ul>
+        <p>
+            «Finnish» will give access to these keyboards.
+        </p>
+        <ul>
+            <li>
+                North Sami
+            </li>
+            <li>
+                Inari Sami
+            </li>
+            <li>
+                Skolt Sami
+            </li>
+        </ul>
+        <p>
+            When the languages have been chosen, return to <a href="installation_use_chromebook.html">keyboard setup</a>.
+        </p>
+    </body>
+</document>

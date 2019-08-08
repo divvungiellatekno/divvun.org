@@ -238,6 +238,50 @@
         </section>
 
         <section>
+            <title>Tastatur for Chromebook</title>
+            <table>
+            <tr>
+            <th class="halfwidth">Nedlasting</th>
+            <th>Utforming</th>
+            <th>Hjelp</th>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li><a
+                    href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Nord-, enare-, lule-, skolte- og sørsamiske tastatur
+                    </a>
+              </li>
+            </ul></td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              Nordsamisk</a></li>
+              <li><a href="layout-smj.html">
+              Lulesamisk</a></li>
+              <li><a href="layout-sma.html">
+              Sørsamisk</a></li>
+              <li><a href="layout-smn.html">
+              Enaresamisk</a></li>
+              <li><a href="layout-sms.html">
+              Skoltesamisk</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
+              <li><a href="installation_use_chromebook.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Chromebook</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
             <title>Linux-boallobeavddit</title>
             <table>
             <tr>

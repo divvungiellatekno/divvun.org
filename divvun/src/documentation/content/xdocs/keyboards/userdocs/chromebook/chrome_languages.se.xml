@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="se">
+    <header>
+        <title>Válljet lasi gielaid Chromebookes</title>
+    </header>
+    <body>
+        <p>
+            Coahkkal statusguovllu čállinbeavddi vuolit olgeš rávddas.
+            <br/>
+            Statuspanela ihtá dalle.
+            <br/>
+            <img alt="Chrome OS statuspanela" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Vállje «Innstillinger»
+            <br/>
+            Chromebooka heivehussiidu čájehuvvo Chromes.
+        </p>
+        <p>
+            Bláđe vulos dassái go «Enhet» ihtá ja coahkkal «Tastatur»
+            <br/>
+            Boallobeavdeheivehusat ihtet.
+            <br/>
+            <img alt="Chrome OS boallobeavdeheivehusat" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Coahkkal «Endre språk- og inndatainnstillinger» siiddu botnis.
+            <br/>
+            «Språk og inndata»-siidu ihtá.
+        </p>
+        <p>
+            Coahkkal «Språk». Boksá stuorru ja aktiiva giella ja «Legg til språk» čájehuvvo.
+            <br/>
+            <img alt="Hálddaš boallobeavdeheivehusaid" src="images/chrome_sprak.png" width="700"/>
+        </p>
+        <p>
+            Coahkkal «Legg til språk». Giellalistu čájehuvvo. Vállje dáro-, suoma- dahje ruoŧagiela dárbbuid mielde.
+            <br/>
+            <img alt="Velg språk" src="images/chrome_velg_sprak.png" width="700"/>
+            <br/>
+            «norsk» og «svensk» addet dáid boallobevddiid.
+        </p>
+        <ul>
+            <li>
+                davvisámegiella
+            </li>
+            <li>
+                lullisámegiella
+            </li>
+            <li>
+                julevsámegiella
+            </li>
+        </ul>
+        <p>
+            «finsk» addá dáid boallobevddiid.
+        </p>
+        <ul>
+            <li>
+                davvisámegiella
+            </li>
+            <li>
+                anársámegiella
+            </li>
+            <li>
+                nuorttalašgiella
+            </li>
+        </ul>
+        <p>
+            Go leat válljen gielaid, máhca ruovttoluotta <a href="installation_use_chromebook.html">boallobeavdeheivehussii</a>.
+        </p>
+    </body>
+</document>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Installering og oppsett på Chromebook</title>
+    </header>
+    <body>
+        <p>
+            Samiske tastatur for Chromebook lastes ned <a href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe">her</a>
+        </p>
+
+        <p>
+            Trykk «Legg til i Chrome», bekreft ved å trykke «Legg til utvidelsen». I løpet av kort tid installeres tastaturene, og på nedlastingssiden står det «Fjern fra Chrome» på nettsiden. Dette indikerer at de samiske tastaturene er installert.
+        </p>
+        <p>
+            Trykk på statusområdet nederst til høyre på skrivebordet.
+            <br/>
+            Statuspanelet dukker da opp.
+            <br/>
+            <img alt="Chrome OS statuspanel" src="images/chrome_statuspanel.png" width="240"/>
+        </p>
+        <p>
+            Velg «Innstillinger»
+            <br/>
+            Chromebookens innstillingsside vises i Chrome.
+        </p>
+        <p>
+            Bla ned til «Enhet» og trykk på «Tastatur»
+            <br/>
+            Innstillingene for tastatur vises.
+            <br/>
+            <img alt="Chrome OS tastaturinnstillinger" src="images/chrome_tastatur.png" width="700"/>
+        </p>
+        <p>
+            Trykk på «Endre språk- og inndatainnstillinger» nederst på siden.
+            <br/>
+            «Språk og inndata»-siden vises.
+        </p>
+        <p>
+            Trykk på «Inndatametode». Boksen utvides og det aktive tastaturet og «Administrer inndatametoder» vises.
+            <br/>
+            <img alt="Administrer inndatametoder" src="images/chrome_before_chosen_keyboards.png" width="700"/>
+        </p>
+        <p>
+            Trykk på «Administrer inndatametoder»
+            <br/>
+            Under «norsk bokmål» og «svensk» er det mulig å velge disse tastaturene.
+        </p>
+        <ul>
+            <li>
+                nordsamisk
+            </li>
+            <li>
+                sørsamisk
+            </li>
+            <li>
+                lulesamisk
+            </li>
+        </ul>
+        <p>
+            Under «finsk» er det mulig å velge disse tastaturene.
+        </p>
+        <ul>
+            <li>
+                nordsamisk
+            </li>
+            <li>
+                enaresamisk
+            </li>
+            <li>
+                skoltesamisk
+            </li>
+        </ul>
+        <p>
+            Velg det du vil ha, og lukk innstillingsvinduet.
+            <br/>
+            <img alt="Velg inndatametoder" src="images/chrome_chosen_keyboards.png" width="700"/>
+        </p>
+        <note label="Har du ikke norsk, finsk eller svensk?">
+            Om du ikke ser de samiske tastaturene og ikke har norsk, finsk eller svensk som språk på maskinen din, så finner du instruksjoner om hvordan legger til disse språkene <a href="chrome_languages.html">her</a>.
+        </note>
+        <p>
+            Nederst på skjermen har det dukket opp en språkindikator og når du trykker på den, kan du velge tastatur. Du kan også endre tastatur ved å trykke på Ctrl-Shift-mellomrom.
+            <br/>
+            <img alt="Velg tastatur" src="images/chrome_tastaturvelger.png" width="400"/>
+        </p>
+    </body>
+</document>
