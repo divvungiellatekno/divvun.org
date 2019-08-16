@@ -4,7 +4,7 @@ Documentation North Sámi grammar checker beta
 This grammar checker has been developed by Divvun, University of Tromsø 2019.
 This combined spell- and grammar checker for North Sámi checks regular spelling errors as previous versions of the spellchecker. 
 In addition, it checks a number of formatting errors, punctuation errors and grammatical errors. 
-Typos are malspelled words that are not part of the lexicon.
+Typos are misspelled words that are not part of the lexicon.
 Formatting errors include one or several redundant spaces before punctuation marks (period, exclamation mark, comma).
 Punctuation errors include for now only the use of quotation marks.
 Grammatical errors affect the grammar of the sentence, such as compound errors and words that are not used correctly in the sentence. 
@@ -16,9 +16,22 @@ Compound errors include two (or more) adjacent words that should be written as o
 
 !! typos
 
+&typo
+
+Misspelled words are by default not recognised, and instead we run the spelling checker on them. The suggestions from the spelling checkers are then filtered slightly to try to provide only suggestions that fit in the context.
+
+!! real word errors
+
+&real-hallan
+
+The word "oainnahallot" is not used correctly in this context. Instead it should be "oainnahallat", which is suggested by the grammar checker.
+
+Dat ferte oainnahallot ovdal go sáhttit báhčit dan, lohká son.
+
+
 !! case error in the first part of the compound
 
-Compounds can have either nominative or genitive case in their first word. Some compounds, such as compounds with "biire" should have nominative case in their first word. The grammar checker marks "biireduopmár" as an error and suggests "biirreduopmár" instead. #CHECK DUOMMÁ
+Compounds can have either nominative or genitive case in their first word. Some compounds, such as compounds with "biire" should have nominative case in their first word. The grammar checker marks "biireduopmár" as an error and suggests "biirreduopmár" instead. #CHECK DUOMMÁ LEAGORIEKTÁ
 
 
 * &msyn-wrong-case-biirre
@@ -40,12 +53,16 @@ The two adjacent words "Davvi Suomas" should be conjoined by means of a hyphen, 
 
 Suopmelaš ođđaássiid deattu geažil sápmelaš ássan suttai goittotge johtilit oktii nu, ahte 1500-logus sápmelaččat eai šat gávdnon Davvi Suomas.
 
+This is according to [Riektačállinrávvagat page 63, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
+
 ! &msyn-compound
 
 The two words "atnu ávnnasin" should be written as one word "atnuávnnasin" since they are a compound in this sentence rather than two words with different functions in the sentence.
 
 
 Guollenáhkki lea árbevirolaš materiála mii geavahuvvo sihke čikŋan ja atnu ávnnasin.
+
+This is according to [Riektačállinrávvagat page 60-66, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
 
 ! &msyn-unspace-compound
 
@@ -65,6 +82,8 @@ It is corrected to:
 
 ”Čohkken áiggiid čađa buoremus sámi artisttaid”
 
+This is according to [Riektačállinrávvagat page 21-23, 1.8$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
+
 * &punct-aistton
 * &punct-aistton-both
 * &punct-aistton-left
@@ -72,17 +91,44 @@ It is corrected to:
 
 
 
-!! space errors after punctuation marks, &space-after-paren-beg, &space-before-paren-end, &space-before-punct-mark
+!! space errors after punctuation marks
 
 
-&double-space-before
-&no-space-after-punct-mark
-&punct-end
-&real-hallan
-&space-after-paren-beg
-&space-before-paren-end
-&space-before-punct-mark
-&typo
+! &double-space-before
+
+Here the sentences are separated by two or more spaces, which is corrected to one space by the grammar checker.
+
+álgit gaikut.  Stoagus joatká
+
+álgit gaikut. Stoagus joatká
+
+! &no-space-after-punct-mark
+
+The grammar checker adds a space after a punctuation mark if it is missing as in the following sequence.
+
+Bonju dán!Lassin.
+
+Bonju dán! Lassin.
+
+! &punct-end
+
+! &space-after-paren-beg
+
+! &space-before-paren-end
+
+áddejumi )
+
+áddejumi)
+
+! &space-before-punct-mark
+
+The space before the punctuation mark (period, comma, semicolon, question mark, exclamation mark) is removed by the grammar checker.
+
+Son gii njeaidá skáluid šaddá eret vuolgit .
+
+Son gii njeaidá skáluid šaddá eret vuolgit.
+
+
 
 
 
