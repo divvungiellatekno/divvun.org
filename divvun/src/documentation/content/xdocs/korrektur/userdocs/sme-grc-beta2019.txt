@@ -1,0 +1,58 @@
+Documentation North Sámi grammar checker beta
+
+
+This grammar checker has been developed by Divvun, University of Tromsø 2019.
+This combined spell- and grammar checker for North Sámi checks regular spelling errors as previous versions of the spellchecker. 
+In addition, it checks a number of formatting errors, punctuation errors and grammatical errors. 
+Formatting errors include one or several redundant spaces before punctuation marks (period, exclamation mark, comma).
+Punctuation errors include for now only the use of quotation marks.
+Compound errors include two (or more) adjacent words that should be written as one word, 
+
+
+!!! error types
+
+
+!! typos
+!! case error in the first part of the compound
+!! compound errors &msyn-compound
+!! quotation mark error &punct-aistton-both, &punct-aistton-left, &punct-aistton-right
+!! space errors after punctuation marks, &space-after-paren-beg, &space-before-paren-end, &space-before-punct-mark
+
+!!!Alle feiltypar
+
+For kvar feiltype, skriv:
+
+* forslag til namn på feilen for brukarane (sjå og jf med errors.xml.in)
+* ei skildring av kva feilen er, korleis vi rettar han, og kvifor, med referanse til normerande tekst (Riektačállinrávvagat (paragrafnummer), GG (lenke til vedtak på nett, dersom det finst), Nickel (paragrafnr), osb)
+* ev. (generelle) døme på feil og retting
+
+Lagre dokumentet i:
+
+xtdoc/divvun/src/documentation/contents/xdocs/korrektur/userdocs/
+
+&corr-not-compound
+&double-space-before
+&msyn-addhyphen
+&msyn-compound
+&msyn-unspace-compound
+&msyn-wrong-case-biirre
+&msyn-wrong-case-bismma
+&msyn-wrong-case-bismmá
+&msyn-wrong-case-fylkka
+&msyn-wrong-case-gieldda
+&msyn-wrong-case-gili
+&msyn-wrong-case-guovllu
+&msyn-wrong-case-leana
+&msyn-wrong-case-riikka
+&msyn-wrong-case-stivrra
+&no-space-after-punct-mark
+&punct-aistton
+&punct-aistton-both
+&punct-aistton-left
+&punct-aistton-right
+&punct-end
+&real-hallan
+&space-after-paren-beg
+&space-before-paren-end
+&space-before-punct-mark
+&typo
