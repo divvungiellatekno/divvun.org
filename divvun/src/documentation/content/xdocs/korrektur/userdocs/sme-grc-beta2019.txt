@@ -73,7 +73,7 @@ Sámediggeáirras Randi A. Skum ( NSR ) jearrá dasto odne gažaldagaid sámedig
 
 !! quotation mark error
 
-The grammar checker corrects wrongly formatted quotation marks as in the following sentence.
+The grammar checker corrects wrongly formatted quotation marks as in the following sentence. 
 
 
 «Čohkken áiggiid čađa buoremus sámi artisttaid»
@@ -82,6 +82,7 @@ It is corrected to:
 
 ”Čohkken áiggiid čađa buoremus sámi artisttaid”
 
+Both left and right quotation marks should be _”_.
 This is according to [Riektačállinrávvagat page 21-23, 1.8$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
 
 * &punct-aistton
