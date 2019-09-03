@@ -2,7 +2,7 @@ Documentation North Sámi grammar checker beta
 
 
 This grammar checker has been developed by Divvun, University of Tromsø 2019.
-This combined spell- and grammar checker for North Sámi checks regular spelling errors as previous versions of the spellchecker. 
+It is a combined spell- and grammar checker for North Sámi and checks regular spelling errors as previous versions of the spellchecker. 
 In addition, it checks a number of formatting errors, punctuation errors and grammatical errors. 
 Typos are misspelled words that are not part of the lexicon.
 Formatting errors include one or several redundant spaces before punctuation marks (period, exclamation mark, comma).
