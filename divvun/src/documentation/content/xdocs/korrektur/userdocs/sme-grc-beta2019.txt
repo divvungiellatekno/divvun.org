@@ -74,13 +74,31 @@ The two words "atnu ávnnasin" should be written as one word "atnuávnnasin" sin
 
 Guollenáhkki lea árbevirolaš materiála mii geavahuvvo sihke čikŋan ja atnu ávnnasin.
 
+
+The two words "guovddáš guovlluin" should be written as one word "guovddášguovlluin".
+
+Boazodoallu duvdojuvvo máŋgga bealis, ja dasa lassin lea boazolohku váttisvuohtan guovddáš guovlluin Finnmárkkus. 
+
+The two words "gáhtta bargit" should be written as one word with a hyphen, i.e. "gáhttabargit".
+
+Oslos bohtet gáhtta bargit muitalit midjiide narkotihkkageavaheddjiid beaivválaš dilis.
+
+The two words "Davvi Sápmái" should be written as one word with a hyphen, i.e. "Davvi-Sápmái".
+
+Danne son dagai mátkki Davvi Sápmái ja hálahii moadde badjebearraša oktan herggiiguin vuolgit su mielde stuorra čájáhussii Parisii 1878.
+
+
 This is according to [Riektačállinrávvagat page 60-66, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
 
 ! &msyn-unspace-compound
 
 In this sentence, the word "ovddasguvlui" should be written as two words. The grammar checker suggests two words, "ovddas guvlui".
 
-Sámediggeáirras Randi A. Skum ( NSR ) jearrá dasto odne gažaldagaid sámediggeráđđái ahte máid lea Sámediggeráđđi dássážii bargan čoavdindihti divatgažaldaga boazodoalus ja makkár strategiija lea Sámediggeráđis {ovddasguvlui} oažžun 	dihti 	vuoiggalaš divatortnega boazodollui .
+Sámediggeáirras Randi A. Skum (NSR) jearrá dasto odne gažaldagaid sámediggeráđđái ahte máid lea Sámediggeráđđi dássážii bargan čoavdindihti divatgažaldaga boazodoalus ja makkár strategiija lea Sámediggeráđis {ovddasguvlui} oažžun 	dihti 	vuoiggalaš divatortnega boazodollui.
+
+In this sentence, the word "mánáguovttos" should be written as two words. The grammar checker suggests two words, "máná guovttos".
+
+{Mánáguovttos} geat leaba skuvla agis, šattaiga fáhkkestaga dárogielat skuvlii.
 
 
 !! quotation mark error
@@ -135,11 +153,20 @@ Bonju dán! Lassin.
 
 ! &space-before-punct-mark
 
-The space before the punctuation mark (period, comma, semicolon, question mark, exclamation mark) is removed by the grammar checker.
+A removal of the space before the punctuation mark (period, comma, semicolon, question mark, exclamation mark) is suggested by the grammar checker.
 
 Son gii njeaidá skáluid šaddá eret vuolgit .
 
+=>
+
 Son gii njeaidá skáluid šaddá eret vuolgit.
+
+
+Duođaid máhttet buori musihka ráhkadit, muhto gos lea iešvuohta mii muitala ahte dát lea Inuihtta joavku ? 
+
+=>
+
+Duođaid máhttet buori musihka ráhkadit, muhto gos lea iešvuohta mii muitala ahte dát lea Inuihtta joavku? 
 
 
 
