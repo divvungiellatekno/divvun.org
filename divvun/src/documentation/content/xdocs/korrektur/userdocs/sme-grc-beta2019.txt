@@ -62,33 +62,39 @@ Compounds can have either nominative or genitive case in their first word. Some 
 
 ! &msyn-addhyphen
 
-The two adjacent words "Davvi Suomas" should be conjoined by means of a hyphen, which is why the grammar checker suggest "Davvi-Suomas".
+The word "geahččalan" is the first part of a coordinated compound and should be followed by a hyphen, i.e. "geahččalan-".
 
-Suopmelaš ođđaássiid deattu geažil sápmelaš ássan suttai goittotge johtilit oktii nu, ahte 1500-logus sápmelaččat eai šat gávdnon Davvi Suomas.
+Ossodagat addet maiddái doarjaga dutkamii, geahččalan ja ovdánahttinbargui, ja servet riikkaidgaskasaš ovttasbargguide sin fágasurggiineaset.
 
-This is according to [Riektačállinrávvagat page 63, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
+The word "giella" is the first part of a coordinated compound and should be followed by a hyphen, i.e. "giella-".
+
+Guovdageainnus ja Diehtosiiddas leat maiddai eará guovddáš sámi ásahusat, nu go Sámedikki oahpahus-, giella ja kulturossodat, Sámi árkiiva, Gáldu- Álgoálbmotvuoigatvuođaid gelbbolašvuođaguovddáš ja Riikkaidgaskasaš boazodoalloguovddáš.
 
 ! &msyn-compound
 
 The two words "atnu ávnnasin" should be written as one word "atnuávnnasin" since they are a compound in this sentence rather than two words with different functions in the sentence.
 
-Guollenáhkki lea árbevirolaš materiála mii geavahuvvo sihke čikŋan ja atnu ávnnasin.
-
+Guollenáhkki lea árbevirolaš materiála mii geavahuvvo sihke čikŋan ja {atnu ávnnasin}.
 
 The two words "guovddáš guovlluin" should be written as one word "guovddášguovlluin".
 
-Boazodoallu duvdojuvvo máŋgga bealis, ja dasa lassin lea boazolohku váttisvuohtan guovddáš guovlluin Finnmárkkus. 
+Boazodoallu duvdojuvvo máŋgga bealis, ja dasa lassin lea boazolohku váttisvuohtan {guovddáš guovlluin} Finnmárkkus. 
 
 The two words "gáhtta bargit" should be written as one word with a hyphen, i.e. "gáhttabargit".
 
-Oslos bohtet gáhtta bargit muitalit midjiide narkotihkkageavaheddjiid beaivválaš dilis.
+Oslos bohtet {gáhtta bargit} muitalit midjiide narkotihkkageavaheddjiid beaivválaš dilis.
+
+This is according to [Riektačállinrávvagat page 60-66, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
 
 The two words "Davvi Sápmái" should be written as one word with a hyphen, i.e. "Davvi-Sápmái".
 
-Danne son dagai mátkki Davvi Sápmái ja hálahii moadde badjebearraša oktan herggiiguin vuolgit su mielde stuorra čájáhussii Parisii 1878.
+Danne son dagai mátkki {Davvi Sápmái} ja hálahii moadde badjebearraša oktan herggiiguin vuolgit su mielde stuorra čájáhussii Parisii 1878.
 
+The two adjacent words "Davvi Suomas" should be conjoined by means of a hyphen, which is why the grammar checker suggest "Davvi-Suomas".
 
-This is according to [Riektačállinrávvagat page 60-66, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
+Suopmelaš ođđaássiid deattu geažil sápmelaš ássan suttai goittotge johtilit oktii nu, ahte 1500-logus sápmelaččat eai šat gávdnon Davvi Suomas.
+
+This is according to [Riektačállinrávvagat page 63, 3.5$|https://www.samediggi.no/content/download/870/file/Riektačállinrávvagat.pdf]
 
 ! &msyn-unspace-compound
 
