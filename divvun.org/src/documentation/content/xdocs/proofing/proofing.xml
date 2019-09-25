@@ -21,8 +21,8 @@
 
 
       <section>
-         <title>Spelling checkers for Microsoft Office (Windows only)</title>
-
+         <title>Spelling checkers for Microsoft Office (Windows only, Mac forthcoming)</title>
+<p>Installation: If installation does not start automatically, click on the .exe file in your download folder.</p>
          <table>
          <tr>
            <th colspan="2">Download installer for:   </th><!-- Several of nbsp to force a larger width of the column - leave as is -->
@@ -37,7 +37,7 @@
                </a> </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/cor/index.html">Cornish documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/cor/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
             </td>
@@ -51,7 +51,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/est/index.html">Estonian documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/est/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
             </td>
@@ -65,7 +65,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/fao/index.html">Faroese documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fao/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
             </td>
@@ -78,7 +78,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/kal/index.html">Greenlandic documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/kal/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
@@ -91,7 +91,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/smn/j-smn.html">Inari Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/smn/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
             </td>
@@ -105,7 +105,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/startup-lang/gle/index.html">Irish documentation</a>
+           <td><a href="https://giellalt.uit.no/startup-lang/gle/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
             </td>
@@ -119,7 +119,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/olo/index.html">Livvi documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/olo/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
             </td>
@@ -132,7 +132,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/smj/j-smj.html">Lule Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/smj/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/smj">source code</a>.
             </td>
@@ -145,7 +145,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/sme/j-sme.html">North Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/sme/j-sme.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/sme">source code</a>.
             </td>
@@ -159,7 +159,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/sms/j-sms.html">Skolt Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/sms/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/sms">source code</a>.
             </td>
@@ -172,7 +172,7 @@
            </td>
            <td> </td>
            <td>Nightly build</td>
-           <td>The <a href="https://giellalt.uit.no/lang/sma/j-sma.html">South Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/sma/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/sma">source code</a>.
             </td>
@@ -183,6 +183,11 @@
 
       <section>
          <title>Spelling checkers for LibreOffice 5+ (Windows and Mac)</title>
+        <p>There is a <strong><a
+           href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice
+           installation and user guide</a></strong> for Windows which should also be
+           informative for Mac .</p>
+
 
          <table>
          <tr>
@@ -200,7 +205,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/bxr/BuriatDocumentation.html">Buryad documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/bxr/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/bxr">source code</a>.
            </td>
@@ -214,7 +219,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/cor/index.html">Cornish documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/cor/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
            </td>
@@ -228,7 +233,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/myv/ErzyaDocumentation.html">Erzya documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/myv/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/myv">source code</a>.
            </td>
@@ -242,7 +247,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/est/index.html">Estonian documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/est/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
            </td>
@@ -256,7 +261,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/fao/index.html">Faroese documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fao/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
            </td>
@@ -269,7 +274,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/fin/j-fin.html">Finnish documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fin/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/fin">source code</a>.
             </td>
@@ -282,7 +287,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/kal/index.html">Greenlandic documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/kal/WhatIsThis.html">README</a>
                and
                <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
             </td>
@@ -296,7 +301,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/gle/IrishDocumentation.html">Irish documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/gle/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
            </td>
@@ -310,7 +315,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/kom/index.html">Komi documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/kom/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/kpv">source code</a>.
            </td>
@@ -324,7 +329,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/fkv/KvenDocumentation.html">Kven documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/fkv/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/fkv">source code</a>.
            </td>
@@ -338,7 +343,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/olo/OlonetsianDocumentation.html">Livvi (Olonetsian) documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/olo/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
            </td>
@@ -352,7 +357,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/mns/MansiDocumentation.html">Mansi documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/mns/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/mns">source code</a>.
            </td>
@@ -366,7 +371,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/mhr/EasternMariDocumentation.html">Eastern Mari documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/mhr/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/mhr">source code</a>.
            </td>
@@ -380,7 +385,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/mrj/WesternMariDocumentation.html">Western Mari documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/mrj/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/mrj">source code</a>.
            </td>
@@ -394,7 +399,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/mdf/MokshaDocumentation.html">Moksha documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/mdf/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/mdf">source code</a>.
            </td>
@@ -406,7 +411,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/smn/j-smn.html">Inari Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/smn/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
            </td>
@@ -420,7 +425,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/sje/PiteSaamiDocumentation.html">Pite Saami documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/sje/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/sje">source code</a>.
            </td>
@@ -434,7 +439,7 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/udm/UdmurtDocumentation.html">Udmurt documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/udm/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/udm">source code</a>.
            </td>
@@ -448,22 +453,13 @@
            </ul></td>
            <td> </td>
            <td>N/A </td>
-           <td><a href="https://giellalt.uit.no/lang/vro/VoroDocumentation.html">Võro documentation</a>
+           <td><a href="https://giellalt.uit.no/lang/vro/WhatIsThis.html">README</a>
                and
            <a href="https://gtsvn.uit.no/langtech/trunk/langs/vro">source code</a>.
            </td>
          </tr>
          </table>
 
-        <section>
-           <title>User Guide</title>
-  
-           <p>There is a Windows 8.1 <strong><a
-           href="userdocs/win/install-use-Voikko-LO4-win8.html">LibreOffice
-           installation and user guide</a></strong> which should also be
-           informative for Mac users.</p>
-           
-        </section>
       </section>
 
     </body>
