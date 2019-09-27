@@ -39,6 +39,7 @@
                         <li>manglende mellomrom før og etter parentes</li>
                         <li>mellomrom inne i parentes, men før og etter teksten</li>
                         <li>manglende mellomrom etter komma, utropstegn m.m.</li>
+                        <li>for mange mellomrom</li>
                     </ul>
                 </li>
                 <li>sammensatte ord skrevet hver for seg</li>
