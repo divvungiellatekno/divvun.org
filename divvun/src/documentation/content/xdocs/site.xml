@@ -109,6 +109,11 @@
           <spellerdemo label="Online speller" href="speller-demo.html"/>
         </msoff>
 
+        <gramcheck tab="GramCheck" description="Grammar checkers"
+                  label="Grammar checker tool" >
+          <index label="Grammar checkers" href="gramcheck.html"/>
+        </gramcheck>
+
         <browsers tab="Browsers" description="Proofing tools for web browsers"
                   label="Proofing tools for web browsers" >
           <index label="Browser spelling checkers" href="browsers.html"/>

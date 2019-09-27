@@ -21,6 +21,7 @@
     </tab>
     <tab  dir="korrektur" id="Korrektur" label="Korrektur" indexfile="korrektur.html"            >
         <tab dir="korrektur" id="MSOffice"     label="MSOffice"     indexfile="korrektur.html"  />
+        <tab dir="korrektur" id="GramCheck"    label="Gramcheck"    indexfile="gramcheck.html"  />
         <tab dir="korrektur" id="Browsers"     label="Browsers"     indexfile="browsers.html"   />
         <tab dir="korrektur" id="OSWide"       label="OSWide"       indexfile="oswide.html"     />
         <tab dir="korrektur" id="AndreProgram" label="AndreProgram" indexfile="otherapps.html"  />
