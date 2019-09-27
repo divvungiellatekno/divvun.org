@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Grammatikkontroll</title>
+        <meta name="description">samisk stavekontroll</meta>
+    </header>
+    <body>
+
+        <note label="27.9.2019">Den første grammatikkontrollen for samisk,
+            GramDivvun, er ute som en åpen
+            BETA. Fungerer for Google docs og (snart) Office 365.
+        </note>
+
+        <note label="Merk">
+        <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
+        Grammatikkontrollen kommer først ut som en BETA-versjon.
+        Det betyr at ikke alt er ferdig, men at vi tror verktøyet vil
+        være nyttig. Vi vil hele tida forbedre grammatikkontrollen, og tar
+        gjerne i mot tilbakemeldinger, både på
+        <a href="mailto:feedback@divvun.no">e-post</a>,
+        <a href="https://www.facebook.com/groups/264676350297747/">Facebook</a> og
+        <a href="https://www.instagram.com/divvun.no/">Instagram</a>!
+        </note>
+
+        <section>
+            <title>Nordsamisk grammatikkontroll</title>
+
+            <p>I den første <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>-versjonen
+               prøver vi å finne og rette disse feilene:
+            </p>
+
+            <ul>
+                <li>tradisjonelle skrivefeil (=stavekontroll)</li>
+                <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
+                <li>feil ved tegnsetting:
+                    <ul>
+                        <li>manglende mellomrom før og etter parentes</li>
+                        <li>mellomrom inne i parentes, men før og etter teksten</li>
+                        <li>manglende mellomrom etter komma, utropstegn m.m.</li>
+                    </ul>
+                </li>
+                <li>sammensatte ord skrevet hver for seg</li>
+                <li>ord skrevet sammen som skal skrives hver for seg</li>
+            </ul>
+
+            <section>
+                <title>Google docs / GSuite <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Docs-icon.png"/></title>
+
+                <ul>
+                    <li>Installer via <a
+                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256">G
+                    Suite Marketplace</a></li>
+                    <li>Grammatikkontrollen finnes under menyen:
+                    <strong>Tillegg > Divvun Grammar Checker > Grammar check</strong></li>
+                    <li>Velg språk, og klikk på <strong>Run grammar check</strong></li>
+                </ul>
+            </section>
+
+            <section>
+                <title>Office365 <icon
+                    alt="OSX" height="27"
+                    src="images/office365-icon.png"/></title>
+
+            <note label="Notér!">Kommer snart!
+            </note>
+
+                <!--table>
+                <tr><td>
+                <ul>
+                  <li class="Download"><a
+                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
+                    alt="Last ned" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Divvun 3.0 for alle tre språk</a>
+                  </li>
+                </ul></td>
+                <td>
+                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                </td>
+                <td>
+                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
+                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
+                </td>
+                <td>
+                  <a href="userdocs/videos/mac-video.html">
+                  <icon alt="Instructions" height="48" width="48"
+                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
+                </tr>
+                </table-->
+            </section>
+        </section>
+
+        <section>
+            <title>Andre samiske språk</title>
+            <p>De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
+            i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
+            fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
+            mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
+        </section>
+
+    </body>
+</document>
