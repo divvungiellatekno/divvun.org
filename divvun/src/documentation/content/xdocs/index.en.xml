@@ -8,7 +8,14 @@
     </header>
     <body>
 
-      <note label="NEWS! 12/20/2018">Divvun launches mobile keyboards
+        <note label="NEWS! 27.9.2019">The first grammar checker for Sámi,
+            GramDivvun, is released as an open
+            BETA. Works in Google docs and (soon) Office 365.
+            <br/>
+            <a href="/korrektur/gramcheck.html">More info!</a>
+        </note>
+
+      <note label="12/20/2018">Divvun launches mobile keyboards
           with spell checkers!
         <br/>
         <a href="/keyboards/mobileindex.html">Download here!</a>

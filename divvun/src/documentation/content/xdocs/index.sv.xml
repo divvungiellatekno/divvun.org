@@ -8,7 +8,14 @@
     </header>
     <body>
 
-      <note label="NYHET! 20.12.2018">Divvun lanserar mobiltastatur
+        <note label="NYHET! 27.9.2019">Den första grammatikkontrollen för samiska,
+            GramDivvun, är nu tillgänglig som en öppen
+            BETA. Fungerar med Google docs och (snart) Office 365.
+            <br/>
+            <a href="/korrektur/gramcheck.html">Mer info!</a>
+        </note>
+
+      <note label="20.12.2018">Divvun lanserar mobiltastatur
         med stavningskontroll!
         <br/>
         <a href="/keyboards/mobileindex.html">Hämta här!</a>
