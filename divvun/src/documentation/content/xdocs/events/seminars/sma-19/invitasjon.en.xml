@@ -5,7 +5,14 @@
     </header>
 
     <body>
-        <img alt="icon" class="scaling rounded float-right" src="images/SMA-biejjieh-logo.png"/>
+
+        <div class="float-right">
+         <img alt="SMA-b-logoar"  class="scaling rounded" src="images/SMA-biejjieh-logo.png"/><br/>
+         <img alt="trøndelaglogo" class="scaling rounded" src="images/logo-trondelag.png"/><br/>
+         <img alt="NFK-logo"      class="scaling rounded" src="images/Nfk-sorsamisk-farge.jpg"/>
+        </div>
+        <br/>
+
         <section>
             <title>Call for Papers</title>
 
