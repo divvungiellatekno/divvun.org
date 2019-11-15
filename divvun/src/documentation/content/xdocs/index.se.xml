@@ -27,6 +27,34 @@
         <a href="https://uit.no/nyheter/artikkel?p_document_id=607877&amp;p_dim=88208">Loga eanet dás!</a>
       </note>
 
+      <section>
+        <title>Get most writing tools in one place!</title>
+        <ul class="row nobullet">
+           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling"/></li>
+         <li class="col-sm-8">
+          <em>One</em> download, then: install, run &amp; select language
+          — the rest is handled automatically, including keeping the tools up-to-date. It contains:
+          <ul>
+            <li>Keyboards and spellers for most Sámi languages</li>
+            <li>System-wide spellers</li>
+            <li>Spellers for MS Office (Windows only)</li>
+            <li>Spellers for LibreOffice</li>
+          </ul>
+          <strong>Download</strong> the Divvun Installer for:
+          <ul class="row nobullet">
+            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
+              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
+              Windows</a></li>
+            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
+              macOS</a></li>
+          </ul>
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <title>All our tools:</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
@@ -61,6 +89,7 @@
             Jorgal</a>
         </li>
       </ul>
+      </section>
 
     </body>
 </document>
