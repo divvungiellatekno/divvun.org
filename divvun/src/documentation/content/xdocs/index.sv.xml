@@ -28,19 +28,19 @@
       </note>
 
       <section>
-        <title>Get most writing tools in one place!</title>
+        <title>Installera de flesta samiska skrivstöden på ett ställe!</title>
         <ul class="row nobullet">
            <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling"/></li>
          <li class="col-sm-8">
-          <em>One</em> download, then: install, run &amp; select language
-          — the rest is handled automatically, including keeping the tools up-to-date. It contains:
+          <em>En</em> nerladdning, sen: installera, kör &amp; välj språk
+          — resten handteras automatiskt, inkl att verktygen hålls uppdaterade. Installeraren ger dig:
           <ul>
-            <li>Keyboards and spellers for most Sámi languages</li>
-            <li>System-wide spellers</li>
-            <li>Spellers for MS Office (Windows only)</li>
-            <li>Spellers for LibreOffice</li>
+            <li>Tangentbord och rättstavning för de flesta samiska språken</li>
+            <li>Rättstavning i hela systemet</li>
+            <li>Rättstavning för MS Office (enbart Windows)</li>
+            <li>Rättstavning för LibreOffice</li>
           </ul>
-          <strong>Download</strong> the Divvun Installer for:
+          <strong>Ladda ner</strong> Divvun-installeraren för:
           <ul class="row nobullet">
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
               <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
@@ -54,7 +54,7 @@
       </section>
 
       <section>
-        <title>All our tools:</title>
+        <title>Alla våra verktyg:</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
