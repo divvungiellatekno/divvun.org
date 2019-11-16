@@ -30,7 +30,7 @@
       <section>
         <title>Installera de flesta samiska skrivstöden på ett ställe!</title>
         <ul class="row nobullet">
-           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling"/></li>
+           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling" alt="DivvunInstaller"/></li>
          <li class="col-sm-8">
           <em>En</em> nerladdning, sen: installera, kör &amp; välj språk
           — resten handteras automatiskt, inkl att verktygen hålls uppdaterade. Installeraren ger dig:
