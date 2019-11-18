@@ -3,9 +3,28 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Divvun - tastatuvra</title>
+        <title>Persåvnåsuodjalibme</title>
     </header>
     <body>
-        <p>Divvuna tastatuvra e tjoahkke tevstav majt daj tjáleduvvá.</p>
+      <section>
+        <title>Tastatuvra</title>
+        <p>Divvuna tastatuvra e tjoahkke tevstav majt daj tjáleduvvá.
+        All processering sker på telefonen.</p>
+      </section>
+
+      <section>
+        <title>Grammatikkontroll</title>
+        <p>Divvuns grammatikkontroll samlar inte in någon text. Vi loggar
+        att grammatikkontrollen används, tillsammans med användarens
+        IP-adress, men vi loggar inte texten som användaren skickar till
+        våra servrar. För GSuite och o365 <em>måste</em> texten
+        skickas till våra servrar för att kunna köra grammatikkontrollen.</p>
+      </section>
+
+      <section>
+        <title>Andra verktyg</title>
+        <p>Inga av Divvuns andra verktyg samlar in text.</p>
+      </section>
+
     </body>
 </document>

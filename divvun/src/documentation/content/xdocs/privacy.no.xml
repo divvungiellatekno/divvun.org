@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
 "http://forrest.apache.org/dtd/document-v20.dtd">
-<document xml:lang="no">
+<document xml:lang="nb">
     <header>
-        <title>Divvun - tastatur</title>
+        <title>Personvern</title>
     </header>
     <body>
-        <p>Divvuns tastaturer samler ikke tekst som blir skrevet med dem.</p>
+      <section>
+        <title>Tastaturapper</title>
+        <p>Divvuns tastaturapper samler ikke inn tekst som blir skrevet med
+        dem.
+        All prosessering blir gjort på telefonen.</p>
+      </section>
+
+      <section>
+        <title>Grammatikkontroll</title>
+        <p>Divvuns grammatikkontroll samler ikke inn tekst. Vi logger
+        at grammatikkontrollen brukes, og brukerens
+        IP-adresse, men vi logger ikke teksten som brukeren sender til
+        serverene våre. For GSuite og o365 <em>må</em> teksten sendes til
+        våre servere for at vi skal kunne kjøre grammatikkontrollen.</p>
+      </section>
+
+      <section>
+        <title>Andre verktøy</title>
+        <p>Ingen av Divvuns andre verktøy samler inn tekst.</p>
+      </section>
+
     </body>
 </document>

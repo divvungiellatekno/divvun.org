@@ -3,9 +3,29 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Divvun - tastatur</title>
+        <title>Privacy</title>
     </header>
     <body>
-        <p>Divvuns keyboards do not harvest text written with them.</p>
+      <section>
+        <title>Keyboard apps</title>
+        <p>Divvun's keyboard apps do not harvest text written with them.
+        All processing is done on the telephone.</p>
+      </section>
+
+      <section>
+        <title>Grammar checkers</title>
+        <p>Divvun's grammar checkers do not collect any text. We do log
+        that the grammar checker is being used, and the IP address of the user,
+        but we do not log the text being sent to our servers.
+        When using our grammar checker with GSuite and o365 the text
+        <em>must</em> be sent to our servers for processing.</p>
+      </section>
+
+      <section>
+        <title>Other tools</title>
+        <p>None of the other Divvun tools collect any text text or user
+        data.</p>
+      </section>
+
     </body>
 </document>
