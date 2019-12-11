@@ -36,6 +36,10 @@
                  label="PRD: 2007.12.10" />
             <pr4 href="pressrelease-20101208.html"
                  label="PRD: 2010.12.08" />
+            <pr5 href="pressrelease-20130208.txt"
+                 label="PRD: 2013.02.08" />
+            <pr6 href="pressrelease-20191211.html"
+                 label="PRD: 2019.12.11" />
         </pr>
         <aboutdivvun tab="AboutUs" href="about/" label="About Divvun">
           <index href="about_divvun.html" label="About Divvun"/>
