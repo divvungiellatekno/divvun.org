@@ -37,11 +37,23 @@
 
          <p>Denne stavekontrollen fungerer i program som har støtte for
              systemstavekontrollen til Mac (de fleste programmene).</p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Hent" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvuninstallerer</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvuninstallereren
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>Når Divvuninstallereren er hentet, start den opp og velg
              hvilke språk du vil ha stavekontroll for.</p>
          <note>Denne stavekontrollen vil ikke

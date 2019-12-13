@@ -231,7 +231,9 @@
         <index href="laring/laring.html" label="Språkopplæring"/>
     </læring>
 
-
+    <divvuninstaller tab="OSWide" label="Divvun installer">
+        <macos href="divvuninstaller/macos.html" label="MacOS"/>
+    </divvuninstaller>
 
     <adm href="adm/" label="Administration" tab="adm">
         <overview description="Administrative documentation" href="index.html" label="Index" />

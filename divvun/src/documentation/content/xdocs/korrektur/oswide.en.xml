@@ -37,11 +37,23 @@
 
          <p>This spell checker works in programs that support the
              systemwide Mac spell checker (most programs).</p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvun Installer</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvun Installer
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>When you have downloaded the Divvun Installer, start it and
              choose the spell checkers for the languages you want to install.
          </p>

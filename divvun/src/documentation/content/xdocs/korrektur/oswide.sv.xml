@@ -37,11 +37,23 @@
 
          <p>Den här stavningskontrollen fungerer i program som har stöd för
              systemstavningskontrollen i Mac (dom flesta program).</p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvuninstalleraren</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvuninstalleraren
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>När Divvuninstalleraren är hämtad, start upp den och välj
              vilka språk du vill ha stavningskontroll för.
          </p>

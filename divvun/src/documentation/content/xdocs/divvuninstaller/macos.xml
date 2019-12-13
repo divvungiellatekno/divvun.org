@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Divvuninstallereren</title>
+    </header>
+    <body>
+        <p>
+            Slik ser vinduet ut ved oppstart
+            <img src="di-mac-standard.png" alt="Divvuninstallereren ved oppstart" width="700"/>
+        </p>
+        <p>
+            Endra til nattlege pakker ved å gå til innstillingane:
+            <img src="di-mac-settings.png" alt="Innstillinger" width="400"/>
+        </p>
+        <p>
+            og klikka på Kanal > Stabil, og så velja Nattleg:
+            <img src="di-mac-settings-nightly.png" alt="Skifte til nattlig" width="400"/>
+        </p>
+        <p>
+            Etter det så skal ein få fleire pakker tilgjengeleg:
+            <img src="di-mac-nightly.png" alt="Divvuninstallereren med nattlige pakker" width="700"/>
+        </p>
+    </body>
+</document>

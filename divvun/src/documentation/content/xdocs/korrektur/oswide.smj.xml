@@ -38,11 +38,23 @@
          <p>Dát tjállemdárkestiddje doajmmá prográmmajn ma doarjju Maca
              systiebmatjállemdárkestiddje (ienemusát prográmma).
          </p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Viettja" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvomsajájduhtte</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvomsajájduhtte
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>Gå la Divvomsajájduhttev viedtjam, álgada dav ja vállji maj
              gielaj tjállemdárkestiddjijt sidá.
          </p>

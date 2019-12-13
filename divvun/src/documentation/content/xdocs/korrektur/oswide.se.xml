@@ -37,11 +37,23 @@
 
          <p>Dát čállindárkkisteaddji doaibmá prográmmain mat dorjot
              Maca vuogádatčállindárkkisteaddji (eanáš prográmmat).</p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunsajáiduhtti</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvunsajáiduhtti
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>Go leat viežžan Divvunsajáiduhtti, álggat dan ja vállje
              guđiid gielaid čállindárkkisteaddjiid háliidat.
          </p>

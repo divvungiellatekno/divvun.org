@@ -32,11 +32,23 @@
                 src="images/mac.png"/></title>
 
          <p>Korjausohjelma toimii ohjelmissa, jotka tukevat Macin järjestelmäkorjausohjelmaa (useimmat ohjelmat).</p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg"
-                    ><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                 Divvunasentaja</a>
-         </p>
+         <table>
+             <tr>
+                 <td>
+                     <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+                         <icon alt="Download" height="44" width="44"
+                               src="images/Crystal_Clear_app_download_manager.png" />
+                         Divvunasentaja
+                     </a>
+                 </td>
+                 <td>
+                     <a href="/divvuninstaller/macos.html">
+                         <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                         User guide
+                     </a>
+                 </td>
+             </tr>
+         </table>
          <p>Ladattuasi Divvun-asentajan voit käynnistää sen ja valita, mille kieliile haluat korhausohjelman.
          </p>
          <note>Dát čállindárkkisteaddji ii doaimma
