@@ -10,7 +10,7 @@
 
         <note label="27.9.2019">Den første grammatikkontrollen for samisk,
             GramDivvun, er ute som en åpen
-            BETA. Fungerer for Google docs og (snart) Office 365.
+            BETA. Fungerer for Google docs og Microsoft Office 365.
         </note>
 
         <note label="Merk">
@@ -66,32 +66,14 @@
                     alt="OSX" height="27"
                     src="images/office365-icon.png"/></title>
 
-            <note label="Notér!">Kommer snart!
-            </note>
-
-                <!--table>
-                <tr><td>
                 <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
-                    alt="Last ned" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Divvun 3.0 for alle tre språk</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-vegledning</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-vegledning</a>
-                </td>
-                <td>
-                  <a href="userdocs/videos/mac-video.html">
-                  <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruksjonsvideoer</a></td>
-                </tr>
-                </table-->
+                    <li>Installer via <a
+                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview">Microsofts
+                    AppSource</a></li>
+                    <li>Grammatikkontrollen finnes under fliken:
+                    <strong>Home > Divvun Grammar Checker</strong></li>
+                    <li>Velg språk, og klikk på <strong>Run grammar check</strong></li>
+                </ul>
             </section>
         </section>
 
