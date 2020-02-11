@@ -16,33 +16,33 @@
         </note>
 
       <section>
-        <title>Get most writing tools in one place!</title>
+        <title>Eanas čállinreaiddut ovtta sajis!</title>
         <ul class="row nobullet">
            <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling" alt="DivvunInstaller"/></li>
          <li class="col-sm-8">
-          <em>One</em> download, then: install, run &amp; select language
-          — the rest is handled automatically, including keeping the tools up-to-date. It contains:
+          <em>Oktii</em> viežžat, ja de: installeret ja válljet giela
+            – muđuin visot dahkko automáhtalaččat, dugo ođastuhttin. Sisdoallu:
           <ul>
-            <li>Keyboards and spellers for most Sámi languages</li>
-            <li>System-wide spellers</li>
-            <li>Spellers for MS Office (Windows only)</li>
-            <li>Spellers for LibreOffice</li>
+            <li>Boallobeavddit ja divvunreaiddut eanas sámegielaide</li>
+            <li>Stávenkontrollat visot systemii</li>
+            <li>MS Office stávenkontrollat (dušše Windowsii)</li>
+            <li>LibreOffice stávenkontrollat</li>
           </ul>
-          <strong>Download</strong> the Divvun Installer for:
+          <strong>Viečča</strong> Divvun Installer juogo:
           <ul class="row nobullet">
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
-              <strong>Windows</strong></a></li>
+              <strong>Windowsii</strong></a></li>
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
-              <strong>macOS</strong></a></li>
+              <strong>macOS:i</strong></a></li>
           </ul>
           </li>
         </ul>
       </section>
 
       <section>
-        <title>All our tools:</title>
+        <title>Visot min reaiddut:</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
