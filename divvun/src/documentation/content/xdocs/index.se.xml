@@ -8,24 +8,12 @@
     </header>
     <body>
 
-        <note label="OĐAS! 27.9.2019">Den første grammatikkontrollen for samisk,
-            GramDivvun, er ute som en åpen
-            BETA. Fungerer for Google docs og Office 365.
+        <note label="OĐAS! 11.2.2020">Vuosttas sámi grammatihkkakontrolla,
+            GramDivvun 1.0, lea dál almmuhuvvon.
+            Doaibmá Google Docsas ja MS Offices. 
             <br/>
-            <a href="/korrektur/gramcheck.html">Mer info!</a>
+            <a href="/korrektur/gramcheck.html">Eanet dieđuid!</a>
         </note>
-
-      <note label="20.12.2018">Divvun almmuha mobiilaboallobevddiid
-        main leat čállindárkkisteaddjit!
-        <br/>
-        <a href="/keyboards/mobileindex.html">Viečča dás!</a>
-        <br/>
-        Divvun almmuha čállindárkkisteaddjiid Windowsii ja Macii!
-        <br/>
-        <a href="/korrektur/oswide.html">Viečča dás!</a>
-        <br/>
-        <a href="https://uit.no/nyheter/artikkel?p_document_id=607877&amp;p_dim=88208">Loga eanet dás!</a>
-      </note>
 
       <section>
         <title>Get most writing tools in one place!</title>
@@ -43,11 +31,11 @@
           <strong>Download</strong> the Divvun Installer for:
           <ul class="row nobullet">
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
-              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-              Windows</a></li>
+              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+              <strong>Windows</strong></a></li>
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
-              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-              macOS</a></li>
+              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+              <strong>macOS</strong></a></li>
           </ul>
           </li>
         </ul>

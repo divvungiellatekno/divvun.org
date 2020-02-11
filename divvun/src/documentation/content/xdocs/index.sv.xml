@@ -8,24 +8,12 @@
     </header>
     <body>
 
-        <note label="NYHET! 27.9.2019">Den första grammatikkontrollen för samiska,
-            GramDivvun, är nu tillgänglig som en öppen
-            BETA. Fungerar med Google docs och Office 365.
+        <note label="NYHET! 11.2.2020">Den första grammatikkontrollen för samiska,
+            GramDivvun, är nu tillgänglig i version 1.0.
+            Fungerar med Google docs och Microsoft Office.
             <br/>
             <a href="/korrektur/gramcheck.html">Mer info!</a>
         </note>
-
-      <note label="20.12.2018">Divvun lanserar mobiltastatur
-        med stavningskontroll!
-        <br/>
-        <a href="/keyboards/mobileindex.html">Hämta här!</a>
-        <br/>
-        Divvun lanserar stavningskontroll för Windows och Mac!
-        <br/>
-        <a href="/korrektur/oswide.html">Hämta här!</a>
-        <br/>
-        <a href="https://uit.no/nyheter/artikkel?p_document_id=607877&amp;p_dim=88208">Läs mer här!</a>
-      </note>
 
       <section>
         <title>Installera de flesta samiska skrivstöden på ett ställe!</title>
@@ -43,11 +31,11 @@
           <strong>Ladda ner</strong> Divvun-installeraren för:
           <ul class="row nobullet">
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
-              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-              Windows</a></li>
+              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+              <strong>Windows</strong></a></li>
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
-              <icon alt="Download" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />
-              macOS</a></li>
+              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+              <strong>macOS</strong></a></li>
           </ul>
           </li>
         </ul>
