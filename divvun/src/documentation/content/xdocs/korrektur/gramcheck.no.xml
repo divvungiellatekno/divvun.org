@@ -3,35 +3,63 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
-        <title>Grammatikkontroll</title>
-        <meta name="description">samisk stavekontroll</meta>
+        <title>GramDivvun 1.0</title>
+        <meta name="description">samisk grammatikkontroll</meta>
     </header>
     <body>
 
-        <note label="27.9.2019">Den første grammatikkontrollen for samisk,
-            GramDivvun, er ute som en åpen
-            BETA. Fungerer for Google docs og Microsoft Office 365.
+        <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
+
+        <note label="11.2.2020">Den første grammatikkontrollen for samisk,
+            <em>GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
         </note>
 
-        <note label="Merk">
-        <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
-        Grammatikkontrollen kommer først ut som en BETA-versjon.
-        Det betyr at ikke alt er ferdig, men at vi tror verktøyet vil
-        være nyttig. Vi vil hele tida forbedre grammatikkontrollen, og tar
-        gjerne i mot tilbakemeldinger, både på
-        <a href="mailto:feedback@divvun.no">e-post</a>,
-        <a href="https://www.facebook.com/groups/264676350297747/">Facebook</a> og
-        <a href="https://www.instagram.com/divvun.no/">Instagram</a>!
-        </note>
+            <section>
+                <title>Installering</title>
+
+                <table>
+                  <tr>
+                    <td><a
+                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
+                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
+                    /><strong>Google
+                    Docs / GSuite</strong> <icon
+                    alt="Windows" height="27" width="27"
+                    src="images/Docs-icon.png"/></a></td>
+                    <td><a
+                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
+                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
+                    /><strong>Office365</strong> <icon
+                    alt="OSX" height="27"
+                    src="images/office365-icon.png"/></a></td>
+                  </tr>
+                  <tr>
+                    <td>Grammatikkontrollen finnes under menyen:<br/>
+                    <strong>Tillegg > Divvun Grammar<br/>
+                    Checker > Grammar check</strong></td>
+                    <td>Grammatikkontrollen finnes under fliken:<br/>
+                    <strong>Home > Divvun Grammar Checker</strong></td>
+                  </tr>
+                </table>
+            </section>
+
+            <section>
+                <title>Slik bruker du GramDivvun</title>
+                <p>Velg språk, og klikk på <strong>Check</strong>.</p>
+
+                <p>Grammatikkontrollen må brukes på
+                nytt etter at man har endra på teksten, den oppfatter ikke at teksten endres. Dette
+                er en begrensning i Office og GDocs, og utenfor vår kontroll.</p>
+            </section>
 
         <section>
             <title>Nordsamisk grammatikkontroll</title>
 
-            <p>I den første <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/>-versjonen
+            <p>I denne versjonen
                prøver vi å finne og rette disse feilene:
             </p>
 
-            <ul>
+            <ol>
                 <li>tradisjonelle skrivefeil (=stavekontroll)</li>
                 <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
                 <li>feil ved tegnsetting:
@@ -44,37 +72,11 @@
                 </li>
                 <li>sammensatte ord skrevet hver for seg</li>
                 <li>ord skrevet sammen som skal skrives hver for seg</li>
-            </ul>
+                <li>ordformer med <strong>a</strong> og <strong>á</strong> i ulik kontekst
+                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
+                <li>stadievekslingsfeil (f.eks. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+            </ol>
 
-            <section>
-                <title>Google docs / GSuite <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Docs-icon.png"/></title>
-
-                <ul>
-                    <li>Installer via <a
-                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256">G
-                    Suite Marketplace</a></li>
-                    <li>Grammatikkontrollen finnes under menyen:
-                    <strong>Tillegg > Divvun Grammar Checker > Grammar check</strong></li>
-                    <li>Velg språk, og klikk på <strong>Run grammar check</strong></li>
-                </ul>
-            </section>
-
-            <section>
-                <title>Office365 <icon
-                    alt="OSX" height="27"
-                    src="images/office365-icon.png"/></title>
-
-                <ul>
-                    <li>Installer via <a
-                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview">Microsofts
-                    AppSource</a></li>
-                    <li>Grammatikkontrollen finnes under fliken:
-                    <strong>Home > Divvun Grammar Checker</strong></li>
-                    <li>Velg språk, og klikk på <strong>Run grammar check</strong></li>
-                </ul>
-            </section>
         </section>
 
         <section>
