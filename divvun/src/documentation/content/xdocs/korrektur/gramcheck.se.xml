@@ -4,18 +4,18 @@
 <document xml:lang="no">
     <header>
         <title>GramDivvun 1.0</title>
-        <meta name="description">samisk grammatikkontroll</meta>
+        <meta name="description">sámi grammatihkkadivvun</meta>
     </header>
     <body>
 
-        <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
+        <p>Stávenkontrolla ja grammatihkkadivvun ovtta reaiddus.</p>
 
-        <note label="11.2.2020">Den første grammatikkontrollen for samisk,
-            <em>GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
+        <note label="11.2.2020">Vuosttas sámi grammatihkkadivvun,
+            <em>GramDivvun 1.0</em>, lea dál almmuhuvvon. Dat doaibmá Google Docsas ja Microsoft Offices.
         </note>
 
             <section>
-                <title>Installering</title>
+                <title>Installeren</title>
 
                 <table>
                   <tr>
@@ -34,57 +34,55 @@
                     src="images/office365-icon.png"/></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatikkontrollen finnes under menyen:<br/>
+                    <td>Grammatihkkadivvun lea fálus:<br/>
                     <strong>Tillegg > Divvun Grammar<br/>
                     Checker > Grammar check</strong></td>
-                    <td>Grammatikkontrollen finnes under fliken:<br/>
+                    <td>Grammatihkkadivvun gávdno tábbas:<br/>
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
             </section>
 
             <section>
-                <title>Slik bruker du GramDivvun</title>
-                <p>Velg språk, og klikk på <strong>Check</strong>.</p>
+                <title>Ná GramDivvun adno</title>
+                <p>Vállje giela, ja deaddil <strong>Check</strong>.</p>
 
-                <p>Grammatikkontrollen må brukes på
-                nytt etter at man har endra på teksten, den oppfatter ikke at teksten endres. Dette
-                er en begrensning i Office og GDocs, og utenfor vår kontroll.</p>
+                <p>Grammatihkkadivvuma ferte gohččut ođđasis geahččat
+                go lea rievdadan teavstta, dat ii oainne go teaksta rievdaduvvo. Dát lea váili Offices og GDocsas, ja mii eat veaje maide dasa.</p>
             </section>
 
         <section>
-            <title>Nordsamisk grammatikkontroll</title>
+            <title>Davvisámi grammatihkkadivvun</title>
 
-            <p>I denne versjonen
-               prøver vi å finne og rette disse feilene:
+            <p>Dán veršuvnnas
+               mii geahččalit gávdnat dákkár meattáhusaid:
             </p>
 
             <ol>
-                <li>tradisjonelle skrivefeil (=stavekontroll)</li>
-                <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
-                <li>feil ved tegnsetting:
+                <li>dábálaš čállinmeattáhusaid (=stávenkontrolla)</li>
+                <!--li>muhtin meattáhusaid mat orrot leahkime njuolga čállojuvvon</li-->
+                <li>gaskkaid:
                     <ul>
-                        <li>manglende mellomrom før og etter parentes</li>
-                        <li>mellomrom inne i parentes, men før og etter teksten</li>
-                        <li>manglende mellomrom etter komma, utropstegn m.m.</li>
-                        <li>for mange mellomrom</li>
+                        <li>váilevaš gaskkaid ruođuid ovddas ja maŋis</li>
+                        <li>gaskkaid ruođuid siste, muhte teavstta ovddas dehe maŋis</li>
+                        <li>váilevaš gaskkaid rihkuid maŋis, čuorvvasmearkkaid maŋis jna.</li>
+                        <li>ilá ollu gaskkaid</li>
                     </ul>
                 </li>
-                <li>sammensatte ord skrevet hver for seg</li>
-                <li>ord skrevet sammen som skal skrives hver for seg</li>
-                <li>ordformer med <strong>a</strong> og <strong>á</strong> i ulik kontekst
-                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>stadievekslingsfeil (f.eks. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li>goallossániid mat eai leat goallostuvvon</li>
+                <li>sániid mat leat goallostuvvon muhte eai galggale</li>
+                <li>sátnehámiid, main lea <strong>a</strong> ja <strong>á</strong> boasttukonteavsttas
+                   (omd. <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
+                <li>dássemolsunmeattáhusaid (omd. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
-            <title>Andre samiske språk</title>
-            <p>De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
-            i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
-            fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
-            mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
+            <title>Iežá sámegielat</title>
+            <p>Dat iežá sámegielat, mátta-, julevu-, anár- ja nuortalašsápmi, leat maid mielde
+            GramDivvumis, muhte dáin lea dušše stávenkontrolla. Lea lihkká ávki,
+            danin go de manná atnit stávenkontrolla oktavuođain main ii leat leamašan vejolaš ovdal, dugo dál Chromebookas, dehe Office365 neahttaveršuvnnas.</p>
         </section>
 
     </body>
