@@ -42,21 +42,21 @@ The word "oainnahallot" is not used correctly in this context. Instead it should
 Dat ferte oainnahallot ovdal go sáhttit báhčit dan, lohká son.
 
 
-!! case error in the first part of the compound
-
-Compounds can have either nominative or genitive case in their first word. Some compounds, such as compounds with "biire" should have genitive case in their first word. The grammar checker marks "biireduopmár" as an error and suggests "biirreduopmár" instead.
-
-
-* &msyn-wrong-case-biirre
-* &msyn-wrong-case-bismma
-* &msyn-wrong-case-bismmá
-* &msyn-wrong-case-fylkka
-* &msyn-wrong-case-gieldda
-* &msyn-wrong-case-gili
-* &msyn-wrong-case-guovllu
-* &msyn-wrong-case-leana
-* &msyn-wrong-case-riikka
-* &msyn-wrong-case-stivrra
+%!! case error in the first part of the compound
+%
+%Compounds can have either nominative or genitive case in their first word. Some compounds, such as compounds with "biire" should have genitive case in their first word. The grammar checker marks "biireduopmár" as an error and suggests "biirreduopmár" instead.
+%
+%
+%* &msyn-wrong-case-biirre
+%* &msyn-wrong-case-bismma
+%* &msyn-wrong-case-bismmá
+%* &msyn-wrong-case-fylkka
+%* &msyn-wrong-case-gieldda
+%* &msyn-wrong-case-gili
+%* &msyn-wrong-case-guovllu
+%* &msyn-wrong-case-leana
+%* &msyn-wrong-case-riikka
+%* &msyn-wrong-case-stivrra
 
 !! compound errors &msyn-compound
 
@@ -150,6 +150,10 @@ Bonju dán! Lassin.
 ! &punct-end
 
 ! &space-after-paren-beg
+
+Sámediggeáirras Randi A. Skum {( NSR )} jearrá dasto odne gažaldagaid sámediggeráđđái ahte máid lea Sámediggeráđđi dássážii bargan čoavdindihti divatgažaldaga boazodoalus ja makkár strategiija lea Sámediggeráđis {ovddasguvlui} oažžun 	dihti 	vuoiggalaš divatortnega boazodollui .
+
+Sámediggeáirras Randi A. Skum (NSR) jearrá dasto odne gažaldagaid sámediggeráđđái ahte máid lea Sámediggeráđđi dássážii bargan čoavdindihti divatgažaldaga boazodoalus ja makkár strategiija lea Sámediggeráđis {ovddasguvlui} oažžun 	dihti 	vuoiggalaš divatortnega boazodollui .
 
 ! &space-before-paren-end
 
