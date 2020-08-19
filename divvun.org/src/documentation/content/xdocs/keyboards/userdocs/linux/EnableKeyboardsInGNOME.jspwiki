@@ -1,0 +1,19 @@
+To add to or replace the preselected keyboard layout in GNOME, follow these
+steps:
+
+# Click __Activities__ to bring up the search box:\\
+  [images/gnome_1_activity_view-en.png]
+# Search for __Region & Language__, and click on it when listed:\\
+  [images/gnome_2_search_reglang-en.png]
+# In the __Region & Language__ settings pane, click on the plus sign in the
+  lower left corner of the __Input Sources__ field:\\
+  [images/gnome_3_reg_lang_pane-en.png]
+# Click the triple dots to show more languages:\\
+  [images/gnome_4_add_input-en.png]
+# Find and select your keyboard layout, and click __Add__:\\
+  [images/gnome_5_select_sme-en.png]
+# Click on __Options__ to see the configured shortcuts:\\
+  [images/gnome_6_keyboard_shortcuts-en.png]
+# When done, you can easily switch keyboards via the keyboard menu (or by using
+  the keyboard shortcut):\\
+  [images/gnome_7_keyboard_menu-en.png]

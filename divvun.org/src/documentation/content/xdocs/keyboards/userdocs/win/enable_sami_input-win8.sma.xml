@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sma">
+    <header>
+        <title>Noerhtesaemiengïele gïeline Windows 8:isnie</title>
+    </header>
+    <body>
+        <section>
+            <title>Windows 8 gosse edtjh noerhtesaemiengïelesne tjaeledh</title>
+
+            <p> Vuesiehtibie guktie noerhtesaemiengïelem tjaelemegïeline bïejh. Gosse lea veeljeme noerhtesaemien 
+            tjaelemegïeline, dellie staeriedimmieprogramme noerhtesaemiengïelesne automatihke-laakan staerede gosse lea Divvun-dïrregidie sijjiedahteme. 
+            </p>
+
+            <ol>
+                <li>Mïnnh <strong>Start</strong>,tjaelieh
+                <strong>reeremejarnge</strong>, rïhpesth
+                <strong>reeremejarngem</strong>
+                <p><img src="images/win8_start_no.png" alt="Startmeny" /></p>
+                </li>
+                <li>mïnnh <strong>Tsåahka, gïele, dajve</strong>. Veeljh
+                <strong>Lissehth aktem gïelem</strong>.
+                <p><img src="images/win8_kontrollpanel_no.png"
+                alt="Kontrollpanel"/></p>
+                </li>
+                <li>Diedtieh <strong>Lïssehth aktem gïelem</strong>.
+                <p><img src="images/win8_sprak_no.png" alt="Språk" /></p>
+                </li>
+                <li>Veeljh <strong>Noerhtesaemien</strong>, Diedtieh
+                <strong>Rïhpesth</strong>
+                <p><img src="images/win8_legg_til_sprak_sme_no.png"
+                alt="Legg til språk"/></p>
+                </li>
+                <li>Veeljh<strong>Noerhtesaemien</strong>. Diedtieh<strong>Lïssehth</strong>.
+                <p><img src="images/win8_regionale_varianter_sme_no.png"
+                alt="Regionale varianter"/></p>
+                </li>
+                <li>Åelkiesbielesne<em>Tasturoppsett:+daaroengïele+saemiengïeline</em>
+                Diedtieh <strong>Alternativer</strong>
+                <p><img src="images/win8_sprak_sme_alternativer_no.png"
+                alt="Språk etter å ha valgt nordsamisk"/></p>
+                </li>
+                <li>Veeljh<strong>Lïssehth dle tjaelemegïelemetovdem</strong>
+                <p>
+                <img src="images/win8_sprakalternativer_sme_no.png"
+                alt="Språkalternativer"/>
+                </p>
+                </li>
+                <li>Veeljh<strong>Saemien, vijriedovveme Nöörje </strong>. Diedtieh
+                <strong>Lïssehth</strong>
+                <p>
+                <img src="images/win8_inndatametode_sme_no.png"
+                alt="Inndatametode"/>
+                </p>
+                </li>
+                <li>Åelkiesbielesne <em>Daaroen gusnie saemiengïele</em>: Diedtieh
+                <strong>Sliejhtieh</strong>
+                <p>
+                <img src="images/win8_sprak_fjern_norsk_med_samisk_sme_no.png"
+                alt="Språkalternativer: Fjern norsk med samisk"/>
+                </p>
+                </li>
+                <li>Dov leah dellie<strong>davvisámegiella (Nöörje)</strong>gïeline mesnie <strong>Saemien, Vijriedovveme Nöörje</strong>.
+                <p>
+                <img src="images/win8_sprak_ferdig_sme_no.png"
+                alt="Språk med nordsamisk ferdigvalgt"/>
+                </p>
+                </li>
+            </ol>
+        </section>
+    </body>
+</document>

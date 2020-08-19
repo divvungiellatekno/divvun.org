@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="sma">
+    <header>
+        <title>Åarjelsaemiengïele tjaelemegïeline Windows 7:sne</title>
+    </header>
+    <body>
+        <section>
+            <title>Innstillinger Windows 7:sne gosse åarjelsaemien
+            tjaeledh</title>
+
+            <p>Vuesiehtibie guktie åarjelsaemiengïelem tjaelemegïeline bïejedh.
+            Gosse veeljh åarjelsaemiengïelem tjaelemegïeline, dellie
+            staeriedimmiedïrrege dam åarjelsaemiengïelem staerede jis leah
+            Divvun-dïrregidie sijjiedahteme.</p>
+
+            <ol>
+                <li>Mïnnh <strong>Start</strong>, veeljh
+                <strong>Kontrollepaneelem</strong>
+                <p><img src="images/win7_start_sv.png" alt="Startmeny" /></p>
+                </li>
+
+                <li>Veeljh <strong>Jeatjahtehth båaloebuertiem - jallh jeatjah
+                inndatametovdh</strong> kontrollepaneelem.
+                <p><img src="images/win7_kontrollpanel_sv.png"
+                alt="Kontrollpanel"/></p>
+                </li>
+
+                <li>Dialååge "Dajve jïh gïele" jæjhta. Veeljh<strong>Jeatjahtehth
+                båaloebuertieh...</strong>.
+                <p><img src="images/win7_region_og_sprak_sv.png"
+                alt="Region og språk" /></p>
+                </li>
+
+                <li>Dialååge <strong>Teksteviehkie jïh tjaelemegïele</strong>
+                jæjhta. Veeljh <strong>Lissehth...</strong>.
+                <p><img src="images/win7_teksttjenester_og_inndatasprak_sv.png"
+                alt="Teksttjenester og inndataspråk"/></p>
+                </li>
+
+                <li>Dialååge <strong>Bïejh tjaelemegïelem</strong> jæjhta.
+                Mïnnh dle "åarjelsaemiengïelese" (Nöörje). Veeljh <strong>Norsk
+                med samisk</strong>.
+                <p><img src="images/win7_legg_til_inndatasprak_sma_sv.png"
+                alt="Legg til inndataspråk"/>. Diedtieh dan mænngan
+                <strong>OK</strong>.</p>
+                </li>
+
+                <li>Dialååge<strong>Teksteviehkie jïh tjaelemegïele</strong>
+                vuesehte<strong>Åarjelsaemien (Nöörje)</strong> lissine
+                daaroengïelese.
+                <p><img
+                src="images/win7_teksttjenester_og_inndatasprak_sma_sv.png"
+                alt="Teksttjenester og inndataspråk etter å ha valgt sørsamisk"
+                />.</p>
+                </li>
+
+                <li>Diedtieh dan mænngan <strong>OK</strong>-båaloem mij lea
+                gaajhkine dialåågine.</li>
+            </ol>
+        </section>
+    </body>
+</document>

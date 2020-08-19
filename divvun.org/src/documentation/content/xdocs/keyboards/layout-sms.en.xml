@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Keyboard layout for Skolt Sámi</title>
+    </header>
+    <body>
+        <p>Sámi letters are marked with an
+        <em class="samikey">orange background</em>.
+        The keys with Sámi letters have their original letter available
+        via AltGr: press AltGr + the sámi letter to get the letter
+        that has been replaced with a Sámi one.</p>
+
+        <p>Example: to type a Finnish <code>Ö</code>, press
+        <code>AltGr + Õ</code>.</p>
+
+        <p>Some non-Sámi letters have also been moved to get a more logical
+        layout. These are marked with a <em class="nonsamikey">blue background
+        colour</em>.</p>
+
+        <p>All other letters and symbols are placed as on the Finnish
+        keyboard.</p>
+
+        <section>
+            <title>Skolt Sámi (Windows &amp; macOS)</title>
+
+            <p>
+                <img alt="layout for Inari Sámi" src="images/sms-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>

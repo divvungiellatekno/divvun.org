@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Keyboard layouts for North Sámi</title>
+    </header>
+    <body>
+        <p>Sámi letters are marked with an
+        <em class="samikey">orange background</em>.
+        The keys with Sámi letters have their original letter available
+        via AltGr: press AltGr + the sámi letter to get the letter
+        that has been replaced with a Sámi one.</p>
+
+        <p>Example: to type the letter <code>X</code>, press
+        <code>AltGr + Č</code>.</p>
+
+        <p>All other letters and symbols are placed as on the Norwegian
+        keyboard.</p>
+
+        <p>Please note that the North Sámi letter <code>Ŧ</code>  is available
+        via <code>AltGr + T</code>.</p>
+
+        <section>
+            <title>North Sámi, Norway (Windows)</title>
+
+            <p>
+                <img alt="layout for norsk sma for Windows" src="images/sme_NO-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>North Sámi, Norway (macOS)</title>
+            <p>
+                <img alt="layout for norsk sma for mac"  src="images/sme_NO-mac-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>North Sámi, Finland &amp; Sweden (Windows)</title>
+
+            <p>
+                <img alt="layout för norsk sma på Windows" src="images/sme_FI-SE-win-layout.png"/>
+            </p>
+        </section>
+
+        <section>
+            <title>North Sámi, Finland &amp; Sweden (macOS)</title>
+            <p>
+                <img alt="layout för norsk sma på mac"  src="images/sme_FI-SE-mac-layout.png"/>
+            </p>
+        </section>
+
+    </body>
+</document>
