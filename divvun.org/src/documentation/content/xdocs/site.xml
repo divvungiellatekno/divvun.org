@@ -40,8 +40,9 @@ See http://forrest.apache.org/docs/linking.html for more info
   xmlns="http://apache.org/forrest/linkmap/1.0"
   xmlns:xi="http://www.w3.org/2001/XInclude"
   >
-  <about label="About">
+  <about label="About" tab="home">
     <index label="Index" href="index.html" description="Welcome to Divvun.org"/>
+    <privacy label="Privacy declaration" href="privacy.html" description="Privacy declaration"/>
   </about>
 
     <korrektur tab="Proofing" href="proofing/" label="Proofing">
@@ -137,6 +138,16 @@ See http://forrest.apache.org/docs/linking.html for more info
         </devs>
 
     </korrektur>
+
+    <keyboards href="keyboards/" tab="keyboards" label="Keyboards">
+        <index href="index.html" label="Keyboards"/>
+        <pcindex href="desktopindex.html" label="Computer keyboards"/>
+        <mobile href="">
+          <mobindex href="mobileindex.html"  label="Mobile keyboards"/>
+          <iOSinstal href="installation_ios.html" label="iOS installation"/>
+          <Androidinstal href="installation_android.html" label="Android installation"/>
+        </mobile>
+    </keyboards>
 
     <dicts href="dicts/" tab="Dicts" label="Dictionaries">
         <index href="dicts.html" label="Dictionaries"/>

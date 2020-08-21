@@ -10,24 +10,19 @@
       <section>
          <title>Third-party dependencies</title>
 
-      <p>The extensions are built using <a
-      href="http://hfst.sourceforge.net">HFST</a> — specifically
-      <code>hfst-ospell</code> (<a
-      href="https://sourceforge.net/projects/hfst/files/hfst/">source code</a>)
-      — and <a href="http://voikko.puimula.org">Voikko</a>, specifically the
+      <p>The spellers are built using <a
+      href="https://github.com/hfst">HFST</a>, <code>divvunspell</code> (<a
+      href="https://github.com/divvun/divvunspell">source code</a>)
+      and  a number of other packages in the
+      <a href="https://github.com/divvun">Divvun GitHub repos</a>. Some parts
+      also depend on <a href="http://voikko.puimula.org">Voikko</a>, especially
       <strong>LibreOffice-voikko</strong> extension (<a
-      href="http://voikko.puimula.org/sources.html">source code</a>). The exact
-      list of libraries and their versions used for the released spellers can
-      be found on <a
-      href="https://giellalt.uit.no/infra/LibreOfficeVoikkoLibraries.html">a
-      separate page</a>.</p>
+      href="http://voikko.puimula.org/sources.html">source code</a>).</p>
 
       <p>The spellers here are a direct application of the normative fst used as
       a spelling checker (in combination with an error model to create
-      suggestions). This is work in progress, and there are several open issues
-      still to be worked out. Although the available spellers and extensions
-      should work fine for the specified LibreOffice versions, please bear with
-      us and report any issues you find to
+      suggestions). There is always room for improvements, so please
+      report any issues you find to
       <a href="mailto:feedback@divvun.no">feedback@divvun.no</a></p>
 
       </section>
@@ -36,7 +31,9 @@
          <title>Source code access</title>
 
          <p>The source code repository for each language is found behind the
-         links after each download link, and instructions for how to build each
+         links after each download link (and in general
+         <a href="https://github.com/giellalt">here</a>), and instructions for
+         how to build each
          language can be found by following the instructions <a
          href="https://giellalt.uit.no/infra/GettingStartedOnLinux.html"
          >here.</a></p>

@@ -21,8 +21,12 @@
 
 
       <section>
-         <title>Spelling checkers for Microsoft Office (Windows only, Mac forthcoming)</title>
-<p>Installation: If installation does not start automatically, click on the .exe file in your download folder.</p>
+         <title>Spelling checkers for Microsoft Office (Windows only for now)</title>
+         <p><strong>Installation:</strong></p>
+         <ul>
+	         <li><strong>Divvun Installer:</strong> Run it, then select the language(s) you want and click "Install"</li>
+	         <li><strong>Nightly builds:</strong> If installation does not start automatically, click on the .exe file in your download folder</li>
+         </ul>
          <table>
          <tr>
            <th colspan="2">Download installer for:   </th><!-- Several of nbsp to force a larger width of the column - leave as is -->
@@ -39,7 +43,7 @@
            <td>Nightly build</td>
            <td><a href="https://giellalt.uit.no/lang/cor/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
+               <a href="https://github.com/giellalt/lang-cor.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -53,21 +57,20 @@
            <td>Nightly build</td>
            <td><a href="https://giellalt.uit.no/lang/est/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
+               <a href="https://github.com/giellalt/lang-est.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-fao-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.0_windows.exe">
                Faroese
-               <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>1.0 (Divvun Installer 2)</td>
            <td><a href="https://giellalt.uit.no/lang/fao/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
+               <a href="https://github.com/giellalt/lang-fao.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -80,20 +83,20 @@
            <td>Nightly build</td>
            <td><a href="https://giellalt.uit.no/lang/kal/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <a href="https://github.com/giellalt/lang-kal.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smn-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
                Inari Saami
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>1.0 (Divvun Installer 1)</td>
            <td><a href="https://giellalt.uit.no/lang/smn/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
+               <a href="https://github.com/giellalt/lang-smn.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -107,7 +110,7 @@
            <td>Nightly build</td>
            <td><a href="https://giellalt.uit.no/startup-lang/gle/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+               <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -121,64 +124,64 @@
            <td>Nightly build</td>
            <td><a href="https://giellalt.uit.no/lang/olo/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
+               <a href="https://github.com/giellalt/lang-olo.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-smj-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
                Lule Saami
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>4.2.0 (Divvun Installer 1)</td>
            <td><a href="https://giellalt.uit.no/lang/smj/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/smj">source code</a>.
+               <a href="https://github.com/giellalt/lang-smj.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sme-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
                North Saami
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>4.2.0 (Divvun Installer 1)</td>
            <td><a href="https://giellalt.uit.no/lang/sme/j-sme.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sme">source code</a>.
+               <a href="https://github.com/giellalt/lang-sme.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sms-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
                Skolt Saami
                <img src="images/Beta-Stamp.png" alt="BETA" height="20"/>
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>0.1.0 (Divvun Installer 1, nightly channel)</td>
            <td><a href="https://giellalt.uit.no/lang/sms/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sms">source code</a>.
+               <a href="https://github.com/giellalt/lang-sms.git">source code</a>.
             </td>
          </tr>
          <tr>
            <td>
-               <a href="http://apertium.projectjj.com/spellers/nightly/Divvun-sma-latest.exe">
+               <a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
                South Saami
                </a>
            </td>
            <td> </td>
-           <td>Nightly build</td>
+           <td>4.2.0 (Divvun Installer 1)</td>
            <td><a href="https://giellalt.uit.no/lang/sma/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/sma">source code</a>.
+               <a href="https://github.com/giellalt/lang-sma.git">source code</a>.
             </td>
          </tr>
        </table>
-       <p>An overview of <em>how old the latest version is</em>, as well as of more available languages, can be found <a href="http://apertium.projectjj.com/spellers/nightly/">here</a></p>
+       <p>An overview of <em>how old the nightly versions are</em>, as well as spellers for more languages, can be found <a href="http://apertium.projectjj.com/spellers/nightly/">here</a>.</p>
       </section>
 
       <section>
@@ -207,7 +210,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/bxr/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/bxr">source code</a>.
+           <a href="https://github.com/giellalt/lang-bxr.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -221,7 +224,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/cor/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/cor">source code</a>.
+           <a href="https://github.com/giellalt/lang-cor.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -235,7 +238,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/myv/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/myv">source code</a>.
+           <a href="https://github.com/giellalt/lang-myv.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -249,7 +252,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/est/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/est">source code</a>.
+           <a href="https://github.com/giellalt/lang-est.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -263,7 +266,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/fao/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/fao">source code</a>.
+           <a href="https://github.com/giellalt/lang-fao.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -276,7 +279,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/fin/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/fin">source code</a>.
+               <a href="https://github.com/giellalt/lang-fin.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -289,7 +292,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/kal/WhatIsThis.html">README</a>
                and
-               <a href="https://gtsvn.uit.no/langtech/trunk/langs/kal">source code</a>.
+               <a href="https://github.com/giellalt/lang-kal.git">source code</a>.
             </td>
          </tr>
          <tr>
@@ -303,7 +306,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/gle/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle">source code</a>.
+           <a href="https://gtsvn.uit.no/langtech/trunk/startup-langs/gle.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -317,7 +320,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/kom/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/kpv">source code</a>.
+           <a href="https://github.com/giellalt/lang-kpv.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -331,7 +334,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/fkv/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/fkv">source code</a>.
+           <a href="https://github.com/giellalt/lang-fkv.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -345,7 +348,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/olo/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/olo">source code</a>.
+           <a href="https://github.com/giellalt/lang-olo.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -359,7 +362,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/mns/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mns">source code</a>.
+           <a href="https://github.com/giellalt/lang-mns.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -373,7 +376,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/mhr/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mhr">source code</a>.
+           <a href="https://github.com/giellalt/lang-mhr.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -387,7 +390,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/mrj/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mrj">source code</a>.
+           <a href="https://github.com/giellalt/lang-mrj.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -401,7 +404,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/mdf/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/mdf">source code</a>.
+           <a href="https://github.com/giellalt/lang-mdf.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -413,7 +416,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/smn/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/smn">source code</a>.
+           <a href="https://github.com/giellalt/lang-smn.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -427,7 +430,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/sje/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/sje">source code</a>.
+           <a href="https://github.com/giellalt/lang-sje.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -441,7 +444,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/udm/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/udm">source code</a>.
+           <a href="https://github.com/giellalt/lang-udm.git">source code</a>.
            </td>
          </tr>
          <tr>
@@ -455,7 +458,7 @@
            <td>N/A </td>
            <td><a href="https://giellalt.uit.no/lang/vro/WhatIsThis.html">README</a>
                and
-           <a href="https://gtsvn.uit.no/langtech/trunk/langs/vro">source code</a>.
+           <a href="https://github.com/giellalt/lang-vro.git">source code</a>.
            </td>
          </tr>
          </table>

@@ -7,63 +7,9 @@
    </header>
    <body>
         <section>
-            <title>Multiple languages</title>
+            <title>Sysadmin / CLI installations</title>
 
-            <p>When installing the spellers listed on the other tabs, you get
-            one language as part of the installation. For now, you can't install
-            more than one such speller at a time. If you want to install
-            additional languages, follow the instructions below.</p>
-
-            <ol>
-              <li>Download zhfst files
-                <table>
-                <tr>
-                  <th>Download language: </th>
-                  <th>Version: </th>
-                  <th>Documentation and source code:</th>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/fi.zhfst">Finnish</a></td>
-                  <td>N/A </td>
-                  <td><a href="https://giellalt.uit.no/lang/fin/j-fin.html">Finnish project documentation</a>
-                      and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/fin">source code</a>.
-                   </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/kl.zhfst">Greenlandic</a></td>
-                  <td>N/A </td>
-                  <td><a href="https://giellalt.uit.no/lang/kal/index.html">Greenlandic project documentation</a>
-                      and
-                      <a href="https://victorio.uit.no/langtech/trunk/langs/kal">source code</a>.
-                   </td>
-                </tr>
-                <tr>
-                  <td><a href="http://divvun.no/static_files/zhfsts/fkv.zhfst">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></td>
-                  <td>N/A </td>
-                  <td><a href="https://giellalt.uit.no/lang/fkv/KvenDocumentation.html">Kven project documentation</a>
-                      and
-                  <a href="https://victorio.uit.no/langtech/trunk/langs/fkv">source code</a>.
-                  </td>
-                </tr>
-                </table>
-              </li>
-              <li>Move the downloaded zhfst file(s) to one of the directories
-                  searched by the spellers:
-                  <ul>
-                    <li>Windows: no fixed location, see link below</li>
-                    <li>OSX: <code>$HOME/Library/Spelling/voikko/3</code></li>
-                    <li>Linux: <code>$HOME/.voikko/3</code></li>
-                  </ul>
-                  More possible locations are listed <a
-                  href="https://github.com/voikko/corevoikko/blob/master/libvoikko/README"
-                  >here</a>, look for the heading «Search order for dictionary
-                  files». Remember to always put the <code>.zhfst</code> files
-                  in a directory named «3» within those directories mentioned on
-                  that page.
-              </li>
-              <li>Log out and log back in</li>
-            </ol>
+            <p>To be written.</p>
 
         </section>
 
@@ -80,10 +26,14 @@
                 to make sure you have all tools required to build your own
                 speller.</li>
 
+            <li>Create a folder to store all packages in, e.g. <tt>langtech/</tt>.</li>
+
             <li>Download the <a
-                href="https://sourceforge.net/projects/apertium/files/giella-core/
-                ">giella core tarball</a>, which contains prerequisites for all
-                languages. After the download, unpack and do the following:
+                href="https://github.com/giellalt/giella-core">giella core
+                tarball</a> (use the green <strong>Code</strong> button, then
+                select <strong>Download Zip</strong>), which contains prerequisites
+                for all languages. After the download, unpack it in the dir you
+                made above, and do the following:
                 <source>
 cd giella-core
 ./configure
@@ -91,14 +41,18 @@ make
 sudo make install</source>
             </li>
 
+            <li>Do the same for <a
+                href="https://github.com/giellalt/giella-shared">giella
+                shared</a>.</li>
+
             <li>Download the language source code tarball for your language:
                 <ul>
-                  <li><a href="http://divvun.no/static_files/tarballs/fin.tgz">Finnish</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/kal.tgz">Greenlandic</a></li>
-                  <li><a href="http://divvun.no/static_files/tarballs/fkv.tgz">Kven<img src="images/Beta-Stamp.png" height="30" alt="BETA"/></a></li>
+                  <li><a href="https://github.com/giellalt/lang-fin">Finnish</a></li>
+                  <li><a href="https://github.com/giellalt/lang-kal">Greenlandic</a></li>
+                  <li><a href="https://github.com/giellalt/lang-sme">North Sámi</a></li>
                 </ul>
             </li>
-            <li>Unpack and run the following commands:
+            <li>Unpack in the same dir as above, and run the following commands:
                 <source>
 cd YOURLANGUAGE
 ./configure --with-hfst --enable-spellers
@@ -109,6 +63,11 @@ sudo make install</source>
 
             </li>
          </ol>
+
+         <p>There are more than hundred other languages available for download
+           at <a href="https://github.com/giellalt/">github.com/giellalt</a>,
+           from production quality languages to tiny experiments.
+         </p>
 
       </section>
    </body>

@@ -30,7 +30,7 @@
    Tabs can be embedded to a depth of two. The second level of tabs will only 
     be displayed when their parent tab is selected.    
   -->
-  <tab id="" label="Divvun.org" dir="" indexfile="index.html">
+  <tab id="home" label="Divvun.org" dir="" indexfile="index.html">
       <tab id="about" label="About Divvun.org" dir="" indexfile="index.html" />
       <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
   </tab>
@@ -41,10 +41,10 @@
         <tab dir="proofing" id="OtherApps"  label="Other installations" indexfile="otherapps.html" />
         <tab dir="proofing" id="DevInfo"    label="Developer info"    indexfile="devinfo.html"  />
   </tab>
-  <!--tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
-        <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="index.html"  />
-        <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobile.html" />
-  </tab-->
+  <tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
+        <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="desktopindex.html"  />
+        <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobileindex.html" />
+  </tab>
   <tab dir="dicts/"     id="Dicts"     label="Dictionaries"     indexfile="dicts.html"    />
 
 <!-- Add new tabs here, eg:
