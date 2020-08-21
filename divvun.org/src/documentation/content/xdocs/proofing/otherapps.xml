@@ -26,7 +26,7 @@
                 to make sure you have all tools required to build your own
                 speller.</li>
 
-            <li>Create a folder to store all packages in, e.g. <tt>langtech/</tt>.</li>
+            <li>Create a folder to store all packages in, e.g. <code>langtech/</code>.</li>
 
             <li>Download the <a
                 href="https://github.com/giellalt/giella-core">giella core
