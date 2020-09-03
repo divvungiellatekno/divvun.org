@@ -8,7 +8,7 @@
     </header>
     <body>
 
-        <note label="UUTUUS! 11.2.2020">Pohjoissaamen ensimmäinen kielioppitarkistin, 
+        <note label="UUTUUS! 11.2.2020">Pohjoissaamen ensimmäinen kielioppitarkistin,
             GramDivvun, on nyt julkaistu versiossa 1.0.
             GramDivvun toimii Google Docs:ssa ja MS Office:ssa.
             <br/>
@@ -30,7 +30,7 @@
           </ul>
           <strong>Lataa</strong> Divvun Installer:
           <ul class="row nobullet">
-            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.exe">
+            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-2.0.0.exe">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
               <strong>Windows:lle</strong></a></li>
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
