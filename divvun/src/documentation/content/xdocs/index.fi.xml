@@ -33,7 +33,7 @@
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.2_windows.exe">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
               <strong>Windows:lle</strong></a></li>
-            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer-1.0.1.pkg">
+            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
               <strong>macOS:lle</strong></a></li>
           </ul>
