@@ -18,7 +18,7 @@
       <section>
         <title>Installer det meste med ett klikk!</title>
         <ul class="row nobullet">
-           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling" alt="DivvunInstaller"/></li>
+           <li class="col-sm-4"><img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager"/></li>
          <li class="col-sm-8">
           <em>En</em> nedlasting, deretter: installer, kjør &amp; og velg språk
           — resten blir gjort automatisk, inkl. det å holde verktøya oppdaterte. Installereren gir deg:

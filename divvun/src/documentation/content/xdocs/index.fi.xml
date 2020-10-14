@@ -18,7 +18,7 @@
       <section>
         <title>Hanki suurin osa kirjoitustyökaluista yhdestä paikasta!</title>
         <ul class="row nobullet">
-           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling" alt="DivvunInstall"/></li>
+           <li class="col-sm-4"><img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager"/></li>
          <li class="col-sm-8">
           <em>Yksi</em> lataus, sitten: asenna, suorita ja valitse kieli
           — muut käsitellään automaattisesti, myös työkalujen pitäminen ajan tasalla. Sisältää:
