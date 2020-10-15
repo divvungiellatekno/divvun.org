@@ -13,7 +13,7 @@
       <section>
         <title>Get most writing tools in one place!</title>
         <ul class="row nobullet">
-           <li class="col-sm-4"><img src="images/DivvunInstallerIcon.png" class="scaling" alt="DivvunInstaller"/></li>
+           <li class="col-sm-4"><img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager"/></li>
          <li class="col-sm-8">
           <em>One</em> download, then: install, run &amp; select language
           — the rest is handled automatically, including keeping the tools up-to-date. It contains:
@@ -23,9 +23,9 @@
             <li>Spellers for MS Office (Windows only for now)</li>
             <!--li>Spellers for LibreOffice</li-->
           </ul>
-          <strong>Download Divvun Installer 2.0</strong> for:
+          <strong>Download Divvun Manager 2.0</strong> for:
           <ul class="row nobullet">
-            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.2_windows.exe">
+            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.0_windows.exe">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
               <strong>Windows</strong></a></li>
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg">
