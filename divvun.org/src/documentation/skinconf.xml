@@ -61,6 +61,7 @@ which will be used to configure the chosen Forrest skin.
   <group-description>UiT The Arctic University of Norway</group-description>
   <group-url>http://uit.no/</group-url>
   <group-logo>images/UiT_Navn_sam_rod.png</group-logo>
+  <group-logo-height>150</group-logo-height>
 <!-- Alternative static image:
   <group-logo>images/group-logo.gif</group-logo> -->
 <!-- optional host logo (e.g. sourceforge logo)
@@ -123,22 +124,37 @@ which will be used to configure the chosen Forrest skin.
 	margin-bottom:-1px;
     border-radius:5px;
 }
-#level2tabs {
-    background-color: #e7e7e7;
-    margin-bottom: 20px;
-    margin-top:   -20px;
-    margin-left:   20px;
-    margin-right:  20px;
-    font-size:     80% ;
-}
 
-h3.h4 {
-    margin-left: 1em;
-}
-
-h3.h4 + table {
+h3.h4 ~ table {
     margin-left: 2em;
+}
+
+h3.h4 ~ p {
+    margin-left: 2em;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: bold;
+}
+
+table {
     margin-bottom: 1em;
+}
+
+#menu ul {
+    padding-left: 1em;
+}
+
+img.scaling {
+    width: 20vw;
+}
+
+th.halfwidth {
+    width: 50%;
+}
+
+ul.center {
+    text-align: center;
 }
 
 @media screen and (max-width:767px) {
@@ -150,6 +166,12 @@ h3.h4 + table {
     .nobullet {
         list-style: disc;
     }
+}
+.samikey {
+    background-color: #D0B24D ;
+}
+.nonsamikey {
+    background-color: #7098D0 ;
 }
 
 #content {
