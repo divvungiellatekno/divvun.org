@@ -27,108 +27,8 @@
             </tr>
             <tr>
             <td>
-            <ul>
-              <li>North Sámi keyboards:
-                <ul>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.2.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 8, 10
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/win/North_Sami_Keyboard_1.0.2.win7.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 7
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>Julev Sámi keyboards:
-                <ul>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.2.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 8, 10
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/win/Lule_Sami_Keyboards_1.0.2.win7.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 7
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>South Sámi keyboards:
-                <ul>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.3.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 8, 10
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/win/Southern_Sami_Keyboards_1.0.3.win7.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 7
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>Inari Sámi keyboard:
-                <ul>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/win/Inari_Sami_Keyboards_1.0.1.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 8, 10
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/win/Inari_Sami_Keyboards_1.0.1.win7.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 7
-                    </a>
-                  </li>
-                </ul>
-              </li>
-              <li>Skolt Sámi keyboard:
-                <ul>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_1.0.0.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 8, 10
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/win/Skolt_Sami_Keyboards_1.0.0.win7.exe"
-                    ><icon alt="Download" height="36" width="36"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Windows 7
-                    </a>
-                  </li>
-                </ul>
-              </li>
-            </ul></td>
+                Download the <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.0_windows.exe"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install keyboards from it.
+            </td>
             <td>
             <ul>
               <li><a href="layout-sme.html">
@@ -170,43 +70,8 @@
             </tr>
             <tr>
             <td>
-            <ul>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sme/macos/North%20Sami%20Keyboard%201.0.2.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    North Sámi keyboards
-                    </a>
-              </li>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smj/macos/Lule%20Sami%20Keyboards%201.0.2.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi keyboards
-                    </a>
-              </li>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sma/macos/Southern%20Sami%20Keyboards%201.0.1.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi keyboards
-                    </a>
-              </li>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/smn/macos/Inari%20Sami%20Keyboards%201.0.2.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Inari Sámi keyboard
-                    </a>
-              </li>
-              <li><a
-                    href="https://gtsvn.uit.no/langtech/trunk/keyboards/sms/macos/Skolt%20Sami%20Keyboards%201.0.0.pkg"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Skolt Sámi keyboard
-                    </a>
-              </li>
-            </ul></td>
+                Download the <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install keyboards from it.
+            </td>
             <td>
             <ul>
               <li><a href="layout-sme.html">

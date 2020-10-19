@@ -24,26 +24,9 @@
                 <table>
                 <tr>
                 <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sme-latest.exe"
-                    ><icon alt="Veedtjelh" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Noerhtesaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-smj-latest.exe"
-                    ><icon alt="Veedtjelh" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julevsaemien</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/msis/Divvun-sma-latest.exe"
-                    ><icon alt="Veedtjelh" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Åarjelsaemien</a>
-                  </li>
-                </ul></td>
+                    Download the <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.0_windows.exe"><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install spellers from it.
+                </td>
                 <td>
                   <a href="userdocs/win/index-msoff.html">
                   <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
