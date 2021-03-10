@@ -19,6 +19,7 @@
 
     <about label="Davvisámegiella" tab="Ruoktu">
         <index description="Bures boahttin divvun.no prošektii" href="index.html" label="Álgosiidu"/>
+        <spellerdemo label="Online speller" href="korrektur/speller-demo.html"/>
         <privacy href="privacy.html" label="Privacy"/>
         <contact href="contact.html" label="Contact info"/>
         <cooperation href="CooperationPartners.html" label="Cooperation partners"/>
@@ -112,7 +113,6 @@
           </uservids>
           <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
           <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
-          <spellerdemo label="Online speller" href="speller-demo.html"/>
         </msoff>
 
         <gramcheck tab="GramCheck" description="Grammar checkers"
