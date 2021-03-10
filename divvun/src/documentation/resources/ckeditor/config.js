@@ -39,7 +39,7 @@ CKEDITOR.editorConfig = function( config ) {
 	config.giella_sLang = 'se';
 
 	// Set the URLs for the server giella should use. Below is the setting for using the Divvun server:
-	config.giella_servicePath = "http://divvun.no:3000/spellcheck31/script/ssrv.cgi";
-	config.giella_srcUrl = "http://divvun.no:3000/spellcheck/lf/giella3/ckgiella/ckgiella.js";
+	config.giella_servicePath = "/ckspeller/spellcheck31/script/ssrv.cgi";
+	config.giella_srcUrl = "https://divvun.uit.no/ckspeller/spellcheck/lf/giella3/ckgiella/ckgiella.js";
 
 };
