@@ -638,7 +638,7 @@ CKEDITOR.plugins.add('giella', {
 			var protocol = document.location.protocol;
 			protocol = protocol.search(/https?:/) != -1 ? protocol : 'http:';
 
-			editor.config.giella_srcUrl = protocol + '/ckspeller/spellcheck31/lf/giella3/ckgiella/ckgiella.js';
+			editor.config.giella_srcUrl = protocol + '//divvun.uit.no/ckspeller/spellcheck31/lf/giella3/ckgiella/ckgiella.js';
 		}
 
 		if(typeof CKEDITOR.config.giella_handleCheckDirty !== 'boolean') {

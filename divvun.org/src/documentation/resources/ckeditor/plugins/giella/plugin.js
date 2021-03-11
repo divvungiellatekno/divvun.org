@@ -1,4 +1,5 @@
 'use strict';
+
 CKEDITOR.plugins.add('giella', {
 
 	//requires : ['menubutton', 'dialog'],
@@ -638,7 +639,7 @@ CKEDITOR.plugins.add('giella', {
 			var protocol = document.location.protocol;
 			protocol = protocol.search(/https?:/) != -1 ? protocol : 'http:';
 
-			editor.config.giella_srcUrl = protocol + '//divvun.no:3001/spellcheck31/lf/giella3/ckgiella/ckgiella.js';
+			editor.config.giella_srcUrl = protocol + '//divvun.uit.no/orgspeller/spellcheck31/lf/giella3/ckgiella/ckgiella.js';
 		}
 
 		if(typeof CKEDITOR.config.giella_handleCheckDirty !== 'boolean') {
