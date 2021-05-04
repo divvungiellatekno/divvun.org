@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
         <title>Divvun - saamen kieliteknologia</title>
@@ -8,17 +8,23 @@
     </header>
     <body>
 
-        <note label="UUTUUS! 11.2.2020">Pohjoissaamen ensimmäinen kielioppitarkistin,
+        <note
+      label="UUTUUS! 11.2.2020"
+    >Pohjoissaamen ensimmäinen kielioppitarkistin,
             GramDivvun, on nyt julkaistu versiossa 1.0.
             GramDivvun toimii Google Docs:ssa ja MS Office:ssa.
-            <br/>
+            <br />
             <a href="/korrektur/gramcheck.html">Lisätietoja!</a>
         </note>
 
       <section>
         <title>Hanki suurin osa kirjoitustyökaluista yhdestä paikasta!</title>
         <ul class="row nobullet">
-           <li class="col-sm-4"><img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager"/></li>
+           <li class="col-sm-4"><img
+            src="images/DivvunManagerIcon.png"
+            class="scaling"
+            alt="DivvunManager"
+          /></li>
          <li class="col-sm-8">
           <em>Yksi</em> lataus, sitten: asenna, suorita ja valitse kieli
           — muut käsitellään automaattisesti, myös työkalujen pitäminen ajan tasalla. Sisältää:
@@ -30,11 +36,25 @@
           </ul>
           <strong>Lataa</strong> Divvun Installer:
           <ul class="row nobullet">
-            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.1_windows.exe">
-              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+            <li class="col-sm-6"><a
+                href="https://pahkat.uit.no/artifacts/divvun-installer_2.2.1_windows.exe"
+              >
+              <icon
+                  alt="Download"
+                  height="99"
+                  width="99"
+                  src="images/Crystal_Clear_app_download_manager.png"
+                />
               <strong>Windows:lle</strong></a></li>
-            <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg">
-              <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
+            <li class="col-sm-6"><a
+                href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg"
+              >
+              <icon
+                  alt="Download"
+                  height="99"
+                  width="99"
+                  src="images/Crystal_Clear_app_download_manager.png"
+                />
               <strong>macOS:lle</strong></a></li>
           </ul>
           </li>
@@ -46,34 +66,58 @@
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="korrektur/korrektur.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_stavekontroll.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_stavekontroll.png"
+            /><br />
             Oikolukuohjelmia</a>
         </li>
         <li class="col-sm-4">
             <a href="keyboards/index.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_mobiltastatur.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_mobiltastatur.png"
+            /><br />
             Näppäimistöt</a>
         </li>
         <li class="col-sm-4">
             <a href="tale/tale.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_tekst_til_tale.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_tekst_til_tale.png"
+            /><br />
             Puheentuotto</a>
         </li>
       </ul>
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="laring/laring.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_spraaklaering.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_spraaklaering.png"
+            /><br />
             Kielioppiminen</a>
         </li>
         <li class="col-sm-4">
            <a href="ordboker/ordboker.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_ordbok.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_ordbok.png"
+            /><br />
             Sanakirjoja</a>
         </li>
         <li class="col-sm-4">
             <a href="oversettelse/oversettelse.html">
-            <img alt="icon" class="scaling" src="images/divvun_ikon_oversettelse.png"/><br/>
+            <img
+              alt="icon"
+              class="scaling"
+              src="images/divvun_ikon_oversettelse.png"
+            /><br />
             Kääntäminen</a>
         </li>
       </ul>
