@@ -9,70 +9,70 @@
         <p>После того, как вы скачали приложение из Google Play, ваш телефон 
 	        может выглядеть так: </p>
         <p>
-            <img width="240" src="images/android_app_downloaded.no.png"
+            <img width="240" src="images/android_app_downloaded.ru.png"
         alt="Home screen with downloaded keyboard app"/>
         </p>
         <p>Запустите приложение:</p>
         <p>
-            <img width="240" src="images/android_app_start.no.png"
+            <img width="240" src="images/android_app_start.ru.png"
         alt="App welcome screen"/>
         </p>
         <p>Продолжаем настройку:</p>
         <p>
-            <img width="240" src="images/android_app_steg1.no.png"
+            <img width="240" src="images/android_app_steg1.ru.png"
         alt="App first configuration screen"/>
         </p>
         <p>Коснитесь ссылки, которая приведет вас к панели настроек, 
 	        чтобы включить саамские клавиатуры 
 	        («Клавиатуры Divvun Dev Inari Sami»): </p>
         <p>
-            <img width="240" src="images/android_config_steg1.no.png"
+            <img width="240" src="images/android_config_steg1.ru.png"
         alt="Android configuration step one"/>
         </p>
         <p>Когда вы включаете клавиатуру, вы получаете предупреждение 
 	        о предоставлении доступа ко всему, что вы пишете. Диввун 
 	        ничего не собирает, смело жать ок: </p>
         <p>
-            <img width="240" src="images/android_config_steg1_warning.no.png"
+            <img width="240" src="images/android_config_steg1_warning.ru.png"
             alt="Warning about giving the developer access to all your input"/>
         </p>
         <p>Когда вы активировали саамские клавиатуры, вам необходимо 
 	        переключиться на них - нажмите «Включить в настройках»: </p>
         <p>
-            <img width="240" src="images/android_app_steg2.no.png"
+            <img width="240" src="images/android_app_steg2.ru.png"
         alt="App second configuration screen"/>
-            <img width="240" src="images/android_config_steg2.no.png"
+            <img width="240" src="images/android_config_steg2.ru.png"
         alt="Android configuration step two"/>
         </p>
         <p>Может показаться, что все готово, но чтобы действительно 
 	        активировать саамскую клавиатуру, вам нужно нажать 
 	         «Другой способ ввода»:</p>
         <p>
-            <img width="240" src="images/android_app_steg3.no.png"
+            <img width="240" src="images/android_app_steg3.ru.png"
         alt="App third configuration screen"/>
         </p>
         <p>Снимите самый верхний флажок («Языки системы»):</p>
         <p>
-            <img width="240" src="images/android_config_steg3a.no.png"
+            <img width="240" src="images/android_config_steg3a.ru.png"
         alt="Android configuration step three"/>
         </p>
         <p>Теперь вы можете выбрать клавиатуры для языков, которые хотите 
 	        использовать («Kildin Sami» и/или «Kildin Sami (large)»:</p>
         <p>
-            <img width="240" src="images/android_config_steg3b.no.png"
+            <img width="240" src="images/android_config_steg3b.ru.png"
         alt="Android configuration step four"/>
         </p>
         <p>Готово! </p
         <p>
-            <img width="240" src="images/android_app_steg3.no.png"
+            <img width="240" src="images/android_app_steg3.ru.png"
         alt="App third configuration screen - done"/>
         </p>
         <p>Чтобы переключить клавиатуру во время письма, нажмите и 
 	        удерживайте клавишу глобуса слева от клавиши пробела: </p>
         <p>
-            <img width="240" src="images/android_writing.no.png"
+            <img width="240" src="images/android_writing.ru.png"
         alt="Writing using a Sami keyboard"/>
-            <img width="240" src="images/android_switching_keyboards.no.png"
+            <img width="240" src="images/android_switching_keyboards.ru.png"
         alt="Switch to another keyboard"/>
         </p>
         <p>Вы также можете переключиться на следующую клавиатуру, просто 
@@ -83,7 +83,7 @@
 	        получите список альтернатив, в том числе одну для переключения 
 	        метода ввода (клавиатуры): </p>
         <p>
-            <img width="240" src="images/android_switch_keyboard_alt.no.png"
+            <img width="240" src="images/android_switch_keyboard_alt.ru.png"
         alt="Alternative method to switch keyboard"/>
         </p>
     </body>
