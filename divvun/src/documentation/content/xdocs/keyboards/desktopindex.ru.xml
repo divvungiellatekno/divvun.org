@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Sámi keyboards</title>
+    </header>
+    <body>
+
+        <!--note label="Note">
+        <img src="/images/Beta-Stamp.png" height="30" alt="BETA"/><br/>
+        The desktop keyboards are presently in a testing phase. Download and
+        install only if you want to test unfinished software, and know how to
+        uninstall and reinstall. Use and install on your own risk. Despite this,
+        we believe the available keyboards are already quite useful.
+        <a href="mailto:feedback@divvun.no">Please give us
+        feedback and corrections!</a>
+        </note-->
+
+        <section>
+            <title>Клавиатуры для Windows</title>
+            <table>
+            <tr>
+            <th class="halfwidth">Загрузки</th>
+            <th>Раскладки клавиатуры</th>
+            <th>Руководства пользователя</th>
+            </tr>
+            <tr>
+            <td>
+                Download the <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.1_windows.exe"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install keyboards from it.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sámi</a></li>
+              <li><a href="layout-smn.html">
+              Inari Sámi</a></li>
+              <li><a href="layout-sms.html">
+              Skolt Sámi</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
+              <li><a href="userdocs/win/enable_sami_input-win10.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 10</a></li>
+              <li><a href="userdocs/win/enable_sami_input-win8.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 8</a></li>
+              <li><a href="userdocs/win/enable_sami_input-win7.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Windows 7</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Клавиатуры для macOS</title>
+            <table>
+            <tr>
+            <th class="halfwidth">Загрузки</th>
+            <th>Раскладки клавиатуры</th>
+            <th>Руководства пользователя</th>
+            </tr>
+            <tr>
+            <td>
+                Скачайте <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg"><icon alt="Viečča" height="44" width="44" src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> и установите из него клавиатуру.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sámi</a></li>
+              <li><a href="layout-smn.html">
+              Inari Sámi</a></li>
+              <li><a href="layout-sms.html">
+              Skolt Sámi</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.12.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.9+</a></li>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.8-nob.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.6-10.8</a></li>
+              <li><a href="userdocs/mac/enable-keyboard-osx10.5-swe.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              macOS 10.2-10.5</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Клавиатуры для Chromebook</title>
+            <table>
+            <tr>
+            <th class="halfwidth">Загрузки</th>
+            <th>Раскладки клавиатуры</th>
+            <th>Руководства пользователя</th>
+            </tr>
+            <tr>
+            <td>
+                <a
+                    href="https://chrome.google.com/webstore/detail/sami-keyboards/dnihbfekindancgddjehgonciaopmkbe"
+                    ><icon alt="Download" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    North, Inari, Julev, Skolt and South Sámi keyboards
+                </a>
+            </td>
+            <td>
+            <ul>
+                <li>
+                    <a href="layout-sme.html">
+                        North Sámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-smj.html">
+                        Julev Sámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-sma.html">
+                        South Sámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-smn.html">
+                        Inari Sámi
+                    </a>
+                </li>
+                <li>
+                    <a href="layout-sms.html">
+                        Skolt Sámi
+                    </a>
+                </li>
+            </ul>
+            </td>
+            <td>
+                <a href="userdocs/chromebook/installation_use_chromebook.html">
+                    <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                    Chromebook
+                </a>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Клавиатуры для Linux</title>
+            <table>
+            <tr>
+            <th class="halfwidth">Загрузки</th>
+            <th>Раскладки клавиатуры</th>
+            <th>Руководства пользователя (только на английском языке)</th>
+            </tr>
+            <tr>
+            <td>Клавиатуры Linux должны быть включены разработчиками 
+	            в основную систему. По мере освоения клавиатур для разных 
+	            языков мы отправим их для включения в систему.
+            </td>
+            <td>
+            <ul>
+              <li><a href="layout-sme.html">
+              North Sámi</a></li>
+              <li><a href="layout-smj.html">
+              Julev Sámi</a></li>
+              <li><a href="layout-sma.html">
+              South Sámi</a></li>
+              <li><a href="layout-smn.html">
+              Inari Sámi</a></li>
+              <li><a href="layout-sms.html">
+              Skolt Sámi</a></li>
+            </ul>
+            </td>
+            <td>
+            <ul>
+              <li><a href="userdocs/linux/EnableKeyboardsInLinuxMint.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Linux Mint / Cinnamon</a></li>
+              <li><a href="userdocs/linux/EnableKeyboardsInUbuntu.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              Ubuntu / Unity</a></li>
+              <li><a href="userdocs/linux/EnableKeyboardsInGNOME.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              GNOME</a></li>
+              <li><a href="userdocs/linux/EnableKeyboardsInKDE.html">
+              <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              KDE</a></li>
+            </ul>
+            </td>
+            </tr>
+            </table>
+        </section>
+
+        <section>
+            <title>Больше информации</title>
+
+            <p>ополнительную информацию о схемах и другие подробности можно найти 
+	            на страницах ниже (только на английском языке): </p>
+            <ul>
+              <li><a href="http://giellalt.uit.no/keyboards/kbdlangdocs/sme/doc/index.html">
+              North Sámi</a></li>
+              <li><a href="http://giellalt.uit.no/keyboards/kbdlangdocs/smj/doc/index.html">
+              Julev Sámi</a></li>
+              <li><a href="http://giellalt.uit.no/keyboards/kbdlangdocs/sma/doc/index.html">
+              South Sámi</a></li>
+              <li><a href="http://giellalt.uit.no/keyboards/kbdlangdocs/smn/doc/index.html">
+              Inari Sámi</a></li>
+              <li><a href="http://giellalt.uit.no/keyboards/kbdlangdocs/sms/doc/index.html">
+              Skolt Sámi</a></li>
+            </ul>
+        </section>
+
+   </body>
+</document>

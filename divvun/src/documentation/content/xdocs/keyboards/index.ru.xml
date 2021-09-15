@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Keyboards</title>
+    </header>
+    <body>
+
+<!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
+
+        <p>Divvun производит клавиатуры как для компьютеров, так и 
+	        для портативных устройств. Щелкните соответствующий раздел ниже, 
+	        чтобы перейти к ссылкам для загрузки! </p>
+
+      <ul class="col-sm-12 nobullet center">
+        <li class="col-sm-6">
+            <a href="mobileindex.html">
+            <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
+            Клавиатуры мобильных телефонов</a>
+        </li>
+        <li class="col-sm-6">
+            <a href="desktopindex.html">
+            <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
+            Компьютерные клавиатуры</a>
+        </li>
+      </ul>
+
+   </body>
+</document>

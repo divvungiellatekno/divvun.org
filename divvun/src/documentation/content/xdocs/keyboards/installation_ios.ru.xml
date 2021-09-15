@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Установка на iOS (iPhone / iPad / iPod)</title>
+    </header>
+    <body>
+        <p>После загрузки приложения из App Store ваш домашний экран может 
+	        выглядеть следующим образом: 
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Home screen with Sami Keyboards"/>
+        </p>
+        <p>Откройте приложение:</p>
+        <p>
+            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="The app page."/>
+        </p>
+        <p>Нажмите ссылку «Открыть настройки».</p> <!--   «Open Preferences», check for real Russian on screen -->
+        <p>Select
+            <strong>
+            «Общие &gt; Клавиатура &gt; Клавиатуры &gt; Добавить новую клавиатуру ...» <!-- again check the phone -->
+            </strong>
+        </p>
+
+        <p>
+            <img width="213" src="images/ios_general.no.png"          alt="Select General"/>
+            <img width="213" src="images/ios_keyboard.no.png"         alt="Select Keyboard"/>
+            <img width="213" src="images/ios_keyboards.no.png"        alt="Select Keyboards"/>
+            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Select Add new keyboard..."/>
+        </p>
+
+        <p>Под текстом «Сторонние клавиатуры» выберите «Сами клавиатуры»:</p> <!-- «Third party keyboards» -->
+
+        <p>
+            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Select Sami Keyboards"/>
+        </p>
+        <p>Включите клавиатуру, которую вы хотите использовать:</p>
+        <p>
+            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Enable keyboards"/>
+        </p>
+        <p>Установка сделана!</p>
+
+        <p>Чтобы переключиться на саамскую клавиатуру, нажмите и удерживайте клавишу 
+	        с глобусом слева от клавиши пробела: </p>
+        <p>
+            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Keyboard selection menu"/>
+        </p>
+
+        <p>Вы также можете просто нажимать кнопку глобуса несколько раз, пока 
+	        не получите нужную клавиатуру. </p>
+
+        <p>Обратите внимание, что касание и удержание не работает, когда активна одна из 
+	        саамских клавиатур. Это   <a
+        href="https://developer.apple.com/library/ios/documentation/General/Conceptual/ExtensibilityPG/Keyboard.html"
+        >ограничение Apple</a> («нет API для получения списка включенных клавиатур 
+        или выбора конкретной клавиатуры для переключения»),
+        и касается всех сторонних клавиатур.</p>
+
+    </body>
+</document>
