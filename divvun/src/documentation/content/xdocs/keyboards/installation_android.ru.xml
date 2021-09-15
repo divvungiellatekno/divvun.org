@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Установка на Android</title>
+    </header>
+    <body>
+        <p>После того, как вы скачали приложение из Google Play, ваш телефон 
+	        может выглядеть так: </p>
+        <p>
+            <img width="240" src="images/android_app_downloaded.no.png"
+        alt="Home screen with downloaded keyboard app"/>
+        </p>
+        <p>Запустите приложение:</p>
+        <p>
+            <img width="240" src="images/android_app_start.no.png"
+        alt="App welcome screen"/>
+        </p>
+        <p>Продолжаем настройку:</p>
+        <p>
+            <img width="240" src="images/android_app_steg1.no.png"
+        alt="App first configuration screen"/>
+        </p>
+        <p>Коснитесь ссылки, которая приведет вас к панели настроек, 
+	        чтобы включить саамские клавиатуры 
+	        («Клавиатуры Divvun Dev Inari Sami»): </p>
+        <p>
+            <img width="240" src="images/android_config_steg1.no.png"
+        alt="Android configuration step one"/>
+        </p>
+        <p>Когда вы включаете клавиатуру, вы получаете предупреждение 
+	        о предоставлении доступа ко всему, что вы пишете. Диввун 
+	        ничего не собирает, смело жать ок: </p>
+        <p>
+            <img width="240" src="images/android_config_steg1_warning.no.png"
+            alt="Warning about giving the developer access to all your input"/>
+        </p>
+        <p>Когда вы активировали саамские клавиатуры, вам необходимо 
+	        переключиться на них - нажмите «Включить в настройках»: </p>
+        <p>
+            <img width="240" src="images/android_app_steg2.no.png"
+        alt="App second configuration screen"/>
+            <img width="240" src="images/android_config_steg2.no.png"
+        alt="Android configuration step two"/>
+        </p>
+        <p>Может показаться, что все готово, но чтобы действительно 
+	        активировать саамскую клавиатуру, вам нужно нажать 
+	         «Другой способ ввода»:</p>
+        <p>
+            <img width="240" src="images/android_app_steg3.no.png"
+        alt="App third configuration screen"/>
+        </p>
+        <p>Снимите самый верхний флажок («Языки системы»):</p>
+        <p>
+            <img width="240" src="images/android_config_steg3a.no.png"
+        alt="Android configuration step three"/>
+        </p>
+        <p>Теперь вы можете выбрать клавиатуры для языков, которые хотите 
+	        использовать («Kildin Sami» и/или «Kildin Sami (large)»:</p>
+        <p>
+            <img width="240" src="images/android_config_steg3b.no.png"
+        alt="Android configuration step four"/>
+        </p>
+        <p>Готово! </p
+        <p>
+            <img width="240" src="images/android_app_steg3.no.png"
+        alt="App third configuration screen - done"/>
+        </p>
+        <p>Чтобы переключить клавиатуру во время письма, нажмите и 
+	        удерживайте клавишу глобуса слева от клавиши пробела: </p>
+        <p>
+            <img width="240" src="images/android_writing.no.png"
+        alt="Writing using a Sami keyboard"/>
+            <img width="240" src="images/android_switching_keyboards.no.png"
+        alt="Switch to another keyboard"/>
+        </p>
+        <p>Вы также можете переключиться на следующую клавиатуру, просто 
+	        нажав клавишу с глобусом. </p>
+        <p>Если вы переключились на заводскую клавиатуру без клавиши 
+	        с глобусом, вы можете вернуться к саамской клавиатуре, дважды 
+	        проведя одним пальцем от верхней части экрана. Затем вы 
+	        получите список альтернатив, в том числе одну для переключения 
+	        метода ввода (клавиатуры): </p>
+        <p>
+            <img width="240" src="images/android_switch_keyboard_alt.no.png"
+        alt="Alternative method to switch keyboard"/>
+        </p>
+    </body>
+</document>
