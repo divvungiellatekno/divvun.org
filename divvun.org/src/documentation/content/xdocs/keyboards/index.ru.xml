@@ -9,20 +9,20 @@
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun makes keyboards for both computers and hand-held
-           devices. Click the relevant section below to get to the download
-           links!</p>
+        <p>Divvun производит клавиатуры как для компьютеров, так и 
+	        для портативных устройств. Щелкните соответствующий 
+	        раздел ниже, чтобы перейти к ссылкам для загрузки! </p>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
             <a href="mobileindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_mobiltastatur.png"/><br/>
-            Mobile phone keyboards</a>
+            Клавиатуры мобильных телефонов</a>
         </li>
         <li class="col-sm-6">
             <a href="desktopindex.html">
             <img alt="icon" class="scaling" src="../images/divvun_ikon_pc_tastatur.png"/><br/>
-            Computer keyboards</a>
+            Компьютерные клавиатуры</a>
         </li>
       </ul>
 
