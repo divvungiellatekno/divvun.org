@@ -3,27 +3,28 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Language tools for indigenous and minority languages</title>
-        <meta name="description">Spell checkers, proofing tools,
-        indigenous languages, minority languages</meta>
+        <title>Языковые инструменты для языков коренных народов и меньшинств</title>
+        <meta name="description">Средства проверки орфографии, средства проверки,
+         языки коренных народов, языки меньшинств</meta>
     </header>
     <body>
-      <p>Divvun.org provides proofing tools, keyboards and dictionaries for a number of indigenous and minority languages.</p>
+      <p>Divvun.org предоставляет средства проверки правописания, клавиатуры и словари для ряда языков коренных народов и меньшинств.</p>
 
       <section>
-        <title>Get most writing tools in one place!</title>
+        <title>Получите большинство письменных принадлежностей в одном месте!</title>
         <ul class="row nobullet">
            <li class="col-sm-4"><img src="images/DivvunManagerIcon.png" class="scaling" alt="DivvunManager"/></li>
          <li class="col-sm-8">
-          <em>One</em> download, then: install, run &amp; select language
-          — the rest is handled automatically, including keeping the tools up-to-date. It contains:
+          <em>Одна</em> загрузка, затем: установка, запуск и выбор языка - все
+          остальное выполняется автоматически, включая поддержание актуальности
+          инструментов. Это содержит:
           <ul>
-            <li>Keyboards and spellers</li>
-            <li>System-wide spellers</li>
-            <li>Spellers for MS Office (Windows only for now)</li>
-            <!--li>Spellers for LibreOffice</li-->
+            <li>Клавиатуры и дикторы</li>
+            <li>Общесистемные орфографии</li>
+            <li>Спеллеры для MS Office (пока только для Windows)</li>
+            <!--li>Спеллеры для LibreOffice</li-->
           </ul>
-          <strong>Download Divvun Manager 2.0</strong> for:
+          <strong>Скачать Divvun Manager 2.0</strong> для:
           <ul class="row nobullet">
             <li class="col-sm-6"><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.1.1_windows.exe">
               <icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png" />
@@ -37,22 +38,22 @@
       </section>
 
       <section>
-        <title>Details:</title>
+        <title>Подробности:</title>
       <ul class="row nobullet">
         <li class="col-sm-4">
             <a href="proofing/proofing.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_stavekontroll.png"/><br/>
-            Proofing tools</a>
+            Инструменты проверки</a>
         </li>
         <li class="col-sm-4">
             <a href="keyboards/index.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_mobiltastatur.png"/><br/>
-            Keyboards</a>
+            Клавиатуры</a>
         </li>
         <li class="col-sm-4">
            <a href="dicts/dicts.html">
             <img alt="icon" class="scaling" src="images/divvun_ikon_ordbok.png"/><br/>
-            Dictionaries</a>
+            Словари</a>
         </li>
       </ul>
       </section>
