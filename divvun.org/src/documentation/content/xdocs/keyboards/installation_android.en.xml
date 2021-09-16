@@ -9,67 +9,67 @@
         <p>After you have donwloaded the app from Google Play, your phone may
             look like this:</p>
         <p>
-            <img width="240" src="images/android_app_downloaded.no.png"
+            <img width="240" src="images/android_app_downloaded.en.png"
         alt="Home screen with downloaded keyboard app"/>
         </p>
         <p>Start the app:</p>
         <p>
-            <img width="240" src="images/android_app_start.no.png"
+            <img width="240" src="images/android_app_start.en.png"
         alt="App welcome screen"/>
         </p>
         <p>Continue to the configuration:</p>
         <p>
-            <img width="240" src="images/android_app_steg1.no.png"
+            <img width="240" src="images/android_app_steg1.en.png"
         alt="App first configuration screen"/>
         </p>
         <p>Touch the link that takes you to the preference pane to enable the
             Sami keyboads:</p>
         <p>
-            <img width="240" src="images/android_config_steg1.no.png"
+            <img width="240" src="images/android_config_steg1.en.png"
         alt="Android configuration step one"/>
         </p>
         <p>When you turn on the keyboards, you get a warning about giving access
             to everything you write. Divvun does not collect anything, it is
             safe to press ok:</p>
         <p>
-            <img width="240" src="images/android_config_steg1_warning.no.png"
+            <img width="240" src="images/android_config_steg1_warning.en.png"
             alt="Warning about giving the developer access to all your input"/>
         </p>
         <p>When you have activated the Sami keyboards, you have to switch to
             them - press «Switch input method»:</p>
         <p>
-            <img width="240" src="images/android_app_steg2.no.png"
+            <img width="240" src="images/android_app_steg2.en.png"
         alt="App second configuration screen"/>
-            <img width="240" src="images/android_config_steg2.no.png"
+            <img width="240" src="images/android_config_steg2.en.png"
         alt="Android configuration step two"/>
         </p>
         <p>It may look like you are done, but to really activate the Sami
             keyboards you have to press «Configure more languages»:</p>
         <p>
-            <img width="240" src="images/android_app_steg3.no.png"
+            <img width="240" src="images/android_app_steg3.en.png"
         alt="App third configuration screen"/>
         </p>
         <p>Remove the upper-most check mark («Use System Language»):</p>
         <p>
-            <img width="240" src="images/android_config_steg3a.no.png"
+            <img width="240" src="images/android_config_steg3a.en.png"
         alt="Android configuration step three"/>
         </p>
         <p>Now you can select the keyboards for the languages you want to use:</p>
         <p>
-            <img width="240" src="images/android_config_steg3b.no.png"
+            <img width="240" src="images/android_config_steg3b.en.png"
         alt="Android configuration step four"/>
         </p>
         <p>Now you are done!</p>
         <p>
-            <img width="240" src="images/android_app_steg3.no.png"
+            <img width="240" src="images/android_app_steg3.en.png"
         alt="App third configuration screen - done"/>
         </p>
         <p>To switch keyboard when writing, press and hold the globe key to the
             left of the space key:</p>
         <p>
-            <img width="240" src="images/android_writing.no.png"
+            <img width="240" src="images/android_writing.en.png"
         alt="Writing using a Sami keyboard"/>
-            <img width="240" src="images/android_switching_keyboards.no.png"
+            <img width="240" src="images/android_switching_keyboards.en.png"
         alt="Switch to another keyboard"/>
         </p>
         <p>You can also switch to the next keyboard by just tapping the globe
@@ -79,7 +79,7 @@
             top of the screen twice. You then get a list of alternatives, among
             them one to switch input method (keyboard):</p>
         <p>
-            <img width="240" src="images/android_switch_keyboard_alt.no.png"
+            <img width="240" src="images/android_switch_keyboard_alt.en.png"
         alt="Alternative method to switch keyboard"/>
         </p>
     </body>
