@@ -11,11 +11,11 @@
         </p>
 
         <p>
-            <img width="213" src="images/ios_keyboard_home_screen.no.png" alt="Home screen with Sami Keyboards"/>
+            <img width="213" src="images/ios_keyboard_home_screen.ru.png" alt="Home screen with Sami Keyboards"/>
         </p>
         <p>Откройте приложение:</p>
         <p>
-            <img width="213" src="images/ios_sami_keyboards_app.no.png" alt="The app page."/>
+            <img width="213" src="images/ios_sami_keyboards_app.ru.png" alt="The app page."/>
         </p>
         <p>Нажмите ссылку «Открыть настройки».</p> <!--   «Open Preferences», check for real Russian on screen -->
         <p>Select
@@ -25,27 +25,27 @@
         </p>
 
         <p>
-            <img width="213" src="images/ios_general.no.png"          alt="Select General"/>
-            <img width="213" src="images/ios_keyboard.no.png"         alt="Select Keyboard"/>
-            <img width="213" src="images/ios_keyboards.no.png"        alt="Select Keyboards"/>
-            <img width="213" src="images/ios_add_new_keyboard.no.png" alt="Select Add new keyboard..."/>
+            <img width="213" src="images/ios_general.ru.png"          alt="Select General"/>
+            <img width="213" src="images/ios_keyboard.ru.png"         alt="Select Keyboard"/>
+            <img width="213" src="images/ios_keyboards.ru.png"        alt="Select Keyboards"/>
+            <img width="213" src="images/ios_add_new_keyboard.ru.png" alt="Select Add new keyboard..."/>
         </p>
 
         <p>Под текстом «Сторонние клавиатуры» выберите «Сами клавиатуры»:</p> <!-- «Third party keyboards» -->
 
         <p>
-            <img width="213" src="images/ios_select_sami_keyboards.no.png" alt="Select Sami Keyboards"/>
+            <img width="213" src="images/ios_select_sami_keyboards.ru.png" alt="Select Sami Keyboards"/>
         </p>
         <p>Включите клавиатуру, которую вы хотите использовать:</p>
         <p>
-            <img width="213" src="images/ios_enable_keyboards.no.png" alt="Enable keyboards"/>
+            <img width="213" src="images/ios_enable_keyboards.ru.png" alt="Enable keyboards"/>
         </p>
         <p>Установка сделана!</p>
 
         <p>Чтобы переключиться на саамскую клавиатуру, нажмите и удерживайте клавишу 
 	        с глобусом слева от клавиши пробела: </p>
         <p>
-            <img width="213" src="images/ios_select_active_keyboard.no.png" alt="Keyboard selection menu"/>
+            <img width="213" src="images/ios_select_active_keyboard.ru.png" alt="Keyboard selection menu"/>
         </p>
 
         <p>Вы также можете просто нажимать кнопку глобуса несколько раз, пока 
