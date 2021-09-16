@@ -15,22 +15,22 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!--
-  This catalog is used so displays how the language name
-  is named by their speakers.
--->
-<catalogue >
-  <message key="en">In English</message>
-  <message key="es">En español</message>
-  <message key="it">En italiano</message>
-  <message key="nl">Op nederlands</message>
-  <message key="fr">En fransaiçe</message>
-  <message key="se">Davvisámegillii</message>
-  <message key="nb">På bokmål</message>
-  <message key="nn">På nynorsk</message>
-  <message key="no">På norsk</message>
-  <message key="sv">På svenska</message>
-  <message key="fi">Suomeksi</message>
-  <message key="smj">Julevsámegiellaj</message>
-  <message key="ru">на русском</message>
+<catalogue xml:lang="ru">
+  <!-- HTML translations: -->
+  <message key="Font size:">Fontstørrelse:</message>
+  <message key="Last Published:">Sist publisert:</message>
+  <message key="Search">Søk</message>
+  <message key="Reset">Nullstill</message>
+  <message key="More">Mer</message>
+  <message key="Search the site">Søk nettstedet</message>
+  <!-- PDF/fo translations: -->
+  <message key="NOTICE:">MERKNAD:</message>
+  <message key="by">av </message>
+  <message key="Note">Merk</message>
+  <message key="FIXME">FIKSMEG</message>
+  <message key="Warning">Advarsel</message>
+  <message key="Table">Tabell</message>
+  <message key="Table of contents">Innhold</message>
+  <message key="Page 1">Side {0}</message>
+  <message key="Page 1 of 1">Side {0} av {1}</message>
 </catalogue>

@@ -15,22 +15,21 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!--
-  This catalog is used so displays how the language name
-  is named by their speakers.
--->
-<catalogue >
-  <message key="en">In English</message>
-  <message key="es">En español</message>
-  <message key="it">En italiano</message>
-  <message key="nl">Op nederlands</message>
-  <message key="fr">En fransaiçe</message>
-  <message key="se">Davvisámegillii</message>
-  <message key="nb">På bokmål</message>
-  <message key="nn">På nynorsk</message>
-  <message key="no">På norsk</message>
-  <message key="sv">På svenska</message>
-  <message key="fi">Suomeksi</message>
-  <message key="smj">Julevsámegiellaj</message>
-  <message key="ru">на русском</message>
+<catalogue>
+  <message key="Font size:">Skriftstørrelse:</message>
+  <message key="Reset">Nullstill</message>
+  <message key="-a">-Á</message>
+  <message key="+a">+Á</message>
+  <message key="Reset text">Nullstill skriftstørrelsen</message>
+  <message key="Shrink text">Forminsk skriften</message>
+  <message key="Enlarge text">Forstørr skriften</message>
+
+  <message key="Last Published:">Sist publisert:</message>
+
+  <message key="Search">Søk</message>
+  <message key="Search the site with google">Google-søk på sidene</message>
+  <message key="Search the site with lucene">Lucene-søk på sidene</message>
+
+  <message key="Warning">Advarsel</message>
+  <message key="Note">Merknad</message>
 </catalogue>

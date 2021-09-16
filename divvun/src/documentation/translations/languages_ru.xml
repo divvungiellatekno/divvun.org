@@ -15,22 +15,18 @@
   See the License for the specific language governing permissions and
   limitations under the License.
 -->
-<!--
-  This catalog is used so displays how the language name
-  is named by their speakers.
--->
-<catalogue >
-  <message key="en">In English</message>
-  <message key="es">En español</message>
-  <message key="it">En italiano</message>
-  <message key="nl">Op nederlands</message>
-  <message key="fr">En fransaiçe</message>
-  <message key="se">Davvisámegillii</message>
-  <message key="nb">På bokmål</message>
-  <message key="nn">På nynorsk</message>
-  <message key="no">På norsk</message>
-  <message key="sv">På svenska</message>
-  <message key="fi">Suomeksi</message>
-  <message key="smj">Julevsámegiellaj</message>
-  <message key="ru">на русском</message>
+<catalogue xml:lang="en">
+  <message key="en" >This page in English</message>
+  <message key="es" >This page in Spanish</message>
+  <message key="nl" >This page in Dutch</message>
+  <message key="de" >This page in German</message>
+  <message key="fr" >This page in French</message>
+  <message key="se" >This page in North Sámi</message>
+  <message key="nb" >This page in Norwegian (nb)</message>
+  <message key="nn" >This page in Norwegian (nn)</message>
+  <message key="no" >This page in Norwegian</message>
+  <message key="sv" >This page in Swedish</message>
+  <message key="fi" >This page in Finnish</message>
+  <message key="smj">This page in Lule Sámi</message>
+  <message key="sma">This page in South Sámi</message>
 </catalogue>
