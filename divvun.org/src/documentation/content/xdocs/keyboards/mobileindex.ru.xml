@@ -3,24 +3,24 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="en">
     <header>
-        <title>Keyboards for mobile phones</title>
+        <title>Клавиатуры для мобильных телефонов</title>
     </header>
     <body>
 
 <!-- Hugs å setja inn ekte URL-ar i teksten, sjå lenger ned. -->
 
-        <p>Divvun has made the app «Samiske tastaturer» (Sami keyboards)
-            containing mobile phone and tablet keyboards for North, Julev, South,
-            Pite, Inari and Skolt Sami. Since 12/20/2018 the app also contains
-            spell checkers for North, Julev, South and Inari Sami.
-            The app is available for <a
+        <p>Divvun создал приложение «Samiske tastaturer» (саамские клавиатуры),
+            содержащее клавиатуры мобильных телефонов и планшетов для северных,
+            джулевских, южных, пите, инари и скольт-саамов. С 20.12.2018
+            приложение также содержит средства проверки правописания для саамов
+            Севера, Джулева, Юга и Инари. Приложение доступно для <a
 href="https://play.google.com/store/apps/details?id=no.uit.giella.keyboards.Sami"
-                >Android</a> and <a
+                >Android</a> и <a
 href="https://itunes.apple.com/us/app/samiske-tastatur/id948386025?ls=1&amp;mt=8"
-                >iOS (iPhone and iPad)</a>.</p>
+                >iOS (iPhone и iPad)</a>.</p>
 
       <section>
-        <title>Download</title>
+        <title>Скачать</title>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
@@ -47,7 +47,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Help</title>
+        <title>Помощь</title>
         <ul class="col-sm-12 nobullet center">
           <li class="col-sm-6">
             <ul>
@@ -55,7 +55,7 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
                 <a href="installation_android.html">
                    <img alt="Question mark icon" width="50"
                       src="/images/240px-Blue_question_mark.jpg"/>
-                      Installation guide for Android
+                      Руководство по установке для Android
                   </a>
               </li>
               <!--li>How to avoid high costs on Samsung phones</li-->
@@ -63,17 +63,17 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
                 <a href="installation_ios.html">
                    <img alt="Question mark icon" width="50"
                       src="/images/240px-Blue_question_mark.jpg"/>
-                      Installation guide for iPhone &amp; iPad
+                      Руководство по установке для iPhone и iPad
                   </a>
               </li>
-              <li><a href="70LetterLimit.html">Why can I only type 70 letters pr SMS?</a></li>
+              <li><a href="70LetterLimit.html">Почему я могу набирать только 70 букв в SMS?</a></li>
             </ul>
           </li>
         </ul>
       </section>
 
       <section>
-        <title>Screen shots</title>
+        <title>Снимки экрана</title>
 
       <ul class="col-sm-12 nobullet center">
         <li class="col-sm-6">
@@ -91,9 +91,9 @@ src="https://developer.android.com/images/brand/no_generic_rgb_wo_60.png"/>
       </section>
 
       <section>
-        <title>Privacy</title>
-        <p>See our <a href="/privacy.html">privacy statement</a>
-        regarding the keyboard apps.</p>
+        <title>Конфиденциальность</title>
+        <p>См. Наше заявление о  <a href="/privacy.html">конфиденциальности</a>
+        в отношении клавиатурных приложений.</p>
       </section>
 
    </body>
