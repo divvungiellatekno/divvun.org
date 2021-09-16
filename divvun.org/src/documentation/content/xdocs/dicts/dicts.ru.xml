@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="no">
+    <header>
+        <title>Dictionaries</title>
+    </header>
+    <body>
+            <p><a href="http://dicts.uit.no">dicts.uit.no</a> contains a list of dictionaries built using technology developed by <a href="http://divvun.no">Divvun</a> and <a href="http://giellatekno.uit.no">Giellatekno</a>.</p>
+   </body>
+</document>
