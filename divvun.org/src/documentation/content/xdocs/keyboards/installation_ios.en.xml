@@ -6,40 +6,27 @@
         <title>Installation on iOS (iPhone / iPad / iPod)</title>
     </header>
     <body>
-        <p>After downloading the app from the App Store, your homle screen could
-            look like this:
-        </p>
-
-        <p>
+        <p>After downloading the app from the App Store, your home screen could
+            look like this: <br/>
             <img width="213" src="images/ios_keyboard_home_screen.en.png" alt="Home screen with Sami Keyboards"/>
         </p>
-        <p>Open the app:</p>
-        <p>
-            <img width="213" src="images/ios_sami_keyboards_app.en.png" alt="The app page."/>
-        </p>
-        <p>Press the link «Open Preferences»</p>
-        <p>Select
-            <strong>
-            «General &gt; Keyboard &gt; Keyboards &gt; Add new keyboard...»
-            </strong>
-        </p>
+        <p>Continue as follows:</p>
+        <ol>
+          <li>Open the app, and press the «Settings» button:<br/>
+              <img width="213" src="images/ios_sami_keyboards_app.en.png" alt="The app page."/><p/>
+          </li>
 
-        <p>
-            <img width="213" src="images/ios_general.en.png"          alt="Select General"/>
-            <img width="213" src="images/ios_keyboard.en.png"         alt="Select Keyboard"/>
-            <img width="213" src="images/ios_keyboards.en.png"        alt="Select Keyboards"/>
-            <img width="213" src="images/ios_add_new_keyboard.en.png" alt="Select Add new keyboard..."/>
-        </p>
+          <li>Select <strong>«Keyboards»</strong>:<br/>
+              <img width="213" src="images/ios_keyboards.en.png"        alt="Select Keyboards"/><br/>
+              Here you can also turn off key sounds if you don't like them.
+              <p/>
+          </li>
 
-        <p>Under the text «Third party keyboards» choose «Sami keyboards»:</p>
+          <li>Enable the keyboards you want to use:<br/>
+              <img width="213" src="images/ios_enable_keyboards.en.png" alt="Enable keyboards"/><p/>
+          </li>
+        </ol>
 
-        <p>
-            <img width="213" src="images/ios_select_sami_keyboards.en.png" alt="Select Sami Keyboards"/>
-        </p>
-        <p>Enable the keyboards you want to use:</p>
-        <p>
-            <img width="213" src="images/ios_enable_keyboards.en.png" alt="Enable keyboards"/>
-        </p>
         <p>The installation is done!</p>
 
         <p>To switch to a Sami keyboards, touch and hold the globe key to the
