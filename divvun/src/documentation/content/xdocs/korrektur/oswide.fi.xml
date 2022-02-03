@@ -14,7 +14,7 @@
 
          <p>Korjausohjelma toimii ohjelmissa, jotka tukevat Windows-järjestelmän omaa korjausohjelmaa, kuten Mail, Internet Explorer ja Edge.
          </p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.2.3_windows.exe"
+         <p><a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                  Divvunasentaja</a>
@@ -35,7 +35,7 @@
          <table>
              <tr>
                  <td>
-                     <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg">
+                     <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos">
                          <icon alt="Download" height="44" width="44"
                                src="images/Crystal_Clear_app_download_manager.png" />
                          Divvunasentaja

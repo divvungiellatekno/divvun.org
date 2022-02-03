@@ -16,7 +16,7 @@
              Windows systemstavningskontroll, som tex. Mail
              och browserna Internet Explorer och Edge.
          </p>
-         <p><a href="https://pahkat.uit.no/artifacts/divvun-installer_2.2.3_windows.exe"
+         <p><a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                     ><icon alt="Viečča" height="44" width="44"
                     src="images/Crystal_Clear_app_download_manager.png" />
                  Divvuninstalleraren</a>
@@ -40,7 +40,7 @@
          <table>
              <tr>
                  <td>
-                     <a href="https://pahkat.uit.no/artifacts/divvun-installer_2.0.1_macos.pkg">
+                     <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos">
                          <icon alt="Download" height="44" width="44"
                                src="images/Crystal_Clear_app_download_manager.png" />
                          Divvuninstalleraren
