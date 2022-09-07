@@ -111,7 +111,7 @@
               <li class="Download">macOS:
                   <ul>
                       <li>Installera <a
-                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&channel=nightly"
+                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
                       LibreOffice-utvidgningen</a> manuelt
