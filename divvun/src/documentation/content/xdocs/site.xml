@@ -112,7 +112,7 @@
             <mac label="Mac installation" href="mac-video.html" />
           </uservids>
           <old    label="Eldre versjoner" href="msoff-oldversions.html"/>
-          <sysadm label="Info for administratorer" href="sysadmininfo.html"/>
+          <sysadm label="Info for administratorer" href="https://divvun.github.io/enterprise/"/>
         </msoff>
 
         <gramcheck tab="GramCheck" description="Grammar checkers"
