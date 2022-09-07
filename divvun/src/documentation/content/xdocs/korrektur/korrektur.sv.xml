@@ -93,7 +93,7 @@
                         src="images/mac.png"/>.
 
             Rättstavningsverktygen <strong>kräver
-            LibreOffice 4.4 eller nyare</strong>. Om du är beroende av en
+            LibreOffice 6.x eller nyare</strong>. Om du är beroende av en
             äldre version av LibreOffice, kan du ladda ner rättstavning för
             äldre versioner <a href="msoff-oldversions.html">på denna
             sidan</a>.</p>
@@ -102,23 +102,27 @@
             <tr>
             <td>
             <ul>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
+              <li class="Download">Windows: installera via <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Nordsamiska</a>
+                Divvun Manager</a>
               </li>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
+              <li class="Download">macOS:
+                  <ul>
+                      <li>Installera <a
+                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&channel=nightly"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Lulesamiska</a>
-              </li>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
-                ><icon alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
-                Sydsamiska</a>
+                      LibreOffice-utvidgningen</a> manuelt
+                    </li>
+                    <li class="Download">Installera sen resten via <a
+                      href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
+                      ><icon alt="Download" height="44" width="44"
+                      src="images/Crystal_Clear_app_download_manager.png" />
+                      Divvun Manager</a>
+                    </li>
+                  </ul>
               </li>
             </ul></td>
             <td>
