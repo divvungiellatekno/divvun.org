@@ -42,11 +42,11 @@
             </section>
 
         <section>
-            <title>OSX<icon
-                alt="OSX" height="27" width="27"
+            <title>macOS<icon
+                alt="macOS" height="27" width="27"
                 src="images/mac.png"/></title>
 
-        <note label="OBS!">Divvun 4 för MS Office på OSX <strong>är inte
+        <note label="OBS!">Divvun 4 för MS Office på macOS <strong>är inte
             tillgänglig ännu</strong> på grund av oväntade problem. Vi arbetar
             med att hitta en lösning och uppdaterar sidan så snabbt den nya
             versionen är klar. Här nedan kan du ladda ner den gamla versionen.
@@ -88,8 +88,8 @@
 
             <p>Rättstavningsverktygen för LibreOffice fungerar både på Windows <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> och OSX <icon
-                        alt="OSX" height="27" width="27"
+                    src="images/Win10.png"/> och macOS <icon
+                        alt="macOS" height="27" width="27"
                         src="images/mac.png"/>.
 
             Rättstavningsverktygen <strong>kräver
@@ -108,6 +108,20 @@
                 src="images/Crystal_Clear_app_download_manager.png" />
                 Divvun Manager</a>
               </li>
+            </ul>
+            </td>
+            <td>
+              <icon alt="Instructions icon" rowspan="2" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td>  <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+                     >LibreOffice-handledning (Windows <icon
+                     alt="Windows" height="27" width="27"
+                     src="images/Win10.png"/>)</a>
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <ul>
               <li class="Download">macOS:
                   <ol>
                       <li>Installera <a
@@ -125,17 +139,9 @@
                   </ol>
               </li>
             </ul></td>
-            <td>
-              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-            </td>
-            <td>
-                   · <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
-                     >LibreOffice-handledning (Windows <icon
-                     alt="Windows" height="27" width="27"
-                     src="images/Win10.png"/>)</a>
-              <br/>· <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice-handledning (OSX <icon
-                     alt="OSX" height="27" width="27"
+            <td>  <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+                     >LibreOffice-handledning (macOS <icon
+                     alt="macOS" height="27" width="27"
                      src="images/mac.png"/>)</a>
             </td>
             <!--td>  No instruction videos for LibreOffice yet </td-->
