@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="sv">
     <header>
         <title>Samiska rättstavningsverktyg</title>
@@ -14,43 +14,68 @@
 
         <section>
             <title>Rättstavningsverktyg för MS Office<icon
-                alt="MS Office" height="27" width="27"
-                src="images/MSOffice-icon.png"/></title>
+          alt="MS Office"
+          height="27"
+          width="27"
+          src="images/MSOffice-icon.png"
+        /></title>
 
             <section>
                 <title>Windows <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/></title>
+            alt="Windows"
+            height="27"
+            width="27"
+            src="images/Win10.png"
+          /></title>
 
                 <table>
                 <tr>
                 <td>
-                    Ladda ner <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Ladda ner" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> och installera verktygen med den.
+                    Ladda ner <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+              ><icon
+                  alt="Ladda ner"
+                  height="44"
+                  width="44"
+                  src="images/Crystal_Clear_app_download_manager.png"
+                />Divvun Manager</a> och installera verktygen med den.
                 </td>
                 <td>
                   <a href="userdocs/win/index-msoff.html">
-                  <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon
+                  alt="icon"
+                  height="44"
+                  width="44"
+                  src="images/Sign-Info-icon.png"
+                />
                   Handledning</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
-                  <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruktionsvideor</a></td>
+                  <icon
+                  alt="Instructions"
+                  height="48"
+                  width="48"
+                  src="images/Movie-icon.png"
+                />Instruktionsvideor</a></td>
                 </tr>
                 </table>
             </section>
 
         <section>
             <title>macOS<icon
-                alt="macOS" height="27" width="27"
-                src="images/mac.png"/></title>
+            alt="macOS"
+            height="27"
+            width="27"
+            src="images/mac.png"
+          /></title>
 
         <note label="OBS!">Divvun 4 för MS Office på macOS <strong>är inte
             tillgänglig ännu</strong> på grund av oväntade problem. Vi arbetar
             med att hitta en lösning och uppdaterar sidan så snabbt den nya
             versionen är klar. Här nedan kan du ladda ner den gamla versionen.
-            OBS! Den gamla versionen <strong>fungerar inte med MS Office 2016!</strong>
+            OBS! Den gamla versionen <strong
+          >fungerar inte med MS Office 2016!</strong>
             Divvun 4.1 för LibreOffice fungerar utmärkt (se längre ner).
         </note>
 
@@ -58,23 +83,40 @@
                 <tr><td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
-                    alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
+                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"
+                  ><icon
+                      alt="Download"
+                      height="44"
+                      width="44"
+                      src="images/Crystal_Clear_app_download_manager.png"
+                    />
                     Ladda ner alla tre språk</a>
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon
+                alt="Instructions"
+                height="44"
+                width="44"
+                src="images/Sign-Info-icon.png"
+              />
                 </td>
                 <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-handledning</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-handledning</a>
+                       · <a
+                href="userdocs/mac/index-msoff-2011.html"
+              >Office 2011-handledning</a>
+                  <br />· <a
+                href="userdocs/mac/index-msoff-2008.html"
+              >Office 2008-handledning</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/mac-video.html">
-                  <icon alt="Instructions" height="48" width="48"
-                    src="images/Movie-icon.png"/>Instruktionsvideor</a></td>
+                  <icon
+                  alt="Instructions"
+                  height="48"
+                  width="48"
+                  src="images/Movie-icon.png"
+                />Instruktionsvideor</a></td>
                 </tr>
                 </table>
             </section>
@@ -82,15 +124,26 @@
 
         <section>
             <title>Rättstavningsverktyg för <a
-                href="http://libreoffice.org">LibreOffice<icon
-                alt="LibreOffice" height="27" width="27"
-                src="images/LibreOfficeIcon.png"/></a></title>
+          href="http://libreoffice.org"
+        >LibreOffice<icon
+            alt="LibreOffice"
+            height="27"
+            width="27"
+            src="images/LibreOfficeIcon.png"
+          /></a></title>
 
-            <p>Rättstavningsverktygen för LibreOffice fungerar både på Windows <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> och macOS <icon
-                        alt="macOS" height="27" width="27"
-                        src="images/mac.png"/>.
+            <p
+      >Rättstavningsverktygen för LibreOffice fungerar både på Windows <icon
+          alt="Windows"
+          height="27"
+          width="27"
+          src="images/Win10.png"
+        /> och macOS <icon
+          alt="macOS"
+          height="27"
+          width="27"
+          src="images/mac.png"
+        />.
 
             Rättstavningsverktygen <strong>kräver
             LibreOffice 6.x eller nyare</strong>. Om du är beroende av en
@@ -103,20 +156,33 @@
             <td>
             <ul>
               <li class="Download">Windows: installera via <a
-                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
-                ><icon alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
+                  href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+                ><icon
+                    alt="Download"
+                    height="44"
+                    width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                  />
                 Divvun Manager</a>
               </li>
             </ul>
             </td>
             <td>
-              <icon alt="Instructions icon" rowspan="2" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon
+              alt="Instructions icon"
+              height="44"
+              width="44"
+              src="images/Sign-Info-icon.png"
+            />
             </td>
-            <td>  <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
-                     >LibreOffice-handledning (Windows <icon
-                     alt="Windows" height="27" width="27"
-                     src="images/Win10.png"/>)</a>
+            <td>  <a
+              href="userdocs/win/install-use-Voikko-LO5-win8.html"
+            >LibreOffice-handledning (Windows <icon
+                alt="Windows"
+                height="27"
+                width="27"
+                src="images/Win10.png"
+              />)</a>
             </td>
             </tr>
             <tr>
@@ -125,24 +191,38 @@
               <li class="Download">macOS:
                   <ol>
                       <li>Installera <a
-                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
-                ><icon alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
+                      href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
+                    ><icon
+                        alt="Download"
+                        height="44"
+                        width="44"
+                        src="images/Crystal_Clear_app_download_manager.png"
+                      />
                       LibreOffice-utvidgningen</a> manuelt i LibreOffice
                     </li>
-                    <li class="Download">Installera sen rättstavning för varje språk med <a
+                    <li
+                    class="Download"
+                  >Installera sen rättstavning för varje språk med <a
                       href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
-                      ><icon alt="Download" height="44" width="44"
-                      src="images/Crystal_Clear_app_download_manager.png" />
+                    ><icon
+                        alt="Download"
+                        height="44"
+                        width="44"
+                        src="images/Crystal_Clear_app_download_manager.png"
+                      />
                       Divvun Manager</a>
                     </li>
                   </ol>
               </li>
             </ul></td>
-            <td>  <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice-handledning (macOS <icon
-                     alt="macOS" height="27" width="27"
-                     src="images/mac.png"/>)</a>
+            <td>  <a
+              href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+            >LibreOffice-handledning (macOS <icon
+                alt="macOS"
+                height="27"
+                width="27"
+                src="images/mac.png"
+              />)</a>
             </td>
             <!--td>  No instruction videos for LibreOffice yet </td-->
             </tr>
@@ -152,8 +232,11 @@
 
         <section>
             <title>Rättstavningsverktyg för Linux<icon
-                alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png"/></title>
+          alt="Linux"
+          height="27"
+          width="27"
+          src="images/Linux_Icon_256.png"
+        /></title>
             <p>Divvun-verktygen kan installeras på Linux genom att följa
             instruktionerna <a href="oswide.html">på den här sidan</a>.</p>
         </section>
