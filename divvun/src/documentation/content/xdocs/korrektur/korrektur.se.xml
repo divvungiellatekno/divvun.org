@@ -95,7 +95,7 @@
             alt="OSX" height="27" width="27"
             src="images/mac.png"/>.
 
-            Čállindárkkisteaddjit <strong>gáibidit LibreOffice 4.4 dahje
+            Čállindárkkisteaddjit <strong>gáibidit LibreOffice 6.0 dahje
             ođđasabbo</strong>. Jus dárbbašat boarrásat LibreOffice-veršuvnna,
             de sáhtát viežžat čállindárkkisteddjiid daidda
             <a href="msoff-oldversions.html">dán siiddus</a>.</p>
@@ -104,44 +104,55 @@
             <tr>
             <td>
             <ul>
-              <li class="Download"><a
-              href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
-              ><icon alt="Viečča" height="44" width="44"
-              src="images/Crystal_Clear_app_download_manager.png" />
-              Davvisámegiella</a>
+              <li class="Download"><icon
+                     alt="Windows" height="27" width="27"
+                     src="images/Win10.png"/> Windows: installera via <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Divvun Manager</a>
               </li>
-              <li class="Download"><a
-              href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
-              ><icon alt="Viečča" height="44" width="44"
-              src="images/Crystal_Clear_app_download_manager.png" />
-              Julevsámegiella</a>
-              </li>
-              <li class="Download"><a
-              href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
-              ><icon alt="Viečča" height="44" width="44"
-              src="images/Crystal_Clear_app_download_manager.png" />
-              Lullisámegiella</a>
-              </li>
-            </ul></td>
-            <td>
-              <icon alt="Bagadusat" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </ul>
             </td>
-            <td>
-                   · <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
-                   >LibreOffice-bagadus (Windows <icon
+            <td rowspan="2">
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td><a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+                     >LibreOffice-bagadus (Windows <icon
                      alt="Windows" height="27" width="27"
                      src="images/Win10.png"/>)</a>
-              <br/>· <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice-bagadus (OSX <icon
-                     alt="OSX" height="27" width="27"
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><icon
+                     alt="macOS" height="27" width="27"
+                     src="images/mac.png"/> macOS:
+                  <ol>
+                      <li>Installera <a
+                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                      LibreOffice-utvidgningen</a> manuelt i LibreOffice
+                    </li>
+                    <li class="Download">Installera rättstavning för varje språk med <a
+                      href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
+                      ><icon alt="Download" height="44" width="44"
+                      src="images/Crystal_Clear_app_download_manager.png" />
+                      Divvun Manager</a>
+                    </li>
+                  </ol>
+              </li>
+            </ul></td>
+            <td><a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+                     >LibreOffice-bagadus (macOS <icon
+                     alt="macOS" height="27" width="27"
                      src="images/mac.png"/>)</a>
             </td>
-                <!--td>  No instruction videos for LibreOffice yet </td-->
+            <!--td>  No instruction videos for LibreOffice yet </td-->
             </tr>
             </table>
-
-            <p>Háliidatgo sajáiduhttit máŋga giela oktanaga LibreOfficii?
-            Čuovo <a href="otherapps.html">dáid bagadusaid</a>.</p>
 
         </section>
 
