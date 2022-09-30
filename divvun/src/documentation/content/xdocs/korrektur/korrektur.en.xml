@@ -96,54 +96,64 @@
                         src="images/mac.png"/>.
 
                 The proofing tools <strong>require
-                LibreOffice 4.4 or newer</strong>. If you are dependent upon an
+                LibreOffice 6.0 or newer</strong>. If you are dependent upon an
                 older version of LibreOffice, you can download proofing tools
                 for older versions <a href="msoff-oldversions.html">on this
                 page</a>.</p>
 
-                <table>
-                <tr>
-                <td>
-                <ul>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    North Sámi</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    Julev Sámi</a>
-                  </li>
-                  <li class="Download"><a
-                    href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
-                    ><icon alt="Download" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />
-                    South Sámi</a>
-                  </li>
-                </ul></td>
-                <td>
-                  <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
-                </td>
-                <td>
-                   · <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+            <table>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><icon
+                     alt="Windows" height="27" width="27"
+                     src="images/Win10.png"/> Windows: install using <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                Divvun Manager</a>
+              </li>
+            </ul>
+            </td>
+            <td rowspan="2">
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+            </td>
+            <td><a href="userdocs/win/install-use-Voikko-LO5-win8.html"
                      >LibreOffice user guide (Windows <icon
                      alt="Windows" height="27" width="27"
                      src="images/Win10.png"/>)</a>
-              <br/>· <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice user guide (OSX <icon
-                     alt="OSX" height="27" width="27"
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><icon
+                     alt="macOS" height="27" width="27"
+                     src="images/mac.png"/> macOS:
+                  <ol>
+                      <li>Install the <a
+                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
+                ><icon alt="Download" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                      LibreOffice extension</a> manually in LibreOffice
+                    </li>
+                    <li class="Download">Install proofing tools for each language using <a
+                      href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
+                      ><icon alt="Download" height="44" width="44"
+                      src="images/Crystal_Clear_app_download_manager.png" />
+                      Divvun Manager</a>
+                    </li>
+                  </ol>
+              </li>
+            </ul></td>
+            <td><a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+                     >LibreOffice user guide (macOS <icon
+                     alt="macOS" height="27" width="27"
                      src="images/mac.png"/>)</a>
-                </td>
-                <!--td>  No instruction videos for LibreOffice yet </td-->
-                </tr>
-                </table>
-
-                <p>Do you want to install more than one language in LibreOffice?
-                Follow
-                <a href="otherapps.html">these instructions</a>.</p>
+            </td>
+            <!--td>  No instruction videos for LibreOffice yet </td-->
+            </tr>
+            </table>
 
         </section>
 
