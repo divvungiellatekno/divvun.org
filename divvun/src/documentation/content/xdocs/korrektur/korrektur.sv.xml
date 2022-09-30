@@ -113,7 +113,7 @@
             </ul>
             </td>
             <td rowspan="2">
-              <icon alt="Instructions icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
             <td>  <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
                      >LibreOffice-handledning (Windows <icon
