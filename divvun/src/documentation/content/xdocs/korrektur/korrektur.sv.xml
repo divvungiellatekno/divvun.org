@@ -115,7 +115,7 @@
             <td rowspan="2">
               <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
-            <td>  <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+            <td><a href="userdocs/win/install-use-Voikko-LO5-win8.html"
                      >LibreOffice-handledning (Windows <icon
                      alt="Windows" height="27" width="27"
                      src="images/Win10.png"/>)</a>
@@ -143,7 +143,7 @@
                   </ol>
               </li>
             </ul></td>
-            <td>  <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+            <td><a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
                      >LibreOffice-handledning (macOS <icon
                      alt="macOS" height="27" width="27"
                      src="images/mac.png"/>)</a>
