@@ -93,7 +93,7 @@
                         src="images/mac.png"/>.
 
             Stavekontrollene <strong>krever
-            LibreOffice 4.4 eller nyere</strong>. Dersom du er avhengig av en
+            LibreOffice 6.0 eller nyere</strong>. Dersom du er avhengig av en
             eldre versjon av LibreOffice, kan du laste ned stavekontroller for
             eldre versjoner <a href="msoff-oldversions.html">på denne
             siden.</a></p>
@@ -102,44 +102,55 @@
             <tr>
             <td>
             <ul>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/se_LO-voikko-5.0.oxt"
+              <li class="Download"><icon
+                     alt="Windows" height="27" width="27"
+                     src="images/Win10.png"/> Windows: installer via <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                 ><icon alt="Last ned" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Nordsamisk</a>
+                Divvun Manager</a>
               </li>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/smj_LO-voikko-5.0.oxt"
-                ><icon alt="Last ned" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
-                Lulesamisk</a>
-              </li>
-              <li class="Download"><a
-                href="http://divvun.no/static_files/oxts/sma_LO-voikko-5.0.oxt"
-                ><icon alt="Last ned" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
-                Sørsamisk</a>
-              </li>
-            </ul></td>
-            <td>
+            </ul>
+            </td>
+            <td rowspan="2">
               <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
             </td>
-            <td>
-                   · <a href="userdocs/win/install-use-Voikko-LO5-win8.html"
+            <td><a href="userdocs/win/install-use-Voikko-LO5-win8.html"
                      >LibreOffice-vegledning (Windows <icon
                      alt="Windows" height="27" width="27"
                      src="images/Win10.png"/>)</a>
-              <br/>· <a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice-vegledning (OSX <icon
-                     alt="OSX" height="27" width="27"
+            </td>
+            </tr>
+            <tr>
+            <td>
+            <ul>
+              <li class="Download"><icon
+                     alt="macOS" height="27" width="27"
+                     src="images/mac.png"/> macOS:
+                  <ol>
+                      <li>Installer <a
+                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
+                ><icon alt="Last ned" height="44" width="44"
+                src="images/Crystal_Clear_app_download_manager.png" />
+                      LibreOffice-tillegget</a> manuelt i LibreOffice
+                    </li>
+                    <li class="Download">Installer retteprogram for hvert språk med <a
+                      href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
+                      ><icon alt="Last ned" height="44" width="44"
+                      src="images/Crystal_Clear_app_download_manager.png" />
+                      Divvun Manager</a>
+                    </li>
+                  </ol>
+              </li>
+            </ul></td>
+            <td><a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+                     >LibreOffice-vegledning (macOS <icon
+                     alt="macOS" height="27" width="27"
                      src="images/mac.png"/>)</a>
             </td>
-                <!--td>  No instruction videos for LibreOffice yet </td-->
+            <!--td>  No instruction videos for LibreOffice yet </td-->
             </tr>
             </table>
-
-            <p>Vil du installere flere språk samtidig for LibreOffice? Følg
-            <a href="otherapps.html">disse instruksjonene</a>.</p>
 
         </section>
 
