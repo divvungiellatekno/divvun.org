@@ -25,8 +25,12 @@
                 <table>
                 <tr>
                 <td>
-                    Download the <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install spellers from it.
+                  Lataa
+                  <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows">
+                  <icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />
+                    Divvun Manager</a>
+                    ja asenna oikoluku sen avulla.
                 </td>
                 <td>
                   <a href="userdocs/win/index-msoff.html">
@@ -86,14 +90,14 @@
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
-            <p>LibreOffice -oikoluku toimii sekä Windows <icon
+            <p>LibreOffice -oikoluku toimii sekä Windowsissa <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> ja OSX <icon
+                    src="images/Win10.png"/> että OSX:ssä <icon
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.
 
             Oikolukijat <strong>tarvitsevat
-            LibreOffice 6.0 tai uudemman</strong>. Jos tarvitset vanhemman version
+            LibreOffice 6.0:n tai uudemman</strong>. Jos tarvitset vanhemman version
             LibreOfficesta, voit ladata oikolukutyökalut vanhemmille versioille
             <a href="msoff-oldversions.html">tältä sivulta</a>.</p>
 
@@ -107,7 +111,7 @@
                 href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Divvun Manager</a>:in kautta
+                Divvun Manager</a>in kautta
               </li>
             </ul>
             </td>
@@ -127,17 +131,17 @@
                      alt="macOS" height="27" width="27"
                      src="images/mac.png"/> macOS:
                   <ol>
-                      <li>Installera <a
+                      <li>Asenna <a
                 href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                      LibreOffice-utvidgningen</a> manuelt i LibreOffice
+                      LibreOffice-laajennus</a> käsin Libreofficeen
                     </li>
-                    <li class="Download">Installera rättstavning för varje språk med <a
+                    <li class="Download">Asenna oikoluku kaikille kielille <a
                       href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
                       ><icon alt="Download" height="44" width="44"
                       src="images/Crystal_Clear_app_download_manager.png" />
-                      Divvun Manager</a>
+                      Divvun Managerilla</a>
                     </li>
                   </ol>
               </li>
