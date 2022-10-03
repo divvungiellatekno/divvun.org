@@ -3,7 +3,7 @@
 "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="smj">
     <header>
-        <title>Sáme duollatjállemdárkastus</title>
+        <title>Sáme duollatjállemdárkástus</title>
         <meta name="description">sáme duollatjállemdárkastus</meta>
     </header>
     <body>
@@ -14,7 +14,7 @@
         </note>
 
         <section>
-            <title>Duollatjállemdárkastus MS Officij<icon
+            <title>Duollatjállemdárkástus MS Officij<icon
                 alt="MS Office" height="27" width="27"
                 src="images/MSOffice-icon.png"/></title>
 
@@ -26,8 +26,8 @@
                 <table>
                 <tr>
                 <td>
-                    Download the <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install spellers from it.
+                    Viettja <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44"
+                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Managerav</a> ja sájájduhte tjállemdárkástusájt dan baktu.
                 </td>
                 <td>
                   <a href="userdocs/win/index-msoff.html">
@@ -47,7 +47,7 @@
                     alt="OSX" height="27" width="27"
                     src="images/mac.png"/></title>
 
-<note label="Huomaha!">Divvun 4 MS Officij OSX:n ij ájn uddni gávnnu
+<note label="Huomaha!">Divvun 4 MS Officij OSX:an ij ájn uddni gávnnu
             <strong>vuordek
             gássjelisvuodaj diehti</strong>. Mij lip dájt
             gássjelisvuodajt tjoavddemin ja ådåstuhttep dáv bielev nav ruvva gå
@@ -83,20 +83,20 @@
         </section>
 
         <section>
-            <title>Duollatjállemdárkastus <a
+            <title>Duollatjállemdárkástus <a
                 href="http://libreoffice.org">LibreOfficij<icon
                 alt="LibreOffice" height="27" width="27"
                 src="images/LibreOfficeIcon.png"/></a></title>
 
-<p>Tjállemdárkastusá LibreOfficij doajmmi sihke Windowsin <icon
+<p>Tjállemdárkástusá LibreOfficij doajmmi sihke Windowsin <icon
                     alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/> ja OSX:n <icon
+                    src="images/Win10.png"/> ja OSX:an <icon
                         alt="OSX" height="27" width="27"
                         src="images/mac.png"/>.
 
-            Tjállemdárkastusá <strong>gájbbedij
+            Tjállemdárkástusá <strong>gájbbedij
             LibreOffice 6.0 jali ådåsap versjåvnåv</strong>. Jus duodaj dárbaha
-            oames LibreOffice-versjåvnåv, gávna tjállemdárkastusájt
+            oabme LibreOffice-versjåvnåv, gávna tjállemdárkastusájt
             oabme versjåvnåjda <a href="msoff-oldversions.html">dán
             bielen</a>.</p>
 
@@ -106,11 +106,11 @@
             <ul>
               <li class="Download"><icon
                      alt="Windows" height="27" width="27"
-                     src="images/Win10.png"/> Windows: installera via <a
+                     src="images/Win10.png"/> Windows: sájájduhte <a
                 href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                Divvun Manager</a>
+                Divvun Managera baktu</a>
               </li>
             </ul>
             </td>
@@ -130,17 +130,17 @@
                      alt="macOS" height="27" width="27"
                      src="images/mac.png"/> macOS:
                   <ol>
-                      <li>Installera <a
+                      <li>Sájájduhte iesj <a
                 href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
                 ><icon alt="Download" height="44" width="44"
                 src="images/Crystal_Clear_app_download_manager.png" />
-                      LibreOffice-utvidgningen</a> manuelt i LibreOffice
+                      LibreOffice-duoddidusáv</a> LibreOfficin
                     </li>
-                    <li class="Download">Installera rättstavning för varje språk med <a
+                    <li class="Download">Sájájduhte tjállemdárkástusáv <a
                       href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
                       ><icon alt="Download" height="44" width="44"
                       src="images/Crystal_Clear_app_download_manager.png" />
-                      Divvun Manager</a>
+                      Divvun Managera baktu</a>
                     </li>
                   </ol>
               </li>
@@ -157,7 +157,7 @@
         </section>
 
         <section>
-            <title>Duollatjállemdárkastus Linuxij<icon
+            <title>Duollatjállemdárkástus Linuxij<icon
                 alt="Linux" height="27" width="27"
                 src="images/Linux_Icon_256.png"/></title>
             <p>Divvun-nævojt åttjuda Linuxij jus tjuovo
