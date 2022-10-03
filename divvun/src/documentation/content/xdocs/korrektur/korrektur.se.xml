@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="se">
     <header>
         <title>Sámi čállindárkkistanreaiddut</title>
@@ -15,39 +15,63 @@
 
         <section>
             <title>Čállindárkkistanreaiddut MS Officii<icon
-                alt="MS Office" height="27" width="27"
-                src="images/MSOffice-icon.png"/></title>
+          alt="MS Office"
+          height="27"
+          width="27"
+          src="images/MSOffice-icon.png"
+        /></title>
 
             <section>
                 <title>Windows<icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Win10.png"/></title>
+            alt="Windows"
+            height="27"
+            width="27"
+            src="images/Win10.png"
+          /></title>
 
                 <table>
                 <tr>
                 <td>
-                    Download the <a href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"><icon alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />Divvun Manager</a> and install spellers from it.
+                    Viečča <a
+                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+              ><icon
+                  alt="Viečča"
+                  height="44"
+                  width="44"
+                  src="images/Crystal_Clear_app_download_manager.png"
+                />Divvun Manager</a> ja sajáiduhte čállindárkkisteddjiid dainna.
                 </td>
                 <td>
                   <a href="userdocs/win/index-msoff.html">
-                  <icon alt="icon" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon
+                  alt="icon"
+                  height="44"
+                  width="44"
+                  src="images/Sign-Info-icon.png"
+                />
                   Bagadus</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/win-msoffice-video.html">
-                  <icon alt="Bagadusat" height="48" width="48"
-                    src="images/Movie-icon.png"/>Bagadusvideot</a></td>
+                  <icon
+                  alt="Bagadusat"
+                  height="48"
+                  width="48"
+                  src="images/Movie-icon.png"
+                />Bagadusvideot</a></td>
                 </tr>
                 </table>
             </section>
 
             <section>
-                <title>OSX<icon
-                    alt="OS X" height="27" width="27"
-                    src="images/mac.png"/></title>
+                <title>macOS<icon
+            alt="OS X"
+            height="27"
+            width="27"
+            src="images/mac.png"
+          /></title>
 
-                <note label="Notér!">Divvun 4 MS Officii OSX:s <strong>ii leat
+                <note label="Notér!">Divvun 4 MS Officii macOS:s <strong>ii leat
                 olámuttus vel</strong> teknihkalaš váttisvuođaid dihte. Mii leat
                 čoavdimin daid ja ođasmahttit dán siiddu dalán go ođđa veršuvdna
                 lea gárvvis. Boares veršuvdna lea vieččahahtti dás vuolábealde.
@@ -60,23 +84,40 @@
                 <tr><td>
                 <ul>
                   <li class="Download"><a
-                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"><icon
-                    alt="Viečča" height="44" width="44"
-                    src="images/Crystal_Clear_app_download_manager.png" />Viečča
+                    href="http://divvun.no/static_files/sami-proofing-tools.dmg"
+                  ><icon
+                      alt="Viečča"
+                      height="44"
+                      width="44"
+                      src="images/Crystal_Clear_app_download_manager.png"
+                    />Viečča
                     buot golbma giela (Divvun 3.0)</a>
                   </li>
                 </ul></td>
                 <td>
-                  <icon alt="Bagadusat" height="44" width="44" src="images/Sign-Info-icon.png"/>
+                  <icon
+                alt="Bagadusat"
+                height="44"
+                width="44"
+                src="images/Sign-Info-icon.png"
+              />
                 </td>
                 <td>
-                       · <a href="userdocs/mac/index-msoff-2011.html">Office 2011-bagadus</a>
-                  <br/>· <a href="userdocs/mac/index-msoff-2008.html">Office 2008-bagadus</a>
+                       · <a
+                href="userdocs/mac/index-msoff-2011.html"
+              >Office 2011-bagadus</a>
+                  <br />· <a
+                href="userdocs/mac/index-msoff-2008.html"
+              >Office 2008-bagadus</a>
                 </td>
                 <td>
                   <a href="userdocs/videos/mac-video.html">
-                  <icon alt="Bagadusat" height="48" width="48"
-                    src="images/Movie-icon.png"/>Bagadusvideot</a></td>
+                  <icon
+                  alt="Bagadusat"
+                  height="48"
+                  width="48"
+                  src="images/Movie-icon.png"
+                />Bagadusvideot</a></td>
                 </tr>
                 </table>
             </section>
@@ -84,16 +125,26 @@
 
         <section>
             <title>Čállindárkkistanreaiddut <a
-            href="http://libreoffice.org">LibreOfficii<icon
-            alt="LibreOffice" height="27" width="27"
-            src="images/LibreOfficeIcon.png"/></a></title>
+          href="http://libreoffice.org"
+        >LibreOfficii<icon
+            alt="LibreOffice"
+            height="27"
+            width="27"
+            src="images/LibreOfficeIcon.png"
+          /></a></title>
 
             <p>Čállindárkkisteaddjit LibreOffice várás doibmet sihke
             Windowsis<icon
-            alt="Windows" height="27" width="27"
-            src="images/Win10.png"/> ja OSX:s <icon
-            alt="OSX" height="27" width="27"
-            src="images/mac.png"/>.
+          alt="Windows"
+          height="27"
+          width="27"
+          src="images/Win10.png"
+        /> ja macOS:s <icon
+          alt="macOS"
+          height="27"
+          width="27"
+          src="images/mac.png"
+        />.
 
             Čállindárkkisteaddjit <strong>gáibidit LibreOffice 6.0 dahje
             ođđasabbo</strong>. Jus dárbbašat boarrásat LibreOffice-veršuvnna,
@@ -105,50 +156,83 @@
             <td>
             <ul>
               <li class="Download"><icon
-                     alt="Windows" height="27" width="27"
-                     src="images/Win10.png"/> Windows: installera via <a
-                href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
-                ><icon alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
-                Divvun Manager</a>
+                  alt="Windows"
+                  height="27"
+                  width="27"
+                  src="images/Win10.png"
+                /> Windows: sajáiduhte <a
+                  href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=windows"
+                ><icon
+                    alt="Download"
+                    height="44"
+                    width="44"
+                    src="images/Crystal_Clear_app_download_manager.png"
+                  />
+                Divvun Manageriin</a>
               </li>
             </ul>
             </td>
             <td rowspan="2">
-              <icon alt="Instructions" height="44" width="44" src="images/Sign-Info-icon.png"/>
+              <icon
+              alt="Instructions"
+              height="44"
+              width="44"
+              src="images/Sign-Info-icon.png"
+            />
             </td>
-            <td><a href="userdocs/win/install-use-Voikko-LO5-win8.html"
-                     >LibreOffice-bagadus (Windows <icon
-                     alt="Windows" height="27" width="27"
-                     src="images/Win10.png"/>)</a>
+            <td><a
+              href="userdocs/win/install-use-Voikko-LO5-win8.html"
+            >LibreOffice-bagadus (Windows <icon
+                alt="Windows"
+                height="27"
+                width="27"
+                src="images/Win10.png"
+              />)</a>
             </td>
             </tr>
             <tr>
             <td>
             <ul>
               <li class="Download"><icon
-                     alt="macOS" height="27" width="27"
-                     src="images/mac.png"/> macOS:
+                  alt="macOS"
+                  height="27"
+                  width="27"
+                  src="images/mac.png"
+                /> macOS:
                   <ol>
-                      <li>Installera <a
-                href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
-                ><icon alt="Download" height="44" width="44"
-                src="images/Crystal_Clear_app_download_manager.png" />
-                      LibreOffice-utvidgningen</a> manuelt i LibreOffice
+                      <li>Sajáiduhte <a
+                      href="https://pahkat.uit.no/devtools/download/divvunspell-libreoffice-oxt?platform=macos&amp;channel=nightly"
+                    ><icon
+                        alt="Download"
+                        height="44"
+                        width="44"
+                        src="images/Crystal_Clear_app_download_manager.png"
+                      />
+                      LibreOffice-lasáhusa</a> manuálalaččat LibreOffices
                     </li>
-                    <li class="Download">Installera rättstavning för varje språk med <a
+                    <li
+                    class="Download"
+                  >Sajáiduhte čállindárkkisteami iešguđet gillii <a
                       href="https://pahkat.uit.no/divvun-installer/download/divvun-installer?platform=macos"
-                      ><icon alt="Download" height="44" width="44"
-                      src="images/Crystal_Clear_app_download_manager.png" />
-                      Divvun Manager</a>
+                    ><icon
+                        alt="Download"
+                        height="44"
+                        width="44"
+                        src="images/Crystal_Clear_app_download_manager.png"
+                      />
+                      Divvun Manageriin</a>
                     </li>
                   </ol>
               </li>
             </ul></td>
-            <td><a href="userdocs/mac/install-use-Voikko-LO5-osx.html"
-                     >LibreOffice-bagadus (macOS <icon
-                     alt="macOS" height="27" width="27"
-                     src="images/mac.png"/>)</a>
+            <td><a
+              href="userdocs/mac/install-use-Voikko-LO5-osx.html"
+            >LibreOffice-bagadus (macOS <icon
+                alt="macOS"
+                height="27"
+                width="27"
+                src="images/mac.png"
+              />)</a>
             </td>
             <!--td>  No instruction videos for LibreOffice yet </td-->
             </tr>
@@ -158,8 +242,11 @@
 
         <section>
             <title>Čállindárkkistanreaiddut Linuxii<icon
-                alt="Linux" height="27" width="27"
-                src="images/Linux_Icon_256.png"/></title>
+          alt="Linux"
+          height="27"
+          width="27"
+          src="images/Linux_Icon_256.png"
+        /></title>
             <p>Sáhtát sajáiduhttit Divvun-reaidduid Linuxii jus čuovut
             <a href="oswide.html">dáid bagadusaid</a>.</p>
         </section>
