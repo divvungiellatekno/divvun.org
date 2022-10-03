@@ -8,14 +8,14 @@
     </header>
     <body>
 
-        <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
+        <p>Staeriedimmieprogramme grammatihkeprogramme seamma dïrregisnie!</p>
 
-        <note label="11.2.2020">Den første grammatikkontrollen for samisk,
-            <em>GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
+        <note label="11.2.2020">Voestes saemien grammatihkeprogramme,
+            <em>GramDivvun 1.0</em>, lea bæjhkoehtovveme. Jåhta dovne Google Docssne jïh Microsoft Officisnie.
         </note>
 
             <section>
-                <title>Installering</title>
+                <title>Sijjiedehtedh</title>
 
                 <table>
                   <tr>
@@ -34,18 +34,18 @@
                     src="images/office365-icon.png"/></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatikkontrollen finnes under menyen:<br/>
-                    <strong>Tillegg > Divvun Grammar<br/>
+                    <td>Grammatihkeprogramme lea daennie faalovisnie:<br/>
+                    <strong>Lissie > Divvun Grammar<br/>
                     Checker > Grammar check</strong></td>
-                    <td>Grammatikkontrollen finnes under fliken:<br/>
+                    <td>Grammatihkeprogramme daennie sæjrosne:<br/>
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
             </section>
 
             <section>
-                <title>Slik bruker du GramDivvun</title>
-                <p>Velg språk, og klikk på <strong>Check</strong>.</p>
+                <title>Naemhtie GramDivvunem åtnose vaaltah</title>
+                <p>Veeljh gïelem, jïh dïedtelh <strong>Check</strong>.</p>
 
                 <p>Grammatikkontrollen må brukes på
                 nytt etter at man har endra på teksten, den oppfatter ikke at teksten endres. Dette
@@ -53,16 +53,16 @@
             </section>
 
         <section>
-            <title>Nordsamisk grammatikkontroll</title>
+            <title>Noerhtesaemien grammatihkeprogramme</title>
 
-            <p>I denne versjonen
-               prøver vi å finne og rette disse feilene:
+            <p>Daennie versjovnesne
+               mijjieh daejtie fiejlide ohtsedibie jïh voejhkelibie staeriedidh:
             </p>
 
             <ol>
-                <li>tradisjonelle skrivefeil (=stavekontroll)</li>
+                <li>Sïejhme tjaelemefiejlieh (=staeriedimmieprogramme)</li>
                 <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
-                <li>feil ved tegnsetting:
+                <li>Tjaelemefiejlieh:
                     <ul>
                         <li>manglende mellomrom før og etter parentes</li>
                         <li>mellomrom inne i parentes, men før og etter teksten</li>
@@ -70,21 +70,18 @@
                         <li>for mange mellomrom</li>
                     </ul>
                 </li>
-                <li>sammensatte ord skrevet hver for seg</li>
-                <li>ord skrevet sammen som skal skrives hver for seg</li>
-                <li>ordformer med <strong>a</strong> og <strong>á</strong> i ulik kontekst
-                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>stadievekslingsfeil (f.eks. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li>ektiedovveme baakoeh mah sjïere tjaalasovveme.</li>
+                <li>Baakoeh mah ektese tjaalasovveme, mah eah galkh ektesne tjaalasovvedh.</li>
+                <li>Baakoehammoeh gunsie <strong>a</strong> jïh <strong>á</strong> ovmessie kontekstine
+                   (vuesiehtæmman <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
+                <li>Båajhtode daltesemolseminie (Vuesiehtæmman. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
-            <title>Andre samiske språk</title>
-            <p>De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
-            i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
-            fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
-            mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
+            <title>Jeatjah saemien gïelh</title>
+            <p>Dah jeatjah saemien gïelh, åarjel-, julev-, anar- jïh skåaltesaemien, leah aaj jaksoesmieresne  GramDivvunisnie. Mohte dej leah ajve staeriedimmieprogrammh. Læjhkan nuhtege,             dannasinie staeriedimmieprogrammem maahta åtnose vaeltedh jeatjah hillesne jïh jeatjah programmesne goh aarebi, vuesiehtæmman Chromebook, jallh Office365: n nehteversjovnense. </p>
         </section>
 
     </body>
