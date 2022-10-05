@@ -8,14 +8,14 @@
     </header>
     <body>
 
-        <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
+        <p>Spelling and grammar checker in one tool!</p>
 
         <note label="11.2.2020">Den første grammatikkontrollen for samisk,
             <em>GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
         </note>
 
             <section>
-                <title>Installering</title>
+                <title>Installation</title>
 
                 <table>
                   <tr>
@@ -34,57 +34,60 @@
                     src="images/office365-icon.png"/></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatikkontrollen finnes under menyen:<br/>
-                    <strong>Tillegg > Divvun Grammar<br/>
+                    <td>The grammar checker is found in the menu:<br/>
+                    <strong>Add-ons > Divvun Grammar<br/>
                     Checker > Grammar check</strong></td>
-                    <td>Grammatikkontrollen finnes under fliken:<br/>
+                    <td>The grammar checker is found in the tab:<br/>
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
             </section>
 
             <section>
-                <title>Slik bruker du GramDivvun</title>
-                <p>Velg språk, og klikk på <strong>Check</strong>.</p>
+                <title>How to use GramDivvun</title>
+                <p>Choose language, and click on <strong>Check</strong>.</p>
 
-                <p>Grammatikkontrollen må brukes på
-                nytt etter at man har endra på teksten, den oppfatter ikke at teksten endres. Dette
-                er en begrensning i Office og GDocs, og utenfor vår kontroll.</p>
+                <p>The grammar checker needs to be rerun after editing the text,
+                it does not see text changes automatically. This is due to
+                limitations in the MS Office and GDocs plugin system, and
+                outside our control.</p>
             </section>
 
         <section>
-            <title>Nordsamisk grammatikkontroll</title>
+            <title>Grammar checker for North Sámi</title>
 
-            <p>I denne versjonen
-               prøver vi å finne og rette disse feilene:
+            <p>In this version we try to find and correct
+               the following errors:
             </p>
 
             <ol>
-                <li>tradisjonelle skrivefeil (=stavekontroll)</li>
+                <li>regular spelling errors (=spelling checker)</li>
                 <!--li>noen tilfeller av skrivefeil som ser ut som korrekte ord</li-->
-                <li>feil ved tegnsetting:
+                <li>punctuation errors:
                     <ul>
-                        <li>manglende mellomrom før og etter parentes</li>
-                        <li>mellomrom inne i parentes, men før og etter teksten</li>
-                        <li>manglende mellomrom etter komma, utropstegn m.m.</li>
-                        <li>for mange mellomrom</li>
+                        <li>missing spaces before or after parentheses</li>
+                        <li>space after opening or before closing parentheses</li>
+                        <li>missing space after comma, exclamation mark etc.</li>
+                        <li>too many spaces in a row</li>
                     </ul>
                 </li>
-                <li>sammensatte ord skrevet hver for seg</li>
-                <li>ord skrevet sammen som skal skrives hver for seg</li>
-                <li>ordformer med <strong>a</strong> og <strong>á</strong> i ulik kontekst
-                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>stadievekslingsfeil (f.eks. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li>compound words written as two separate words</li>
+                <li>wrongly compounded words, should have been written separately</li>
+                <li>word forms with <strong>a</strong> and <strong>á</strong> in different contexts
+                   (f.ex. <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
+                <li>consonant gradation errors (f.ex. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
-            <title>Andre samiske språk</title>
-            <p>De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
-            i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
-            fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
-            mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
+            <title>Other Sámi languages</title>
+            <p>Other Sámi langauges, like South, Lule, Inari and Skolt Sámi, are
+                also available in GramDivvun. But these mostly contain the
+                spelling checker and nothing else. This is still very useful, as
+                it gives access to the spelling checker in places blocked for
+                the regular spelling checker, such as on the Chromebook, or in
+                the browser version of Office365.</p>
         </section>
 
     </body>
