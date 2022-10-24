@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
         <title>GramDivvun 1.0</title>
@@ -11,7 +11,8 @@
         <p>Staeriedimmieprogramme grammatihkeprogramme seamma dïrregisnie!</p>
 
         <note label="11.2.2020">Voestes saemien grammatihkeprogramme,
-            <em>GramDivvun 1.0</em>, lea bæjhkoehtovveme. Jåhta dovne Google Docssne jïh Microsoft Officisnie.
+            <em
+      >GramDivvun 1.0</em>, lea bæjhkoehtovveme. Jåhta dovne Google Docssne jïh Microsoft Officisnie.
         </note>
 
             <section>
@@ -20,24 +21,37 @@
                 <table>
                   <tr>
                     <td><a
-                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>Google
+              href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>Google
                     Docs / GSuite</strong> <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Docs-icon.png"/></a></td>
+                alt="Windows"
+                height="27"
+                width="27"
+                src="images/Docs-icon.png"
+              /></a></td>
                     <td><a
-                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>MS Office 365</strong> <icon
-                    alt="OSX" height="27"
-                    src="images/office365-icon.png"/></a></td>
+              href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>MS Office 365</strong> <icon
+                alt="OSX"
+                height="27"
+                src="images/office365-icon.png"
+              /></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatihkeprogramme lea daennie faalovisnie:<br/>
-                    <strong>Lissie > Divvun Grammar<br/>
+                    <td>Grammatihkeprogramme lea daennie faalovisnie:<br />
+                    <strong>Lissie > Divvun Grammar<br />
                     Checker > Grammar check</strong></td>
-                    <td>Grammatihkeprogramme daennie sæjrosne:<br/>
+                    <td>Grammatihkeprogramme daennie sæjrosne:<br />
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
@@ -65,23 +79,30 @@
                 <li>Tjaelemefiejlieh:
                     <ul>
                         <li>manglende mellomrom før og etter parentes</li>
-                        <li>mellomrom inne i parentes, men før og etter teksten</li>
-                        <li>manglende mellomrom etter komma, utropstegn m.m.</li>
+                        <li
+            >mellomrom inne i parentes, men før og etter teksten</li>
+                        <li
+            >manglende mellomrom etter komma, utropstegn m.m.</li>
                         <li>for mange mellomrom</li>
                     </ul>
                 </li>
                 <li>ektiedovveme baakoeh mah sjïere tjaalasovveme.</li>
-                <li>Baakoeh mah ektese tjaalasovveme, mah eah galkh ektesne tjaalasovvedh.</li>
-                <li>Baakoehammoeh gunsie <strong>a</strong> jïh <strong>á</strong> ovmessie kontekstine
-                   (vuesiehtæmman <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>Båajhtode daltesemolseminie (Vuesiehtæmman. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li
+        >Baakoeh mah ektese tjaalasovveme, mah eah galkh ektesne tjaalasovvedh.</li>
+                <li>Baakoehammoeh gunsie <strong>a</strong> jïh <strong
+          >á</strong> ovmessie kontekstine
+                   (vuesiehtæmman <em>log<strong>a</strong>t</em> vs <em
+          >log<strong>á</strong>t</em>)</li>
+                <li>Båajhtode daltesemolseminie (Vuesiehtæmman. <em>bi<strong
+            >ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
             <title>Jeatjah saemien gïelh</title>
-            <p>Dah jeatjah saemien gïelh, åarjel-, julev-, anar- jïh skåaltesaemien, leah aaj jaksoesmieresne  GramDivvunisnie. Mohte dej leah ajve staeriedimmieprogrammh. Læjhkan nuhtege,             dannasinie staeriedimmieprogrammem maahta åtnose vaeltedh jeatjah hillesne jïh jeatjah programmesne goh aarebi, vuesiehtæmman Chromebook, jallh Office365: n nehteversjovnense. </p>
+            <p
+      >Dah jeatjah saemien gïelh, åarjel-, julev-, anar- jïh skåaltesaemien, leah aaj jaksoesmieresne  GramDivvunisnie. Mohte dej leah ajve staeriedimmieprogrammh. Læjhkan nuhtege,             dannasinie staeriedimmieprogrammem maahta åtnose vaeltedh jeatjah hillesne jïh jeatjah programmesne goh aarebi, vuesiehtæmman Chromebook, jallh Office365: n nehteversjovnense. </p>
         </section>
 
     </body>

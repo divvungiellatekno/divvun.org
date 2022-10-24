@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
         <title>GramDivvun 1.0</title>
@@ -11,7 +11,8 @@
         <p>Spelling and grammar checker in one tool!</p>
 
         <note label="11.2.2020">The first grammar checker for a Sámi language,
-            <em>GramDivvun 1.0</em>, is released. Works for Google Docs and Microsoft Office.
+            <em
+      >GramDivvun 1.0</em>, is released. Works for Google Docs and Microsoft Office.
         </note>
 
             <section>
@@ -20,24 +21,37 @@
                 <table>
                   <tr>
                     <td><a
-                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>Google
+              href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>Google
                     Docs / GSuite</strong> <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Docs-icon.png"/></a></td>
+                alt="Windows"
+                height="27"
+                width="27"
+                src="images/Docs-icon.png"
+              /></a></td>
                     <td><a
-                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>MS Office 365</strong> <icon
-                    alt="OSX" height="27"
-                    src="images/office365-icon.png"/></a></td>
+              href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>MS Office 365</strong> <icon
+                alt="OSX"
+                height="27"
+                src="images/office365-icon.png"
+              /></a></td>
                   </tr>
                   <tr>
-                    <td>The grammar checker is found in the menu:<br/>
-                    <strong>Add-ons > Divvun Grammar<br/>
+                    <td>The grammar checker is found in the menu:<br />
+                    <strong>Add-ons > Divvun Grammar<br />
                     Checker > Grammar check</strong></td>
-                    <td>The grammar checker is found in the tab:<br/>
+                    <td>The grammar checker is found in the tab:<br />
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
@@ -66,16 +80,22 @@
                 <li>punctuation errors:
                     <ul>
                         <li>missing spaces before or after parentheses</li>
-                        <li>space after opening or before closing parentheses</li>
-                        <li>missing space after comma, exclamation mark etc.</li>
+                        <li
+            >space after opening or before closing parentheses</li>
+                        <li
+            >missing space after comma, exclamation mark etc.</li>
                         <li>too many spaces in a row</li>
                     </ul>
                 </li>
                 <li>compound words written as two separate words</li>
-                <li>wrongly compounded words, should have been written separately</li>
-                <li>word forms with <strong>a</strong> and <strong>á</strong> in different contexts
-                   (f.ex. <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>consonant gradation errors (f.ex. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li
+        >wrongly compounded words, should have been written separately</li>
+                <li>word forms with <strong>a</strong> and <strong
+          >á</strong> in different contexts
+                   (f.ex. <em>log<strong>a</strong>t</em> vs <em>log<strong
+            >á</strong>t</em>)</li>
+                <li>consonant gradation errors (f.ex. <em>bi<strong
+            >ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>

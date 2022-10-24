@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
-"http://forrest.apache.org/dtd/document-v20.dtd">
+  "http://forrest.apache.org/dtd/document-v20.dtd">
 <document xml:lang="no">
     <header>
         <title>GramDivvun 1.0</title>
@@ -11,7 +11,8 @@
         <p>Stavekontroll og grammatikkontroll i samme verktøy!</p>
 
         <note label="11.2.2020">Den første grammatikkontrollen for samisk,
-            <em>GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
+            <em
+      >GramDivvun 1.0</em>, er ute. Fungerer for Google Docs og Microsoft Office.
         </note>
 
             <section>
@@ -20,24 +21,37 @@
                 <table>
                   <tr>
                     <td><a
-                    href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>Google
+              href="https://gsuite.google.com/marketplace/app/divvun_grammar_checker/611280167256"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>Google
                     Docs / GSuite</strong> <icon
-                    alt="Windows" height="27" width="27"
-                    src="images/Docs-icon.png"/></a></td>
+                alt="Windows"
+                height="27"
+                width="27"
+                src="images/Docs-icon.png"
+              /></a></td>
                     <td><a
-                    href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
-                    ><icon alt="Download" height="99" width="99" src="images/Crystal_Clear_app_download_manager.png"
-                    /><strong>MS Office 365</strong> <icon
-                    alt="OSX" height="27"
-                    src="images/office365-icon.png"/></a></td>
+              href="https://appsource.microsoft.com/nb-no/product/office/WA200001000?src=office&amp;tab=Overview"
+            ><icon
+                alt="Download"
+                height="99"
+                width="99"
+                src="images/Crystal_Clear_app_download_manager.png"
+              /><strong>MS Office 365</strong> <icon
+                alt="OSX"
+                height="27"
+                src="images/office365-icon.png"
+              /></a></td>
                   </tr>
                   <tr>
-                    <td>Grammatikkontrollen finnes under menyen:<br/>
-                    <strong>Tillegg > Divvun Grammar<br/>
+                    <td>Grammatikkontrollen finnes under menyen:<br />
+                    <strong>Tillegg > Divvun Grammar<br />
                     Checker > Grammar check</strong></td>
-                    <td>Grammatikkontrollen finnes under fliken:<br/>
+                    <td>Grammatikkontrollen finnes under fliken:<br />
                     <strong>Home > Divvun Grammar Checker</strong></td>
                   </tr>
                 </table>
@@ -65,23 +79,29 @@
                 <li>feil ved tegnsetting:
                     <ul>
                         <li>manglende mellomrom før og etter parentes</li>
-                        <li>mellomrom inne i parentes, men før og etter teksten</li>
-                        <li>manglende mellomrom etter komma, utropstegn m.m.</li>
+                        <li
+            >mellomrom inne i parentes, men før og etter teksten</li>
+                        <li
+            >manglende mellomrom etter komma, utropstegn m.m.</li>
                         <li>for mange mellomrom</li>
                     </ul>
                 </li>
                 <li>sammensatte ord skrevet hver for seg</li>
                 <li>ord skrevet sammen som skal skrives hver for seg</li>
-                <li>ordformer med <strong>a</strong> og <strong>á</strong> i ulik kontekst
-                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong>á</strong>t</em>)</li>
-                <li>stadievekslingsfeil (f.eks. <em>bi<strong>ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
+                <li>ordformer med <strong>a</strong> og <strong
+          >á</strong> i ulik kontekst
+                   (f.eks <em>log<strong>a</strong>t</em> vs <em>log<strong
+            >á</strong>t</em>)</li>
+                <li>stadievekslingsfeil (f.eks. <em>bi<strong
+            >ddj</strong>ui</em> vs <em>bi<strong>dj</strong>ui</em>)</li>
             </ol>
 
         </section>
 
         <section>
             <title>Andre samiske språk</title>
-            <p>De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
+            <p
+      >De andre samiske språka, sør-, lule-, enare- og skoltesamisk, er også tilgjengelige
             i GramDivvun. Men disse inneholder bare stavekontrollen. Det er likevel veldig nyttig,
             fordi det gjør det mulig å bruke stavekontrollen i sammenhenger der det ikke har vært
             mulig før, som for eksempel på Chromebook, eller i nettversjonen av Office365.</p>
