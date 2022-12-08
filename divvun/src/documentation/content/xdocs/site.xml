@@ -262,8 +262,6 @@
         <sam1 href="sd-contract-part-3.html"
               label="SD Contract, 3. part"
               description="SD Contract, third part" />
-        <howto href="contracts-howto.html"
-               label="Hvordan man fyller i kontraktene" />
     </legal>
 
     <polderland href="adm/polderland/" label="Polderland" tab="polderland">
