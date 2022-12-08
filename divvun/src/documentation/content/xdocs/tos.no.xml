@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+"http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Terms of Service</title>
+    </header>
+    <body>
+      <section>
+        <title>Keyboard apps</title>
+        <p>There are no restrictions. All parts are open source. See the
+            licenses for each keyboard and the apps for details.</p>
+      </section>
+
+      <section>
+        <title>Grammar checkers</title>
+        <p>There are no restrictions on the use of the grammar checkers. All
+            source code is open. See the license of each languge repository and
+            of the grammar checker components for details.</p>
+      </section>
+
+      <section>
+        <title>Other tools</title>
+        <p>There are no restrictions on the use of our tools. See the relevant
+            licenses for details.</p>
+      </section>
+
+    </body>
+</document>
