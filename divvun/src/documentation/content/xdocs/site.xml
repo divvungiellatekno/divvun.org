@@ -562,10 +562,4 @@
         <meeting description="Yearly meeting overseeing the cooperation agreement and realities" href="samarbeidsmote.html" label="Cooperation meeting 3.10.2005" />
     </uit>
 
-    <future href="future/" label="Divvun future plans" tab="Plan">
-        <index href="index.html" label="Overview"
-               description="Overview of future projects and plans" />
-        <xi:include href="future/proofing/site-frag.xml" />
-    </future>
-
 </site>

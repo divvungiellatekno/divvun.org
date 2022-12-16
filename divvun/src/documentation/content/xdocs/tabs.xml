@@ -36,28 +36,4 @@
     <tab dir="ordboker/"     id="Ordbøker"     label="Ordbøker"     indexfile="ordboker.html"    />
     <tab dir="oversettelse/" id="Oversettelse" label="Oversettelse" indexfile="oversettelse.html"/>
     <tab dir="laring/"       id="LangLearn"    label="LangLearn"    indexfile="laring.html"      />
-
-    <!--<tab id="adm" label="Administrašuvdna" dir="adm" indexfile="index.html" >
-        <tab id="adm-gen" label="Oppalaš" dir="adm" indexfile="index.html" />
-        <tab id="reports" label="Raporttat" dir="adm/reports" indexfile="monthoverview.html" />-->
-        <!--tab id="outsrc"  label="Outsourcing" dir="adm/outsourcing" indexfile="overview.html" /-->
-        <!--<tab id="polderland" label="Polderland" dir="adm/polderland" indexfile="index.html" />
-        <tab id="board"   label="Styringsgruppa" dir="adm/board" indexfile="index.html" />
-        <tab id="legal"   label="Legal" dir="adm/legal" indexfile="index.html" />
-    </tab>-->
-
-
-    <!-- The Proofing Tech-Doc tab -->
-<!--     <tab href="http://giellalt.uit.no/proof/index.html" label="Proofing" /> -->
-
-    <!-- The TTS documentation tab -->
-<!--     <tab href="http://divvun.no/ttsdoc/index.html" label="TTS" /> -->
-
-<!--     <tab dir="future" id="Plan" label="Future" indexfile="index.html"> -->
-        <!-- The Proofing plans tab -->
-<!--         <xi:include href="future/proofing/tabs-frag.xml" /> -->
-<!--     </tab> -->
-
-<!--     <tab href="http://victorio.uit.no/cgi-bin/wiki/index.php/Main_Page" label="Wiki"/> -->
-
 </tabs>
