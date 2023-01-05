@@ -1,3 +1,0 @@
-# Robots should not visit static_files
-User-agent: *
-Disallow: /static_files/
