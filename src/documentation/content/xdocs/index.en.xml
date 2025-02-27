@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE document PUBLIC "-//APACHE//DTD Documentation V2.0//EN"
+  "http://forrest.apache.org/dtd/document-v20.dtd">
+<document xml:lang="en">
+    <header>
+        <title>Divvun - Sámi language technology</title>
+        <meta name="description">sámi spellchecking</meta>
+    </header>
+    <body>
+        <section>
+            <title>Welcome to Divvun and Giellateknos tool page</title>
+            <p>
+                Divvun and Giellatekno develops language technology tools for Sámi and other circum polar languages. Our tools are free, in most cases open source and available to everyone.
+
+                This page is dedicated to (mostly) the non Sámi languages we support. For Sámi languages, please visit our <a href="https://divvun.no">Sámi language page</a>.
+            </p>
+            <ul>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-manager/">Divvun Manager</a> helps you install and automatically update spell checkers and keyboard layouts.
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/gramdivvun/">Grammar checker</a> that works in MS Word (also the web version) and Google Docs. It supports faroese, greenlandic, norwegian bokmål and gaelic (incubator version).
+                </li>
+                <li>
+                    <a href="https://borealium.org/nb/resource/divvun-keyboard/">Mobile keyboards</a> with built-in spell checker for many non Sámi languages.
+                </li>
+                <li>
+                    <a href="korrektur/speller-demo.html">Online</a> spell checker for about thirty circumpolar languages.
+                </li>
+            </ul>
+            <p>
+                More info about our tools can be found at <a href="https://borealium.org">borealium.org</a>.
+            </p>
+        </section>
+    </body>
+</document>

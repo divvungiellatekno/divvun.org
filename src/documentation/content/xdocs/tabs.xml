@@ -1,54 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-  Licensed to the Apache Software Foundation (ASF) under one or more
-  contributor license agreements.  See the NOTICE file distributed with
-  this work for additional information regarding copyright ownership.
-  The ASF licenses this file to You under the Apache License, Version 2.0
-  (the "License"); you may not use this file except in compliance with
-  the License.  You may obtain a copy of the License at
-
-      http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
--->
-<!DOCTYPE tabs PUBLIC "-//APACHE//DTD Cocoon Documentation Tab V1.1//EN" "http://forrest.apache.org/dtd/tab-cocoon-v11.dtd">
 <tabs software="MyProj"
   title="MyProj"
   copyright="Foo"
   xmlns:xlink="http://www.w3.org/1999/xlink">
-<!-- The rules for tabs are:
-    @dir will always have '/@indexfile' added.
-    @indexfile gets appended to @dir if the tab is selected. Defaults to 'index.html'
-    @href is not modified unless it is root-relative and obviously specifies a
-    directory (ends in '/'), in which case /index.html will be added
-    If @id's are present, site.xml entries with a matching @tab will be in that tab.
-
-   Tabs can be embedded to a depth of two. The second level of tabs will only 
-    be displayed when their parent tab is selected.    
-  -->
-  <tab id="home" label="Divvun.org" dir="" indexfile="index.html">
-      <tab id="about" label="About Divvun.org" dir="" indexfile="index.html" />
-      <tab id="external" label="Tools for Sámi languages" dir="" href="http://divvun.no/"/>
-  </tab>
-  <tab id="Proofing" label="Proofing tools" dir="proofing" indexfile="proofing.html">
-        <tab dir="proofing" id="OfficeApps" label="For office suites" indexfile="proofing.html" />
-        <tab dir="proofing" id="Browsers"   label="For web browsers"  indexfile="browsers.html" />
-        <tab dir="proofing" id="OSWide"     label="OS-wide spellers"  indexfile="oswide.html"  />
-        <tab dir="proofing" id="OtherApps"  label="Other installations" indexfile="otherapps.html" />
-        <tab dir="proofing" id="DevInfo"    label="Developer info"    indexfile="devinfo.html"  />
-  </tab>
-  <tab id="keyboards" label="Keyboards" dir="keyboards" indexfile="index.html">
-        <tab dir="keyboards" id="Desktop" label="Desktop keyboards" indexfile="desktopindex.html"  />
-        <tab dir="keyboards" id="Mobile"  label="Mobile keyboards"  indexfile="mobileindex.html" />
-  </tab>
-  <tab dir="dicts/"     id="Dicts"     label="Dictionaries"     indexfile="dicts.html"    />
-
-<!-- Add new tabs here, eg:
-  <tab label="How-Tos" dir="community/howto/"/>
-  <tab label="XML Site" dir="xml-site/"/>
-  -->
 </tabs>
